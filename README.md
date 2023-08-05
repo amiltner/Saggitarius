@@ -1,2 +1,2 @@
-# GrammarToLP
-Converts grammars to Logic Programs for ProSynth
+# Saggitarius
+A DSL for Specifying Grammatical Domains
