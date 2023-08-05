@@ -1,0 +1,4 @@
+WITH T AS (SELECT x FROM UNNEST([1, 2, 3, 4]) AS x),
+TPlusOne AS (SELECT x + 1 AS y FROM T),
+TPlusOneTimesTwo AS (SELECT y * 2 AS z FROM TPlusOne)
+SELECT z FROM TPlusOneTimesTwo;

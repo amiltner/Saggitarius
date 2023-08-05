@@ -1,0 +1,3 @@
+SELECT word
+FROM `bigquery-public-data.samples.shakespeare`
+LIMIT 1;

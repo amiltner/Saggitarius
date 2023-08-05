@@ -1,2 +1,2 @@
-# Saggitarius
-Saggitarius: A DSL for Specifying Grammatical Domains
+# GrammarToLP
+Converts grammars to Logic Programs for ProSynth

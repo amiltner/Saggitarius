@@ -1,0 +1,3 @@
+SELECT *
+FROM HumanResources.Employee
+WHERE NationalIDNumber = 153479919

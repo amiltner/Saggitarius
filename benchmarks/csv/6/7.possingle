@@ -1,0 +1,6 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount
+Department of Health,South Downs Health NHS Trust,24/11/2010,Limbs,Prosthetic Services,OTTO BOCK HEALTHCARE PLC,11987745,53765.28
+Department of Health,West Sussex Health,25/11/2010,Prepayments - Current,Balance Sheet,PAUL HARTMANN LTD,12022071,183591.53
+Department of Health,West Sussex Health,26/11/2010,Continence Products,Continence Adults WS,PAUL HARTMANN LTD,11752757,90537.62
+Department of Health,West Sussex Health,26/11/2010,Prepayments - Current,Balance Sheet,PAUL HARTMANN LTD,11752757,-90537.61
+Department of Health,West Sussex Health,26/11/2010,SYS VAT Non recoverable,Balance Sheet,PAUL HARTMANN LTD,11752757,-0.01

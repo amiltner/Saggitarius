@@ -1,0 +1,3 @@
+SELECT COUNT(*)
+AS `rows`
+FROM `bigquery-public-data.samples.shakespeare`;

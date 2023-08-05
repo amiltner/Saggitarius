@@ -1,0 +1,21 @@
+opam-version: "1.2"
+version: "dev"
+maintainer: "Gabriel Radanne <drupyog@zoho.com>"
+authors: "Gabriel Radanne <drupyog@zoho.com>"
+license: "MIT"
+homepage: "https://github.com/termite-analyser/z3overlay"
+dev-repo: "https://github.com/termite-analyser/z3overlay.git"
+bug-reports: "https://github.com/termite-analyser/z3overlay/issues"
+doc: "https://termite-analyser.github.io/z3overlay/"
+tags: ["smt" "Z3"]
+build: [
+  ["dune" "subst"] {pinned}
+  ["dune" "build" "-p" name "-j" jobs]
+  ["dune" "runtest" "-p" name "-j" jobs] {with-test}
+]
+depends: [
+  "ocaml" {>= "4.03"}
+  "dune" {build}
+  "z3"
+  "zarith"
+]
