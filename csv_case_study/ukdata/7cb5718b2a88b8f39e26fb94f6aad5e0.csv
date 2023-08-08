@@ -1,0 +1,58 @@
+Data from National Bowel Cancer Audit - 2017,,
+,,
+Source: Trust Level Reports,,
+Table 1: ,Data Quality,
+Table 2: ,Management of all patients,
+Table 3: ,Management of patients having major resection,
+Table 4: ,Outcomes of patients having major resection,
+Table 5: ,Rectal cancer patients,
+,,
+# Activity not related to major resections and surgical outcomes is not presented for tertiary cancer centres.,,
+"* The risk adjusted estimates for 90-day mortality, 30-day unplanned readmissions and 2-year mortality for this Trust are not presented due to the amount of missing risk adjustment data (ASA grade and/or pathological TNM staging).",,
+** Too few cases to report (<10),,
+*** No cases submitted,,
+† Adjusted estimates not reported due to poor completeness of risk adjustment variables,,
+"^ From RTDS, updated from the audit. Restricted to patients diagnosed 1 Jan 2015 – 31 Dec 2015",,
+,,
+Source,Field Name,Field Format
+,Cancer Alliance/Trust Code,Text
+,Cancer Alliance/Trust Name,Text
+Table 1: ,Data Quality - All patients - denominator,Integer
+Table 1: ,Data Quality - All patients - N patients in Audit,Integer
+Table 1: ,Data Quality - All patients - Case ascertainment (%),Integer
+Table 1: ,Data Quality - All patients - Data completeness - Pretreatment TNM (%),Integer
+Table 1: ,Data Quality - All patients - Data completeness - Performance status (%),Integer
+Table 1: ,Data Quality - Major resection - denominator,Integer
+Table 1: ,Data Quality - Major resection - ASA grade 1 (%),Integer
+Table 1: ,Data Quality - Major resection - ASA grade 2 (%),Integer
+Table 1: ,Data Quality - Major resection - ASA grade 3 (%),Integer
+Table 1: ,Data Quality - Major resection - ASA grade 4+ (%),Integer
+Table 1: ,Data Quality - Major resection - ASA grade not recorded (%),Integer
+Table 1: ,Data Quality - Major resection - Data completeness - Risk Adjustment (%),Integer
+Table 2: ,Management - All patients - denominator,Integer
+Table 2: ,Management - All patients - CNS (%),Integer
+Table 2: ,Management - All patients - Curative major resection (%),Integer
+Table 2: ,Management - All patients - Non-curative major resection (%),Integer
+Table 2: ,Management - All patients - No major resection - Too little cancer (%),Integer
+Table 2: ,Management - All patients - No major resection - Too much cancer / Too frail (%),Integer
+Table 2: ,Management - All patients - No major resection - Unknown / Other (%),Integer
+Table 3: ,Management - Major resection - denominator,Integer
+Table 3: ,Management - Major resection - Distant metastases (%),Integer
+Table 3: ,Management - Major resection - Urgent / Emergency surgery (%),Integer
+Table 3: ,Management - Major resection - 12+ lymph nodes excised (%),Integer
+Table 3: ,Management - Major resection - Laparascopic surgery (%),Integer
+Table 3: ,Management - Major resection - denominator for Risk adjusted LOS,Integer
+Table 3: ,Management - Major resection - Risk adjusted LOS > 5 days (%),Integer
+Table 4: ,Outcomes - Major resection - 90 day mortality - Observed (%),Float
+Table 4: ,Outcomes - Major resection - 90 day mortality - Adjusted (%),Float
+Table 4: ,Outcomes - Major resection - 30 day unplanned readmission - Observed (%),Float
+Table 4: ,Outcomes - Major resection - 30 day unplanned readmission - Adjusted (%),Float
+Table 4: ,Outcomes - Major resection - 2 year mortality - Observed (%),Float
+Table 4: ,Outcomes - Major resection - 2 year mortality - Adjusted (%),Float
+Table 5: ,Rectal cancer - Major resection - denominator,Integer
+Table 5: ,Rectal cancer - Major resection - Neoadjuvant therapy^ (%),Integer
+Table 5: ,Rectal cancer - Major resection - Positive CRM (%),Integer
+Table 5: ,Rectal cancer - Major resection - Missing CRM (%),Integer
+Table 5: ,Rectal cancer - Major resection - APER rate (%),Integer
+Table 5: ,Rectal cancer - Major resection - 18 month stoma rate - Observed (%),Float
+Table 5: ,Rectal cancer - Major resection - 18 month stoma rate - Adjusted (%),Float

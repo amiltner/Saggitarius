@@ -1,0 +1,21 @@
+"Invoices greater than £25,000 paid in January 2013",,,,,,,,,,,
+,,,,,,,,,,,
+Department Family,Entity,Date Paid,Expense Type,Expense Area,Supplier,Supplier Code,Their Ref,Transaction Date,Transaction Type,Transaction Ref,Gross Value
+Department of Health,Weston Area Health Trust,03/01/2013,Drugs Receipts/Purchases,PHARMACY,Celgene Ltd,C0471,8940006896,12/12/2012,PI,604894,"26,208.00"
+Department of Health,Weston Area Health Trust,03/01/2013,Drugs Receipts/Purchases,PHARMACY,Roche Products Ltd,R0128,1321544643,14/12/2012,PI,604969,"25,146.60"
+Department of Health,Weston Area Health Trust,04/01/2013,Capital - Non Pay,CAPITAL,Avon & Wiltshire Mental,PGO93044,T0009533,14/12/2012,PI,23248,"48,600.00"
+Department of Health,Weston Area Health Trust,04/01/2013,Cnst / Pes / Ltps Premiums,INSURANCE,Nhs Litigation Authority,PGO70362,D/D DEC 2012,04/01/2013,PI,23259,"143,951.00"
+Department of Health,Weston Area Health Trust,04/01/2013,Nhs Creditors,FINANCE,Nhs Supply Chain,PGO70225,1013139565,07/12/2012,PI,23164,"63,639.29"
+Department of Health,Weston Area Health Trust,04/01/2013,Nhs Creditors,FINANCE,Nhs Supply Chain,PGO70225,1013144478,14/12/2012,PI,23255,"69,881.99"
+Department of Health,Weston Area Health Trust,10/01/2013,Clin Supplies And Services,X-RAY,Csc Computer Sciences Ltd,C0428,5201312482,20/12/2012,PI,604809,"26,047.85"
+Department of Health,Weston Area Health Trust,10/01/2013,"Utilities, Rent & Rates",ESTATES,Edf Energy,S0228,0009/18382477,02/01/2013,PI,605628,"30,405.03"
+Department of Health,Weston Area Health Trust,10/01/2013,"Utilities, Rent & Rates",MAIN SITE,North Somerset  Council,N4058,600320363JAN13,01/01/2013,PI,605974,"59,142.00"
+Department of Health,Weston Area Health Trust,25/01/2013,Blood Products - Purchases,HAEMATOLOGY,Nhs Blood & Transplant,PGO73961,818887,17/12/2012,PI,23231,"61,592.35"
+Department of Health,Weston Area Health Trust,25/01/2013,Capital - Non Pay,CAPITAL,Smith & Nephew Advanced Surg Devices,S0296,90453916,27/12/2012,PI,608797,"93,372.00"
+Department of Health,Weston Area Health Trust,25/01/2013,Drugs Receipts/Purchases,PHARMACY,Roche Products Ltd,R0128,1321547328,27/12/2012,PI,608202,"48,888.00"
+Department of Health,Weston Area Health Trust,25/01/2013,Hssu Service,ESTATES,Nuffield Health,N0153,HSSI-474R,04/01/2013,PI,605828,"35,735.45"
+Department of Health,Weston Area Health Trust,25/01/2013,Laundry & Linen,FACILITIES,Sunlight Service Group Ltd,S0316,SN1212869,01/01/2013,PI,605646,"31,395.14"
+Department of Health,Weston Area Health Trust,25/01/2013,Nhs Creditors,FINANCE,Nhs Supply Chain,PGO70225,1013148744,21/12/2012,PI,23256,"58,453.95"
+Department of Health,Weston Area Health Trust,25/01/2013,Nhs Creditors,FINANCE,Nhs Supply Chain,PGO70225,1013151141,28/12/2012,PI,23257,"37,569.28"
+Department of Health,Weston Area Health Trust,25/01/2013,Nhs Creditors,FINANCE,Nhs Supply Chain,PGO70225,1013156282,11/01/2013,PI,23291,"65,991.73"
+Department of Health,Weston Area Health Trust,25/01/2013,"Utilities, Rent & Rates",ESTATES,Rooftop Homes Ltd,E0103,RHI000612,02/01/2013,PI,605652,"34,516.88"

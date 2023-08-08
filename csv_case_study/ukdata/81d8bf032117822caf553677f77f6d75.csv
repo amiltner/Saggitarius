@@ -1,0 +1,10 @@
+Department,Entity,Date,Supplier Name,Transaction Number,Expense Area,Expense Type,Amount
+FCO,FCOS,12/8/2010,CORPORATE VALUE ASSOCIATES,90207,Corporate,Consultancy,"74,780.00"
+FCO,FCOS,12/21/2010,CORPORATE VALUE ASSOCIATES,91237,Corporate,Consultancy,"68,771.00"
+FCO,FCOS,12/6/2010,CAPITA GROUP PLC,90605,Services and Logistics,Contractors,"28,726.18"
+FCO,FCOS,12/21/2010,GARTNER UK LIMITED,91289,Corporate,Professional Services,"22,400.00"
+FCO,FCOS,12/2/2010,INTERSERVE FM LTD,90436,Operations,Office Equipment,"74,140.95"
+FCO,FCOS,12/14/2010,DHL LOGISTICS (UK) LTD,91049,Services and Logistics,Carriage,"174,278.45"
+FCO,FCOS,12/8/2010,RWS LIMITED,90698,Corporate,Building Works,"21,992.06"
+FCO,FCOS,12/2/2010,SOFTWARE AG (UK) LIMITED,89128,Operations,Information Technology,"43,716.66"
+FCO,FCOS,12/6/2010,SOFTWARE BOX LTD,90576,Client Delivery,Information Technology,"41,285.11"

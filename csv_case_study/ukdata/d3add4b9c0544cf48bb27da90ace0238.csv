@@ -1,0 +1,16 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount
+DCMS,National Gallery,19/06/2014,Display,Creative,Benchworks Ltd,10212374,"25,000.00"
+DCMS,National Gallery,27/06/2014,Contract cleaning,Office Services,DOC Cleaning Limited,10212563,"48,301.01"
+DCMS,National Gallery,19/06/2014,Main Contractors,Buildings,Fairhurst Ward Abbotts Ltd.,10212394,"63,788.12"
+DCMS,National Gallery,10/06/2014,Electricity,Buildings,EDF Energy 1 Limited,10212176,"51,716.61"
+DCMS,National Gallery,27/06/2014,Gas,Buildings,Corona Energy Retail 4 Ltd,10212564,"51,264.41"
+DCMS,National Gallery,27/06/2014,Rent,Buildings,Montagu Evans LLP,10212389,"149,135.78"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,"389,205.93"
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,`,,,,

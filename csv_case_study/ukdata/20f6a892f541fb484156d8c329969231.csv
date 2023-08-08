@@ -1,0 +1,86 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount
+Department of Health,Sussex Community NHS Trust,01/08/2014,Rent,NHS Prop Co,SUSSEX PARTNERSHIP NHS FOUNDATION TRUST,17628709,80757
+Department of Health,Sussex Community NHS Trust,01/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,17638595,39986.19
+Department of Health,Sussex Community NHS Trust,01/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,17638604,35288.72
+Department of Health,Sussex Community NHS Trust,01/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,17638616,41883.6
+Department of Health,Sussex Community NHS Trust,01/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,17638627,45418.83
+Department of Health,Sussex Community NHS Trust,01/08/2014,Computer Network Costs,IT Management,NHS SOUTH LONDON CSU,17609890,81594.12
+Department of Health,Sussex Community NHS Trust,01/08/2014,Services Received - PCTs,IT Management,NHS SOUTH LONDON CSU,17609923,100886
+Department of Health,Sussex Community NHS Trust,01/08/2014,Services Received - NHSTs,Bognor WM Radiology WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17614979,48688
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Arun West PaC Team,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,29.4
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Arundel D Hosp WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,1698.9
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Bognor PaC Team,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,323.4
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Bognor WM MIU WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,473.55
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Bognor WM Med Derm WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,309.75
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Bognor WM Outpatients WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,9.45
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Chanctonbury PaC Team,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,269.85
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Chronic Pain WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,444.15
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Don Baines Ward WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,-439.95
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Horizon Unit   WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,4663.05
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Horsham Hosp MIU WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,748.65
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,IV Nurses Coastal,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,79.8
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,L'hampton West PaC Team,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,540.75
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Lane Bray Ward WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,31054.8
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Leslie Smith Ward WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,2191.35
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,MSK - PCIS (Crawley) WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,179.55
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,MSK - PCIS (W) WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,282.45
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Macmillan WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,71.4
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Midhurst C Hosp WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,1604.4
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Occupational Health WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,1011.15
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,RAIT Coastal South,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,67.2
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,S Podiatry WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,851.55
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,SCD Dental Brighton,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,58.8
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,SCD Dental L/hampton WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,35.7
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,SCD Dental Lancing WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,23.1
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Salvington Lodge WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,2002.34
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Shoreham PaC Team,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,25.2
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Specialist Continuing Care,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,369.6
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,W Podiatry WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,1.05
+Department of Health,Sussex Community NHS Trust,01/08/2014,Drugs,Zachary Merton Ward WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,2505.3
+Department of Health,Sussex Community NHS Trust,01/08/2014,Medical Gases,Arundel D Hosp WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,71.6
+Department of Health,Sussex Community NHS Trust,01/08/2014,Medical Gases,Leslie Smith Ward WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,71.6
+Department of Health,Sussex Community NHS Trust,01/08/2014,Medical Gases,Midhurst C Hosp WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,71.6
+Department of Health,Sussex Community NHS Trust,01/08/2014,Other NHS Payables <1Yr,Balance Sheet,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,10884
+Department of Health,Sussex Community NHS Trust,01/08/2014,Service Charge,Medicines Management,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,595.17
+Department of Health,Sussex Community NHS Trust,01/08/2014,SrvcsRecd-FoundationTrust,Horizon Unit   WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,8037.6
+Department of Health,Sussex Community NHS Trust,01/08/2014,SrvcsRecd-FoundationTrust,Horsham Hosp MIU WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,2009.4
+Department of Health,Sussex Community NHS Trust,01/08/2014,SrvcsRecd-FoundationTrust,Salvington Lodge WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,3851.5
+Department of Health,Sussex Community NHS Trust,01/08/2014,SrvcsRecd-FoundationTrust,School Nursing - All Localities WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,254
+Department of Health,Sussex Community NHS Trust,01/08/2014,SrvcsRecd-FoundationTrust,W General Office WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,14867.71
+Department of Health,Sussex Community NHS Trust,01/08/2014,SrvcsRecd-FoundationTrust,Zachary Merton Ward WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17616429,3851.5
+Department of Health,Sussex Community NHS Trust,06/08/2014,External Consultancy Fees,Deputy Director of Finance,CAPITA BUSINESS SERVICES LTD,17589999,183523
+Department of Health,Sussex Community NHS Trust,06/08/2014,Limbs,Prosthetic Services,OTTO BOCK HEALTHCARE PLC,17643887,32037.17
+Department of Health,Sussex Community NHS Trust,06/08/2014,External Consultancy Fees,Deputy Director of Finance,CAPITA BUSINESS SERVICES LTD,17641333,-23073
+Department of Health,Sussex Community NHS Trust,06/08/2014,Admin & Clerical band 3,General Reserves,BRIGHTON & HOVE CITY COUNCIL,17646677,18530
+Department of Health,Sussex Community NHS Trust,06/08/2014,PAMs band 3,CSTS Interm Care Serv,BRIGHTON & HOVE CITY COUNCIL,17646677,31563
+Department of Health,Sussex Community NHS Trust,13/08/2014,Computer Maintenance,IT Management,PHOENIX PARTNERSHIP (LEEDS) LTD,17660129,81636
+Department of Health,Sussex Community NHS Trust,13/08/2014,Equip Maint Contracts,Wheelchair Serv Adults WS,AJ MOBILITY LTD,17652160,35359.91
+Department of Health,Sussex Community NHS Trust,13/08/2014,Wheelchairs,SRCB Management,AJ MOBILITY LTD,17633131,26167.55
+Department of Health,Sussex Community NHS Trust,15/08/2014,Rent,Estates - Midhurst Hospital,SUSSEX PARTNERSHIP NHS FOUNDATION TRUST,17307374,101057.75
+Department of Health,Sussex Community NHS Trust,15/08/2014,Rent,Estates - Midhurst Hospital,SUSSEX PARTNERSHIP NHS FOUNDATION TRUST,17439868,101057.75
+Department of Health,Sussex Community NHS Trust,15/08/2014,Rent,Estates - Midhurst Hospital,SUSSEX PARTNERSHIP NHS FOUNDATION TRUST,17632737,101057.75
+Department of Health,Sussex Community NHS Trust,15/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,17638639,45785.05
+Department of Health,Sussex Community NHS Trust,15/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,17638666,40871.12
+Department of Health,Sussex Community NHS Trust,15/08/2014,AUC Additions,Balance Sheet,NHS SOUTH LONDON CSU,17610073,36681.51
+Department of Health,Sussex Community NHS Trust,15/08/2014,VAT Cont Out Serv Inp Tax,Balance Sheet,NHS SOUTH LONDON CSU,17610073,-14672.6
+Department of Health,Sussex Community NHS Trust,15/08/2014,SrvcsRecd-FoundationTrust,Dietetics WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17643861,71171
+Department of Health,Sussex Community NHS Trust,15/08/2014,SrvcsRecd-FoundationTrust,Bognor WM Med Rheum WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17652065,14744.75
+Department of Health,Sussex Community NHS Trust,15/08/2014,SrvcsRecd-FoundationTrust,Bognor WM Medical DOME WS,WESTERN SUSSEX HOSPITALS NHS TRUST,17652065,30362.69
+Department of Health,Sussex Community NHS Trust,20/08/2014,Commercial Sector,Coastal SURGE,FOREVER CARE LTD,17668826,44839.28
+Department of Health,Sussex Community NHS Trust,20/08/2014,Res Short Stay Exp,Frail Elderly Pathway Nth,TRUSCOTT MANOR NURSING HOME,17668809,25929.29
+Department of Health,Sussex Community NHS Trust,20/08/2014,Continence Products,Continence Home Delivery,PAUL HARTMANN LTD,17668735,46340.32
+Department of Health,Sussex Community NHS Trust,20/08/2014,Continence Products,Continence Home Delivery,PAUL HARTMANN LTD,17668783,39470.93
+Department of Health,Sussex Community NHS Trust,20/08/2014,Continence Products,Continence Home Delivery,PAUL HARTMANN LTD,17681426,42100.62
+Department of Health,Sussex Community NHS Trust,20/08/2014,Equip Maint Contracts,Wheelchair Serv Adults WS,AJ MOBILITY LTD,17646319,35359.91
+Department of Health,Sussex Community NHS Trust,27/08/2014,Computer Maintenance,IT Management,ORACLE CORPORATION UK LTD,17687962,35282.5
+Department of Health,Sussex Community NHS Trust,27/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,VODAFONE LTD,17693346,72128.99
+Department of Health,Sussex Community NHS Trust,27/08/2014,Contr Other External,Facilities Director,CAPITA PROPERTY & INFRASTRUCTURE LTD,17690522,137692.16
+Department of Health,Sussex Community NHS Trust,27/08/2014,Contr Other External,Facilities Director,CAPITA PROPERTY & INFRASTRUCTURE LTD,17690523,137692.16
+Department of Health,Sussex Community NHS Trust,27/08/2014,Audit Fees: Internal,Deputy Director of Finance,TIAA LTD,17690375,32644.8
+Department of Health,Sussex Community NHS Trust,27/08/2014,Limbs,Prosthetic Services,OTTO BOCK HEALTHCARE PLC,17690377,54523.93
+Department of Health,Sussex Community NHS Trust,27/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,BT PLC,17681396,39954.96
+Department of Health,Sussex Community NHS Trust,19/08/2014,Interest Payable,General Reserves,INTEREST ON CAP LOAN,607080 10003045,29486.3
+Department of Health,Sussex Community NHS Trust,19/08/2014,Interest Payable,General Reserves,INTEREST ON CAP LOAN,607080 10003045,150000
+Department of Health,Sussex Community NHS Trust,19/08/2014,Commercial Sector,Deputy Director of Finance,SSC SBS SLA,7.41E+11,58386.74
+Department of Health,Sussex Community NHS Trust,12/08/2014,NonNHS Trade Pybls Curr,Balance Sheet,SSC DD4715051135 NAT WEST PURG,605050 84114894,25054.15
+Department of Health,Sussex Community NHS Trust,18/08/2014,Insurance Costs,Chief Executive,SSC DD/NHSLA,Misc Debit,33567.8

@@ -1,0 +1,315 @@
+Department Family,Entity,Voucher Date,Expense Type,Expense Area,Supplier,Transaction Number,Tax Code,Amount,Vat Registration Number
+NHS,NHS Hertfordshire,10/10/2011,Pest Control,Facilities Management,WHITEOAKS,10067608,R,£12.49,466 4777 01
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£20.62,466 4777 01
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£293.02,466 4777 01
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£331.50,466 4777 01
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£331.50,466 4777 01
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£331.51,466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£338.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£404.00,
+NHS,NHS Hertfordshire,11/10/2011,CATS - Ophthalmology Watford,Primary Care Clinical Services (CATS),THE PRACTICE SERVICES LTD,10067865,0,£412.80,927298975
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£430.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£476.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£522.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£549.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£574.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£585.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£595.00,
+NHS,NHS Hertfordshire,26/09/2011,Rent,Property Management,FIRST CITY  LTD,10066229,0,£595.00,145 3197 68
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£636.27,466 4777 01
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£667.18,466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£685.00,
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£708.89,466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£714.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£722.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£725.00,
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£734.22,466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£812.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£838.00,
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£843.05,466 4777 01
+NHS,NHS Hertfordshire,11/10/2011,CATS - Eye Service (THE RED HOUSE),Primary Care Clinical Services (CATS),THE PRACTICE SERVICES LTD,10067865,0,£879.20,927298975
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£886.47,466 4777 01
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£888.20,466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£909.00,
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£923.82,466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£931.00,
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£932.49,466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£938.00,
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,£954.00,
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,£995.45,466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,007.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,008.00",
+NHS,NHS Hertfordshire,18/10/2011,Continence Supplement,Free Nursing Care (RNCC),VERULAM HOUSE NURSING & RES. HOME,10068687,0,"£1,166.37",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,169.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,209.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,223.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,229.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,321.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,321.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,324.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,331.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,396.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,440.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,529.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,678.00",
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,"£1,700.93",466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,852.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,862.00",
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,"£1,978.45",466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£1,992.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£2,003.00",
+NHS,NHS Hertfordshire,05/09/2011,Interim Cancer Drugs Fund - Trusts,Interim Cancer Drug Fund,EAST AND NORTH HERTS NHST,10063251,0,"£2,008.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£2,184.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£2,208.00",
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,"£2,401.57",466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£2,555.00",
+NHS,NHS Hertfordshire,11/10/2011,CATS - Eye Service (Hertsmere),Primary Care Clinical Services (CATS),THE PRACTICE SERVICES LTD,10067865,0,"£2,592.00",927298975
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£2,778.00",
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,"£2,889.22",466 4777 01
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,"£2,967.78",466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£3,183.00",
+NHS,NHS Hertfordshire,10/10/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10067608,R,"£3,388.08",466 4777 01
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£3,442.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£3,659.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£3,777.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£4,070.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£4,763.00",
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£6,668.00",
+NHS,NHS Hertfordshire,07/09/2011,Catering Contract - Variable,Facilities Management,WHITEOAKS,10063454,R,"£7,999.06",466 4777 01
+NHS,NHS Hertfordshire,07/09/2011,Catering Contract - Variable,Facilities Management,WHITEOAKS,10063454,R,"£8,016.05",466 4777 01
+NHS,NHS Hertfordshire,11/10/2011,CATS - Eye Service (DACCOM),Primary Care Clinical Services (CATS),THE PRACTICE SERVICES LTD,10067865,0,"£8,020.00",927298975
+NHS,NHS Hertfordshire,07/09/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10063454,R,"£11,483.49",466 4777 01
+NHS,NHS Hertfordshire,24/10/2011,COIN Installations,ICT Infrastructure,VIRGIN MEDIA PAYMENTS LTD,10069189,R,"£11,831.00",GB 591 8190 14
+NHS,NHS Hertfordshire,16/09/2011,Business Rates,Property Management,HERTFORDSHIRE COMMUNITY NHS TRUST,10064856,0,"£15,047.00",
+NHS,NHS Hertfordshire,07/10/2011,COIN Installations,ICT Infrastructure,VIRGIN MEDIA PAYMENTS LTD,10067478,R,"£18,000.00",GB 591 8190 14
+NHS,NHS Hertfordshire,07/09/2011,Contract Cleaning,Facilities Management,WHITEOAKS,10063454,R,"£23,421.71",466 4777 01
+NHS,NHS Hertfordshire,07/10/2011,Private Circuit Costs,ICT Infrastructure,VIRGIN MEDIA PAYMENTS LTD,10067478,R,"£24,138.72",GB 591 8190 14
+NHS,NHS Hertfordshire,31/08/2011,Computer Maintenance,IM&T - General,BLUESOURCE INFORMATION LTD,10062835,R,"£25,455.89",766 3826 92
+NHS,NHS Hertfordshire,11/10/2011,CATS - Eye Service (St Albans),Primary Care Clinical Services (CATS),THE PRACTICE SERVICES LTD,10067865,0,"£26,064.40",927298975
+NHS,NHS Hertfordshire,03/10/2011,Director,Finance & Commercial Development,EAST AND NORTH HERTS NHST,10066965,0,"£26,098.74",
+NHS,NHS Hertfordshire,06/10/2011,Continuing Care - Ombudsman Appeals,Continuing Care -  Adults with Physical Disability,C.W.YOUNG,10067428,0,"£26,649.97",
+NHS,NHS Hertfordshire,05/10/2011,Grants,Grants to Voluntary Organisations,YOUTH TALK,10067301,0,"£27,500.00",
+NHS,NHS Hertfordshire,05/09/2011,NHS Trust - NCA,Non Contract Activity,WHIPPS CROSS UNI HOSP NHS TRUST,10063224,0,"£27,561.27",654 404937
+NHS,NHS Hertfordshire,13/10/2011,CATS - New Direct Access Ultra-Sound (St Albans),Primary Care Clinical Services (CATS),DR K KEDIA & PARTNERS,10068117,0,"£27,695.00",
+NHS,NHS Hertfordshire,05/10/2011,FT - Under/Overperf,NHS SLA - Variable,MOORFIELDS EYE HOSP. NHSFT,10067236,0,"£27,933.00",
+NHS,NHS Hertfordshire,18/10/2011,Free Nursing Care - Medium Band,Free Nursing Care (RNCC),VERULAM HOUSE NURSING & RES. HOME,10068687,0,"£29,209.10",
+NHS,NHS Hertfordshire,10/10/2011,Recharge - Estate Mgt,Facilities Management,PRINCESS ALEXANDRA HOSP. NHST,10067753,0,"£29,642.42",654 9649 85
+NHS,NHS Hertfordshire,26/10/2011,Recharge - Estate Mgt,Facilities Management,WEST HERTFORDSHIRE HOSPITALS N,10069745,0,"£30,325.00",
+NHS,NHS Hertfordshire,28/09/2011,Continuing Care - Residential,Continuing Care -  Adults with Physical Disability,WESTGATE HEALTHCARE,10066446,0,"£30,489.45",
+NHS,NHS Hertfordshire,15/04/2011,NHS Trust - Overseas Visitors,Non Contract Activity,WEST HERTFORDSHIRE HOSPITALS N,10046318,0,"£30,566.00",
+NHS,NHS Hertfordshire,03/11/2010,NHS Trust - NCA,Non Contract Activity,HINCHINGBROOKE HEALTH CARE NHST,10025202,0,"£31,964.79",654925215
+NHS,NHS Hertfordshire,28/10/2011,Optical Appliances,Primary Care Clinical Services (CATS),THE HERTFORDSHIRE EYE HOSPITAL,10070177,0,"£32,657.00",
+NHS,NHS Hertfordshire,18/10/2011,PCT -  SLA Block,Secure and Specialist Commissioning - MH,SOUTH EAST ESSEX PCT,10068475,0,"£33,154.08",654 436 723
+NHS,NHS Hertfordshire,26/09/2011,Rent,Property Management,FIRST CITY  LTD,10066229,NR,"£34,155.00",145 3197 68
+NHS,NHS Hertfordshire,14/10/2011,Management Consultancy,Finance & Commercial Development,LEAP,10068224,R,"£34,350.00",853 2015 54
+NHS,NHS Hertfordshire,04/08/2011,FT - NCA,Non Contract Activity,MILTON KEYNES GEN.HOS. NHST,10059524,0,"£34,592.45",
+NHS,NHS Hertfordshire,05/10/2011,NHS Trust - NCA,Non Contract Activity,"BARKING,HAVERING AND REDBRIDGE  NHST",10067230,0,"£34,827.63",654924414
+NHS,NHS Hertfordshire,28/10/2011,Optical Appliances,Primary Care Clinical Services (CATS),THE HERTFORDSHIRE EYE HOSPITAL,10070207,0,"£35,462.00",
+NHS,NHS Hertfordshire,18/10/2011,Photocopier Hire/Charges,Facilities Management,THE DANWOOD GROUP LTD,10068383,R,"£36,421.00",310 6982 69
+NHS,NHS Hertfordshire,06/10/2011,Continuing Care - Ombudsman Appeals,Continuing Care -  Adults with Physical Disability,A.J.LEWIS,10067438,0,"£36,650.00",
+NHS,NHS Hertfordshire,24/10/2011,Private Circuit Costs,ICT Infrastructure,VIRGIN MEDIA PAYMENTS LTD,10069189,R,"£38,775.18",GB 591 8190 14
+NHS,NHS Hertfordshire,29/09/2011,Bowel Screening,NHS SLA,WEST HERTFORDSHIRE HOSPITALS N,10066661,0,"£39,528.00",
+NHS,NHS Hertfordshire,09/09/2011,Herts Aid,Herts Holistic Sexual Health,HERTS AID,10063741,0,"£40,443.00",
+NHS,NHS Hertfordshire,05/09/2011,Interim Cancer Drugs Fund - Trusts,Interim Cancer Drug Fund,EAST AND NORTH HERTS NHST,10063251,0,"£43,241.00",
+NHS,NHS Hertfordshire,05/10/2011,Interim Cancer Drugs Fund - Trusts,Interim Cancer Drug Fund,EAST AND NORTH HERTS NHST,10067199,0,"£45,639.00",
+NHS,NHS Hertfordshire,01/08/2011,Non-NHS - SLA Block,Imaging Services,PAUL STRICKLAND SCANNER CENTRE,10058818,0,"£45,934.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,MID ESSEX HOSPITALS NHST,10067816,0,"£46,385.00",654930128
+NHS,NHS Hertfordshire,21/10/2011,Grants,Grants for Childrens Services,HERTFORDSHIRE COUNTY COUNCIL,10068937,0,"£46,580.00",
+NHS,NHS Hertfordshire,21/10/2011,Grants,Grants for Childrens Services,HERTFORDSHIRE COUNTY COUNCIL,10068938,0,"£46,580.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,BEDFORD HOSPITAL NHS TRUST,10067783,0,"£48,761.41",654 9124 24
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,MID ESSEX HOSPITALS NHST,10067815,0,"£48,782.00",654930128
+NHS,NHS Hertfordshire,26/10/2011,NHS Trust - Cost Per Case,NHS SLA,BUCKINGHAMSHIRE H.CARE  NHS TRUST,10069697,0,"£52,826.00",654 4313 46
+NHS,NHS Hertfordshire,21/10/2011,Non-NHS - SLA Block,NHS SLA,ASSURA LEA VALLEY LLP,10068904,0,"£60,028.83",
+NHS,NHS Hertfordshire,13/10/2011,JCT (JCPB) - Out of Scope,JCPB,HERTFORDSHIRE COUNTY COUNCIL,10068100,0,"£60,239.00",
+NHS,NHS Hertfordshire,06/07/2011,NHS Trust - NCA,Non Contract Activity,WHIPPS CROSS UNI HOSP NHS TRUST,10055925,0,"£61,921.07",654 404937
+NHS,NHS Hertfordshire,26/10/2011,Non NHS - Free Choice,Free Choice,BMI HEALTHCARE COLLECTIONS,10069721,0,"£65,090.01",
+NHS,NHS Hertfordshire,24/10/2011,Non NHS - Free Choice,Free Choice,SPIRE HEALTHCARE,10069343,0,"£66,717.70",
+NHS,NHS Hertfordshire,27/09/2011,Non NHS - Free Choice,Free Choice,SPIRE HEALTHCARE,10066385,0,"£67,745.41",
+NHS,NHS Hertfordshire,26/10/2011,Non NHS - Free Choice,Free Choice,BMI HEALTHCARE COLLECTIONS,10069718,0,"£69,790.87",235 1349 80
+NHS,NHS Hertfordshire,18/10/2011,Bowel Screening,Non block - NHS,NOTTINGHAM UNI.HOSP.NHS TRUST,10068484,0,"£72,030.43",654 4348 27
+NHS,NHS Hertfordshire,27/10/2011,Recharge - Estate Mgt,Facilities Management,WEST HERTFORDSHIRE HOSPITALS N,10069818,0,"£72,111.00",
+NHS,NHS Hertfordshire,18/10/2011,Bowel Screening,Non block - NHS,NOTTINGHAM UNI.HOSP.NHS TRUST,10068486,0,"£72,585.22",654 4348 27
+NHS,NHS Hertfordshire,19/08/2011,High Tech Drugs : FTs,NHS SLA - Variable,MOORFIELDS EYE HOSP. NHSFT,10061925,0,"£76,108.80",
+NHS,NHS Hertfordshire,10/10/2011,Car Parking Provision,Charter House Non Pay,C P PLUS LTD,10067599,R,"£76,868.16",589 785 353
+NHS,NHS Hertfordshire,24/10/2011,GMS Support Service,Primary Care IM&T,EGTON CENTRAL OPERATIONS,10069238,R,"£78,379.10",927 1492 14
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,WHITTINGTON NHST,10067822,0,"£88,253.00",
+NHS,NHS Hertfordshire,12/09/2011,NHS Trust - NCA,Non Contract Activity,"BARKING,HAVERING AND REDBRIDGE  NHST",10064009,0,"£94,554.63",654924414
+NHS,NHS Hertfordshire,21/09/2011,Sub-Committees & Meetings,Herts Safeguarding Children Board,HERTFORDSHIRE COUNTY COUNCIL,10065710,0,"£104,300.00",
+NHS,NHS Hertfordshire,13/10/2011,Recharge - Estate Mgt,Facilities Management,EAST AND NORTH HERTS NHST,10068091,0,"£115,754.00",
+NHS,NHS Hertfordshire,15/09/2011,Rent,Charter House Non Pay,MORDEN COLLEGE,10064609,NR,"£116,430.00",743 8162 26
+NHS,NHS Hertfordshire,03/10/2011,Computer Hardware & Software,Balance Sheet Capital,WSTORE UK LTD,10066995,NR,"£117,600.00",709373816
+NHS,NHS Hertfordshire,10/10/2011,FT - Block,NHS SLA,PAPWORTH HOSPITAL NHSFT,10067787,0,"£124,369.00",654 9359 94
+NHS,NHS Hertfordshire,19/09/2011,Marie Stopes,Herts Holistic Sexual Health,MARIE STOPES INTERNATIONAL,10065247,0,"£135,858.12",882426016
+NHS,NHS Hertfordshire,28/09/2011,Cancer Services,Cancer Research Network,EAST AND NORTH HERTS NHST,10066620,0,"£142,455.66",
+NHS,NHS Hertfordshire,15/07/2011,Marie Stopes,Herts Holistic Sexual Health,MARIE STOPES INTERNATIONAL,10057269,0,"£145,922.18",882426016
+NHS,NHS Hertfordshire,27/09/2011,Community Drug and Alcohol,Other Mental Health/LD - Children,HERTFORDSHIRE COUNTY COUNCIL,10066438,0,"£146,550.00",
+NHS,NHS Hertfordshire,18/10/2011,Marie Stopes,Herts Holistic Sexual Health,MARIE STOPES INTERNATIONAL,10068545,0,"£149,062.24",882426016
+NHS,NHS Hertfordshire,28/09/2011,PCT - HCHS Contract,HCHS Other Services,HERTFORDSHIRE COMMUNITY NHS TRUST,10066471,0,"£150,000.00",
+NHS,NHS Hertfordshire,10/10/2011,Miscellaneous Income from PCTs,CLRN,NORTH EAST ESSEX PCT,10067845,0,"£168,227.00",GB 654 9747 85
+NHS,NHS Hertfordshire,17/10/2011,Building - Repairs & Maint.,Facilities Management,CARILLION SERVICES LTD,10068359,R,"£176,572.12",100 6366 17
+NHS,NHS Hertfordshire,12/09/2011,FT - Under/Overperf,NHS SLA - Variable,CAMBRIDGE UNIV. HOSPITALS  NHSFT,10064000,0,"£188,609.35",654 9105 28
+NHS,NHS Hertfordshire,10/10/2011,Non NHS - Free Choice,Free Choice,SPIRE HEALTHCARE,10067820,0,"£190,347.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,WEST HERTFORDSHIRE HOSPITALS N,10067790,0,"£192,817.00",
+NHS,NHS Hertfordshire,06/10/2011,Continuing Care - Block,Continuing Care -  Adults with Physical Disability,RAMSAY NEUROLOGICAL SERVICES,10067376,0,"£213,708.85",
+NHS,NHS Hertfordshire,10/10/2011,Non-NHS - SLA Block,Facilities Management,HERTS & ESSEX PPP HEALTH SERVICES LTD,10067598,R,"£214,173.02",
+NHS,NHS Hertfordshire,07/04/2011,FT - Under/Overperf,NHS SLA - Variable,CAMBRIDGE UNIV. HOSPITALS  NHSFT,10044930,0,"£214,832.02",654 9105 28
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,OXFORD RADCLIFFE HOSP.NHST,10067810,0,"£214,920.00",654 9354 07
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - Under/Overperf,NHS SLA,ROYAL NAT ORTHOPAEDIC NHST,10067841,0,"£246,118.00",
+NHS,NHS Hertfordshire,29/09/2011,Non NHS - Free Choice,Free Choice,PINEHILL HOSPITAL,10066733,0,"£257,384.91",GB426505170
+NHS,NHS Hertfordshire,31/01/2011,Exceptional Treatmt - Trusts,NHS SLA - Variable,WEST HERTFORDSHIRE HOSPITALS N,10035488,0,"£266,501.75",
+NHS,NHS Hertfordshire,26/09/2011,Continuing Care - Block,Continuing Care -  Adults with Physical Disability,BUPA CARE HOMES,10066247,0,"£302,028.57",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,N .W. LONDON HOSPITALS NHST,10067797,0,"£307,017.92",654 9719 90
+NHS,NHS Hertfordshire,10/10/2011,FT - Block,NHS SLA,HILLINGDON HOSP.NHS TRUST,10067831,0,"£307,250.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,N.MIDDLESEX UNI.HOSP.NHS TRUST,10067796,0,"£325,902.26",654 9462 04
+NHS,NHS Hertfordshire,10/10/2011,FT - Block,NHS SLA,MOORFIELDS EYE HOSP. NHSFT,10067794,0,"£332,652.05",
+NHS,NHS Hertfordshire,10/10/2011,FT - Block,NHS SLA,GUYS ST.THOMAS NHS F.TRUST,10067784,0,"£361,318.00",654923417
+NHS,NHS Hertfordshire,13/10/2011,Resettlement - County Council,s28 Resettlements,HERTFORDSHIRE COUNTY COUNCIL,10068100,0,"£380,750.00",
+NHS,NHS Hertfordshire,18/10/2011,NHS Other - Miscellaneous,NHS SLA,WEST HERTFORDSHIRE HOSPITALS N,10068474,0,"£545,000.00",
+NHS,NHS Hertfordshire,13/10/2011,Non NHS - Free Choice,Free Choice,PINEHILL HOSPITAL,10068134,0,"£595,705.78",GB426505170
+NHS,NHS Hertfordshire,18/10/2011,NHS Other - Miscellaneous,NHS SLA,WEST HERTFORDSHIRE HOSPITALS N,10068450,0,"£607,100.00",
+NHS,NHS Hertfordshire,12/09/2011,FT - Under/Overperf,NHS SLA - Variable,CAMBRIDGE UNIV. HOSPITALS  NHSFT,10064001,0,"£635,591.25",654 9105 28
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,ROYAL FREE HAMPSTEAD NHS TRUST,10067798,0,"£837,199.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,ROYAL NAT ORTHOPAEDIC NHST,10067789,0,"£841,844.00",
+NHS,NHS Hertfordshire,18/10/2011,NHS Other - Miscellaneous,NHS SLA,EAST AND NORTH HERTS NHST,10068425,0,"£1,000,000.00",
+NHS,NHS Hertfordshire,13/10/2011,SLA's (Childrens Trust Partnership),Herts Childrens Partnership Trust,HERTFORDSHIRE COUNTY COUNCIL,10068100,0,"£1,007,391.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,BUCKINGHAMSHIRE H.CARE  NHS TRUST,10067786,0,"£1,141,917.00",654 4313 46
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,IMPERIAL COLLEGE H.CARE NHS TRUST,10067806,0,"£1,174,286.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,EAST AND NORTH HERTS NHST,10067809,0,"£1,371,369.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,BARTS AND THE LONDON NHST,10067803,0,"£1,449,202.13",GB 654 9470 05
+NHS,NHS Hertfordshire,14/10/2011,FT - Block,NHS SLA,LUTON AND DUNSTABLE NHS. F.TRUST,10068169,0,"£1,450,291.92",
+NHS,NHS Hertfordshire,10/10/2011,FT - Block,NHS SLA,UCLH NHS F. TRUST,10067812,0,"£1,675,031.00",GB 105/654 9486 87
+NHS,NHS Hertfordshire,10/10/2011,FT - Block,NHS SLA,CAMBRIDGE UNIV. HOSPITALS  NHSFT,10067780,0,"£1,963,704.00",654 9105 28
+NHS,NHS Hertfordshire,13/10/2011,SLA's (JCPB - excluded from  PBC),JCPB,HERTFORDSHIRE COUNTY COUNCIL,10068100,0,"£2,089,186.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,EAST OF ENGLAND AMBULANCE NHS TRUST,10067805,0,"£2,658,983.00",654 9195 01
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,PRINCESS ALEXANDRA HOSP. NHST,10067813,0,"£3,888,493.58",654 9649 85
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,BARNET AND CHASE FARM NHST,10067828,0,"£4,743,000.00",
+NHS,NHS Hertfordshire,10/10/2011,PCT - HCHS Contract,HCHS Block Contract,HERTFORDSHIRE COMMUNITY NHS TRUST,10067799,0,"£8,876,173.50",
+NHS,NHS Hertfordshire,06/10/2011,Part Payment (NHS) - AP use only,Specialised Commissioning,SOUTH EAST ESSEX PCT,10067426,0,"£9,616,721.66",654 436 723
+NHS,NHS Hertfordshire,13/10/2011,SLA's (JCPB - Other),JCPB,HERTFORDSHIRE COUNTY COUNCIL,10068100,0,"£10,384,985.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,WEST HERTFORDSHIRE HOSPITALS N,10067795,0,"£16,172,000.00",
+NHS,NHS Hertfordshire,10/10/2011,NHS Trust - SLA Block,NHS SLA,EAST AND NORTH HERTS NHST,10067808,0,"£17,423,293.00",
+NHS,NHS Hertfordshire (PSU),,GP Payments - PPA Drugs,Primary Care,WHITWELL SURG - ARCHER,E82626,,"£28,774.44",
+NHS,NHS Hertfordshire (PSU),,GP Payments - PPA Drugs,Primary Care,GOUGH P & PARTNERS,E82011,,"£33,024.63",
+NHS,NHS Hertfordshire (PSU),,GP Payments - PPA Drugs,Primary Care,ASHWELL SURG - RUSSELL,D81047,,"£38,825.88",
+NHS,NHS Hertfordshire (PSU),,GP Payments - PPA Drugs,Primary Care,WATTON PLACE CLINIC - HASLAM,E82121,,"£56,451.54",
+NHS,NHS Hertfordshire (PSU),,GP Payments - PPA Drugs,Primary Care,BRIDGE COTTAGE SURG - DANSIE,E82019,,"£57,459.78",
+NHS,NHS Hertfordshire (PSU),,GP Payments - PPA Drugs,Primary Care,ROTHSCHILD HSE SURG - WAINWRIGHT,E82001,,"£85,128.58",
+NHS,NHS Hertfordshire (PSU),,GP Payments - PPA Drugs,Primary Care,MUCH HADHAM HLTH CNTRE - HAIMES,E82021,,"£125,793.31",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,ARCHWAY SURGERY - RAHIM,E82643,,"£31,522.91",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,PATHFINDER PRACTICE,Y01165,,"£39,824.26",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,Meadowell - Health Inclusion Matters,Y00243,,"£53,932.33",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,ABBEY RD SURG - HODGE,E82042,,"£56,624.21",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,WEST HERTS MEDICAL CENTRE,Y02638,,"£64,174.04",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,BURVILL HOUSE - RESTELL,E82023,,"£70,200.00",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,185 KNIGHTSFIELD - HANAK,E82041,,"£76,287.21",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,SPRING HOUSE MEDICAL CENTRE,Y02639,,"£86,511.69",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,WARDEN LODGE MEDICAL PRACTICE - GOODWIN,E82123,,"£90,379.65",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,LINCOLN HOUSE SURGERY - DYSON,E82009,,"£92,774.50",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,LISTER HOUSE - BROOKS,E82018,,"£95,764.01",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,FAIRBROOK MEDICAL CENTRE - HIRSCH,E82012,,"£114,646.93",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,BENNETTS END SURGERY - HEATLEY,E82032,,"£132,080.46",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,PARKWOOD DRIVE SURGERY - GALLOW,E82091,,"£132,431.86",
+NHS,NHS Hertfordshire (PSU),,PMS Payments - Contract,Primary Care,RED HOUSE - FITZGERALD,E82085,,"£143,686.87",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,WOODHALL FARM MC - MIRZA,E82070,,"£25,360.88",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HAVERFIELD SURG - KANANI,E82066,,"£25,425.89",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,WATTON PLACE CLINIC - HASLAM,E82121,,"£26,235.66",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,SYMONDS GREEN HC - BHARDWAJ,E82111,,"£30,637.93",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,GROVEHILL MC - HIRJI,E82050,,"£31,265.14",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,61 HATFIELD RD - SINHA,E82004,,"£31,333.37",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,77 WARE RD SURG - TITCOMBE,E82057,,"£31,692.42",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,BALDWINS LANE SURG - FLUDE,E82049,,"£32,135.49",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HIGH ST SURG - MISRA K,E82133,,"£32,207.02",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,MUCH HADHAM HLTH CNTRE - HAIMES,E82021,,"£33,323.70",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,SOLLERSHOTT SURG - NEVARD,E82104,,"£35,603.78",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ABBOTSWOOD MC - KHAN AM,E82105,,"£35,714.77",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,BUNTINGFORD MC - BLACK,E82130,,"£35,715.71",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,REDBOURN MED PRACT - DEXTER,E82095,,"£35,922.23",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HICKS RD MARKYATE - SEPAI,E82663,,"£36,143.80",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,MANOR HSE SURG - DUGGAN,E82641,,"£38,061.76",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HIGHFIELD SURG - MISHRA,E82640,,"£38,415.29",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,45-47 KINGS RD - KEDIA,E82113,,"£41,109.88",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,UPTON ROAD SURG - ZAKANI & JOGARAJAH,E82045,,"£42,104.58",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,LITTLE BUSHEY SURG - FURBANK,E82657,,"£42,804.37",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CASTLEGATE SURG - WATSON,E82109,,"£44,115.71",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CHORLEYWOOD HC - JONES,E82064,,"£45,114.98",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CROMWELL MC - MALDE,E82079,,"£46,352.99",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,GARDEN CITY SURG - CHAND,E82661,,"£47,491.50",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,COURTENAY HOUSE SURGERY - GREENISH,E82053,,"£47,620.29",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,TUDOR SURGERY - LAZZERINI,E82034,,"£48,390.14",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,BOXWELL RD SURG - FINN,E82076,,"£50,068.12",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ROYSIA SURGERY - POLGE,E82132,,"£50,154.19",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,LIMES SURG - HENDERSON,E82006,,"£51,048.74",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,STANHOPE RD SURG - HOSSAIN,E82638,,"£51,363.03",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CONSULTING ROOMS - HUSSAIN,E82020,,"£51,464.52",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,GOUGH P & PARTNERS,E82011,,"£53,596.96",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HIGHVIEW MC - ELDER,E82078,,"£54,365.85",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,SHEPHALL SURG - ROUSE,E82056,,"£54,512.09",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,VILLAGE SURG - KHAN I,E82107,,"£55,997.20",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ORFORD LODGE - SLATTERY,E82080,,"£56,983.69",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,NEW ROAD SURG - CORP,E82106,,"£59,296.22",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,GARSTON MED CTRE- APPLE,E82017,,"£60,068.94",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,MILTON HSE SURG - ORMISTON,E82028,,"£60,215.72",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ANNANDALE SURG - RAMSELL N J,E82098,,"£61,442.69",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,PUCKERIDGE HLTH CTRE - REYNOLDS,E82038,,"£66,594.27",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,MANOR ST SURG - PONSONBY,E82094,,"£67,304.76",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,GRANGE ST SURG - DOW,E82059,,"£68,193.83",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CHURCH ST SURG - GIBSON,E82102,,"£68,489.64",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HANSCOMBE HSE SURG - OATES,E82007,,"£69,394.41",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,COACH HOUSE SURGERY - WEIDMANN,E82013,,"£72,035.38",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,THE GROVE MEDICAL CENTRE - NICHOLSON,E82117,,"£73,561.69",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,POTTERELLS MC - STEWARD,E82058,,"£73,684.84",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,THE MAPLES - EMMETT,E82063,,"£73,691.88",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HAILEY VIEW SURGERY - WADDINGTON,E82088,,"£73,741.87",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,SUTHERGREY HSE - RIEU,E82015,,"£74,615.14",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,THEOBALD MC - KAPACEE,E82048,,"£75,464.32",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,AMWELL STREET SURG - DAVIES A W,E82061,,"£75,936.69",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,PARK LANE SURG - CONDON R,E82090,,"£75,995.33",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CALLOWLAND SURG - NOVAK,E82054,,"£76,343.50",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,NEVELLS ROAD SURG - CHATFIELD,E82008,,"£78,206.10",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,SHEEPCOT MED CNTRE- JACKSON,E82096,,"£78,996.12",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,WRAFTON HOUSE - CONSTABLE,E82002,,"£79,060.37",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,GADE SURGERY BENNETT,E82068,,"£79,375.56",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ASTONIA HSE - THOMAS,E82099,,"£79,548.40",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,KNEBWORTH SURG - MCMANUS,E82035,,"£81,379.05",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,BROWNRIGG M & PARTNERS,E82072,,"£81,748.59",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,DOLPHIN HOUSE SURG - BAVERSTOCK,E82092,,"£82,526.34",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,MANOR VIEW PRACT - BOYD,E82073,,"£83,653.08",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,MIDWAY SURG - FERGUSON,E82055,,"£83,680.69",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CUFFLEY AND GOFFS OAK MEDICAL CENTRE,E82081,,"£83,847.20",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CHELLS WAY SURG - GOGBASHIAN,E82089,,"£84,519.16",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,COLNE HOUSE - ZANE,E82083,,"£84,645.25",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ST NICHOLAS HC - WILSON,E82039,,"£84,694.12",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,DAVENPORT HSE SURG - STRANDERS,E82077,,"£88,582.17",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,NAP SURGERY - WALLIS,E82129,,"£89,981.86",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,LODGE SURG - DAVIES AH,E82014,,"£91,909.53",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,VILLAGE SURG - STEPHENS,E82037,,"£93,393.97",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,WALLACE HSE SURG - CEMBALA,E82024,,"£93,549.09",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,PORTMILL SURG - TIDY,E82044,,"£93,837.34",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,SCHOPWICK SURG - WILSON CE,E82043,,"£94,470.98",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,EVEREST HSE SURG - TIPPLE,E82051,,"£95,035.96",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,PARKFIELD MC - FERRIS,E82027,,"£95,113.43",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,BRIDGE COTTAGE SURG - DANSIE,E82019,,"£95,766.31",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,VINE HOUSE HC - SIMMONS,E82046,,"£96,642.89",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,BEDWELL MED SURG - BAXANI,E82093,,"£98,536.59",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,BIRCHWOOD SURG - HEELIS,E82082,,"£99,119.65",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,STOCKWELL LODGE MC - SULLIVAN,E82115,,"£100,664.18",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ASHWELL SURG - RUSSELL,D81047,,"£100,852.82",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,PARK END SURGERY  - MURRAY,E82025,,"£101,303.70",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HARVEY HSE SURG - CLEGG,E82084,,"£101,845.48",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,KELLER P & PARTNERS,E82100,,"£103,852.87",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ELMS MED PRACT - PHILLIPS,E82071,,"£106,161.80",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,CHURCH ST SURG - ROGERS,E82067,,"£110,824.14",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,FERNVILLE SURG - BHAMRA,E82022,,"£116,068.99",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,KING GEORGE SURG - STEVENSON,E82086,,"£117,112.75",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HALL GROVE SURG - PUGH,E82062,,"£123,533.80",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ATTENBOROUGH SURG - BORKETT-JONES,E82124,,"£130,421.75",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,ROTHSCHILD HSE SURG - WAINWRIGHT,E82001,,"£132,260.65",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,PARKBURY HSE - SAGE,E82060,,"£137,801.71",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,REGAL CHAMBERS SURG - MACHEN,E82075,,"£145,342.27",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,MALTINGS SURGERY - SMITH,E82031,,"£149,825.83",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,SOUTH ST SURG - JENNS,E82074,,"£151,343.14",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,HEALTH CENTRE - WALLIS,E82005,,"£151,896.64",
+NHS,NHS Hertfordshire (PSU),,GMS Payments - Contract,Primary Care,PEARTREE SURG - CREAK,E82040,,"£175,503.99",
+,,,,,,,,,
+,,,,,,,,"£110,182,236.15",
+,,,,,,,,,

@@ -1,0 +1,86 @@
+FINANCIAL ACCOUNT SUMMARY,,,MANAGEMENT ACCOUNT SUMMARY,,
+Current crop sales,,"80,000",Current crop sales,,"80,000"
+Sales of previous year's crop (a) ,,"25,200",,,
+Crop subsidies,,0,Crop subsidies,,0
+(Crop sales and subsidies),"105,200",,,,
+,,,Current crop closing valuation,,"35,900"
+,,,minus Current crop opening valuation,,"12,500"
+,,,Total crop enterprise outputs,"103,400",
+Livestock sales,,"142,600",Livestock sales,,"142,600"
+Livestock subsidies and taxes,,0,Livestock subsidies and taxes,,0
+Leased milk and livestock quota,,0,Leased milk and livestock quota,,0
+Livestock sales and subsidies,"142,600",,,,
+,,,minus Cost of livestock purchases (b),,"18,300"
+,,,Livestock closing valuation c ,,"83,900"
+,,,minus Livestock opening valuation (d),,"81,100"
+,,,minus BLSA,,700
+,,,Total livestock output,"126,500",
+General farm subsidies and environmental payments,,"6,400",General farm subsidies and environmental payments,,"6,400"
+Revenue from other miscellaneous enterprises (including non-agricultural enterprises that are integrated into the business),,"52,500",Output from other enterprises (including non-agricultural enterprises that are integrated into the business),,"52,500"
+(1)Revenue from non-agricultural activities  that are only semi-integrated into the farm business,,0,(2)Output from non-agricultural activities  that are only semi-integrated into the farm business,,0
+Interest received e,,200,,,
+Sundry revenue,"59,100",,,,
+,,,Imputed rent receipts and similar benefits in kind (f),,400
+,,,Miscellaneous output,"59,300",
+,,,Sales of previous year's crop (a),,"25,200"
+,,,Previous year's crop C/V minus O/V,,"-24,600"
+,,,Disposal of previous year's crops,700,
+A. Total sales,"306,900",,,,
+,,,A. Total farm output,"289,900",
+,,,minus Imputed rent receipts included in farm output e,,400
+,,,B. Occupier's farm output,"289,500",
+Opening valuation of crops,,"37,300",,,
+Opening valuation of livestock (d),,"81,100",,,
+Opening valuation of crop inputs in store (h),,"19,300",,,
+Opening valuation of livestock inputs in store (i),,"1,800",,,
+minus Closing valuation of crops,,"36,200",,,
+minus Closing valuation of livestock c,,"83,900",,,
+minus Closing valuation of crop inputs in store (h),,"20,100",,,
+minus Closing valuation of livestock inputs in store (i),,"1,800",,,
+Cost of livestock purchases (b),,"18,300",,,
+Purchases of crop inputs (h),,"47,200",,,
+,,,Crop variable costs (h),,"46,400"
+Purchases of livestock inputs (i),,"65,000",,,
+,,,Livestock variable costs (i),,"65,000"
+,,,C. Total variable costs,"111,300",
+B. Cost of sales,"127,900",,,,
+,,,D.Farm gross margin   (A - C),"178,600",
+C. Gross profit   (A - B),"179,000",,,,
+,,,E. Occupier's farm gross margin   (B - C),"178,200",
+Wages and salaries (incl. directors remuneration),,"28,200",Wages and salaries (incl. directors remuneration),,"28,200"
+Machinery running costs and motor expenses (j),,"23,000",,,
+,,,Machinery running costs (j),,"22,000"
+Contract work (j),,"11,600",,,
+,,,Contract costs (j),,"12,600"
+Power electricity and heat,,"4,500",,,
+Insurance interest bank charges and professional fees,,"15,600",,,
+Other overheads,,"5,800",,,
+,,,General farming costs,,"20,400"
+(1) Costs of semi integrated non-agricutural activities,,0,(2) Costs of semi integrated non-agricutural activities,,0
+Rent and rates,,"12,400",Rent and rates (excl. imputed rent for NFI),,"12,400"
+,,,Maintenance and repairs,,"6,800"
+Property repairs,,"6,900",,,
+,,,Insurance and landlord-type repairs,,800
+Depreciation of machinery glasshouses and permanent crops,,"20,500",Depreciation of machinery glasshouses and permanent crops,,"20,500"
+Depreciation of buildings and works,,"6,700",Depreciation of buildings and works,,"6,700"
+,,,Net interest payments,,"4,600"
+,,,F. Occupier's fixed costs,"135,000",
+D. Total overheads,"135,200",,,,
+E. Write-offs from bad debts,38,,G. Write-offs from bad debts,38,
+Net profit   (C - D - E),"43,800",,Net profit   (E - F - G + 'BLSA'),"43,800",
+,,,minus BLSA,,700
+,,,H. Farm business income,"43,100",
+#### (1) and (2) Semi-integrated activities are considered as non-agricultural activities that are semi-independent of the farm business. That is those that still make use of the farm’s resources but have a separate existence. These can usually be distinguished from integrated non-agricultural activities by the presence of one or more of the following: (i) separate bank account; (ii) separate or different management; (iii) separate tax accounts; (iv) own VAT number; )v) separate internal book-keeping. In many financial and management accounts integrated and semi-integrated activities are combined. Accounts differ from business to business in terms of what if anything is included with non-agricultural activities that are only semi-integrated. It is mainly down to the judgement of the accountant or consultant or farmer taking into consideration the scale and nature of the activity.####,,,,,
+####Interest received e See Occupier's fixed costs below (F.)#### ,,,,,
+####B. Occupier's farm output = Total sales - valuation change of crops and livestock - BLSA####,,,,,
+####Opening valuation of livestock (d) Included in total livestock output in M/A####,,,,,
+####minus Closing valuation of livestock c Included in total livestock output in M/A####,,,,,
+####Cost of livestock purchases (b) Netted off from output in M/A####,,,,,
+#### Crop variable costs (h) Sum of three h columns in financial account####,,,,,
+####Livestock variable costs (i) Sum of three i columns in financial account####,,,,,
+####E. Occupier's farm gross margin   (B - C) = Gross profit - interest received - BLSA####,,,,,
+"####Machinery running costs and motor expenses (j) and Machinery running costs (j):  Machinery rental included under ""machinery running costs"" in F/A  but under ""contract costs"" in M/A####",,,,,
+####Maintenance and repairs  Excludes landlord type repairs####,,,,,
+####Insurance and landlord-type repairs Excludes employees insurance####,,,,,
+####Net interest payments Interest receipts are netted off####,,,,,
+####F. Occupier's fixed costs = Total overheads - interest received e####,,,,,

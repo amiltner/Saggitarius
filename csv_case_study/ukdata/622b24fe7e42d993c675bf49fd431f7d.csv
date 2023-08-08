@@ -1,0 +1,154 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,Description
+Department of Health,NHS Blood and Transplant,01/08/2013,LEGAL PROVISIONS,NBS and ODT All Areas,MANUAL PAYMENTS,1738603,85706.3,Settlement and other costs incurred relating to legal claims
+Department of Health,NHS Blood and Transplant,02/08/2013,CARTONS & PACKAGING,Organ Donation & Transplantation,BRANDON TRUST,1729783,33505.22,Cartons and Packaging used for transporting and storing
+Department of Health,NHS Blood and Transplant,02/08/2013,BRISTOL EYE BANK CHARGE,Organ Donation & Transplantation,UNIVERSITY OF BRISTOL,1733349,135926.75,Charges for operating Eye Bank at Bristol
+Department of Health,NHS Blood and Transplant,02/08/2013,EQUIPMENT MAINTENANCE CONTRACT,"Blood Supply: Manufacturing, Testing & Issue",BIO-RAD LABORATORIES LTD,1736592,41100,Costs of maintenance contracts on equipment
+Department of Health,NHS Blood and Transplant,02/08/2013,COURIER & DELIVERY CHARGES,Logistics,TNT EXPRESS UK LTD,1736041,47305.63,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,02/08/2013,TEST KITS - MOLECULAR,"Blood Supply: Manufacturing, Testing & Issue",NOVARTIS (FORM CHIRON CORPORATION LTD),1733694,25440,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,02/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,JOHNSON & JOHNSON MEDICAL LTD (THERAKOS),1732521,32103,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,02/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1733073,54899.72,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,02/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1734530,45690.62,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,02/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1732462,31965.7,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,02/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1733092,27627.26,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,02/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1734531,27449.86,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,02/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1734409,62208,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,02/08/2013,IT SOFTWARE MAINTENANCE,Business Transformation Services,SAVANT LIMITED,1733633,172081.44,Maintenance costs of IT software
+Department of Health,NHS Blood and Transplant,02/08/2013,PREMISES MAINTENANCE - MINOR WORKS,Estates & Facilities,INTERSERVE  CONSTRUCTION LTD,1731657,29893.96,Minor works projects costs
+Department of Health,NHS Blood and Transplant,02/08/2013,OTHER PROFESSIONAL FEES,Clinical,DEPARTMENT OF HEALTH,1733388,40000,Other professional fees - provision of Health Protection analytical support
+Department of Health,NHS Blood and Transplant,06/08/2013,PURCHASING CARD SUSPENSE,NBS and ODT All Areas,Royal Bank of Scotland plc,3956,88560.56,Purchasing Card Expenditure
+Department of Health,NHS Blood and Transplant,09/08/2013,DIRECT CONSUMABLES,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736997,1771.08,Consumable items used primarily during normal day to day operations
+Department of Health,NHS Blood and Transplant,09/08/2013,PAGERS,Business Transformation Services,VODAFONE,1733661,9555.76,Costs incurred relating to use of pagers
+Department of Health,NHS Blood and Transplant,09/08/2013,IT COMMUNICATIONS LINKS,Blood Supply: Blood Donation,VODAFONE,1733661,784.83,Costs of IT infrastructure communications links
+Department of Health,NHS Blood and Transplant,09/08/2013,IT COMMUNICATIONS LINKS,Business Transformation Services,VODAFONE,1733661,131866.15,Costs of IT infrastructure communications links
+Department of Health,NHS Blood and Transplant,09/08/2013,IT COMMUNICATIONS LINKS,Estates & Facilities,VODAFONE,1733661,3548.19,Costs of IT infrastructure communications links
+Department of Health,NHS Blood and Transplant,09/08/2013,IT COMMUNICATIONS LINKS,Research & Development,VODAFONE,1733661,316.57,Costs of IT infrastructure communications links
+Department of Health,NHS Blood and Transplant,09/08/2013,AVERAGE COST VARIANCE,General and Other,ABBOTT LABORATORIES LTD,1736997,0.01,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,09/08/2013,AVERAGE COST VARIANCE,General and Other,VODAFONE,1733661,1.58,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,09/08/2013,ELECTRICITY,Estates & Facilities,EDF ENERGY,1738057,28670.87,Electricity costs
+Department of Health,NHS Blood and Transplant,09/08/2013,VEHICLE REPAIRS & MAINTENANCE,Logistics,HITACHI CAPITAL,1733374,25797.27,External contract for fleet vehicle repairs amd maintenance
+Department of Health,NHS Blood and Transplant,09/08/2013,VEHICLE REPAIRS & MAINTENANCE,Logistics,LEASEPLAN UK LTD,1736950,40074.11,External contract for fleet vehicle repairs amd maintenance
+Department of Health,NHS Blood and Transplant,09/08/2013,EXTERNAL SERVICES OTHER,Finance,NHS SHARED BUSINESS SERVICES LTD,1734774,27913.77,External costs of providing other services
+Department of Health,NHS Blood and Transplant,09/08/2013,COURIER & DELIVERY CHARGES,General and Other,ABBOTT LABORATORIES LTD,1736997,119.5,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,09/08/2013,COURIER & DELIVERY CHARGES,Logistics,TNT EXPRESS UK LTD,1737511,50940.79,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,09/08/2013,COURIER & DELIVERY CHARGES,Logistics,TNT EXPRESS UK LTD,1737505,25737.7,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,09/08/2013,COURIER & DELIVERY CHARGES,Logistics,TNT EXPRESS UK LTD,1737508,24678.4,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,09/08/2013,TEST KITS HEPB,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736997,17813.28,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,09/08/2013,TEST KITS HEPC,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736997,125287.2,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,09/08/2013,TEST KITS HIV,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736997,20316.8,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,09/08/2013,TEST KITS HTLV,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736997,25200,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,09/08/2013,TEST KITS OTHER,Diagnostic & Therapeutic Services,QUEST BIOMEDICAL LIMITED,1734116,27256.32,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,09/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1734414,45690.62,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,09/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1734106,36836.35,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,09/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1734528,36481.54,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,09/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1734427,36126.72,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,09/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1733057,31965.7,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,09/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1734418,25724.16,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,09/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1734406,93312,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,09/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1735462,72576,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,09/08/2013,IT HARDWARE MAINTENANCE,Business Transformation Services,VODAFONE,1733661,18507.13,Maintenance costs of IT hardware
+Department of Health,NHS Blood and Transplant,09/08/2013,IT SOFTWARE MAINTENANCE,Finance,PATECH SOLUTIONS LIMITED,1734159,86068.52,Maintenance costs of IT software
+Department of Health,NHS Blood and Transplant,09/08/2013,IT SOFTWARE MAINTENANCE,Business Transformation Services,VODAFONE,1733661,1475.29,Maintenance costs of IT software
+Department of Health,NHS Blood and Transplant,09/08/2013,MANAGEMENT CONSULTANTS,General and Other,VODAFONE,1733661,8118.75,Management consultancy fees incurred - VPN installation and configuration for Donor Portal
+Department of Health,NHS Blood and Transplant,09/08/2013,PREMISES MAINTENANCE - MINOR WORKS,Estates & Facilities,INTERSERVE  CONSTRUCTION LTD,1735559,89225.16,Minor works projects costs
+Department of Health,NHS Blood and Transplant,09/08/2013,MOBILE TELEPHONES,Business Transformation Services,VODAFONE,1733661,44684.85,Mobile telephone costs
+Department of Health,NHS Blood and Transplant,09/08/2013,OTHER PROFESSIONAL FEES,Logistics,HITACHI CAPITAL,1733374,2932.5,Other professional fees - monthly management charge relating to leased fleet vehicle maintenance contract
+Department of Health,NHS Blood and Transplant,09/08/2013,OTHER PROFESSIONAL FEES,Logistics,LEASEPLAN UK LTD,1736950,3364,Other professional fees - monthly management charge relating to leased fleet vehicle maintenance contract
+Department of Health,NHS Blood and Transplant,09/08/2013,IT SOFTWARE LICENCE FEES,Business Transformation Services,VODAFONE,1733661,5620.66,Purchase of IT software licences
+Department of Health,NHS Blood and Transplant,09/08/2013,TELEPHONES,Business Transformation Services,VODAFONE,1733661,76042.94,Telephone costs
+Department of Health,NHS Blood and Transplant,15/08/2013,INSURANCE,Finance,NHS Litigation Authority,DD,64220,Insurance costs
+Department of Health,NHS Blood and Transplant,16/08/2013,DIRECT CONSUMABLES,"Blood Supply: Manufacturing, Testing & Issue",MACO PHARMA UK LTD,1735841,55440,Consumable items used primarily during normal day to day operations
+Department of Health,NHS Blood and Transplant,16/08/2013,AVERAGE COST VARIANCE,General and Other,NORLAND MANAGED SERVICES,1737613,-17.04,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,16/08/2013,ELECTRICITY,Estates & Facilities,BRITISH GAS TRADING LTD,1739622,26261.73,Electricity costs
+Department of Health,NHS Blood and Transplant,16/08/2013,ELECTRICITY,Estates & Facilities,EDF ENERGY,1739683,79055.1,Electricity costs
+Department of Health,NHS Blood and Transplant,16/08/2013,ELECTRICITY,Estates & Facilities,EDF ENERGY,1739680,42109.37,Electricity costs
+Department of Health,NHS Blood and Transplant,16/08/2013,ELECTRICITY,Estates & Facilities,EDF ENERGY,1739681,31681.49,Electricity costs
+Department of Health,NHS Blood and Transplant,16/08/2013,EXTERNAL MARKETING SERVICES,Blood Supply: Blood Donation,M4C,1736589,32661.3,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,16/08/2013,EXTERNAL SERVICES OTHER,Research & Development,OXFORD RADCLIFFE HOSPITALS NHS TRUST,1734636,35600.82,External costs of providing other services
+Department of Health,NHS Blood and Transplant,16/08/2013,EXTERNAL SERVICES OTHER,Organ Donation & Transplantation,QUINTILES LIMITED,1740611,25625,External costs of providing other services
+Department of Health,NHS Blood and Transplant,16/08/2013,COURIER & DELIVERY CHARGES,General and Other,ABBOTT LABORATORIES LTD,1736989,119.5,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,16/08/2013,COURIER & DELIVERY CHARGES,Logistics,TNT EXPRESS UK LTD,1739788,44610.06,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,16/08/2013,AUDIT INTERNAL,Finance,PRICEWATERHOUSECOOPERS,1739278,27090,Fees for internal audit work
+Department of Health,NHS Blood and Transplant,16/08/2013,TEST KITS HEPB,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736989,25686.89,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,16/08/2013,TEST KITS HEPC,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736989,180100.35,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,16/08/2013,TEST KITS HIV,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736989,29205.4,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,16/08/2013,TEST KITS HTLV,"Blood Supply: Manufacturing, Testing & Issue",ABBOTT LABORATORIES LTD,1736989,41400,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,16/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1740727,35829.22,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,16/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1740728,33752.16,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,16/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1736951,45690.62,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,16/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1736956,40819.97,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,16/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1736911,27449.86,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,16/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1736912,25724.16,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,16/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1735868,62208,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,16/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1736979,51840,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,16/08/2013,PREMISES MAINTENANCE - MINOR WORKS,Estates & Facilities,INTERSERVE  CONSTRUCTION LTD,1735557,46681.7,Minor works projects costs
+Department of Health,NHS Blood and Transplant,16/08/2013,OTHER PROFESSIONAL FEES,Business Transformation Services,GARTNER UK LTD,1735966,25000,Other professional fees - bvalue for money assessment for a contract extension
+Department of Health,NHS Blood and Transplant,16/08/2013,PREMISES MAINTENANCE - PLANNED,Estates & Facilities,NORLAND MANAGED SERVICES,1737630,54231.64,Planned / scheduled premises maintenace costs
+Department of Health,NHS Blood and Transplant,16/08/2013,PREMISES MAINTENANCE - PLANNED,Estates & Facilities,NORLAND MANAGED SERVICES,1737613,53828.13,Planned / scheduled premises maintenace costs
+Department of Health,NHS Blood and Transplant,16/08/2013,POSTAGE,Blood Supply: Blood Donation,STRALFORS,1736578,34287.78,Postage costs
+Department of Health,NHS Blood and Transplant,16/08/2013,POSTAGE,Blood Supply: Blood Donation,STRALFORS,1736579,34056.29,Postage costs
+Department of Health,NHS Blood and Transplant,16/08/2013,POSTAGE,Blood Supply: Blood Donation,STRALFORS,1736581,32877.9,Postage costs
+Department of Health,NHS Blood and Transplant,16/08/2013,POSTAGE,Blood Supply: Blood Donation,STRALFORS,1736577,31137.23,Postage costs
+Department of Health,NHS Blood and Transplant,16/08/2013,RENT/LEASE,Estates & Facilities,UNIVERSITY HOSPITALS OF MORECAMBE BAY NHS TRUST,1736464,25364.5,Property rent costs
+Department of Health,NHS Blood and Transplant,16/08/2013,IT SOFTWARE,Business Transformation Services,SAVANT LIMITED,1737955,94514.73,Purchase of IT software
+Department of Health,NHS Blood and Transplant,16/08/2013,IT SOFTWARE,Business Transformation Services,SOFTCAT LTD,1724797,84180,Purchase of IT software
+Department of Health,NHS Blood and Transplant,16/08/2013,TEMPORARY OTHER,Logistics,IMPACT EXECUTIVES LTD,1737691,25200,Temporary Staff costs
+Department of Health,NHS Blood and Transplant,23/08/2013,BUSINESS RATES,Estates & Facilities,BRENTWOOD BOROUGH COUNCIL,1704293,25199,Business rates
+Department of Health,NHS Blood and Transplant,23/08/2013,BUSINESS RATES,Estates & Facilities,SOUTH GLOUCESTERSHIRE COUNCIL PO BOX 101,1697275,56049,Business rates
+Department of Health,NHS Blood and Transplant,23/08/2013,CARRIAGE INWARDS,Diagnostic & Therapeutic Services,VH BIO LTD,1736733,66,Carriage charges on stores purchases
+Department of Health,NHS Blood and Transplant,23/08/2013,CARTONS & PACKAGING,Organ Donation & Transplantation,BRANDON TRUST,1738879,28551.11,Cartons and Packaging used for transporting and storing
+Department of Health,NHS Blood and Transplant,23/08/2013,BRISTOL EYE BANK CHARGE,Organ Donation & Transplantation,UNIVERSITY OF BRISTOL,1733350,122458.2,Charges for operating Eye Bank at Bristol
+Department of Health,NHS Blood and Transplant,23/08/2013,VEHICLE FUEL & OILS,Blood Supply: Blood Donation,ALLSTAR BUSINESS SOLUTIONS LTD,1738261,1324.03,Charges for vehicle fuel
+Department of Health,NHS Blood and Transplant,23/08/2013,VEHICLE FUEL & OILS,Logistics,ALLSTAR BUSINESS SOLUTIONS LTD,1738261,47970.07,Charges for vehicle fuel
+Department of Health,NHS Blood and Transplant,23/08/2013,VEHICLE FUEL & OILS,Organ Donation & Transplantation,ALLSTAR BUSINESS SOLUTIONS LTD,1738261,143.51,Charges for vehicle fuel
+Department of Health,NHS Blood and Transplant,23/08/2013,DIRECT CONSUMABLES,"Blood Supply: Manufacturing, Testing & Issue",MACO PHARMA UK LTD,1737794,47586,Consumable items used primarily during normal day to day operations
+Department of Health,NHS Blood and Transplant,23/08/2013,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,PAPWORTH HOSPITAL NHS TRUST,1730312,55000,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,23/08/2013,AVERAGE COST VARIANCE,General and Other,HAEMONETICS LIMITED,1738683,40953.6,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,23/08/2013,CLEANING CONTRACT,Estates & Facilities,REGENT CLEANING SERVICES,1737136,34141.68,External cleaning contracts
+Department of Health,NHS Blood and Transplant,23/08/2013,CLEANING CONTRACT,Estates & Facilities,REGENT CLEANING SERVICES,1740160,24037.53,External cleaning contracts
+Department of Health,NHS Blood and Transplant,23/08/2013,EXTERNAL MAILING SERVICES,Blood Supply: Blood Donation,STRALFORS,1739324,52355.64,"External costs of mailing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,23/08/2013,EXTERNAL MAILING SERVICES,Blood Supply: Blood Donation,TELEPERFORMANCE LIMITED,1737892,71310.07,"External costs of mailing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,23/08/2013,EXTERNAL MARKETING SERVICES,Blood Supply: Blood Donation,M4C,1736602,49993.52,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,23/08/2013,EXTERNAL MARKETING SERVICES,Blood Supply: Blood Donation,TELEPERFORMANCE LIMITED,1737895,254427.8,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,23/08/2013,COURIER & DELIVERY CHARGES,Logistics,TNT EXPRESS UK LTD,1741622,43798.25,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,23/08/2013,TEST KITS OTHER,Diagnostic & Therapeutic Services,VH BIO LTD,1736733,128928,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1742116,66638.88,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1742316,31536,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1742311,25228.8,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1742337,25228.8,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,JOHNSON & JOHNSON MEDICAL LTD,1718331,32103,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1742383,54544.9,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1742374,40997.38,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1736907,31965.7,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1742379,31788.29,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1738461,27449.86,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1740043,72576,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1740046,51840,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1738008,41472,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1740040,31104,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,23/08/2013,PREMISES MAINTENANCE - PLANNED,Estates & Facilities,MITIE TECHNICAL FACILITIES MANAGEMENT,1736636,51095.35,Planned / scheduled premises maintenace costs
+Department of Health,NHS Blood and Transplant,23/08/2013,POSTAGE,Blood Supply: Blood Donation,STRALFORS,1739366,29716.95,Postage costs
+Department of Health,NHS Blood and Transplant,23/08/2013,RENT/LEASE,Estates & Facilities,RHODIA UK LTD,1736542,68360.4,Property rent costs
+Department of Health,NHS Blood and Transplant,23/08/2013,TRAVEL AND HOTEL SUSPENSE ACCOUNT,NBS and ODT All Areas,REDFERN TRAVEL LTD,1738542,281271.68,Travel and hotel costs arising from central booking system used
+Department of Health,NHS Blood and Transplant,23/08/2013,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,University Hospital Of South Manchester NHS Foundation Trust,2295,502950,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,30/08/2013,DIRECT CONSUMABLES,Diagnostic & Therapeutic Services,QUEST BIOMEDICAL LIMITED,1739882,1053,Consumable items used primarily during normal day to day operations
+Department of Health,NHS Blood and Transplant,30/08/2013,AVERAGE COST VARIANCE,General and Other,EUROPEAN ELECTRONIQUE LTD,1738379,0.01,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,30/08/2013,AVERAGE COST VARIANCE,General and Other,SRCL LTD,1743430,-0.01,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,30/08/2013,WASTE DISPOSAL - CLINICAL,Estates & Facilities,SRCL LTD,1743430,21901.2,External Contract for disposal of clinical waste
+Department of Health,NHS Blood and Transplant,30/08/2013,EXTERNAL MARKETING SERVICES,Blood Supply: Blood Donation,M4C,1739409,78046.26,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,30/08/2013,EXTERNAL MARKETING SERVICES,Blood Supply: Blood Donation,M4C,1739411,57435.65,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,30/08/2013,EXTERNAL MARKETING SERVICES,Blood Supply: Blood Donation,M4C,1739412,22370.19,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,30/08/2013,EXTERNAL MARKETING SERVICES,Communications,TWENTYSIX LTD,1737666,21270,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,30/08/2013,EXTERNAL SERVICES OTHER,Clinical,EUROPEAN ELECTRONIQUE LTD,1738379,792,External costs of providing other services
+Department of Health,NHS Blood and Transplant,30/08/2013,EXTERNAL SERVICES OTHER,Research & Development,UNIVERSITY OF BRISTOL,1743701,29072.62,External costs of providing other services
+Department of Health,NHS Blood and Transplant,30/08/2013,COURIER & DELIVERY CHARGES,Logistics,TNT EXPRESS UK LTD,1743710,44514.3,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,30/08/2013,TEST KITS OTHER,Diagnostic & Therapeutic Services,QUEST BIOMEDICAL LIMITED,1739882,32004,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,30/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,JOHNSON & JOHNSON MEDICAL LTD,1740009,64206,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,30/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1742273,72253.44,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,30/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1742268,63931.39,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,30/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1742857,103680,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,30/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1742838,62208,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,30/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1742855,51840,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,30/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1742841,31104,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,30/08/2013,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1742856,31104,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,30/08/2013,IT HARDWARE,Clinical,EUROPEAN ELECTRONIQUE LTD,1738379,13122.53,Purchase of IT hardware
+Department of Health,NHS Blood and Transplant,30/08/2013,IT SOFTWARE,Clinical,EUROPEAN ELECTRONIQUE LTD,1738379,19064.36,Purchase of IT software

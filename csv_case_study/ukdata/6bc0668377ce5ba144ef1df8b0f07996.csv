@@ -1,0 +1,218 @@
+Country,LAType,LAName,TotalNumberOfEstablishments(IncludingNotYetRatedAndOutside)(1),NumberOfEstablishmentsNotYetRatedForIntervention(1),NumberOfEstablishmentsOutsideProgramme(1),Total%OfInterventionsAchieved(PremisesRatedA-C),Total%OfInterventionsAchieved-PremisesRatedA,Total%OfInterventionsAchieved-PremisesRatedB,Total%OfInterventionsAchieved-PremisesRatedC,Total%OfInterventionsAchieved-PremisesNotYetRated,TotalNumberOfEstablishmentsSubjectToFormalEnforcementActions-Seizure|DetentionAndSurrenderOfFood,TotalNumberOfEstablishmentsSubjectToFormalEnforcementActions-SimpleCautions,TotalNumberOfEstablishmentsSubjectToFormalEnforcementActions-ImprovementNotices,TotalNumberOfEstablishmentsSubjectToWrittenWarnings,TotalNumberOfEstablishmentsSubjectToFormalEnforcementActions-ProsecutionsConcluded,ProfessionalFullTimeEquivalentPosts-Occupied*
+England,County Council,Buckinghamshire,4422,200,9,4.70,100.00,11.52,2.58,94.29,0,0,0,31,0,2.51
+England,County Council,Cambridgeshire ?,4943,0,0,15.00,88.00,21.05,6.75,100.00,0,0,0,12,0,1.50
+England,County Council,Cumbria,5312,60,0,74.44,100.00,100.00,68.18,98.13,0,0,0,78,1,2.00
+England,County Council,Derbyshire,9036,54,0,48.24,93.02,69.82,16.71,34.15,0,1,0,1,0,4.00
+England,County Council,Devon and Somerset ?,20842,320,0,5.94,100.00,6.61,3.36,52.37,0,0,0,74,0,3.07
+England,County Council,Dorset,5206,24,0,74.10,100.00,58.25,100.00,NR,0,0,0,34,0,2.80
+England,County Council,East Sussex,7041,26,2,34.72,96.03,39.23,13.48,100.00,0,0,0,21,0,1.00
+England,County Council,Essex ?,14570,872,0,34.48,75.65,21.47,35.29,91.89,0,0,0,13,0,5.35
+England,County Council,Gloucestershire ?,4710,1107,0,100.00,100.00,100.00,100.00,100.00,0,0,0,0,0,2.00
+England,County Council,Hampshire,8936,552,0,7.30,99.11,6.29,4.15,50.15,0,1,0,64,0,2.90
+England,County Council,Hertfordshire,7201,510,0,4.97,100.00,5.26,3.69,3.09,0,0,0,2,0,6.20
+England,County Council,Kent ?,15256,1253,0,89.44,100.00,85.64,98.28,100.00,0,0,0,1,0,3.80
+England,County Council,Lancashire,10133,37,14,26.01,100.00,28.71,14.66,88.89,0,51,12,0,4,4.00
+England,County Council,Leicestershire,3815,424,0,37.15,100.00,45.90,34.93,100.00,0,2,5,109,0,3.20
+England,County Council,Lincolnshire ?,8855,47,19,1.81,24.10,2.02,0.34,0.00,0,0,0,15,0,2.00
+England,County Council,Norfolk ,8007,0,0,100.00,100.00,100.00,100.00,NR,0,0,1,27,0,4.80
+England,County Council,North Yorkshire ?,9284,153,0,19.35,65.22,3.43,29.03,100.00,0,0,1,35,0,2.85
+England,County Council,Northamptonshire,4580,1,0,46.85,100.00,43.33,54.84,100.00,1,0,0,30,0,2.50
+England,County Council,Nottinghamshire ,6267,329,0,3.14,98.89,1.68,1.58,9.40,0,0,0,0,0,2.60
+England,County Council,Oxfordshire,7004,0,0,2.00,89.87,0.98,0.96,100.00,0,0,0,15,0,1.99
+England,County Council,Staffordshire,10111,139,1,36.65,100.00,62.91,28.75,91.61,0,0,1,39,1,3.50
+England,County Council,Suffolk ?,9978,9130,3,12.64,50.70,7.95,2.86,100.00,1,0,0,64,0,2.00
+England,County Council,Surrey,8844,21,1491,4.56,100.00,5.26,2.89,83.33,0,0,0,23,0,3.66
+England,County Council,Warwickshire,5571,1048,228,2.49,100.00,3.32,0.87,2.92,0,2,0,20,1,3.00
+England,County Council,West Sussex,10555,39,0,58.52,96.57,48.12,53.25,100.00,0,1,0,140,1,5.40
+England,County Council,Worcestershire ?,6699,1737,0,3.86,15.38,2.09,4.60,0.81,0,0,0,1,0,1.00
+England,London Borough,Barking & Dagenham ?,,,,55.39,62.50,74.81,40.35,100.00,0,0,0,1,0,1.00
+England,London Borough,Barnet,,,,31.50,100.00,45.07,22.97,91.50,3,0,0,69,0,1.00
+England,London Borough,Bexley ?,,,,99.52,100.00,98.14,100.00,100.00,0,0,0,538,0,5.50
+England,London Borough,Brent ?,,,,65.45,50.88,59.13,72.61,56.79,0,0,0,6,0,2.00
+England,London Borough,Bromley,,,,54.82,100.00,62.50,51.19,100.00,0,0,2,11,0,2.22
+England,London Borough,Camden (2),,,,99.93,100.00,99.89,100.00,57.77,0,0,0,0,0,0.80
+England,London Borough,City of London,,,,50.71,100.00,65.44,44.97,100.00,0,0,0,124,0,0.90
+England,London Borough,Croydon,,,,50.65,0.00,30.48,100.00,100.00,0,0,0,11,0,3.80
+England,London Borough,Ealing ?,,,,73.60,58.46,79.04,72.22,55.37,0,0,4,367,0,1.00
+England,London Borough,Enfield,,,,47.52,100.00,50.40,40.82,100.00,0,0,0,332,0,1.40
+England,London Borough,Greenwich,,,,73.18,78.57,59.88,87.64,100.00,0,0,1,71,0,2.20
+England,London Borough,Hackney,,,,44.44,100.00,41.33,48.84,100.00,0,0,0,437,0,0.25
+England,London Borough,Hammersmith & Fulham,,,,71.76,50.00,68.51,100.00,78.93,0,0,0,95,1,0.50
+England,London Borough,Haringey,,,,54.14,85.71,55.71,52.45,100.00,0,0,0,67,0,1.40
+England,London Borough,Harrow ?,,,,35.53,55.56,36.32,34.32,100.00,4,1,0,81,0,2.00
+England,London Borough,Havering,,,,67.93,100.00,79.39,48.41,93.51,0,0,0,763,0,1.00
+England,London Borough,Hillingdon,,,,93.10,100.00,90.23,93.61,95.49,4,0,3,146,0,1.00
+England,London Borough,Hounslow,,,,95.10,100.00,97.11,94.02,100.00,0,0,1,721,0,3.00
+England,London Borough,Islington,,,,84.10,71.43,81.05,85.21,100.00,0,0,0,25,0,1.10
+England,London Borough,Kensington & Chelsea,,,,100.00,100.00,100.00,100.00,98.56,1,0,0,148,0,1.75
+England,London Borough,Kingston-Upon-Thames,,,,12.15,44.83,29.87,9.23,95.24,1,0,0,41,0,1.00
+England,London Borough,Lambeth ?,,,,57.42,100.00,47.51,66.53,58.59,0,0,0,354,0,1.50
+England,London Borough,Lewisham,,,,6.34,72.73,7.38,4.08,100.00,0,0,0,12,0,0.80
+England,London Borough,Merton,,,,35.50,54.55,34.23,35.90,100.00,0,0,0,26,0,1.30
+England,London Borough,Newham ?,,,,68.36,16.67,72.78,69.59,91.10,0,0,0,7,0,2.00
+England,London Borough,Redbridge ?,,,,100.00,NR,100.00,100.00,NR,0,0,0,0,0,0.50
+England,London Borough,Richmond-Upon-Thames,,,,30.05,0.00,35.03,28.93,81.13,0,0,0,44,0,1.20
+England,London Borough,Southwark ?,,,,52.67,90.91,62.92,46.72,39.13,6,0,0,107,0,1.25
+England,London Borough,Sutton,,,,70.22,72.73,89.27,55.11,NR,0,0,0,104,0,2.70
+England,London Borough,Tower Hamlets,,,,80.21,100.00,81.21,77.19,82.26,3,0,2,1310,0,0.83
+England,London Borough,Waltham Forest,,,,36.09,40.00,38.49,32.05,100.00,0,0,1,0,0,2.05
+England,London Borough,Wandsworth,,,,100.00,100.00,100.00,100.00,100.00,0,0,2,0,0,2.00
+England,London Borough,Westminster (3),,,,,,,,,,,,,,0.00
+England,Metropolitan Borough Council,Barnsley ,,,,32.89,75.00,45.90,23.53,58.12,0,0,7,88,2,1.00
+England,Metropolitan Borough Council,Birmingham ?,,,,79.31,97.18,88.83,70.69,100.00,0,0,8,15,2,3.00
+England,Metropolitan Borough Council,Bolton,,,,11.22,73.91,14.88,4.71,14.34,0,0,0,4,0,6.20
+England,Metropolitan Borough Council,Bradford (5),,,,,,,,,,,,,,0.00
+England,Metropolitan Borough Council,Bury,,,,6.06,100.00,68.29,1.17,0.00,0,0,0,17,0,0.85
+England,Metropolitan Borough Council,Calderdale (5),,,,,,,,,,,,,,0.00
+England,Metropolitan Borough Council,Coventry,,,,4.33,100.00,5.46,2.71,100.00,0,2,0,8,1,0.50
+England,Metropolitan Borough Council,Doncaster,,,,10.10,33.33,19.23,8.06,99.65,6,0,0,363,1,4.40
+England,Metropolitan Borough Council,Dudley (7),,,,100.00,100.00,100.00,100.00,100.00,0,0,0,284,0,2.00
+England,Metropolitan Borough Council,Gateshead,,,,21.24,100.00,26.85,10.26,50.40,3,1,2,70,2,1.00
+England,Metropolitan Borough Council,Kirklees (5),,,,,,,,,,,,,,0.00
+England,Metropolitan Borough Council,Knowsley,,,,47.77,100.00,71.79,37.72,100.00,0,0,0,24,0,0.50
+England,Metropolitan Borough Council,Leeds (5),,,,,,,,,,,,,,0.00
+England,Metropolitan Borough Council,Liverpool,,,,53.02,18.18,53.59,48.78,NR,0,0,0,14,0,0.80
+England,Metropolitan Borough Council,Manchester,,,,96.80,66.67,96.87,97.00,91.40,0,0,0,145,0,2.00
+England,Metropolitan Borough Council,Newcastle Upon Tyne,,,,75.17,66.67,63.93,78.21,100.00,1,0,1,12,0,1.20
+England,Metropolitan Borough Council,North Tyneside,,,,56.48,100.00,55.32,53.57,100.00,0,0,0,65,0,0.60
+England,Metropolitan Borough Council,Oldham,,,,99.28,100.00,94.34,99.80,100.00,0,0,0,222,0,0.85
+England,Metropolitan Borough Council,Rochdale,,,,11.58,50.00,28.81,8.93,100.00,0,0,0,108,1,0.15
+England,Metropolitan Borough Council,Rotherham ?,,,,72.65,100.00,98.67,61.20,100.00,0,0,0,494,0,2.00
+England,Metropolitan Borough Council,Salford,,,,18.05,95.45,18.27,12.01,86.02,1,2,0,14,0,0.80
+England,Metropolitan Borough Council,Sandwell,,,,21.65,100.00,26.44,8.73,84.13,0,10,0,0,0,1.00
+England,Metropolitan Borough Council,Sefton,,,,81.48,100.00,67.86,100.00,100.00,0,0,0,186,0,2.00
+England,Metropolitan Borough Council,Sheffield ?,,,,3.81,95.65,2.44,3.16,7.71,0,1,0,24,1,1.30
+England,Metropolitan Borough Council,Solihull,,,,94.96,50.00,92.16,95.69,65.32,0,0,0,11,0,1.10
+England,Metropolitan Borough Council,South Tyneside,,,,46.50,100.00,65.33,36.43,100.00,0,0,0,59,0,1.96
+England,Metropolitan Borough Council,St Helens Council,,,,100.00,100.00,100.00,100.00,NR,0,0,0,1,0,0.50
+England,Metropolitan Borough Council,Stockport ?,,,,1.92,32.00,2.36,0.43,0.92,0,0,0,1,0,1.00
+England,Metropolitan Borough Council,Sunderland,,,,85.25,0.00,75.71,88.89,82.95,0,0,0,116,0,1.00
+England,Metropolitan Borough Council,Tameside ?,,,,83.90,76.92,89.87,61.54,100.00,7,0,0,12,0,2.50
+England,Metropolitan Borough Council,Trafford,,,,81.20,100.00,74.10,98.11,73.33,0,0,0,223,1,1.00
+England,Metropolitan Borough Council,Wakefield (5),,,,,,,,,,,,,,0.00
+England,Metropolitan Borough Council,Walsall,,,,23.54,86.05,20.60,19.79,0.00,0,2,0,33,0,2.00
+England,Metropolitan Borough Council,West Yorkshire (6),,,,100.00,100.00,100.00,100.00,100.00,0,37,2,519,2,4.00
+England,Metropolitan Borough Council,Wigan,,,,100.00,100.00,100.00,100.00,100.00,0,1,0,137,0,1.00
+England,Metropolitan Borough Council,Wirral,,,,74.58,72.22,77.86,66.96,68.06,0,0,4,104,1,1.50
+England,Metropolitan Borough Council,Wolverhampton,,,,62.01,50.00,84.62,57.47,67.30,0,0,0,97,0,1.83
+England,Unitary Authority,Bath & North East Somerset,,,,75.70,86.36,58.22,90.87,0.00,0,0,0,319,0,1.00
+England,Unitary Authority,Bedford,,,,85.60,NR,75.29,90.91,64.42,0,0,0,8,0,0.60
+England,Unitary Authority,Blackburn ?,,,,74.56,100.00,71.29,75.27,62.01,0,0,2,0,0,0.10
+England,Unitary Authority,Blackpool,,,,23.46,36.36,12.94,27.69,100.00,0,0,0,7,0,1.00
+England,Unitary Authority,Bournemouth,,,,97.01,100.00,97.94,94.44,100.00,0,0,0,0,0,1.00
+England,Unitary Authority,Bracknell Forest,,,,94.92,100.00,90.32,100.00,100.00,0,0,0,40,0,1.50
+England,Unitary Authority,Brighton & Hove,,,,81.54,98.90,77.89,74.47,100.00,0,148,0,7,0,1.60
+England,Unitary Authority,Bristol,,,,2.15,100.00,2.52,0.18,75.00,0,0,0,2,0,2.60
+England,Unitary Authority,Central Bedfordshire,,,,65.98,20.00,63.76,77.34,69.42,0,0,0,0,0,2.00
+England,Unitary Authority,Cheshire East,,,,79.11,100.00,71.05,94.14,19.35,0,2,0,141,0,1.00
+England,Unitary Authority,Cheshire West & Chester,,,,47.05,90.00,27.11,63.10,0.00,0,0,0,298,0,2.00
+England,Unitary Authority,Cornwall,,,,78.30,100.00,76.22,69.81,76.58,0,0,0,255,2,3.60
+England,Unitary Authority,Darlington ?,,,,81.88,NR,50.00,86.26,100.00,0,0,0,10,0,0.65
+England,Unitary Authority,Derby City,,,,94.53,100.00,96.12,93.57,80.85,0,0,0,5,0,2.00
+England,Unitary Authority,Durham,,,,88.43,100.00,77.32,99.64,100.00,2,0,0,376,0,3.05
+England,Unitary Authority,East Riding of Yorkshire ,,,,51.04,100.00,41.59,68.96,22.42,0,0,0,241,1,2.27
+England,Unitary Authority,Halton,,,,5.20,72.73,13.64,2.99,13.14,0,0,0,8,0,0.50
+England,Unitary Authority,Hartlepool (4),,,,100.00,100.00,100.00,100.00,100.00,0,0,4,80,0,0.00
+England,Unitary Authority,Herefordshire,,,,24.65,100.00,53.03,19.77,8.24,0,0,0,19,0,2.00
+England,Unitary Authority,Hull City,,,,90.18,100.00,92.43,73.53,100.00,0,0,26,128,0,2.50
+England,Unitary Authority,Isle of Wight,,,,43.62,50.00,37.04,44.28,65.70,0,0,0,96,0,1.00
+England,Unitary Authority,Isles of Scilly ,,,,50.00,81.82,46.67,0.00,NR,0,0,0,15,0,0.10
+England,Unitary Authority,Leicester City ?,,,,83.79,60.00,68.72,98.84,100.00,0,0,0,327,0,1.00
+England,Unitary Authority,Luton,,,,16.52,NR,29.32,8.72,44.78,0,0,0,50,0,5.50
+England,Unitary Authority,Medway,,,,22.56,100.00,95.52,12.62,100.00,0,0,0,8,0,2.00
+England,Unitary Authority,Middlesbrough,,,,33.51,50.00,49.69,27.21,59.24,0,0,2,52,2,1.00
+England,Unitary Authority,Milton Keynes ?,,,,13.63,75.00,30.82,7.35,32.48,0,0,0,68,0,0.80
+England,Unitary Authority,North East Lincolnshire,,,,45.60,100.00,78.38,12.96,100.00,0,0,0,63,1,1.00
+England,Unitary Authority,North Lincolnshire ,,,,10.49,97.67,30.57,3.24,77.33,0,0,0,151,0,1.00
+England,Unitary Authority,North Somerset,,,,100.00,100.00,100.00,100.00,90.91,0,0,0,0,0,0.50
+England,Unitary Authority,Northumberland,,,,97.08,100.00,96.86,93.33,55.49,0,0,0,305,0,2.00
+England,Unitary Authority,Nottingham City,,,,57.43,78.57,73.12,53.64,78.26,1,0,7,372,0,1.90
+England,Unitary Authority,Peterborough City,,,,8.64,55.56,11.83,5.31,31.52,0,0,1,3,0,0.60
+England,Unitary Authority,Plymouth City,,,,28.09,100.00,42.28,23.10,67.88,0,0,1,175,0,1.00
+England,Unitary Authority,Poole,,,,22.19,96.00,10.84,33.33,69.23,0,0,0,16,0,2.40
+England,Unitary Authority,Portsmouth,,,,100.00,100.00,100.00,100.00,100.00,0,2,0,108,2,0.25
+England,Unitary Authority,Reading,,,,26.21,100.00,51.23,11.09,21.99,0,0,0,72,0,1.00
+England,Unitary Authority,Redcar & Cleveland ?,,,,67.76,80.00,36.78,89.34,45.03,0,0,0,16,0,0.80
+England,Unitary Authority,Rutland,,,,19.11,100.00,8.94,28.69,0.63,0,0,0,1,0,0.60
+England,Unitary Authority,Shropshire,,,,100.00,100.00,NR,NR,100.00,0,0,0,0,0,0.50
+England,Unitary Authority,Slough,,,,81.20,100.00,63.91,98.39,100.00,0,0,0,20,0,1.00
+England,Unitary Authority,South Gloucestershire,,,,46.50,50.00,51.72,45.91,75.91,0,0,0,1,0,0.10
+England,Unitary Authority,Southampton,,,,74.49,73.33,76.25,73.86,NR,0,2,0,168,0,1.50
+England,Unitary Authority,Southend-On-Sea,,,,90.19,NR,78.38,94.32,82.73,0,0,0,149,1,1.23
+England,Unitary Authority,Stockton on Tees ,,,,51.74,100.00,84.75,15.88,100.00,0,0,0,110,1,0.75
+England,Unitary Authority,Stoke -On-Trent ?,,,,77.57,94.12,69.93,93.97,38.75,0,0,0,82,0,2.60
+England,Unitary Authority,Swindon Borough Council,,,,89.21,75.00,87.77,91.85,100.00,1,0,6,222,1,1.50
+England,Unitary Authority,Telford and Wrekin,,,,48.40,100.00,50.00,46.27,100.00,0,0,0,82,0,0.94
+England,Unitary Authority,Thurrock,,,,78.86,85.71,95.56,74.74,100.00,0,0,0,261,0,1.00
+England,Unitary Authority,Torbay Council,,,,20.63,0.00,21.66,20.41,100.00,0,0,0,313,0,1.70
+England,Unitary Authority,Warrington,,,,18.13,0.00,15.36,28.93,65.15,0,0,0,27,0,0.70
+England,Unitary Authority,West Berkshire,,,,26.73,100.00,100.00,5.28,3.83,0,0,0,23,2,1.20
+England,Unitary Authority,Wiltshire,,,,9.13,73.33,5.13,82.05,0.89,0,0,0,46,0,1.40
+England,Unitary Authority,Windsor & Maidenhead,,,,0.54,100.00,0.91,0.31,NR,0,0,0,0,0,1.00
+England,Unitary Authority,Wokingham,,,,40.40,100.00,98.73,3.90,13.17,0,0,0,37,0,1.20
+England,Unitary Authority,York ?,,,,1.90,0.00,3.52,0.49,2.15,0,0,0,1,0,0.25
+Northern Ireland,NI Unitary Authority,Antrim and Newtownabbey ?,,,,69.93,100.00,97.22,64.33,87.07,1,0,0,48,0,3.00
+Northern Ireland,NI Unitary Authority,Ards and North Down,,,,38.22,100.00,64.08,27.19,68.98,0,0,0,178,1,3.00
+Northern Ireland,NI Unitary Authority,Armagh City| Banbridge and Craigavon ?,,,,92.24,100.00,98.86,90.17,90.26,4,0,0,220,0,3.00
+Northern Ireland,NI Unitary Authority,Belfast City,,,,95.86,100.00,98.60,95.16,95.88,2,0,1,282,1,8.00
+Northern Ireland,NI Unitary Authority,Causeway Coast and Glens,,,,82.01,93.10,86.13,78.39,82.26,0,0,0,94,0,3.00
+Northern Ireland,NI Unitary Authority,Derry City and Strabane,,,,57.66,94.12,88.61,47.06,86.88,0,0,0,90,0,1.00
+Northern Ireland,NI Unitary Authority,Fermanagh and Omagh,,,,94.39,100.00,90.66,96.30,0.00,0,0,0,103,0,1.30
+Northern Ireland,NI Unitary Authority,Lisburn and Castlereagh City,,,,97.65,100.00,99.38,96.12,97.48,0,0,0,173,0,1.00
+Northern Ireland,NI Unitary Authority,Mid and East Antrim,,,,81.34,100.00,87.18,77.61,90.48,0,0,0,145,0,2.00
+Northern Ireland,NI Unitary Authority,Mid Ulster,,,,80.72,77.78,90.95,74.71,98.19,0,0,0,161,0,2.00
+Northern Ireland,NI Unitary Authority,Newry| Mourne and Down,,,,89.98,91.84,96.57,85.29,94.66,0,0,0,119,1,4.00
+Scotland,Scottish Unitary Authority,Aberdeen City,,,,40.27,64.71,64.10,33.22,70.28,0,0,0,548,1,2.60
+Scotland,Scottish Unitary Authority,Aberdeenshire,,,,36.88,42.86,37.50,36.09,100.00,0,0,0,0,0,2.69
+Scotland,Scottish Unitary Authority,Angus,,,,84.68,100.00,96.36,82.25,100.00,2,0,1,245,0,1.50
+Scotland,Scottish Unitary Authority,Argyll and Bute,,,,53.03,92.86,69.57,43.16,100.00,0,0,0,22,0,1.00
+Scotland,Scottish Unitary Authority,Clackmannanshire,,,,98.94,100.00,100.00,97.44,100.00,0,0,0,41,0,0.70
+Scotland,Scottish Unitary Authority,Comhairle nan Eilean Siar (Western Isles),,,,90.04,95.65,91.30,87.93,100.00,1,0,0,12,0,1.00
+Scotland,Scottish Unitary Authority,Dumfries and Galloway,,,,98.72,94.44,96.49,99.57,99.35,0,0,0,28,0,0.85
+Scotland,Scottish Unitary Authority,Dundee City,,,,86.13,100.00,97.91,82.21,97.10,0,0,0,17,0,7.45
+Scotland,Scottish Unitary Authority,East Ayrshire,,,,96.52,100.00,97.02,95.89,100.00,0,0,0,139,0,6.00
+Scotland,Scottish Unitary Authority,East Dunbartonshire,,,,84.56,100.00,93.44,76.06,100.00,0,0,0,10,0,3.00
+Scotland,Scottish Unitary Authority,East Lothian,,,,99.36,100.00,100.00,98.88,100.00,0,0,0,5,0,1.00
+Scotland,Scottish Unitary Authority,East Renfrewshire,,,,100.00,100.00,100.00,100.00,100.00,0,0,0,14,0,2.80
+Scotland,Scottish Unitary Authority,Edinburgh (City of),,,,57.53,100.00,76.47,39.02,100.00,0,0,0,144,0,2.90
+Scotland,Scottish Unitary Authority,Falkirk,,,,77.17,28.57,86.42,75.58,100.00,0,0,0,75,0,1.60
+Scotland,Scottish Unitary Authority,Fife,,,,64.54,100.00,89.24,60.04,100.00,0,0,0,12,0,2.30
+Scotland,Scottish Unitary Authority,Glasgow City,,,,74.15,58.82,73.31,74.96,100.00,0,0,0,620,0,1.00
+Scotland,Scottish Unitary Authority,Highland,,,,62.48,95.45,70.22,48.97,94.30,1,0,0,91,0,1.33
+Scotland,Scottish Unitary Authority,Inverclyde,,,,95.38,100.00,94.70,95.68,100.00,0,0,0,118,0,0.56
+Scotland,Scottish Unitary Authority,Midlothian,,,,97.08,75.00,98.51,97.04,100.00,0,0,0,69,0,1.40
+Scotland,Scottish Unitary Authority,Moray,,,,90.11,100.00,94.88,82.62,100.00,6,0,1,145,0,4.00
+Scotland,Scottish Unitary Authority,North Ayrshire,,,,98.37,NR,100.00,98.08,100.00,0,0,0,59,0,2.00
+Scotland,Scottish Unitary Authority,North Lanarkshire,,,,99.91,93.33,99.92,100.00,100.00,0,0,1,171,0,14.00
+Scotland,Scottish Unitary Authority,Orkney Islands,,,,97.22,100.00,97.14,97.18,100.00,0,0,0,18,0,0.50
+Scotland,Scottish Unitary Authority,Perth and Kinross,,,,36.61,100.00,79.02,31.72,100.00,0,0,0,123,0,5.50
+Scotland,Scottish Unitary Authority,Renfrewshire,,,,99.01,100.00,99.48,98.51,89.13,0,0,0,268,0,1.50
+Scotland,Scottish Unitary Authority,Scottish Borders,,,,99.57,90.00,99.41,100.00,100.00,0,0,0,121,0,2.15
+Scotland,Scottish Unitary Authority,Shetland Islands,,,,85.09,100.00,90.48,83.94,90.20,0,0,0,14,0,1.75
+Scotland,Scottish Unitary Authority,South Ayrshire,,,,95.49,100.00,100.00,94.35,100.00,0,0,0,136,0,5.40
+Scotland,Scottish Unitary Authority,South Lanarkshire,,,,99.19,100.00,97.75,100.00,100.00,0,0,0,158,0,11.82
+Scotland,Scottish Unitary Authority,Stirling ?,,,,90.42,100.00,89.72,90.72,100.00,0,0,0,156,0,4.30
+Scotland,Scottish Unitary Authority,West Dunbartonshire,,,,99.83,100.00,100.00,99.70,100.00,0,0,0,5,0,3.65
+Scotland,Scottish Unitary Authority,West Lothian,,,,97.56,100.00,97.77,97.43,95.00,0,0,0,161,0,1.30
+Wales,Welsh Unitary Authority ,Anglesey,,,,64.79,100.00,56.61,69.46,26.09,0,0,0,36,0,0.70
+Wales,Welsh Unitary Authority ,Blaenau Gwent,,,,61.32,100.00,61.88,21.62,97.73,0,0,0,87,0,0.68
+Wales,Welsh Unitary Authority ,Bridgend ?,,,,35.91,11.11,34.70,37.23,89.52,0,0,0,2,0,1.00
+Wales,Welsh Unitary Authority ,Caerphilly,,,,80.64,100.00,69.76,88.26,94.33,0,0,0,242,0,3.40
+Wales,Welsh Unitary Authority ,Cardiff  ?,,,,2.87,100.00,86.21,1.11,100.00,0,0,0,9,0,5.80
+Wales,Welsh Unitary Authority ,Carmarthenshire ?,,,,100.00,100.00,100.00,100.00,100.00,0,18,3,7,0,4.00
+Wales,Welsh Unitary Authority ,Ceredigion ?,,,,43.43,100.00,48.12,28.80,66.06,0,4,0,2,2,1.50
+Wales,Welsh Unitary Authority ,Conwy,,,,83.93,100.00,87.98,74.88,83.25,0,0,0,113,0,4.25
+Wales,Welsh Unitary Authority ,Denbighshire ?,,,,100.00,100.00,100.00,100.00,99.06,0,0,0,25,0,1.00
+Wales,Welsh Unitary Authority ,Flintshire,,,,97.64,100.00,100.00,94.08,90.70,0,0,0,150,0,3.00
+Wales,Welsh Unitary Authority ,Gwynedd,,,,50.05,100.00,56.16,44.29,84.41,0,0,1,250,1,4.65
+Wales,Welsh Unitary Authority ,Merthyr Tydfil ?,,,,100.00,100.00,100.00,100.00,100.00,0,0,1,98,0,0.54
+Wales,Welsh Unitary Authority ,Monmouthshire,,,,98.58,100.00,99.22,98.02,100.00,0,0,5,207,0,1.00
+Wales,Welsh Unitary Authority ,Neath & Port Talbot,,,,39.22,100.00,70.00,13.66,30.43,0,1,0,106,4,1.00
+Wales,Welsh Unitary Authority ,Newport ?,,,,31.21,100.00,33.33,12.87,100.00,1,0,0,14,5,0.95
+Wales,Welsh Unitary Authority ,Pembrokeshire ?,,,,93.87,95.65,85.00,100.00,93.20,0,0,0,268,0,4.00
+Wales,Welsh Unitary Authority ,Powys ?,,,,22.61,98.28,26.78,4.60,100.00,0,0,0,50,0,2.60
+Wales,Welsh Unitary Authority ,Rhondda Cynon Taf,,,,82.87,100.00,81.89,77.78,90.46,0,0,0,194,1,7.50
+Wales,Welsh Unitary Authority ,Swansea ?,,,,49.83,92.50,48.26,20.83,100.00,0,0,0,27,5,3.50
+Wales,Welsh Unitary Authority ,Torfaen,,,,58.54,100.00,70.44,44.60,95.65,9,0,0,74,0,1.50
+Wales,Welsh Unitary Authority ,Vale of Glamorgan ?,,,,3.53,33.33,3.49,3.29,71.79,0,0,0,2,0,1.00
+Wales,Welsh Unitary Authority ,Wrexham ?,,,,42.22,61.54,52.63,31.62,33.33,0,0,0,2,1,1.20

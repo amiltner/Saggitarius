@@ -1,0 +1,414 @@
+Organisation,Service Area,Cost Centre,Expense Type,Payment Date,Transaction No.,Amount,"Capital
+Revenue",Supplier Name,Supplier ID
+Rushmoor Borough Council,Community,2551,Operational Equipment,11/06/2015,0000189180,648.33,Revenue,Facultatieve Technologies Ltd,05289
+Rushmoor Borough Council,Community,2551,Operational Equipment,11/06/2015,0000189504,281.54,Revenue,Facultatieve Technologies Ltd,05289
+Rushmoor Borough Council,Community,2551,Memorial Vaults,11/06/2015,0000192084,5940.00,Revenue,The Columbaria Company,00993
+Rushmoor Borough Council,Information Technology,3302,Application Software,04/06/2015,0000192112,1000.00,Revenue,Idox Software Ltd,00661
+Rushmoor Borough Council,Environmental Health and Housing,2213,Equipment Maintenance,04/06/2015,0000192407,940.00,Revenue,Campbell Associates Ltd,06610
+Rushmoor Borough Council,Customer Services,3811,Conferences and Seminars,04/06/2015,0000192516,-350.00,Revenue,Capita Conferences,11309
+Rushmoor Borough Council,Strategy and Communiations,1413,Grants to Enterprise First,25/06/2015,0000192813,2625.00,Revenue,Enterprise First,00155
+Rushmoor Borough Council,Community,2537,Computer Equipment and Software,04/06/2015,0000192838,356.25,Revenue,Imperial Civil Enforcement Solutions,13348
+Rushmoor Borough Council,Community,2538,Computer Equipment and Software,04/06/2015,0000192838,1068.75,Revenue,Imperial Civil Enforcement Solutions,13348
+Rushmoor Borough Council,Information Technology,7500,Flexible Working Review,04/06/2015,0000192840,1434.10,Capital,Phoenix Software,00724
+Rushmoor Borough Council,Community,6540,Contract Costs,04/06/2015,0000192862,14733.65,Capital,Stage Electrics,07262
+Rushmoor Borough Council,Community,2553,Wheeled Bin Delivery/Assembly,25/06/2015,0000192881,1060.14,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2553,Payment to Contractor,25/06/2015,0000192881,256.46,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2553,Bulky Waste Collection,25/06/2015,0000192881,2268.38,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2553,Clinical Waste,25/06/2015,0000192881,1717.70,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2554,Wheeled Bin Delivery/Assembly,25/06/2015,0000192881,2333.29,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2554,Payment to Contractor,25/06/2015,0000192881,412.32,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2558,Payment to Contractor,11/06/2015,0000192910,5000.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2558,Payment to Contractor,11/06/2015,0000192910,43847.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2558,Additional Contract Payment,11/06/2015,0000192910,50809.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2559,Payment to Contractor,11/06/2015,0000192910,5000.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2559,Payment to Contractor,11/06/2015,0000192910,38823.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2559,Additional Contract Payment,11/06/2015,0000192910,22675.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2560,Booking Service Contract,11/06/2015,0000192910,7695.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2560,Payment to Contractor,11/06/2015,0000192910,5000.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2560,Payment to Contractor,11/06/2015,0000192910,10889.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2560,Payment to Contractor,11/06/2015,0000192910,17394.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Community,2560,Additional Contract Payment,11/06/2015,0000192910,22675.00,Revenue,Places For People - Management Fee Only,13178
+Rushmoor Borough Council,Strategy and Communiations,1411,Citizen Consultancy,11/06/2015,0000192917,668.40,Revenue,Drumainn Ltd,13522
+Rushmoor Borough Council,Community,2554,Glass Skip,25/06/2015,0000192934,781.40,Revenue,Fcc Recycling (Uk) Limited,11978
+Rushmoor Borough Council,Community,2518,Snap Discos,18/06/2015,0000192955,550.00,Revenue,Piper Music Management Ltd,08419
+Rushmoor Borough Council,Community,2508,Cherrywood Brochure,04/06/2015,0000193034,616.00,Revenue,Lithoxpress Limited,09331
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,04/06/2015,0000193147,720.00,Revenue,Ashbee Guest House,11542
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,04/06/2015,0000193149,1020.00,Revenue,Ashbee Guest House,11542
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,04/06/2015,0000193154,2250.00,Revenue,Ashbee Guest House,11542
+Rushmoor Borough Council,Information Technology,3304,Temporary Staff,04/06/2015,0000193162,562.50,Revenue,Austin Fraser,09925
+Rushmoor Borough Council,Community,6597,Contract Costs,04/06/2015,0000193162,562.50,Capital,Austin Fraser,09925
+Rushmoor Borough Council,Information Technology,7500,Flexible Working Review,04/06/2015,0000193162,281.25,Capital,Austin Fraser,09925
+Rushmoor Borough Council,Legal,1200,Legal Costs (Litigation),04/06/2015,0000193188,2010.36,Revenue,Local Government Association,00573
+Rushmoor Borough Council,Democratic Services,1325,Operational Equipment,11/06/2015,0000193193,990.00,Revenue,Morgana Systems Ltd,09704
+Rushmoor Borough Council,Environmental Health and Housing,2203,Training Expenses,04/06/2015,0000193196,700.00,Revenue,Capita Conferences,11309
+Rushmoor Borough Council,Strategy and Communiations,1402,Admin Equipment,25/06/2015,0000193218,538.90,Revenue,Misco Computer Products,00628
+Rushmoor Borough Council,Community,2549,Materials,25/06/2015,0000193218,549.66,Revenue,Misco Computer Products,00628
+Rushmoor Borough Council,Democratic Services,1323,Postages,04/06/2015,0000193233,5700.00,Revenue,Neopost Limited,11588
+Rushmoor Borough Council,Democratic Services,1326,General Repairs and Maintenance,04/06/2015,0000193262,909.00,Revenue,Accurate Mechanical Services Ltd,12623
+Rushmoor Borough Council,Strategy and Communiations,1402,Miscellaneous Expenses,04/06/2015,0000193268,380.25,Revenue,Misco Computer Products,00628
+Rushmoor Borough Council,Community,2549,Materials,04/06/2015,0000193268,380.25,Revenue,Misco Computer Products,00628
+Rushmoor Borough Council,Community,2551,Operational Equipment,11/06/2015,0000193269,2650.00,Revenue,Clearskies Software Ltd,12304
+Rushmoor Borough Council,Community,2517,Maintenance of Pavilions and Buildings,04/06/2015,0000193270,538.00,Revenue,Westronics Ltd,10247
+Rushmoor Borough Council,Strategy and Communiations,1402,Miscellaneous Expenses,04/06/2015,0000193276,365.00,Revenue,Vodafone Limited,08864
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,04/06/2015,0000193280,462.00,Revenue,Acme Technical Services Limited,03569
+Rushmoor Borough Council,Holding Accounts,9404,Trading Company Consultancy,04/06/2015,0000193284,541.40,Holding Accounts,Scrumptious Consultancy,13554
+Rushmoor Borough Council,Democratic Services,1323,Postages,04/06/2015,0000193285,1399.39,Revenue,Royal Mail,00821
+Rushmoor Borough Council,Holding Accounts,9404,Trading Company Consultancy,04/06/2015,0000193286,1041.40,Holding Accounts,Scrumptious Consultancy,13554
+Rushmoor Borough Council,Democratic Services,1322,Trade Refuse,04/06/2015,0000193289,697.22,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Democratic Services,1322,Canteen Subsidy,04/06/2015,0000193291,906.41,Revenue,Edwards And Ward Ltd,12710
+Rushmoor Borough Council,Democratic Services,1303,Travel and Subsistence,04/06/2015,0000193292,329.00,Revenue,Edwards And Ward Ltd,12710
+Rushmoor Borough Council,Planning,2612,Recruitment Advertising,04/06/2015,0000193294,545.00,Revenue,Jobs Go Public,08630
+Rushmoor Borough Council,Community,6540,Contract Costs,04/06/2015,0000193298,-259.36,Capital,Stage Electrics,07262
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,04/06/2015,0000193302,487.50,Revenue,Temple Lifts Limited,12997
+Rushmoor Borough Council,Democratic Services,1322,Equipment Maintenance,04/06/2015,0000193304,261.50,Revenue,Commercial Dishwasher Services,03316
+Rushmoor Borough Council,Community,2517,Playground Apparatus,04/06/2015,0000193305,428.36,Revenue,Hags-Smp Ltd,04499
+Rushmoor Borough Council,Democratic Services,1322,Refreshments at Meetings,04/06/2015,0000193306,271.46,Revenue,Coffee Select Ltd,12667
+Rushmoor Borough Council,Legal,1208,Repair and Maintenance Paved Areas,04/06/2015,0000193308,3548.00,Revenue,Baydale Control Systems,12558
+Rushmoor Borough Council,Community,2518,Payment to Artistes,04/06/2015,0000193309,470.10,Revenue,H H Clark (Caterers) Ltd,01393
+Rushmoor Borough Council,Director of Resources,3106,Contractor,04/06/2015,0000193311,3750.00,Revenue,Calcott Solutions Limited,10534
+Rushmoor Borough Council,Director of Resources,3106,Contractor,04/06/2015,0000193314,3750.00,Revenue,Calcott Solutions Limited,10534
+Rushmoor Borough Council,Community,2538,Telecommunications,04/06/2015,0000193317,425.81,Revenue,O2 Uk Ltd,04540
+Rushmoor Borough Council,Customer Services,3811,Contract Staff,04/06/2015,0000193318,988.00,Revenue,Morgan Hunt Uk Ltd,08445
+Rushmoor Borough Council,Community,2556,Payment to Contractor,04/06/2015,0000193320,2376.00,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2555,Payment to Contractor,04/06/2015,0000193321,13883.40,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2556,Payment to Contractor,04/06/2015,0000193322,772.46,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2556,Contract Variations Highways,04/06/2015,0000193324,2381.29,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2556,Car Parks,04/06/2015,0000193325,7280.79,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2556,Highways,04/06/2015,0000193325,65718.83,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2556,Parks,04/06/2015,0000193325,9644.96,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,04/06/2015,0000193327,4200.00,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2537,Lighting Repairs,04/06/2015,0000193330,294.46,Revenue,City Electrical Factors (Aldershot),00236
+Rushmoor Borough Council,Democratic Services,1302,External Printing,04/06/2015,0000193331,2633.56,Revenue,Electoral Reform Services,06506
+Rushmoor Borough Council,Community,2553,Payment to Contractor,04/06/2015,0000193336,106175.74,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2553,Clinical Waste,04/06/2015,0000193336,733.75,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2554,Payment to Contractor,04/06/2015,0000193336,64475.04,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Customer Services,3814,Temporary Staff,04/06/2015,0000193338,510.23,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Community,2510,Temporary Staff,04/06/2015,0000193339,717.68,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,04/06/2015,0000193341,727.00,Revenue,Earth Anchors Ltd,00321
+Rushmoor Borough Council,Community,2518,Databox Maintenance,25/06/2015,0000193342,360.00,Revenue,Spektrix Limited,13635
+Rushmoor Borough Council,Community,2565,Clothes and Uniform,04/06/2015,0000193345,6023.80,Revenue,Nicoll Industries Limited,13474
+Rushmoor Borough Council,Community,2540,Repairs and Maintenance Signs,04/06/2015,0000193348,2965.00,Revenue,Signway Supplies,00884
+Rushmoor Borough Council,Democratic Services,1322,Electricity,04/06/2015,0000193351,6030.30,Revenue,Edf Energy,09831
+Rushmoor Borough Council,Democratic Services,1323,Postages,04/06/2015,0000193353,1063.57,Revenue,Royal Mail,00821
+Rushmoor Borough Council,Community,2508,Operational Equipment,04/06/2015,0000193354,495.00,Revenue,D & P Coaches,01735
+Rushmoor Borough Council,Community,2551,Building and Monument Maintenance,04/06/2015,0000193355,4282.38,Revenue,Facultatieve Technologies Ltd,05289
+Rushmoor Borough Council,Community,2551,Book of Remembrance,04/06/2015,0000193357,418.81,Revenue,Hilton Cabinet Co Ltd,00024
+Rushmoor Borough Council,Democratic Services,1323,Mobile Phones,04/06/2015,0000193359,498.02,Revenue,Vodafone Limited,08864
+Rushmoor Borough Council,Democratic Services,1322,General Repairs and Maintenance,04/06/2015,0000193360,1300.00,Revenue,Thorobrite Cleaning Services,01043
+Rushmoor Borough Council,Holding Accounts,9436,Insurance,04/06/2015,0000193361,8860.00,Holding Accounts,Zurich Municipal,01129
+Rushmoor Borough Council,Holding Accounts,9436,Insurance,04/06/2015,0000193363,13134.93,Holding Accounts,Zurich Municipal,01129
+Rushmoor Borough Council,Democratic Services,1323,Postages,04/06/2015,0000193368,1432.14,Revenue,Royal Mail,00821
+Rushmoor Borough Council,Democratic Services,1322,Cleaning Materials,04/06/2015,0000193379,522.01,Revenue,Bowak Ltd,04579
+Rushmoor Borough Council,Community,2551,Registration Fees,04/06/2015,0000193381,445.00,Revenue,Institute Of Cemetery & Crematorium Man,02762
+Rushmoor Borough Council,Community,2537,External Printing,04/06/2015,0000193382,1170.00,Revenue,Bemrosebooth Ltd,04104
+Rushmoor Borough Council,Financial Services,3402,Consultancy,11/06/2015,0000193384,2400.00,Revenue,Baker Tilly,13646
+Rushmoor Borough Council,Strategy and Communiations,1413,Economic Development Promotions,04/06/2015,0000193385,1000.00,Revenue,The Sixth Form College Farnborough B,13647
+Rushmoor Borough Council,Strategy and Communiations,1413,Learning Partnership,04/06/2015,0000193385,2000.00,Revenue,The Sixth Form College Farnborough B,13647
+Rushmoor Borough Council,Personnel & Payroll,3601,Subscriptions,04/06/2015,0000193387,300.00,Revenue,South East Employers,00906
+Rushmoor Borough Council,Planning,2604,Publicity and Advertising,04/06/2015,0000193388,447.85,Revenue,Hampshire Media Ltd,12446
+Rushmoor Borough Council,Democratic Services,1323,Postages,04/06/2015,0000193392,1486.61,Revenue,Neopost Limited,12328
+Rushmoor Borough Council,Community,2517,Tree Maintenance,04/06/2015,0000193393,516.00,Revenue,Cedardale Arborcultural Specialists Ltd,11645
+Rushmoor Borough Council,Democratic Services,1312,Contract Staff,04/06/2015,0000193394,1035.00,Revenue,Hays,02287
+Rushmoor Borough Council,Strategy and Communiations,1409,Temporary Staff,11/06/2015,0000193395,2215.77,Revenue,Basingstoke & Deane Borough Council,00141
+Rushmoor Borough Council,Legal,1202,Temporary Staff,04/06/2015,0000193396,1284.29,Revenue,Hays,02287
+Rushmoor Borough Council,Democratic Services,1310,Miscellaneous Expenses,04/06/2015,0000193397,730.25,Revenue,Condeco Ltd,09705
+Rushmoor Borough Council,Democratic Services,1322,Equipment Maintenance,04/06/2015,0000193397,730.25,Revenue,Condeco Ltd,09705
+Rushmoor Borough Council,Community,2517,Tree Maintenance,04/06/2015,0000193399,2661.00,Revenue,Cedardale Arborcultural Specialists Ltd,11645
+Rushmoor Borough Council,Strategy and Communiations,1413,Learning Partnership,04/06/2015,0000193400,286.80,Revenue,Basingstoke Consortium Limited,13650
+Rushmoor Borough Council,Community,2537,Electricity,04/06/2015,0000193401,1342.42,Revenue,Edf Energy,09831
+Rushmoor Borough Council,Personnel & Payroll,3601,Consultancy,04/06/2015,0000193407,858.33,Revenue,Reed,11780
+Rushmoor Borough Council,Democratic Services,1321,Promotions,04/06/2015,0000193410,406.66,Revenue,Southern Waterscapes,12935
+Rushmoor Borough Council,Information Technology,3300,Conferences and Seminars,04/06/2015,0000193417,500.00,Revenue,Agi,00078
+Rushmoor Borough Council,Community,2515,Direct Grants,04/06/2015,0000193420,10500.00,Revenue,Samuel Cody Specialist Sports College,00851
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,04/06/2015,0000193423,672.00,Revenue,Phillips Accomodation Ltd,01284
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,04/06/2015,0000193424,336.00,Revenue,Phillips Accomodation Ltd,01284
+Rushmoor Borough Council,Community,2517,Tree Maintenance,04/06/2015,0000193427,2520.00,Revenue,Alderwood Tree Services,01218
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,04/06/2015,0000193428,2475.00,Revenue,Annies Guest House,10688
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,04/06/2015,0000193429,935.00,Revenue,Annies Guest House,10688
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,04/06/2015,0000193430,450.00,Revenue,Airport Lodge,10121
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,11/06/2015,0000193433,500.00,Revenue,Airport Lodge,10121
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,11/06/2015,0000193434,700.00,Revenue,Airport Lodge,10121
+Rushmoor Borough Council,Information Technology,3304,Network Software,04/06/2015,0000193438,350.00,Revenue,Cleverbridge,12125
+Rushmoor Borough Council,Community,2526,Rents,11/06/2015,0000193439,2544.17,Revenue,Savills (Uk) Ltd,12411
+Rushmoor Borough Council,Environmental Health and Housing,2402,Step by Step,04/06/2015,0000193445,10000.00,Revenue,Step By Step,02660
+Rushmoor Borough Council,Democratic Services,1325,Photocopiers,18/06/2015,0000193446,380.60,Revenue,Konica Minolta Business Solutions(Uk)Ltd,09612
+Rushmoor Borough Council,Democratic Services,1325,Photocopiers,18/06/2015,0000193447,2957.06,Revenue,Konica Minolta Business Solutions(Uk)Ltd,09612
+Rushmoor Borough Council,Community,2517,Maintenance of Pavilions and Buildings,04/06/2015,0000193455,484.00,Revenue,Gilgen Door Systems,00445
+Rushmoor Borough Council,Customer Services,3811,Admin Equipment,11/06/2015,0000193456,627.20,Revenue,Misco Computer Products,00628
+Rushmoor Borough Council,Community,2559,General Repairs and Maintenance,04/06/2015,0000193457,500.00,Revenue,J K  Build Ltd,01239
+Rushmoor Borough Council,Environmental Health and Housing,6242,Contract Costs,04/06/2015,0000193458,600.00,Capital,J K  Build Ltd,01239
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,04/06/2015,0000193460,335.00,Revenue,Acme Technical Services Limited,03569
+Rushmoor Borough Council,Community,2549,Materials,11/06/2015,0000193462,256.55,Revenue,Phoenix Software,00724
+Rushmoor Borough Council,Information Technology,3304,General Hardware,11/06/2015,0000193462,256.55,Revenue,Phoenix Software,00724
+Rushmoor Borough Council,Information Technology,7500,Channel Shift,04/06/2015,0000193463,2328.75,Capital,Capita Business Services Ltd,00208
+Rushmoor Borough Council,Legal,1208,Devereux House,04/06/2015,0000193464,790.00,Revenue,J K  Build Ltd,01239
+Rushmoor Borough Council,Legal,1209,Legionela Maintenance,04/06/2015,0000193468,3381.13,Revenue,Building Monitoring Services Ltd,08586
+Rushmoor Borough Council,Community,2537,External Printing,04/06/2015,0000193471,-675.00,Revenue,Bemrosebooth Ltd,04104
+Rushmoor Borough Council,Planning,2612,Admin Equipment,11/06/2015,0000193473,699.50,Revenue,D K Office Furniture,08652
+Rushmoor Borough Council,Director of Community and Environment Services,2100,Operational Equipment,11/06/2015,0000193474,399.60,Revenue,D K Office Furniture,08652
+Rushmoor Borough Council,Financial Services,3401,Admin Equipment,04/06/2015,0000193475,399.60,Revenue,D K Office Furniture,08652
+Rushmoor Borough Council,Environmental Health and Housing,2219,Weight Challenge,11/06/2015,0000193480,302.40,Revenue,H H Clark (Caterers) Ltd,01393
+Rushmoor Borough Council,Community,2510,Temporary Staff,11/06/2015,0000193481,697.57,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Democratic Services,1310,Mail Dispatch,04/06/2015,0000193484,360.00,Revenue,Rapid Despatch Logistics Ltd,13208
+Rushmoor Borough Council,Community,2537,Security Services,04/06/2015,0000193485,2357.88,Revenue,Contract Security Services Ltd,00014
+Rushmoor Borough Council,Planning,2604,Publicity and Advertising,11/06/2015,0000193489,427.00,Revenue,Hampshire Media Ltd,12446
+Rushmoor Borough Council,Legal,1208,Routine Grounds Maintenance,04/06/2015,0000193491,2507.74,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Democratic Services,1322,Routine Grounds Maintenance,04/06/2015,0000193491,1133.18,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2537,Grounds Maintenance Base,04/06/2015,0000193491,580.50,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2540,Amenity Base,04/06/2015,0000193491,24653.89,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2540,Amenity Variations,04/06/2015,0000193491,1129.31,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2550,Grounds Maintenance Base,04/06/2015,0000193491,14934.16,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2550,Grounds Maintenance,04/06/2015,0000193491,883.81,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2551,Grounds Maintenance Base,04/06/2015,0000193491,9151.06,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2552,Prospect Estate Base,04/06/2015,0000193491,2483.78,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2552,Grounds Maintenance Base,04/06/2015,0000193491,30743.78,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2552,Grounds Maintenance,04/06/2015,0000193491,6967.44,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2549,Leasing Charges,04/06/2015,0000193493,310.21,Revenue,Northgate Vehicle Hire (South) Ltd,10334
+Rushmoor Borough Council,Community,2518,Temporary Staff,04/06/2015,0000193495,382.59,Revenue,The Allgood Theatre Company,08579
+Rushmoor Borough Council,Community,2518,Youth Theatre,04/06/2015,0000193495,1850.00,Revenue,The Allgood Theatre Company,08579
+Rushmoor Borough Council,Personnel & Payroll,3601,Operational Equipment,04/06/2015,0000193496,553.30,Revenue,Corporate Medical Services,10281
+Rushmoor Borough Council,Community,2537,General Repairs and Maintenance,11/06/2015,0000193502,350.00,Revenue,P A Gibbs Ltd,01246
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,04/06/2015,0000193504,500.00,Revenue,P A Gibbs Ltd,01246
+Rushmoor Borough Council,Customer Services,3811,Contract Staff,04/06/2015,0000193507,754.00,Revenue,Morgan Hunt Uk Ltd,08445
+Rushmoor Borough Council,Community,2518,Payment to Artistes,04/06/2015,0000193509,718.37,Revenue,Derek Block Concert Promotions Ltd,02720
+Rushmoor Borough Council,Community,2508,Cherrywood Brochure,04/06/2015,0000193511,555.66,Revenue,Scw Deliveries,13091
+Rushmoor Borough Council,Information Technology,3304,Telephony Support,04/06/2015,0000193512,790.00,Revenue,Spring Telecommunications,08672
+Rushmoor Borough Council,Democratic Services,1303,Books and Publications,11/06/2015,0000193514,498.50,Revenue,Lexisnexis Uk,00199
+Rushmoor Borough Council,Strategy and Communiations,1402,Books and Publications,11/06/2015,0000193514,498.50,Revenue,Lexisnexis Uk,00199
+Rushmoor Borough Council,Community,2555,Water,04/06/2015,0000193517,506.04,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Community,2517,Water,04/06/2015,0000193528,701.00,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Information Technology,3304,Temporary Staff,04/06/2015,0000193530,468.75,Revenue,Austin Fraser,09925
+Rushmoor Borough Council,Community,6597,Contract Costs,04/06/2015,0000193530,562.50,Capital,Austin Fraser,09925
+Rushmoor Borough Council,Information Technology,7500,Flexible Working Review,04/06/2015,0000193530,375.00,Capital,Austin Fraser,09925
+Rushmoor Borough Council,Information Technology,7500,Uniform/Confirm,04/06/2015,0000193530,281.25,Capital,Austin Fraser,09925
+Rushmoor Borough Council,Community,2517,Skate Park Maintenance,04/06/2015,0000193531,1960.00,Revenue,Safeplay Ps Ltd,13576
+Rushmoor Borough Council,Information Technology,3304,Temporary Staff,11/06/2015,0000193532,375.00,Revenue,Austin Fraser,09925
+Rushmoor Borough Council,Community,2517,Skate Park Maintenance,04/06/2015,0000193533,1260.00,Revenue,Safeplay Ps Ltd,13576
+Rushmoor Borough Council,Democratic Services,1312,Contract Staff,04/06/2015,0000193534,1008.00,Revenue,Hays,02287
+Rushmoor Borough Council,Community,2517,Skate Park Maintenance,04/06/2015,0000193535,1140.00,Revenue,Safeplay Ps Ltd,13576
+Rushmoor Borough Council,Community,2517,Skate Park Maintenance,04/06/2015,0000193536,1060.00,Revenue,Safeplay Ps Ltd,13576
+Rushmoor Borough Council,Community,2518,Payment to Artistes,04/06/2015,0000193537,7294.47,Revenue,Entertainers Management Ltd,13068
+Rushmoor Borough Council,Community,6522,Contract Costs,04/06/2015,0000193539,898.91,Capital,Clive Richardson Limited,13407
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,11/06/2015,0000193540,336.00,Revenue,Phillips Accomodation Ltd,01284
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,11/06/2015,0000193541,672.00,Revenue,Phillips Accomodation Ltd,01284
+Rushmoor Borough Council,Personnel & Payroll,3601,Consultancy,04/06/2015,0000193545,895.38,Revenue,Reed,11780
+Rushmoor Borough Council,Community,2549,Materials,11/06/2015,0000193546,460.50,Revenue,Phoenix Software,00724
+Rushmoor Borough Council,Information Technology,3304,General Hardware,11/06/2015,0000193546,460.50,Revenue,Phoenix Software,00724
+Rushmoor Borough Council,Strategy and Communiations,1411,Citizen Consultancy,18/06/2015,0000193550,667.50,Revenue,Drumainn Ltd,13522
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,04/06/2015,0000193552,1790.00,Revenue,Ves Andover Ltd,08781
+Rushmoor Borough Council,Community,6511,Contract Costs,25/06/2015,0000193555,11372.61,Capital,Radarlux Radar Systems (Uk) Ltd,07047
+Rushmoor Borough Council,Democratic Services,1322,Water,04/06/2015,0000193556,420.31,Revenue,Building Monitoring Services Ltd,08586
+Rushmoor Borough Council,Community,2549,Materials,11/06/2015,0000193557,425.22,Revenue,Chambers Waste Management Plc,00217
+Rushmoor Borough Council,Democratic Services,1322,Repair and Maintenance of Fixed Plant,11/06/2015,0000193558,5400.00,Revenue,P J S Building Services,08039
+Rushmoor Borough Council,Information Technology,3302,Temporary Staff,04/06/2015,0000193562,4200.00,Revenue,Auron Media Limited,12877
+Rushmoor Borough Council,Customer Services,3814,Security Services,11/06/2015,0000193564,607.68,Revenue,Contract Security Services Ltd,00014
+Rushmoor Borough Council,Legal,1206,General Repairs and Maintenance,11/06/2015,0000193568,560.00,Revenue,Jenkins & Falvey,03370
+Rushmoor Borough Council,Community,2517,Playground Apparatus,11/06/2015,0000193571,357.54,Revenue,Proludic Ltd,07094
+Rushmoor Borough Council,Community,2517,Skate Park Maintenance,11/06/2015,0000193572,960.00,Revenue,Safeplay Ps Ltd,13576
+Rushmoor Borough Council,Community,2537,General Repairs and Maintenance,11/06/2015,0000193573,390.00,Revenue,Sg Structures Ltd,09429
+Rushmoor Borough Council,Community,2517,Skate Park Maintenance,11/06/2015,0000193574,2340.00,Revenue,Safeplay Ps Ltd,13576
+Rushmoor Borough Council,Customer Services,3808,Training Expenses,11/06/2015,0000193575,500.00,Revenue,Airey Consultancy Services,08608
+Rushmoor Borough Council,Financial Services,3401,Company Searches,11/06/2015,0000193579,330.00,Revenue,N2 Check Limited,10689
+Rushmoor Borough Council,Democratic Services,1303,Equipment Storage,25/06/2015,0000193580,1557.07,Revenue,Royal Mail,00821
+Rushmoor Borough Council,Community,2549,Leasing Charges,25/06/2015,0000193585,289.50,Revenue,Hampshire County Council,01206
+Rushmoor Borough Council,Community,2536,Elders Lunch Club,11/06/2015,0000193587,277.20,Revenue,Myers Catering & Consultancy Limited,06313
+Rushmoor Borough Council,Community,2537,Electricity,18/06/2015,0000193588,-1342.42,Revenue,Edf Energy,09831
+Rushmoor Borough Council,Democratic Services,1322,Electricity,18/06/2015,0000193590,-6030.30,Revenue,Edf Energy,09831
+Rushmoor Borough Council,Legal,1202,Temporary Staff,11/06/2015,0000193592,1284.29,Revenue,Hays,02287
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,11/06/2015,0000193593,1405.00,Revenue,Fence Hire (Southern) Ltd,02987
+Rushmoor Borough Council,Community,2517,Tree Survey Works,11/06/2015,0000193595,1330.00,Revenue,Sapling Arboriculture Limited,09448
+Rushmoor Borough Council,Planning,2604,Publicity and Advertising,25/06/2015,0000193599,260.20,Revenue,Hampshire Media Ltd,12446
+Rushmoor Borough Council,Community,2549,Materials,11/06/2015,0000193603,425.51,Revenue,Farnborough Tool Hire,05971
+Rushmoor Borough Council,Community,2518,Publicity and Advertising,11/06/2015,0000193605,500.00,Revenue,Eagle Radio Limited,06575
+Rushmoor Borough Council,Community,2549,Materials,25/06/2015,0000193610,381.42,Revenue,Farnborough Tool Hire,05971
+Rushmoor Borough Council,Environmental Health and Housing,6402,Contract Costs,11/06/2015,0000193612,621.92,Capital,Bruel And Kjaer Uk Ltd,11691
+Rushmoor Borough Council,Environmental Health and Housing,6402,Contract Costs,11/06/2015,0000193613,10302.08,Capital,Bruel And Kjaer Uk Ltd,11691
+Rushmoor Borough Council,Legal,1202,Counsels Fees,11/06/2015,0000193615,475.00,Revenue,Ellistons Slp,12876
+Rushmoor Borough Council,Legal,1202,Counsels Fees,11/06/2015,0000193616,300.00,Revenue,Miss Gemma White,13435
+Rushmoor Borough Council,Community,2551,Memorial Vaults,11/06/2015,0000193619,263.50,Revenue,The Columbaria Company,00993
+Rushmoor Borough Council,Legal,1208,Security Alarm,11/06/2015,0000193620,526.04,Revenue,Orbis Protect Ltd,06771
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,11/06/2015,0000193622,295.60,Revenue,Consort Frozen Foods Ltd,00260
+Rushmoor Borough Council,Community,2517,Water,11/06/2015,0000193623,428.05,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Democratic Services,1322,Electricity,18/06/2015,0000193624,5966.78,Revenue,Edf Energy,09831
+Rushmoor Borough Council,Democratic Services,1322,Repair and Maintenance of Fixed Plant,11/06/2015,0000193625,1150.00,Revenue,P J S Building Services,08039
+Rushmoor Borough Council,Community,2536,Elders Lunch Club,11/06/2015,0000193627,268.70,Revenue,Myers Catering & Consultancy Limited,06313
+Rushmoor Borough Council,Democratic Services,1323,Postages,11/06/2015,0000193628,1399.75,Revenue,Royal Mail,00821
+Rushmoor Borough Council,Community,2517,Water,11/06/2015,0000193633,708.96,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Community,2550,Water,11/06/2015,0000193636,262.80,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Community,2517,Water,11/06/2015,0000193638,581.86,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Community,2517,Water,11/06/2015,0000193641,285.60,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Community,2537,Electricity,18/06/2015,0000193644,1331.47,Revenue,Edf Energy,09831
+Rushmoor Borough Council,Community,2518,Payment to Artistes,11/06/2015,0000193647,6500.00,Revenue,Derek Block Concert Promotions Ltd,02720
+Rushmoor Borough Council,Environmental Health and Housing,2246,Equipment Maintenance,18/06/2015,0000193649,1960.96,Revenue,Baydale Control Systems,12558
+Rushmoor Borough Council,Environmental Health and Housing,2247,Equipment Maintenance,18/06/2015,0000193649,1460.95,Revenue,Baydale Control Systems,12558
+Rushmoor Borough Council,Environmental Health and Housing,2203,Training Expenses,18/06/2015,0000193650,283.64,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Community,2518,Refreshment Purchases,11/06/2015,0000193651,296.00,Revenue,Tchibo Coffee International Ltd,05547
+Rushmoor Borough Council,Community,2510,Temporary Staff,18/06/2015,0000193652,567.27,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Democratic Services,1312,Contract Staff,18/06/2015,0000193653,1062.00,Revenue,Hays,02287
+Rushmoor Borough Council,Community,2526,General Repairs and Maintenance,11/06/2015,0000193654,350.00,Revenue,Crowthorne Heating Co Ltd,10551
+Rushmoor Borough Council,Legal,1202,Counsels Fees,18/06/2015,0000193655,4000.00,Revenue,K&L Gates Llp,10007
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,11/06/2015,0000193656,672.00,Revenue,Phillips Accomodation Ltd,01284
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,11/06/2015,0000193657,336.00,Revenue,Phillips Accomodation Ltd,01284
+Rushmoor Borough Council,Environmental Health and Housing,2212,Payment to Contractor,18/06/2015,0000193659,1303.50,Revenue,Sdk Environmental,12590
+Rushmoor Borough Council,Strategy and Communiations,1413,Subscriptions,11/06/2015,0000193661,360.00,Revenue,Uk Business Park,12696
+Rushmoor Borough Council,Democratic Services,1323,Postages,11/06/2015,0000193664,1254.39,Revenue,Royal Mail,00821
+Rushmoor Borough Council,Holding Accounts,9446,Community Safety Partnership,11/06/2015,0000193665,488.10,Holding Accounts,Basingstoke & Deane Borough Council,00141
+Rushmoor Borough Council,Community,2549,Materials,11/06/2015,0000193667,480.77,Revenue,Chambers Waste Management Plc,00217
+Rushmoor Borough Council,Democratic Services,1322,General Repairs and Maintenance,11/06/2015,0000193669,325.00,Revenue,Ezyglide Ltd,10979
+Rushmoor Borough Council,Democratic Services,1303,Postal Votes,25/06/2015,0000193672,933.28,Revenue,Royal Mail,00821
+Rushmoor Borough Council,Community,2515,General Repairs and Maintenance,11/06/2015,0000193673,785.00,Revenue,Kemp Windows,13145
+Rushmoor Borough Council,Community,2526,Electricity,18/06/2015,0000193676,990.14,Revenue,Total Gas & Power Limited,13301
+Rushmoor Borough Council,Community,2559,General Repairs and Maintenance,11/06/2015,0000193678,2340.00,Revenue,Alderwood Tree Services,01218
+Rushmoor Borough Council,Strategy and Communiations,1402,Training Expenses,18/06/2015,0000193681,272.51,Revenue,Michael Broussine,11801
+Rushmoor Borough Council,Information Technology,3304,General Hardware,25/06/2015,0000193683,486.72,Revenue,Misco Computer Products,00628
+Rushmoor Borough Council,Control Accounts,9362,Local Enterprise Partnership,18/06/2015,0000193687,306.51,Control Accounts,Misco Computer Products,00628
+Rushmoor Borough Council,Community,2549,Materials,25/06/2015,0000193688,321.82,Revenue,D K Autos,08837
+Rushmoor Borough Council,Community,2554,Clear Sacks,18/06/2015,0000193689,1152.00,Revenue,Cromwell Polythene Ltd,10320
+Rushmoor Borough Council,Democratic Services,1325,Paper,18/06/2015,0000193694,428.00,Revenue,Antalis Ltd,00037
+Rushmoor Borough Council,Democratic Services,1325,Paper,18/06/2015,0000193697,285.60,Revenue,Antalis Ltd,00037
+Rushmoor Borough Council,Democratic Services,1325,Paper,18/06/2015,0000193698,428.00,Revenue,Antalis Ltd,00037
+Rushmoor Borough Council,Democratic Services,1325,External Printing,18/06/2015,0000193701,428.00,Revenue,Antalis Ltd,00037
+Rushmoor Borough Council,Democratic Services,1325,Paper,18/06/2015,0000193703,536.36,Revenue,Antalis Ltd,00037
+Rushmoor Borough Council,Community,2517,Maintenance of Pavilions and Buildings,11/06/2015,0000193704,325.00,Revenue,Gilgen Door Systems,00445
+Rushmoor Borough Council,Community,2518,Payment to Artistes,11/06/2015,0000193707,3391.50,Revenue,Stage Acts Entertainment Limited,13098
+Rushmoor Borough Council,Community,2518,Payment to Artistes,11/06/2015,0000193708,1805.69,Revenue,Avalon Promotions Limited,04015
+Rushmoor Borough Council,Information Technology,3304,General Hardware,25/06/2015,0000193712,659.44,Revenue,Misco Computer Products,00628
+Rushmoor Borough Council,Environmental Health and Housing,2206,E Learning Support,18/06/2015,0000193713,3300.00,Revenue,First Health & Safety Ltd,12244
+Rushmoor Borough Council,Strategy and Communiations,1411,Public Relations,18/06/2015,0000193714,500.43,Revenue,Xl Displays Ltd,13272
+Rushmoor Borough Council,Planning,2609,Public Relations,18/06/2015,0000193714,1232.07,Revenue,Xl Displays Ltd,13272
+Rushmoor Borough Council,Holding Accounts,9446,Community Safety Partnership,18/06/2015,0000193715,4000.00,Holding Accounts,Whetstone Project,13662
+Rushmoor Borough Council,Information Technology,7500,Channel Shift,18/06/2015,0000193717,458.33,Capital,Capita Business Services Ltd,00208
+Rushmoor Borough Council,Community,2518,Payment to Artistes,18/06/2015,0000193718,7087.25,Revenue,Fiery Light Kingdom Ltd,13663
+Rushmoor Borough Council,Legal,1208,Security Alarm,18/06/2015,0000193720,526.04,Revenue,Orbis Protect Ltd,06771
+Rushmoor Borough Council,Holding Accounts,9446,Community Safety Partnership,18/06/2015,0000193721,1080.00,Holding Accounts,Slingshot Design Ltd,13456
+Rushmoor Borough Council,Control Accounts,9362,Local Enterprise Partnership,18/06/2015,0000193724,680.00,Control Accounts,Cyan Solutions Ltd,13258
+Rushmoor Borough Council,Community,2518,Snap Discos,18/06/2015,0000193725,672.50,Revenue,Tango Security Ltd,01412
+Rushmoor Borough Council,Democratic Services,1304,Hire of Transport,18/06/2015,0000193726,587.50,Revenue,Exclusive Cars,00353
+Rushmoor Borough Council,Community,2549,Materials,25/06/2015,0000193729,870.00,Revenue,Martin Lovell,11584
+Rushmoor Borough Council,Community,2551,Microfilimg,18/06/2015,0000193730,384.64,Revenue,Viewtouch Limited,07678
+Rushmoor Borough Council,Community,6526,Contract Costs,18/06/2015,0000193731,834.00,Capital,Agrostis,13126
+Rushmoor Borough Council,Environmental Health and Housing,2204,Kennel/Feed Stray Dogs,18/06/2015,0000193737,794.00,Revenue,Bowenhurst Kennels,00167
+Rushmoor Borough Council,Community,2518,Payment to Artistes,18/06/2015,0000193740,375.60,Revenue,H & B,11967
+Rushmoor Borough Council,Community,2537,Electricity,18/06/2015,0000193742,1363.12,Revenue,Edf Energy,09831
+Rushmoor Borough Council,Information Technology,7500,Server Virtual,18/06/2015,0000193749,4480.00,Capital,Microsoft Ltd,13466
+Rushmoor Borough Council,Information Technology,3304,Network Software,18/06/2015,0000193750,639.84,Revenue,Phoenix Software,00724
+Rushmoor Borough Council,Community,2517,Maintenance of Pavilions and Buildings,18/06/2015,0000193751,325.00,Revenue,Gilgen Door Systems,00445
+Rushmoor Borough Council,Information Technology,3304,Network Software,18/06/2015,0000193757,729.88,Revenue,Phoenix Software,00724
+Rushmoor Borough Council,Community,6578,Contract Costs,18/06/2015,0000193759,1283.60,Capital,Imperial Civil Enforcement Solutions,13348
+Rushmoor Borough Council,Democratic Services,1322,Office Security,18/06/2015,0000193762,2329.00,Revenue,Wot Security Group,01117
+Rushmoor Borough Council,Democratic Services,1300,Official Photographs,18/06/2015,0000193768,395.00,Revenue,A J Photographic,13304
+Rushmoor Borough Council,Democratic Services,1300,Official Photographs,18/06/2015,0000193769,450.00,Revenue,A J Photographic,13304
+Rushmoor Borough Council,Community,2554,Glass Skip,18/06/2015,0000193770,581.27,Revenue,Fcc Recycling (Uk) Limited,11978
+Rushmoor Borough Council,Environmental Health and Housing,2203,Training Expenses,18/06/2015,0000193774,421.16,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Customer Services,3814,Temporary Staff,18/06/2015,0000193775,510.23,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Legal,1200,Hampshire County Council Searches,18/06/2015,0000193776,-2184.00,Revenue,Hampshire County Council,01206
+Rushmoor Borough Council,Community,2540,Agency Staff,25/06/2015,0000193777,606.80,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Customer Services,3805,Temporary Staff,18/06/2015,0000193779,759.00,Revenue,Morgan Hunt Uk Ltd,08445
+Rushmoor Borough Council,Customer Services,3805,Temporary Staff,18/06/2015,0000193780,632.50,Revenue,Morgan Hunt Uk Ltd,08445
+Rushmoor Borough Council,Customer Services,3811,Contract Staff,18/06/2015,0000193782,812.50,Revenue,Morgan Hunt Uk Ltd,08445
+Rushmoor Borough Council,Community,2518,Water,18/06/2015,0000193787,2024.79,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Community,2537,Water,18/06/2015,0000193790,345.84,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Democratic Services,1300,Mayor-making,25/06/2015,0000193793,900.00,Revenue,Edwards And Ward Ltd,12710
+Rushmoor Borough Council,Legal,1200,Hampshire County Council Searches,18/06/2015,0000193794,2184.00,Revenue,Hampshire County Council,01206
+Rushmoor Borough Council,Democratic Services,1300,Hospitality,25/06/2015,0000193796,360.00,Revenue,Edwards And Ward Ltd,12710
+Rushmoor Borough Council,Information Technology,3304,Telephony Support,18/06/2015,0000193797,395.00,Revenue,Spring Telecommunications,08672
+Rushmoor Borough Council,Democratic Services,1322,Canteen Subsidy,18/06/2015,0000193798,906.41,Revenue,Edwards And Ward Ltd,12710
+Rushmoor Borough Council,Legal,1202,Other Disbursements,18/06/2015,0000193804,2258.93,Revenue,The Copyright Licensing Agency Ltd,09101
+Rushmoor Borough Council,Democratic Services,1322,Electricity,18/06/2015,0000193808,5833.45,Revenue,Edf Energy,09831
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,18/06/2015,0000193811,564.00,Revenue,Brand Pest Control,03284
+Rushmoor Borough Council,Personnel & Payroll,3601,Temporary Staff,25/06/2015,0000193813,655.24,Revenue,Reed,11780
+Rushmoor Borough Council,Customer Services,3805,Temporary Staff,18/06/2015,0000193818,713.00,Revenue,Morgan Hunt Uk Ltd,08445
+Rushmoor Borough Council,Customer Services,3811,Contract Staff,25/06/2015,0000193819,981.50,Revenue,Morgan Hunt Uk Ltd,08445
+Rushmoor Borough Council,Community,2515,Water,18/06/2015,0000193822,380.92,Revenue,South East Water Plc,01850
+Rushmoor Borough Council,Democratic Services,1303,Equipment Storage,25/06/2015,0000193825,2486.88,Revenue,Electoral Reform Services,06506
+Rushmoor Borough Council,Democratic Services,1303,External Printing,25/06/2015,0000193825,3652.03,Revenue,Electoral Reform Services,06506
+Rushmoor Borough Council,Democratic Services,1303,Postal Votes,25/06/2015,0000193825,3680.89,Revenue,Electoral Reform Services,06506
+Rushmoor Borough Council,Legal,1200,Hampshire County Council Searches,18/06/2015,0000193828,2088.80,Revenue,Hampshire County Council,01206
+Rushmoor Borough Council,Community,2518,Trade Refuse,18/06/2015,0000193830,377.64,Revenue,Grundon Waste Management Ltd,09633
+Rushmoor Borough Council,Community,2551,Memorial Vaults,18/06/2015,0000193833,375.50,Revenue,The Columbaria Company,00993
+Rushmoor Borough Council,Control Accounts,9361,Supporting Families Initiative,18/06/2015,0000193836,520.00,Control Accounts,Rushmoor Healthy Living,06349
+Rushmoor Borough Council,Democratic Services,1322,Trade Refuse,18/06/2015,0000193839,621.14,Revenue,Veolia Environmental Services,09062
+Rushmoor Borough Council,Community,2517,Playground Apparatus,18/06/2015,0000193840,900.90,Revenue,Hags-Smp Ltd,04499
+Rushmoor Borough Council,Planning,2604,Publicity and Advertising,25/06/2015,0000193845,301.90,Revenue,Hampshire Media Ltd,12446
+Rushmoor Borough Council,Information Technology,3302,Application Software,18/06/2015,0000193849,6385.20,Revenue,Idox Software Ltd,00661
+Rushmoor Borough Council,Information Technology,3302,Application Software,18/06/2015,0000193850,2082.84,Revenue,Idox Software Ltd,00661
+Rushmoor Borough Council,Personnel & Payroll,3601,Temporary Staff,25/06/2015,0000193851,745.32,Revenue,Reed,11780
+Rushmoor Borough Council,Community,2551,Gas,25/06/2015,0000193855,4039.46,Revenue,Corona Energy,10757
+Rushmoor Borough Council,Democratic Services,1322,Gas,25/06/2015,0000193860,1014.97,Revenue,Corona Energy,10757
+Rushmoor Borough Council,Environmental Health and Housing,2227,Ditch Course,25/06/2015,0000193864,281.40,Revenue,Jewsons,00520
+Rushmoor Borough Council,Community,2518,Snap Discos,18/06/2015,0000193868,400.00,Revenue,Leroy Wilson,03014
+Rushmoor Borough Council,Democratic Services,1325,Photocopiers,25/06/2015,0000193877,413.17,Revenue,Ricoh Uk Ltd,00676
+Rushmoor Borough Council,Community,2551,General Repairs and Maintenance,25/06/2015,0000193880,740.60,Revenue,Accurate Mechanical Services Ltd,12623
+Rushmoor Borough Council,Community,2549,Leasing Charges,25/06/2015,0000193883,484.00,Revenue,Hampshire Transport Management,12676
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,25/06/2015,0000193884,672.00,Revenue,Phillips Accomodation Ltd,01284
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,25/06/2015,0000193885,336.00,Revenue,Phillips Accomodation Ltd,01284
+Rushmoor Borough Council,Community,2517,Playground Apparatus,25/06/2015,0000193886,1150.50,Revenue,Hags-Smp Ltd,04499
+Rushmoor Borough Council,Democratic Services,1312,Contract Staff,25/06/2015,0000193890,1260.00,Revenue,Hays,02287
+Rushmoor Borough Council,Legal,1202,Temporary Staff,25/06/2015,0000193891,1284.29,Revenue,Hays,02287
+Rushmoor Borough Council,Democratic Services,1314,Training Expenses,25/06/2015,0000193892,282.00,Revenue,Stephen Quigley,12603
+Rushmoor Borough Council,Financial Services,3401,Admin Equipment,25/06/2015,0000193894,1514.10,Revenue,D K Office Furniture,08652
+Rushmoor Borough Council,Information Technology,3304,Network Software,25/06/2015,0000193896,1159.20,Revenue,Specops Spftware Limited,11591
+Rushmoor Borough Council,Planning,2608,Consultancy,25/06/2015,0000193905,325.00,Revenue,Monson Engineering Limited,09051
+Rushmoor Borough Council,Planning,2604,Publicity and Advertising,25/06/2015,0000193910,406.15,Revenue,Hampshire Media Ltd,12446
+Rushmoor Borough Council,Community,2517,Playground Apparatus,25/06/2015,0000193915,1845.00,Revenue,Park Leisure & Sport Ltd,13676
+Rushmoor Borough Council,Customer Services,3814,Admin Equipment,25/06/2015,0000193916,372.12,Revenue,Hullabaloo Communications Ltd,12514
+Rushmoor Borough Council,Community,2518,Snap Discos,25/06/2015,0000193920,672.50,Revenue,Tango Security Ltd,01412
+Rushmoor Borough Council,Community,2517,Playground Apparatus,25/06/2015,0000193921,3850.00,Revenue,Ej Services (Uk) Ltd,09992
+Rushmoor Borough Council,Community,2517,Playground Apparatus,25/06/2015,0000193926,4645.00,Revenue,Redlynch Leisure Installations Ltd,13678
+Rushmoor Borough Council,Personnel & Payroll,3601,Temporary Staff,25/06/2015,0000193928,803.06,Revenue,Reed,11780
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,25/06/2015,0000193930,1040.00,Revenue,Pump Services Camberley Ltd,02866
+Rushmoor Borough Council,Democratic Services,1323,Postages,25/06/2015,0000193931,1393.28,Revenue,Royal Mail,00821
+Rushmoor Borough Council,Strategy and Communiations,1411,Council Magazine,25/06/2015,0000193932,5784.00,Revenue,Deep South Media Ltd,08065
+Rushmoor Borough Council,Legal,1202,Other Disbursements,25/06/2015,0000193935,800.00,Revenue,Rp Austin,13681
+Rushmoor Borough Council,Strategy and Communiations,1413,Subscriptions,25/06/2015,0000193940,800.00,Revenue,Hampshire Chamber Of Commerce,12627
+Rushmoor Borough Council,Customer Services,3814,Temporary Staff,25/06/2015,0000193943,810.75,Revenue,Morgan Hunt Uk Ltd,08445
+Rushmoor Borough Council,Community,2537,Security Services,25/06/2015,0000193944,2357.88,Revenue,Contract Security Services Ltd,00014
+Rushmoor Borough Council,Customer Services,3814,Security Services,25/06/2015,0000193945,607.68,Revenue,Contract Security Services Ltd,00014
+Rushmoor Borough Council,Community,2540,Agency Staff,25/06/2015,0000193952,606.80,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Customer Services,3814,Temporary Staff,25/06/2015,0000193954,510.23,Revenue,Wendy B Employment Consultancy,01743
+Rushmoor Borough Council,Environmental Health and Housing,2228,Leasing Charges,25/06/2015,0000193956,853.63,Revenue,D K Autos,08837
+Rushmoor Borough Council,Personnel & Payroll,3601,In-house Training,25/06/2015,0000193957,1670.00,Revenue,Acas,09885
+Rushmoor Borough Council,Community,2518,General Repairs and Maintenance,25/06/2015,0000193965,1354.50,Revenue,Temple Lifts Limited,12997
+Rushmoor Borough Council,Community,2518,Service Charges,25/06/2015,0000193978,292.00,Revenue,Ab Party & Catering Equipment,09408
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/06/2015,0080006194,4667.00,Capital,Bowditch And Ford Ltd,01572
+Rushmoor Borough Council,Community,2551,Ministers Fees,04/06/2015,0080006199,534.00,Revenue,Rev K Hodges,00803
+Rushmoor Borough Council,Community,2551,Organists Fees,04/06/2015,0080006200,308.00,Revenue,Mr W Nisbet,13655
+Rushmoor Borough Council,Community,2551,Organists Fees,04/06/2015,0080006202,1716.00,Revenue,Mr T Sturt,05535
+Rushmoor Borough Council,Community,2551,Medical Reference Fees,04/06/2015,0080006203,2489.00,Revenue,Dr R W Ainsworth,01521
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/06/2015,0080006205,4855.00,Capital,Bentley Mobility Services,00150
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/06/2015,0080006206,4571.00,Capital,Liftability Limited,03780
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,04/06/2015,0080006210,2814.35,Capital,Southern Counties Building Solutions Lt,13340
+Rushmoor Borough Council,Environmental Health and Housing,2402,Bed and Breakfast,11/06/2015,0080006213,296.00,Revenue,Njh Estates Ltd,13219
+Rushmoor Borough Council,Community,2537,Refunds,11/06/2015,0080006214,1521.40,Revenue,Pc World,02781
+Rushmoor Borough Council,Community,2537,,11/06/2015,0080006221,289.17,Revenue,Thomson Directories,01040
+Rushmoor Borough Council,Control Accounts,9351,Community Cohesion,11/06/2015,0080006223,1000.00,Control Accounts,Connaught School,00259
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,11/06/2015,0080006226,765.00,Control Accounts,B A Developments,10756
+Rushmoor Borough Council,Environmental Health and Housing,2402,Rent Deposits,02/06/2015,0080006238,1162.00,Revenue,Fosters Property Management,13206
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,02/06/2015,0080006238,1015.00,Control Accounts,Fosters Property Management,13206
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,03/06/2015,0080006240,900.00,Control Accounts,Fleur Bonnot-Davey,13665
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/06/2015,0080006241,538.97,Capital,In Touch,11912
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/06/2015,0080006242,4491.44,Capital,Mr S K Lunn,12915
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,18/06/2015,0080006243,765.00,Control Accounts,B A Developments,10756
+Rushmoor Borough Council,Personnel & Payroll,3601,Professional Subscriptions,18/06/2015,0080006252,336.00,Revenue,Cipd,00498
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/06/2015,0080006260,4149.54,Capital,Vistar Construction Ltd,03008
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,18/06/2015,0080006261,3463.78,Capital,Southern Counties Building Solutions Lt,13340
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,18/06/2015,0080006262,1050.00,Control Accounts,Mr Brendan Lambkin,13674
+Rushmoor Borough Council,Community,2517,General Repairs and Maintenance,18/06/2015,0080006263,301.91,Revenue,Cove Brook Greenway Group,13675
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,25/06/2015,0080006268,4265.56,Capital,Bowditch And Ford Ltd,01572
+Rushmoor Borough Council,Community,2518,Agency Sales,25/06/2015,0080006269,1946.00,Revenue,Surrey County Council,12225
+Rushmoor Borough Council,Community,2518,Agency Sales,25/06/2015,0080006271,2700.00,Revenue,Rushmoor Odd Fellows Male Voice Choir,00682
+Rushmoor Borough Council,Community,2518,Agency Sales,25/06/2015,0080006272,3192.00,Revenue,Surrey County Council,12225
+Rushmoor Borough Council,Environmental Health and Housing,6400,Disabled Facilities Grant,25/06/2015,0080006277,4570.58,Capital,Top Notch Building Services,09540
+Rushmoor Borough Council,Environmental Health and Housing,2402,Rent Deposits,25/06/2015,0080006282,772.50,Revenue,Bridges Lettings,06657
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,25/06/2015,0080006283,850.00,Control Accounts,Smartmove Property Specialists Ltd,13163
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,25/06/2015,0080006284,975.00,Control Accounts,Haart Residential Lettings,13690
+Rushmoor Borough Council,Legal,1200,Legal Costs (Litigation),26/06/2015,0080006285,86010.16,Revenue,Bevan Brittan Llp,13696
+Rushmoor Borough Council,Control Accounts,9335,Rent Deposit,24/06/2015,0080006287,1250.00,Control Accounts,Driss Naffati,13697
+Rushmoor Borough Council,Personnel & Payroll,3601,Health Care,02/06/2015,40,1800.00,Revenue,National Deposit,DD1
+Rushmoor Borough Council,Community,2518,Access/Cardnet,15/06/2015,38,315.39,Revenue,Capita,DD2
+Rushmoor Borough Council,Community,2518,Access/Cardnet,15/06/2015,37,278.58,Revenue,Capita,DD3
+Rushmoor Borough Council,All Services,9347,Staff Rail Travel,22/06/2015,28,680.70,Revenue,Rail Settlement Plan,DD4
+Rushmoor Borough Council,Customer Services,3805,Access/Cardnet,16/06/2015,61,530.45,Revenue,Capita,DD5
+Rushmoor Borough Council,Customer Services,3805,Access/Cardnet,16/06/2015,51,919.95,Revenue,Capita,DD6
+Rushmoor Borough Council,Customer Services,3814,Telephones,29/06/2015,44,372.12,Revenue,Hullabaloo,DD7
+,,,,,,,,,

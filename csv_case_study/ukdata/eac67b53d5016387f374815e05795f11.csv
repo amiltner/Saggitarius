@@ -1,0 +1,554 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount
+Department of Health,East of England SHA,08/02/2011,"Books, Journals & Subscr",Library - Non-Medical,ELSEVIER B.V.,7855826,54100
+Department of Health,East of England SHA,21/02/2011,"Books, Journals & Subscr",Library - Non-Medical,PROQUEST INFORMATION & LEARNING LTD,7979406,61988
+Department of Health,East of England SHA,18/02/2011,Course Fees,Improving Access to Psychological Therapies (IAPT) - ad hoc Training,UNIVERSITY OF EAST ANGLIA,7970853,139297.5
+Department of Health,East of England SHA,25/02/2011,External Consultancy Fees,Supporting Self Care in GP programme,LEEDS METROPOLITAN UNIVERSITY,7946142,28000
+Department of Health,East of England SHA,28/02/2011,External Contractors,NED Development,FORESIGHT PARTNERSHIP LTD,7694933,25606.33
+Department of Health,East of England SHA,25/02/2011,External Contractors,Pathology Next Steps,DELOITTE & TOUCHE LLP,7694930,42094.63
+Department of Health,East of England SHA,23/02/2011,Grants,Innovation Fund,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7997910,33400
+Department of Health,East of England SHA,09/02/2011,Grants,Innovation Fund,EAST OF ENGLAND AMBULANCE SERVICE NHS TRUST,7916972,84000
+Department of Health,East of England SHA,23/02/2011,Grants,Innovation Fund,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7997869,40000
+Department of Health,East of England SHA,09/02/2011,Grants,Innovation Fund,NHS SUFFOLK,7916970,27307.33
+Department of Health,East of England SHA,23/02/2011,Grants,Innovation Fund,NHS SUFFOLK,7997881,43800
+Department of Health,East of England SHA,09/02/2011,Grants,Innovation Fund,NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7916969,115911
+Department of Health,East of England SHA,23/02/2011,Grants,Innovation Fund,NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7997952,65706
+Department of Health,East of England SHA,04/02/2011,Lease Rents,Workforce Running Costs,SAVILLS COMMERCIAL LTD,7880243,43973
+Department of Health,East of England SHA,23/02/2011,Lease Rents,Workforce Running Costs,SAVILLS COMMERCIAL LTD,8006727,43973
+Department of Health,East of England SHA,23/02/2011,Lease Rents,Workforce Running Costs,SAVILLS COMMERCIAL LTD,8006731,43973
+Department of Health,East of England SHA,04/02/2011,Lease Rents,Victoria House,SAVILLS COMMERCIAL LTD,7880242,38476.31
+Department of Health,East of England SHA,15/02/2011,Legal Clm Provn Utlisn NC,Balance Sheet,Boyes Turner,7935716,25600
+Department of Health,East of England SHA,01/02/2011,Miscellaneous Expenditure,Adolescent & Child Programme,GREAT ORMOND STREET HOSPITAL FOR CHILDREN NHS TRUST,7862127,1040368
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Clinical Excellence Awards,BEDFORD HOSPITALS NHS TRUST,8006750,117324.84
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Clinical Excellence Awards,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,8006748,3266946.03
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Clinical Excellence Awards,CAMBRIDGESHIRE COMMUNITY SERVICES,8006680,44993.72
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Clinical Excellence Awards,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,8006689,138402.17
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Clinical Excellence Awards,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7989484,1055267.6
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Clinical Excellence Awards,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,8006707,594393.93
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Clinical Excellence Awards,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),8006702,236206.63
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Clinical Excellence Awards,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,8006678,267947.73
+Department of Health,East of England SHA,01/02/2011,Miscellaneous Expenditure,DH Child Palliative Care,CAMBRIDGESHIRE PCT,7784650,44025
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Eastern Development Centre,NORTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7979393,468331
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Emergency Dept Info Fund,SOUTH EAST COAST STRATEGIC HEALTH AUTHORITY,7989480,45000
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,End of Life - SWIFT,NHS HERTFORDSHIRE,7989468,153000
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,Essex County Group,MID ESSEX HOSPITALS SERVICES NHS TRUST,7989454,660000
+Department of Health,East of England SHA,04/02/2011,Miscellaneous Expenditure,Health & Social Care in Criminal Justice,CAMBRIDGESHIRE COUNTY COUNCIL,7899773,40000
+Department of Health,East of England SHA,28/02/2011,Miscellaneous Expenditure,Health & Social Care in Criminal Justice,NORFOLK COUNTY COUNCIL,8009434,39000
+Department of Health,East of England SHA,09/02/2011,Miscellaneous Expenditure,Innovation Fund,CAMBRIDGESHIRE & PETERBOROUGH NHS FOUNDATION TRUST,7916974,65307
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: Core Contract,NHS DIRECT,7945656,-226981
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: Core Contract,NHS DIRECT,7962590,297630
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: Core Contract,NHS DIRECT,7962599,751000
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: Core Contract,NHS DIRECT,7962600,250000
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: Core Contract,NHS DIRECT,7962609,10132666.67
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,NHS Direct: Core Contract,NHS DIRECT,8006686,206109
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,NHS Direct: Core Contract,NHS DIRECT,8006704,297630
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: The Appointments Line,NHS DIRECT,7889273,-32560
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: The Appointments Line,NHS DIRECT,7889278,-69205
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: The Appointments Line,NHS DIRECT,7962581,614041
+Department of Health,East of England SHA,16/02/2011,Miscellaneous Expenditure,NHS Direct: The Appointments Line,NHS DIRECT,7962587,565482
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970875,43027.78
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970877,49918.85
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970878,43986.71
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970879,41117.09
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970928,44338.64
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970929,43369.03
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970934,-43369.03
+Department of Health,East of England SHA,23/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970936,-44338.64
+Department of Health,East of England SHA,18/02/2011,Miscellaneous Expenditure,PCT Reg Marketing Fund,CENTRAL OFFICE OF INFORMATION,7970938,-41451.34
+Department of Health,East of England SHA,02/02/2011,Miscellaneous Expenditure,Quality Improvements (Observatory),CAMBRIDGESHIRE PCT,7870512,90000
+Department of Health,East of England SHA,09/02/2011,Miscellaneous Expenditure,Releasing Time to Care,NORTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7899217,29555
+Department of Health,East of England SHA,04/02/2011,Miscellaneous Expenditure,Valuing People,CENTRAL BEDFORDSHIRE COUNCIL,7870495,40000
+Department of Health,East of England SHA,09/02/2011,Programme Support Costs,Procurement - Wheelchair Project,WEST SUFFOLK HOSPITALS NHS TRUST,7880221,106750
+Department of Health,East of England SHA,09/02/2011,Programme Support Costs,QIPP Programme,WEST SUFFOLK HOSPITALS NHS TRUST,7880221,30000
+Department of Health,East of England SHA,04/02/2011,Programme Support Costs,Valuing People,BEDFORD BOROUGH COUNCIL,7870511,40000
+Department of Health,East of England SHA,01/02/2011,Secndd staff frm othr org,Dental Vocational Training Scheme,BEDFORD HOSPITALS NHS TRUST,7784646,33790.1
+Department of Health,East of England SHA,09/02/2011,Secndd staff frm othr org,Health & Social Care in Criminal Justice,MINISTRY OF JUSTICE,7870504,37521.96
+Department of Health,East of England SHA,09/02/2011,Services Received - NHSTs,Corporate Non-Pay Costs,ANGLIA SUPPORT PARTNERSHIP,7880230,2139
+Department of Health,East of England SHA,16/02/2011,Services Received - NHSTs,Corporate Non-Pay Costs,ANGLIA SUPPORT PARTNERSHIP,7962624,2139
+Department of Health,East of England SHA,09/02/2011,Services Received - NHSTs,Health Innovation Centre,ANGLIA SUPPORT PARTNERSHIP,7880230,798
+Department of Health,East of England SHA,16/02/2011,Services Received - NHSTs,Health Innovation Centre,ANGLIA SUPPORT PARTNERSHIP,7962624,798
+Department of Health,East of England SHA,09/02/2011,Services Received - NHSTs,Health & Social Care in Criminal Justice,ANGLIA SUPPORT PARTNERSHIP,7880230,13
+Department of Health,East of England SHA,16/02/2011,Services Received - NHSTs,Health & Social Care in Criminal Justice,ANGLIA SUPPORT PARTNERSHIP,7962624,13
+Department of Health,East of England SHA,09/02/2011,Services Received - NHSTs,Research Ethics Committee (REC) Office 2,ANGLIA SUPPORT PARTNERSHIP,7880230,93
+Department of Health,East of England SHA,16/02/2011,Services Received - NHSTs,Research Ethics Committee (REC) Office 2,ANGLIA SUPPORT PARTNERSHIP,7962624,93
+Department of Health,East of England SHA,09/02/2011,Services Received - NHSTs,Research Ethics Committee (REC) Office 3,ANGLIA SUPPORT PARTNERSHIP,7880230,93.08
+Department of Health,East of England SHA,16/02/2011,Services Received - NHSTs,Research Ethics Committee (REC) Office 3,ANGLIA SUPPORT PARTNERSHIP,7962624,93.08
+Department of Health,East of England SHA,09/02/2011,Services Received - NHSTs,Workforce Running Costs,ANGLIA SUPPORT PARTNERSHIP,7880230,20349
+Department of Health,East of England SHA,16/02/2011,Services Received - NHSTs,Workforce Running Costs,ANGLIA SUPPORT PARTNERSHIP,7962624,20349
+Department of Health,East of England SHA,09/02/2011,Services Received - NHSTs,Victoria House,ANGLIA SUPPORT PARTNERSHIP,7880230,10128
+Department of Health,East of England SHA,16/02/2011,Services Received - NHSTs,Victoria House,ANGLIA SUPPORT PARTNERSHIP,7962624,10128
+Department of Health,East of England SHA,02/02/2011,Training Expenses,Ambulance CPD,EAST OF ENGLAND AMBULANCE SERVICE NHS TRUST,7870483,71262
+Department of Health,East of England SHA,28/02/2011,Training Expenses,Ambulance CPD,UNIVERSITY OF EAST ANGLIA,8028704,141750
+Department of Health,East of England SHA,28/02/2011,Training Expenses,Ambulance CPD,UNIVERSITY OF EAST ANGLIA,8028708,172591
+Department of Health,East of England SHA,28/02/2011,Training Expenses,Ambulance CPD,UNIVERSITY OF EAST ANGLIA,8028709,177430
+Department of Health,East of England SHA,28/02/2011,Training Expenses,Ambulance CPD,UNIVERSITY OF EAST ANGLIA,8028714,199045
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Biomedical Science,UNIVERSITY OF ESSEX,7962594,35478.28
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Biomedical Science,UNIVERSITY OF ESSEX,7989425,14208
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Biomedical Science,UNIVERSITY OF ESSEX,7997864,35478.28
+Department of Health,East of England SHA,09/02/2011,Training Expenses,CGC Clinical Placement (CPS),WEST SUFFOLK HOSPITALS NHS TRUST,7880261,23339
+Department of Health,East of England SHA,09/02/2011,Training Expenses,CGC Facilities (FACS),WEST SUFFOLK HOSPITALS NHS TRUST,7880261,60912.5
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Clinical Physiology,UNIVERSITY OF ESSEX,7962594,3599.25
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Clinical Psychology,CAMBRIDGESHIRE & PETERBOROUGH NHS FOUNDATION TRUST,7935538,13582.66
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Clinical Psychology,CAMBRIDGESHIRE & PETERBOROUGH NHS FOUNDATION TRUST,7935541,24669.89
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Clinical Psychology,CAMBRIDGESHIRE & PETERBOROUGH NHS FOUNDATION TRUST,7935542,14425.68
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Clinical Psychology,UNIVERSITY OF EAST ANGLIA,7954217,79907
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Clinical Psychology,UNIVERSITY OF ESSEX,7962594,46363.78
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Clinical Psychology,UNIVERSITY OF ESSEX,7997864,56249.78
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Psychology,UNIVERSITY OF HERTFORDSHIRE,7916977,164882
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Clinical Psychology Training Support,CAMBRIDGESHIRE & PETERBOROUGH NHS FOUNDATION TRUST,7935538,166548.23
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Clinical Psychology Training Support,CAMBRIDGESHIRE & PETERBOROUGH NHS FOUNDATION TRUST,7935541,146122.22
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Clinical Psychology Training Support,CAMBRIDGESHIRE & PETERBOROUGH NHS FOUNDATION TRUST,7935542,175879.26
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Clinical Tutors,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,882
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,BEDFORD HOSPITALS NHS TRUST,7880246,1323
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Clinical Tutors,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,882
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,3528
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Clinical Tutors,HERTFORDSHIRE PARTNERSHIP NHS FOUNDATION TRUST,7970898,882
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Clinical Tutors,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,1324
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,IPSWICH HOSPITALS NHS TRUST,7908452,1324
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,1324
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Clinical Tutors,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,1323
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,881
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,3529
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,NORTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7889319,1102
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Clinical Tutors,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,441
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,882
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Clinical Tutors,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,1324
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,1323
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Clinical Tutors,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7962639,882
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,883
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,2647
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Clinical Tutors,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,882
+Department of Health,East of England SHA,02/02/2011,Training Expenses,Community Specialist Practitioners,BEDFORDSHIRE PCT,7870518,29520
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Continuing Professional Development,EAST OF ENGLAND AMBULANCE SERVICE NHS TRUST,7811784,167915
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Centre for Interprofessional Learning,UNIVERSITY OF EAST ANGLIA,7954217,25769
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Child Psychotherapy,LONDON SHA,7935546,70948
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Dental Continuing Professional Development,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,1595
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,BEDFORD HOSPITALS NHS TRUST,7880246,2375
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Dental Continuing Professional Development,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,934
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,2506
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,IPSWICH HOSPITALS NHS TRUST,7908452,2557
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,456
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,713
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Dental Continuing Professional Development,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,713
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,1401
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,6494
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,2637
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,739
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Dental Continuing Professional Development,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,847
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Continuing Professional Development,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,847
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Dental Tutors,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,878
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,BEDFORD HOSPITALS NHS TRUST,7880246,879
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Dental Tutors,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,879
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,1758
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,IPSWICH HOSPITALS NHS TRUST,7908452,898
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,459
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,4833
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Dental Tutors,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,879
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,878
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,899
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,459
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,879
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Dental Tutors,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,459
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Tutors,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,459
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Dental Vocational Training Scheme,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,4750
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Vocational Training Scheme,BEDFORD HOSPITALS NHS TRUST,7880246,1117
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Vocational Training Scheme,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,2375
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Vocational Training Scheme,IPSWICH HOSPITALS NHS TRUST,7908452,2375
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Vocational Training Scheme,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,2375
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dental Vocational Training Scheme,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,2375
+Department of Health,East of England SHA,18/02/2011,Training Expenses,Dental Vocational Training Scheme,UNIVERSITY OF BEDFORDSHIRE,7955157,25160
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Dietetics Tuition,UNIVERSITY OF HERTFORDSHIRE,7916977,239062
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Education Modernisation Development,ANGLIA RUSKIN UNIVERSITY,7954331,-60080
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,1944
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,BEDFORD HOSPITALS NHS TRUST,7880246,1148
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,1723
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,2695
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,972
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,IPSWICH HOSPITALS NHS TRUST,7908452,1369
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,1281
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,1282
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,1281
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,1326
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,2032
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,265
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,1016
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,1458
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,1370
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,1369
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,1592
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,2385
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) F1 PfPP,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,1105
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,BEDFORD HOSPITALS NHS TRUST,7880246,1628
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,1627
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,IPSWICH HOSPITALS NHS TRUST,7908452,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,1628
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,1628
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,326
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,1628
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,1629
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,1628
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Admin Support,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,1628
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,BEDFORD HOSPITALS NHS TRUST,7880246,882
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,2646
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,882
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,IPSWICH HOSPITALS NHS TRUST,7908452,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,882
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,882
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,882
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,882
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,1764
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,1765
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,1765
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,1764
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Service Increment for Teaching (SIFT) FPD Sessions,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,882
+Department of Health,East of England SHA,01/02/2011,Training Expenses,GP Registrar Training Support,BEDFORDSHIRE PCT,7859209,225812.91
+Department of Health,East of England SHA,15/02/2011,Training Expenses,GP Registrar Training Support,GREAT YARMOUTH AND WAVENEY PCT,7945659,106024.77
+Department of Health,East of England SHA,01/02/2011,Training Expenses,GP Registrar Training Support,LINCOLNSHIRE PCT,7828198,28438.57
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP Registrar Training Support,NHS NORFOLK,7908457,272545.95
+Department of Health,East of England SHA,01/02/2011,Training Expenses,GP Registrar Training Support,NHS SUFFOLK,7771069,200000
+Department of Health,East of England SHA,02/02/2011,Training Expenses,GP Registrar Training Support,NHS SUFFOLK,7870520,48333.87
+Department of Health,East of England SHA,16/02/2011,Training Expenses,GP Service Increment for Teaching (SIFT) Clinical Placement (CPS),UNIVERSITY OF CAMBRIDGE,7962637,-618
+Department of Health,East of England SHA,16/02/2011,Training Expenses,GP Service Increment for Teaching (SIFT) Facilities (FACS),UNIVERSITY OF CAMBRIDGE,7962637,84200
+Department of Health,East of England SHA,16/02/2011,Training Expenses,GP StR Programme Support - Trusts,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,649
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,BEDFORD HOSPITALS NHS TRUST,7880246,637
+Department of Health,East of England SHA,16/02/2011,Training Expenses,GP StR Programme Support - Trusts,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,755
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,1279
+Department of Health,East of England SHA,01/02/2011,Training Expenses,GP StR Programme Support - Trusts,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,614
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,IPSWICH HOSPITALS NHS TRUST,7908452,716
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,547
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,806
+Department of Health,East of England SHA,23/02/2011,Training Expenses,GP StR Programme Support - Trusts,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,806.41
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,807
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,1038
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,691
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,717
+Department of Health,East of England SHA,01/02/2011,Training Expenses,GP StR Programme Support - Trusts,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,550
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,549
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,731
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,1071
+Department of Health,East of England SHA,09/02/2011,Training Expenses,GP StR Programme Support - Trusts,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,703
+Department of Health,East of England SHA,15/02/2011,Training Expenses,GPR Recruitment,LONDON SHA,7954467,29925.45
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Grade A Scientists,EAST&NORTH HERTFORDSHIRE NHS TRUST,7811780,9321.26
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Healthcare Assistant Support (HCAS),QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7954236,12300
+Department of Health,East of England SHA,14/02/2011,Training Expenses,Health Visitors Tuition,ANGLIA RUSKIN UNIVERSITY,7935548,302148
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,10032
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,BEDFORD HOSPITALS NHS TRUST,7880246,7563
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,10094
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,18313
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,HERTFORDSHIRE PARTNERSHIP NHS FOUNDATION TRUST,7970898,4587
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,4938
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,IPSWICH HOSPITALS NHS TRUST,7908452,11125
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,6625
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,10750
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,10750
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,11038
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,21750
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7908443,3000
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,NORTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7889319,2562
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,3250
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,8750
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,8438
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,6625
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,6625
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7954463,1312.67
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7962639,2562
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,11457
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,SUFFOLK MENTAL HEALTH PARTNERSHIP NHS TRUST,7880228,1750
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,13687
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Infrastructure,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,7271
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Improving Safety & Quality in the Acutely ill Patient Pathway,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962576,48000
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Fund,GREAT YARMOUTH AND WAVENEY PCT,7916971,58830
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Innovation Training & Development (FfIT),BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),BEDFORD HOSPITALS NHS TRUST,7880246,69
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Innovation Training & Development (FfIT),COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,68
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Innovation Training & Development (FfIT),HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),IPSWICH HOSPITALS NHS TRUST,7908452,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,68.5
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Innovation Training & Development (FfIT),LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,68
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,68
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Innovation Training & Development (FfIT),PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,68
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,68
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,69
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Innovation Training & Development (FfIT),QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,68
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,69
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Innovation Training & Development (FfIT),WEST SUFFOLK HOSPITALS NHS TRUST,7880267,68
+Department of Health,East of England SHA,04/02/2011,Training Expenses,Joint Investment Framework 2010/11,CAMBRIDGE REGIONAL COLLEGE,7880248,27550
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Library - Non-Medical,EAST&NORTH HERTFORDSHIRE NHS TRUST,7775940,48260.75
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Library - Non-Medical,NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7979433,102407.34
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Library - Non-Medical,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7970870,25720.72
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Library - Non-Medical,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7899250,33081.71
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Library - Non-Medical,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7899251,33081.71
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Library - Non-Medical,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7970862,33081.71
+Department of Health,East of England SHA,14/02/2011,Training Expenses,Learning Support for Nursing Degree Students,UNIVERSITY OF ESSEX,7935537,119911.16
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Learning Support for Nursing Degree Students,UNIVERSITY OF HERTFORDSHIRE,7954406,47287.56
+Department of Health,East of England SHA,01/02/2011,Training Expenses,London Pharmacy Technicians,EAST&NORTH HERTFORDSHIRE NHS TRUST,7811780,1776.25
+Department of Health,East of England SHA,23/02/2011,Training Expenses,London Pharmacy Technicians,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7997973,3552.5
+Department of Health,East of England SHA,01/02/2011,Training Expenses,London Pre-Reg Pharmacy,EAST&NORTH HERTFORDSHIRE NHS TRUST,7811780,41335.5
+Department of Health,East of England SHA,23/02/2011,Training Expenses,London Pre-Reg Pharmacy,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7997973,27125.92
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Midwifery,EAST&NORTH HERTFORDSHIRE NHS TRUST,7811780,51660
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Midwifery,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7954196,115620
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Midwifery,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7811779,12300
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Midwifery,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,8006691,46494
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Midwifery Tuition,ANGLIA RUSKIN UNIVERSITY,7954331,-21295
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Midwifery Tuition,ANGLIA RUSKIN UNIVERSITY,7954434,252504
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Midwifery Tuition,UNIVERSITY CAMPUS SUFFOLK,7989457,52605
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Midwifery Tuition,UNIVERSITY CAMPUS SUFFOLK,7989461,-12652
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Midwifery Tuition,UNIVERSITY OF BEDFORDSHIRE,8006710,6007
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Midwifery Tuition,UNIVERSITY OF EAST ANGLIA,7954213,68138
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Midwifery Tuition,UNIVERSITY OF HERTFORDSHIRE,7916977,353586
+Department of Health,East of England SHA,16/02/2011,Training Expenses,MTOS Surgery,ANGLIA RUSKIN UNIVERSITY,7954331,-5858
+Department of Health,East of England SHA,16/02/2011,Training Expenses,MTOS Surgery,ANGLIA RUSKIN UNIVERSITY,7954434,31331
+Department of Health,East of England SHA,09/02/2011,Training Expenses,NCCRD (Deanery) - Academic Posts,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,17515
+Department of Health,East of England SHA,02/02/2011,Training Expenses,New Posts in Year,HINCHINGBROOKE HEALTH CARE NHS TRUST,7870524,26510
+Department of Health,East of England SHA,09/02/2011,Training Expenses,New Posts in Year,IPSWICH HOSPITALS NHS TRUST,7908452,26352
+Department of Health,East of England SHA,09/02/2011,Training Expenses,New Posts in Year,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,4488
+Department of Health,East of England SHA,09/02/2011,Training Expenses,New Posts in Year,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,7142
+Department of Health,East of England SHA,09/02/2011,Training Expenses,New Posts in Year,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,2224
+Department of Health,East of England SHA,02/02/2011,Training Expenses,NHS Clinical Placement,BEDFORD HOSPITALS NHS TRUST,7870505,28963.08
+Department of Health,East of England SHA,01/02/2011,Training Expenses,NHS Clinical Placement,HINCHINGBROOKE HEALTH CARE NHS TRUST,7765458,25492
+Department of Health,East of England SHA,01/02/2011,Training Expenses,NHS Clinical Placement,IPSWICH HOSPITALS NHS TRUST,7784688,33105
+Department of Health,East of England SHA,15/02/2011,Training Expenses,NHS Clinical Placement,IPSWICH HOSPITALS NHS TRUST,7926172,33106
+Department of Health,East of England SHA,15/02/2011,Training Expenses,NHS Clinical Placement,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7926169,18993
+Department of Health,East of England SHA,01/02/2011,Training Expenses,NHS Clinical Placement,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775910,22667
+Department of Health,East of England SHA,09/02/2011,Training Expenses,NHS Clinical Placement,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,22666.5
+Department of Health,East of England SHA,15/02/2011,Training Expenses,NHS Clinical Placement,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7954463,3260.17
+Department of Health,East of England SHA,09/02/2011,Training Expenses,NHS Clinical Placement,WEST SUFFOLK HOSPITALS NHS TRUST,7880261,17586
+Department of Health,East of England SHA,02/02/2011,Training Expenses,NHS FACS (Service Increment for Teaching),BEDFORD HOSPITALS NHS TRUST,7870505,6420
+Department of Health,East of England SHA,01/02/2011,Training Expenses,NHS FACS (Service Increment for Teaching),HINCHINGBROOKE HEALTH CARE NHS TRUST,7765458,6169.08
+Department of Health,East of England SHA,01/02/2011,Training Expenses,NHS FACS (Service Increment for Teaching),IPSWICH HOSPITALS NHS TRUST,7784688,5045
+Department of Health,East of England SHA,15/02/2011,Training Expenses,NHS FACS (Service Increment for Teaching),IPSWICH HOSPITALS NHS TRUST,7926172,5044
+Department of Health,East of England SHA,15/02/2011,Training Expenses,NHS FACS (Service Increment for Teaching),PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7926169,6169.08
+Department of Health,East of England SHA,09/02/2011,Training Expenses,NHS FACS (Service Increment for Teaching),QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,6419
+Department of Health,East of England SHA,09/02/2011,Training Expenses,NHS FACS (Service Increment for Teaching),WEST SUFFOLK HOSPITALS NHS TRUST,7880261,9233
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,18390
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,BEDFORD HOSPITALS NHS TRUST,7880246,13864
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,CAMBRIDGESHIRE COMMUNITY SERVICES,7784664,1375
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,CAMBRIDGESHIRE COMMUNITY SERVICES,7954469,1375
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,18505
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,33573
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,HERTFORDSHIRE PARTNERSHIP NHS FOUNDATION TRUST,7970898,8411
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,7677
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,IPSWICH HOSPITALS NHS TRUST,7908452,20167
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,12146
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,19708
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,19709
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,20236
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,39531
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7908443,5500
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,NORTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7889319,4698
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,5959
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,16041
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,15469
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,12145
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,12146
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7954463,2406
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7962639,4698
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,21003
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,SUFFOLK MENTAL HEALTH PARTNERSHIP NHS TRUST,7880228,3209
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,25093
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Multiprofessional Education & Training (MPET) Non-Pay,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,13177
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Nursing Tuition,ANGLIA RUSKIN UNIVERSITY,7954331,71468
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Nursing Tuition,ANGLIA RUSKIN UNIVERSITY,7954434,1445726
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Nursing Tuition,UNIVERSITY CAMPUS SUFFOLK,7989457,406586
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Nursing Tuition,UNIVERSITY CAMPUS SUFFOLK,7989461,-64161
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Nursing Tuition,UNIVERSITY OF BEDFORDSHIRE,8006710,33980
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Nursing Tuition,UNIVERSITY OF EAST ANGLIA,7954213,445062
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Nursing Tuition,UNIVERSITY OF EAST ANGLIA,7954217,55325
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Nursing Tuition,UNIVERSITY OF ESSEX,7962594,204898.39
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Nursing Tuition,UNIVERSITY OF ESSEX,7997864,270256.66
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Nursing Tuition,UNIVERSITY OF HERTFORDSHIRE,7916977,1866487
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Occupational Therapy (A),LONDON SHA,7935544,183889
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Occupational Therapy (A),UNIVERSITY OF EAST ANGLIA,7954217,144577
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Occupational Therapy (A),UNIVERSITY OF ESSEX,7962594,79352.3
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Occupational Therapy (A),UNIVERSITY OF ESSEX,7997864,87288.3
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Occupational Therapy (A),UNIVERSITY OF NORTHAMPTON (THE),7989452,397992
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Operating Department Practitioners (OPDS),ANGLIA RUSKIN UNIVERSITY,7954331,-4248
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Operating Department Practitioners (OPDS),ANGLIA RUSKIN UNIVERSITY,7954434,50931
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Operating Department Practitioners (OPDS),UNIVERSITY CAMPUS SUFFOLK,7989457,15033
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Operating Department Practitioners (OPDS),UNIVERSITY CAMPUS SUFFOLK,7989461,-1630
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Operating Department Practitioners (OPDS),UNIVERSITY OF BEDFORDSHIRE,8006710,78429
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Operating Department Practitioners (OPDS),UNIVERSITY OF EAST ANGLIA,7954213,23043
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Pharmacy Tuition,NHS NORFOLK,7828187,113500
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Pharmacy Tuition,NHS NORFOLK,7828188,34965
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Pharmacy Tuition,NHS NORFOLK,7954352,56750
+Department of Health,East of England SHA,18/02/2011,Training Expenses,PHD Sexual Health,NAVIGATE HEALTH,7990035,154651.2
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Physio Tuition,UNIVERSITY OF EAST ANGLIA,7954217,91056
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Physio Tuition,UNIVERSITY OF ESSEX,7962594,76592.6
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Physio Tuition,UNIVERSITY OF ESSEX,7997864,75212.6
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Physio Tuition,UNIVERSITY OF HERTFORDSHIRE,7916977,304756
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Podiatry Tuition,LONDON SHA,7935545,132833
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Post Registration,ANGLIA RUSKIN UNIVERSITY,7954331,-303044
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Post Registration,ANGLIA RUSKIN UNIVERSITY,7954434,461807
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Post Registration,UNIVERSITY CAMPUS SUFFOLK,7989459,102035
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Post Registration,UNIVERSITY OF BEDFORDSHIRE,8006710,-20690
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Post Registration,UNIVERSITY OF BEDFORDSHIRE,8006714,70204
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Post Registration,UNIVERSITY OF EAST ANGLIA,7954214,132830
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Post Registration,UNIVERSITY OF ESSEX,7962594,55075.58
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Post Registration,UNIVERSITY OF ESSEX,7997864,55075.58
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Practice Educators,ANGLIA RUSKIN UNIVERSITY,7954331,890
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Practice Educators,UNIVERSITY CAMPUS SUFFOLK,7989457,-9315
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Practice Educators,UNIVERSITY OF BEDFORDSHIRE,8006710,-2
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Practice Educators,UNIVERSITY OF EAST ANGLIA,7954213,-12448
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Practice Educators,UNIVERSITY OF EAST ANGLIA,7954217,-6414
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Practice Educators,UNIVERSITY OF HERTFORDSHIRE,7916977,-69549
+Department of Health,East of England SHA,02/02/2011,Training Expenses,Pre-Registration Pharmacy Training Support,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7870491,64590
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Pre-Registration Pharmacy Training Support,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7954198,77508
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Pre-Registration Pharmacy Training Support,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7811779,12918
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Pre-Registration Pharmacy Training Support,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7954236,12918
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Public Health Training,NHS SUFFOLK,7837533,162720.31
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Public Health Training,NHS SUFFOLK,7880258,142955.91
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Radiography Tuition,UNIVERSITY CAMPUS SUFFOLK,7989457,162886
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Radiography Tuition,UNIVERSITY CAMPUS SUFFOLK,7989461,-15159
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Radiography Tuition,UNIVERSITY OF HERTFORDSHIRE,7916977,519975
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Student Grant Unit Bursary,NHS BUSINESS SERVICES AUTHORITY,7819504,3422998
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Speech & Language (A),UNIVERSITY OF EAST ANGLIA,7954217,125446
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Speech & Language (A),UNIVERSITY OF ESSEX,7962594,61493.67
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Speech & Language (A),UNIVERSITY OF ESSEX,7997864,72403.67
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,4682
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,BEDFORD HOSPITALS NHS TRUST,7880246,3529
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,CAMBRIDGESHIRE COMMUNITY SERVICES,7784664,327
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,CAMBRIDGESHIRE COMMUNITY SERVICES,7954469,327.75
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,4711
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,8545
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,HERTFORDSHIRE PARTNERSHIP NHS FOUNDATION TRUST,7970898,2141
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,1955
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,IPSWICH HOSPITALS NHS TRUST,7908452,5133
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,3091
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,5016
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,5017
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,5233
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,9946
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7908443,1400
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,NORTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7889319,1196
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,1517
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,4084
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,3938
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,3092
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,3091
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7954463,612
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7962639,1196
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,5347
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,SUFFOLK MENTAL HEALTH PARTNERSHIP NHS TRUST,7880228,816
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,6387
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Medical & Dental Education Levy (MADEL) Study Support,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,3354
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Specialty School Infrastructure,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,5036
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,BEDFORD HOSPITALS NHS TRUST,7880246,8718
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Specialty School Infrastructure,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,5376
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,9774
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Specialty School Infrastructure,HERTFORDSHIRE PARTNERSHIP NHS FOUNDATION TRUST,7970898,1222
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Specialty School Infrastructure,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,2444
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,IPSWICH HOSPITALS NHS TRUST,7908452,9330
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,5376
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,7985
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Specialty School Infrastructure,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,7985
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,5337
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,23970
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7908443,3934
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,NORTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7889319,1466
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Specialty School Infrastructure,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,4730
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,6802
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,6048.33
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Specialty School Infrastructure,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,8101
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,8100
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Specialty School Infrastructure,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7954463,489
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Specialty School Infrastructure,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7962639,978
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,7985
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,SUFFOLK MENTAL HEALTH PARTNERSHIP NHS TRUST,7880228,1428
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,6030
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Specialty School Infrastructure,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,4154
+Department of Health,East of England SHA,02/02/2011,Training Expenses,Technicians Training Support,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7870492,193182.02
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Technicians Training Support,EAST&NORTH HERTFORDSHIRE NHS TRUST,7811780,25129.5
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Technicians Training Support,HEALTH PROTECTION AGENCY,7989476,51105
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Technicians Training Support,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7954198,49712.27
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Technicians Training Support,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7811779,16447.58
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Technicians Training Support,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7954236,16447.58
+Department of Health,East of England SHA,21/02/2011,Training Expenses,Technicians Training Support,UNIVERSITY OF ESSEX,7989425,304317
+Department of Health,East of England SHA,28/02/2011,Training Expenses,Technicians Training Support,UNIVERSITY OF ESSEX,8028702,58125
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Technicians Training Support,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7997973,25129.5
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Trainer Grants,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,2050
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,BEDFORD HOSPITALS NHS TRUST,7880246,2050
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Trainer Grants,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,3416
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,6834
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Trainer Grants,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,2733
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,IPSWICH HOSPITALS NHS TRUST,7908452,3417
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,2050
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,3417
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Trainer Grants,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,3416
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,4100
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,4100
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,2734
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,3416
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Trainer Grants,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,2733
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,2734
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,3417
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,5466
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Trainer Grants,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,2050
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Training Grades,BASILDON&THURROCK UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7962616,394434
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,BEDFORD HOSPITALS NHS TRUST,7880246,291213
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Training Grades,CAMBRIDGE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7954456,26353
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Training Grades,CAMBRIDGESHIRE COMMUNITY SERVICES,7784664,30426.75
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Training Grades,CAMBRIDGESHIRE COMMUNITY SERVICES,7954469,30426
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Training Grades,COLCHESTER HOSPITAL UNIVERSITY NHS FOUNDATION TRUST,7962622,397939
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,EAST&NORTH HERTFORDSHIRE NHS TRUST,7889301,749330
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Training Grades,HERTFORDSHIRE PARTNERSHIP NHS FOUNDATION TRUST,7970898,153544.42
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Training Grades,HINCHINGBROOKE HEALTH CARE NHS TRUST,7775994,156859
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,IPSWICH HOSPITALS NHS TRUST,7908452,469232
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7880266,242566.17
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7880226,419185.16
+Department of Health,East of England SHA,23/02/2011,Training Expenses,Training Grades,LUTON & DUNSTABLE HOSPITAL NHS FOUNDATION TRUST,7979423,421821
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,MID ESSEX HOSPITALS SERVICES NHS TRUST,7889311,447321
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908416,964607
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7908443,103611
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,NORTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7889319,79410
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Training Grades,PAPWORTH HOSPITAL NHS FOUNDATION TRUST,7962619,160443.25
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,PETERBOROUGH&STAMFORD HOSPITALS NHS FOUNDATION TRUST,7880256,353791
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,PRINCESS ALEXANDRA HOSPITAL NHS TRUST (THE),7880239,315059
+Department of Health,East of England SHA,01/02/2011,Training Expenses,Training Grades,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775914,259740.75
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,254239.25
+Department of Health,East of England SHA,15/02/2011,Training Expenses,Training Grades,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7954463,39977
+Department of Health,East of England SHA,16/02/2011,Training Expenses,Training Grades,SOUTH ESSEX PARTNERSHIP NHS FOUNDATION TRUST,7962639,79850
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,SOUTHEND UNIVERSITY HOSPITAL NHS FOUNDATION TRUST,7880233,463323
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,SUFFOLK MENTAL HEALTH PARTNERSHIP NHS TRUST,7880228,57400
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,WEST HERTFORDSHIRE HOSPITALS NHS TRUST,7880250,550627
+Department of Health,East of England SHA,09/02/2011,Training Expenses,Training Grades,WEST SUFFOLK HOSPITALS NHS TRUST,7880267,287160.51
+Department of Health,East of England SHA,09/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Clinical Placement (CPS),JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7889294,89941
+Department of Health,East of England SHA,01/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Clinical Placement (CPS),NHS NORFOLK,7828185,25405
+Department of Health,East of England SHA,09/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Clinical Placement (CPS),NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908421,196100
+Department of Health,East of England SHA,16/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Clinical Placement (CPS),NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7954475,-28513
+Department of Health,East of England SHA,16/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Clinical Placement (CPS),NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7962607,63590
+Department of Health,East of England SHA,01/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Clinical Placement (CPS),QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775910,23384
+Department of Health,East of England SHA,09/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Clinical Placement (CPS),QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,23385
+Department of Health,East of England SHA,04/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Clinical Placement (CPS),UNIVERSITY OF EAST ANGLIA,7880236,77351
+Department of Health,East of England SHA,09/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),JAMES PAGET UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7889294,105531.67
+Department of Health,East of England SHA,01/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),NHS NORFOLK,7828185,11039
+Department of Health,East of England SHA,01/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),NHS NORFOLK,7855834,103895
+Department of Health,East of England SHA,09/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,7908421,262474
+Department of Health,East of England SHA,16/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),NORFOLK & WAVENEY MENTAL HEALTH NHS FOUNDATION TRUST,7962607,38782
+Department of Health,East of England SHA,01/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7775910,8550.15
+Department of Health,East of England SHA,09/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),QUEEN ELIZABETH HOSPITAL KINGS LYNN NHS TRUST (THE),7880262,15040
+Department of Health,East of England SHA,01/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),SUFFOLK MENTAL HEALTH PARTNERSHIP NHS TRUST,7793572,27629
+Department of Health,East of England SHA,04/02/2011,Training Expenses,UEA Service Increment for Training (SIFT) Facilities (FACS),UNIVERSITY OF EAST ANGLIA,7880236,137309
+Department of Health,East of England SHA,16/02/2011,Training Expenses,University Administration Clinical Placement (CPS),UNIVERSITY OF CAMBRIDGE,7962637,2662
+Department of Health,East of England SHA,16/02/2011,Training Expenses,University Administration Facilities (FACS),UNIVERSITY OF CAMBRIDGE,7962637,29311
+Department of Health,East of England SHA,01/02/2011,Training Travel & Subs,Public Health Training,NHS SUFFOLK,7837533,1913.32
+Department of Health,East of England SHA,09/02/2011,Travel & Subsistence,Public Health Training,NHS SUFFOLK,7880258,1521.1

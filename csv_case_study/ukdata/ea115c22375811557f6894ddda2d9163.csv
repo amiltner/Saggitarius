@@ -1,0 +1,190 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount
+Department of Health,NHS Derby City,01/03/2012,SrvcsRecd-FoundationTrust,DHC FT SLA-Estates,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,24700.33
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Bradshaw Clinic,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,1013.67
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Cardinal Square,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,11031.07
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Coleman H/Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,7176.17
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Kingsmead Clinic,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,765.92
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Peartree Clinic,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,1675.67
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Revive Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,1314.08
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Sinfin H/Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,2305.83
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Village M/Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,5289.17
+Department of Health,NHS Derby City,01/03/2012,Ext Contr Domestics,Estate-Walk In Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10295843,3392
+Department of Health,NHS Derby City,01/03/2012,Healthcare Srv Rec PCTs,Childrens Continuing Care,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10267480,39848.16
+Department of Health,NHS Derby City,01/03/2012,Healthcare Srv Rec PCTs,Childrens Continuing Care,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10267481,35685
+Department of Health,NHS Derby City,01/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-LD-OATS,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10267519,56981.96
+Department of Health,NHS Derby City,01/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Ind Provider,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10267519,194947.61
+Department of Health,NHS Derby City,01/03/2012,Hcare Srv Rec NHS Trust,SLA-NUH NT-G+A,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,10295842,80121
+Department of Health,NHS Derby City,02/03/2012,Independent Sector,Reablement,DERBY CITY COUNCIL,10308491,738000
+Department of Health,NHS Derby City,02/03/2012,Commercial Sector,DHU-Walk In Centre,DERBYSHIRE HEALTH UNITED LTD,10308468,108815.66
+Department of Health,NHS Derby City,02/03/2012,Interpreting services,Interpreting Service,PEARL LINGUISTICS LTD,10295846,54332.23
+Department of Health,NHS Derby City,02/03/2012,Commercial Sector,DAAT Pooled Treatment,PHOENIX HOUSE,10308466,54504
+Department of Health,NHS Derby City,08/03/2012,Hlthcre-Foundation Trsts,SLA-Burton Hosp FT,BURTON HOSPITALS NHS FOUNDATION TRUST,10346943,78005
+Department of Health,NHS Derby City,08/03/2012,Hlthcre-Foundation Trsts,SLA-Burton Hosp FT,BURTON HOSPITALS NHS FOUNDATION TRUST,10346974,39459
+Department of Health,NHS Derby City,08/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT Non Tar-G+A,DERBY HOSPITALS NHS FOUNDATION TRUST,10346925,3698705
+Department of Health,NHS Derby City,08/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT Tariff-G+A,DERBY HOSPITALS NHS FOUNDATION TRUST,10346925,10160415
+Department of Health,NHS Derby City,08/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT-Comm Hlth Serv,DERBY HOSPITALS NHS FOUNDATION TRUST,10346955,824489
+Department of Health,NHS Derby City,08/03/2012,Hcare Srv Rec NHS Trust,SLA-DCHS-Comm Hlth Serv,DERBYSHIRE COMMUNITY HEALTH SERVICES NHS TRUST,10346939,527401
+Department of Health,NHS Derby City,08/03/2012,Healthcare Srv Rec PCTs,S28 Barnardos,DERBYSHIRE COUNTY PCT,10308471,6273.2
+Department of Health,NHS Derby City,08/03/2012,Healthcare Srv Rec PCTs,S28 Communication Unlimtd,DERBYSHIRE COUNTY PCT,10308471,16089.14
+Department of Health,NHS Derby City,08/03/2012,Healthcare Srv Rec PCTs,S28 DCIL,DERBYSHIRE COUNTY PCT,10308471,6052.84
+Department of Health,NHS Derby City,08/03/2012,Healthcare Srv Rec PCTs,LD-OATS-Independent,DERBYSHIRE COUNTY PCT,10346927,17250
+Department of Health,NHS Derby City,08/03/2012,Healthcare Srv Rec PCTs,SLA-DCPCT-MI-Ind Acute,DERBYSHIRE COUNTY PCT,10346927,7545.09
+Department of Health,NHS Derby City,08/03/2012,Healthcare Srv Rec PCTs,SLA-DCPCT-MI-Ind Provider,DERBYSHIRE COUNTY PCT,10346927,75589.73
+Department of Health,NHS Derby City,08/03/2012,Hcare Srv Rec NHS Trust,SLA-East Mids Amb Ser NT,EAST MIDLANDS AMBULANCE SERVICES NHS TRUST,10346937,594732
+Department of Health,NHS Derby City,08/03/2012,Hcare Srv Rec NHS Trust,SLA-East Mids Amb Ser-PTS,EAST MIDLANDS AMBULANCE SERVICES NHS TRUST,10346938,104667
+Department of Health,NHS Derby City,08/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Perinatal,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10346912,99971
+Department of Health,NHS Derby City,08/03/2012,Hcare Srv Rec NHS Trust,SLA-NUH NT-G+A,NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,10346965,307235
+Department of Health,NHS Derby City,09/03/2012,AUC Additions,BALANCE SHEET,CARDINAL SQUARE LLP,10346935,42888.81
+Department of Health,NHS Derby City,09/03/2012,Services from Local Auth,Engagement,DERBY CITY COUNCIL,10346944,32640
+Department of Health,NHS Derby City,09/03/2012,Out of Hours Dev Fund PMS,Out Of Hours,DERBYSHIRE HEALTH UNITED LTD,10347211,237934
+Department of Health,NHS Derby City,09/03/2012,Contr Other External,Estate-Cardinal Square,GBR PHOENIX BEARD,10358721,7547.78
+Department of Health,NHS Derby City,09/03/2012,Lease Rents,Estate-Cardinal Square,GBR PHOENIX BEARD,10358721,20129.86
+Department of Health,NHS Derby City,09/03/2012,Contr Other External,Estate-Cardinal Square,GBR PHOENIX BEARD,10358722,7593
+Department of Health,NHS Derby City,09/03/2012,Lease Rents,Estate-Cardinal Square,GBR PHOENIX BEARD,10358722,19100.26
+Department of Health,NHS Derby City,09/03/2012,Contr Other External,Estate-Cardinal Square,GBR PHOENIX BEARD,10358723,9093
+Department of Health,NHS Derby City,09/03/2012,Lease Rents,Estate-Cardinal Square,GBR PHOENIX BEARD,10358723,19100.26
+Department of Health,NHS Derby City,09/03/2012,Contr Other External,Estate-Cardinal Square,GBR PHOENIX BEARD,10358724,7547.78
+Department of Health,NHS Derby City,09/03/2012,Lease Rents,Estate-Cardinal Square,GBR PHOENIX BEARD,10358724,20129.86
+Department of Health,NHS Derby City,09/03/2012,Contr Other External,Estate-Cardinal Square,GBR PHOENIX BEARD,10358725,7293
+Department of Health,NHS Derby City,09/03/2012,Lease Rents,Estate-Cardinal Square,GBR PHOENIX BEARD,10358725,19100.28
+Department of Health,NHS Derby City,09/03/2012,Contr Other External,Estate-Cardinal Square,GBR PHOENIX BEARD,10358726,7547.78
+Department of Health,NHS Derby City,09/03/2012,Lease Rents,Estate-Cardinal Square,GBR PHOENIX BEARD,10358726,20129.86
+Department of Health,NHS Derby City,09/03/2012,Contr Other External,Estate-Cardinal Square,GBR PHOENIX BEARD,10358727,9393
+Department of Health,NHS Derby City,09/03/2012,Lease Rents,Estate-Cardinal Square,GBR PHOENIX BEARD,10358727,19100.26
+Department of Health,NHS Derby City,09/03/2012,Commercial Sector,FNC-Funded Nursing Care,NORMANTON VILLAGE VIEW NURSING HOME,10358858,27335.56
+Department of Health,NHS Derby City,09/03/2012,Commercial Sector,MH- IAPT,TRENT CBT,10346959,182000
+Department of Health,NHS Derby City,13/03/2012,Commercial Sector,Nuffield Hospital,NUFFIELD HEALTH,10377754,70986.32
+Department of Health,NHS Derby City,13/03/2012,OthPFIFnLiabAmrtCst-NCurr,BALANCE SHEET,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377853,4244.39
+Department of Health,NHS Derby City,13/03/2012,Bldg Ctrcts - PFI Svc Chg,Estate-Village M/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377853,7300.35
+Department of Health,NHS Derby City,13/03/2012,Interest Payable - PFI,Estate-Village M/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377853,5942.15
+Department of Health,NHS Derby City,13/03/2012,LIFT Loan Int Payable,Estate-Village M/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377853,26909.44
+Department of Health,NHS Derby City,13/03/2012,Vending Machine Rental,Estate-Village M/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377853,244.4
+Department of Health,NHS Derby City,13/03/2012,Water,Estate-Village M/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377853,1100.69
+Department of Health,NHS Derby City,13/03/2012,OthPFIFnLiabAmrtCst-NCurr,BALANCE SHEET,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377854,6113.7
+Department of Health,NHS Derby City,13/03/2012,Bldg Ctrcts - PFI Svc Chg,Estate-Coleman H/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377854,8830.91
+Department of Health,NHS Derby City,13/03/2012,Gas,Estate-Coleman H/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377854,1468.48
+Department of Health,NHS Derby City,13/03/2012,Interest Payable - PFI,Estate-Coleman H/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377854,6368.44
+Department of Health,NHS Derby City,13/03/2012,LIFT Loan Int Payable,Estate-Coleman H/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377854,39908.88
+Department of Health,NHS Derby City,13/03/2012,Vending Machine Rental,Estate-Coleman H/Centre,SOUTHERN DERBYSHIRE LIFT PROJECT CO (NO 1) LTD,10377854,244.4
+Department of Health,NHS Derby City,13/03/2012,Commercial Sector,Childrens Continuing Care,ST ANDREWS HEALTHCARE,10377847,27550.61
+Department of Health,NHS Derby City,13/03/2012,Computer Software/License,Central Costs-IT Equip,TCR (NOTTINGHAM) LTD,10377749,35280
+Department of Health,NHS Derby City,15/03/2012,Hlthcre-Foundation Trsts,Alcohol Service-HALT/SCAM,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10358698,36042
+Department of Health,NHS Derby City,15/03/2012,Hlthcre-Foundation Trsts,SLA-DHC FT-M/I,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10377778,2569575
+Department of Health,NHS Derby City,15/03/2012,Hlthcre-Foundation Trsts,SLA-DHC FT-L/D,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10377780,216472
+Department of Health,NHS Derby City,15/03/2012,Hlthcre-Foundation Trsts,SLA-DHC FT-Comm Hlth Serv,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10377782,643915
+Department of Health,NHS Derby City,15/03/2012,Hlthcre-Foundation Trsts,SLA-DHC FT-Comm Hlth Serv,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10377784,78086
+Department of Health,NHS Derby City,15/03/2012,Hlthcre-Foundation Trsts,SLA-DHC FT-M/I,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10377792,217466
+Department of Health,NHS Derby City,15/03/2012,Hlthcre-Foundation Trsts,SLA-DHC FT-Comm Hlth Serv,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10377794,32905
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-Birming Child FT (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,45599
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-DHFT Non Tar-G+A (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,960286
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-DHFT Tariff-G+A (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,598317
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-G+A,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,198571
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-NUH NT-G+A (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,808036
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-Sheff Child FT (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,7431
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-Sheff Teach FT (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,36443
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-Sherwood Frst FT (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,236
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-UHL NT-G+A (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,134964
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-United Lincs  NT (SC),LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358699,808
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Med/High Sec,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358700,109843
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Med/High Sec,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358701,314711
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Low Secure,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10358702,90729.58
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-LD-OATS,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10377825,41337.64
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Ind Provider,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10377825,203787.7
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Low Secure,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10377825,-34465.05
+Department of Health,NHS Derby City,15/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Low Secure,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10387420,54238
+Department of Health,NHS Derby City,16/03/2012,Independent Sector,DICES,DERBY CITY COUNCIL,10397339,68766.61
+Department of Health,NHS Derby City,16/03/2012,Independent Sector,Memory Service-DH Support,DERBY CITY COUNCIL,10408713,54550.8
+Department of Health,NHS Derby City,16/03/2012,Independent Sector,The Lighthouse (Pool),DERBY CITY COUNCIL,10408861,971334
+Department of Health,NHS Derby City,16/03/2012,Independent Sector,Sexual Health Services,DERBY CITY COUNCIL,10408868,44160
+Department of Health,NHS Derby City,19/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT Non Tar-G+A,DERBY HOSPITALS NHS FOUNDATION TRUST,10397298,24966.79
+Department of Health,NHS Derby City,19/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT Tariff-G+A,DERBY HOSPITALS NHS FOUNDATION TRUST,10397298,171919.77
+Department of Health,NHS Derby City,19/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT Tariff-G+A,DERBY HOSPITALS NHS FOUNDATION TRUST,10397375,1936439
+Department of Health,NHS Derby City,19/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT Tariff-G+A,DERBY HOSPITALS NHS FOUNDATION TRUST,10397376,787830
+Department of Health,NHS Derby City,19/03/2012,Services Received - PCTs,DC PCT SLA-DHIS,DERBYSHIRE COUNTY PCT,10419111,48553.06
+Department of Health,NHS Derby City,19/03/2012,Healthcare Srv Rec PCTs,NHS-DC PCT Inter PCT,DERBYSHIRE COUNTY PCT,10419113,26790
+Department of Health,NHS Derby City,19/03/2012,Hlthcre-Foundation Trsts,SLA-DCPCT-MI-Ind Provider,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10408779,166050
+Department of Health,NHS Derby City,19/03/2012,Hlthcre-Foundation Trsts,SLA-DCPCT-MI-Ind Provider,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10408780,139324
+Department of Health,NHS Derby City,19/03/2012,SrvcsRecd-FoundationTrust,DHC FT SLA-Estates,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,24700.33
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Bradshaw Clinic,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,1013.67
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Cardinal Square,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,11031.07
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Coleman H/Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,7176.17
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Kingsmead Clinic,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,765.92
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Peartree Clinic,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,1675.67
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Revive Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,1314.08
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Sinfin H/Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,2305.83
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Village M/Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,5289.17
+Department of Health,NHS Derby City,19/03/2012,Ext Contr Domestics,Estate-Walk In Centre,DERBYSHIRE HEALTHCARE NHS FOUNDATION TRUST,10419116,3392
+Department of Health,NHS Derby City,19/03/2012,Healthcare Srv Rec PCTs,NHS-Cancer Network,LEICESTER CITY PCT,10397322,34717.22
+Department of Health,NHS Derby City,19/03/2012,Hcare Srv Rec NHS Trust,NHS-Bowel Screening (NUH),NOTTINGHAM UNIVERSITY HOSPITALS NHS TRUST,10397387,35969.84
+Department of Health,NHS Derby City,19/03/2012,Hcare Srv Rec NHS Trust,SLA-UHL NT-G+A,UNIVERSITY HOSPITALS OF LEICESTER NHS TRUST,10346951,50816
+Department of Health,NHS Derby City,19/03/2012,Hcare Srv Rec NHS Trust,SLA-UHL NT-G+A,UNIVERSITY HOSPITALS OF LEICESTER NHS TRUST,10397337,-29446
+Department of Health,NHS Derby City,20/03/2012,Independent Sector,MH-Retraction,DERBY CITY COUNCIL,10430476,33708.26
+Department of Health,NHS Derby City,20/03/2012,Independent Sector,MH-Derby City MH Project,DERBY CITY COUNCIL,10430482,236365
+Department of Health,NHS Derby City,20/03/2012,Independent Sector,Reablement,DERBY CITY COUNCIL,10430491,3200000
+Department of Health,NHS Derby City,20/03/2012,Voluntary Sector,DAAT Pooled Treatment,PHOENIX HOUSE,10430530,54504
+Department of Health,NHS Derby City,21/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT-Comm Hlth Serv,DERBY HOSPITALS NHS FOUNDATION TRUST,10430510,35000
+Department of Health,NHS Derby City,21/03/2012,Healthcare Srv Rec PCTs,SLA-DCPCT-MI-Ind Provider,DERBYSHIRE COUNTY PCT,10430521,95245.35
+Department of Health,NHS Derby City,21/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Low Secure,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10430501,271647.91
+Department of Health,NHS Derby City,21/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Low Secure,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10439481,-271647.91
+Department of Health,NHS Derby City,21/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Perinatal,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10439482,101654
+Department of Health,NHS Derby City,21/03/2012,Healthcare Srv Rec PCTs,SLA-DCPCT-MI-Ind Provider,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10439483,68896
+Department of Health,NHS Derby City,21/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-MI-Low Secure,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10439484,-129326.36
+Department of Health,NHS Derby City,23/03/2012,CompSwrPrch Additions,BALANCE SHEET,CIVICA UK LTD,9967152,38400
+Department of Health,NHS Derby City,23/03/2012,Independent Sector,MH-Derby City MH Project,DERBY CITY COUNCIL,10439475,315794.66
+Department of Health,NHS Derby City,23/03/2012,Independent Sector,Healthwatch-Reg Supp Prog,DERBY CITY COUNCIL,10463796,48000
+Department of Health,NHS Derby City,23/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT-Lead Purchaser,DERBY HOSPITALS NHS FOUNDATION TRUST,10463808,110000
+Department of Health,NHS Derby City,23/03/2012,Healthcare Srv Rec PCTs,Childrens Continuing Care,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10451693,3056
+Department of Health,NHS Derby City,23/03/2012,Healthcare Srv Rec PCTs,SLA-Notts Healthcare NT,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10451693,65052.49
+Department of Health,NHS Derby City,23/03/2012,Healthcare Srv Rec PCTs,SLA-EMSCG-G+A,LEICESTERSHIRE COUNTY AND RUTLAND PRIMARY CARE TRUST,10463824,383444
+Department of Health,NHS Derby City,23/03/2012,Healthcare Srv Rec PCTs,SLA-ISTC-Nott City PCT,NOTTINGHAM CITY PCT,10451667,51589
+Department of Health,NHS Derby City,23/03/2012,Healthcare Srv Rec PCTs,SLA-ISTC-Nott City PCT,NOTTINGHAM CITY PCT,10451668,124373
+Department of Health,NHS Derby City,23/03/2012,Healthcare Srv Rec PCTs,SLA-ISTC-Nott City PCT,NOTTINGHAM CITY PCT,10451671,140075
+Department of Health,NHS Derby City,23/03/2012,Healthcare Srv Rec PCTs,SLA-ISTC-Nott City PCT,NOTTINGHAM CITY PCT,10451672,313974
+Department of Health,NHS Derby City,23/03/2012,Voluntary Sector,DAAT Pooled Treatment,PHOENIX HOUSE,10451745,54504
+Department of Health,NHS Derby City,27/03/2012,Independent Sector,SHINE,DERBY CITY COUNCIL,10473759,232248
+Department of Health,NHS Derby City,27/03/2012,Independent Sector,DICES,DERBY CITY COUNCIL,10485677,120416.75
+Department of Health,NHS Derby City,27/03/2012,Voluntary Sector,AIDS,DERBYSHIRE FRIEND,10473765,38707
+Department of Health,NHS Derby City,27/03/2012,Other Gen Supplies & Srv,SBS SLA-Finance,NHS SHARED BUSINESS SERVICES LTD,10485594,112460
+Department of Health,NHS Derby City,27/03/2012,Other Gen Supplies & Srv,SBS SLA-Payroll,NHS SHARED BUSINESS SERVICES LTD,10485667,59610
+Department of Health,NHS Derby City,27/03/2012,Interpreting services,Interpreting Service,PEARL LINGUISTICS LTD,10485580,55122.46
+Department of Health,NHS Derby City,27/03/2012,Voluntary Sector,DAAT Pooled Treatment,PHOENIX HOUSE,10485666,47000
+Department of Health,NHS Derby City,27/03/2012,GMSDES Servs Violent Pat,GMS-Wilson Street Surgery,WILSON STREET SURGERY,10485550,30510
+Department of Health,NHS Derby City,29/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT-Lead Purchaser,DERBY HOSPITALS NHS FOUNDATION TRUST,10498266,200000
+Department of Health,NHS Derby City,29/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT-Lead Purchaser,DERBY HOSPITALS NHS FOUNDATION TRUST,10498277,-200000
+Department of Health,NHS Derby City,29/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT-Lead Purchaser,DERBY HOSPITALS NHS FOUNDATION TRUST,10498278,200000
+Department of Health,NHS Derby City,29/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT-Lead Purchaser,DERBY HOSPITALS NHS FOUNDATION TRUST,10498279,600000
+Department of Health,NHS Derby City,29/03/2012,Hlthcre-Foundation Trsts,SLA-DHFT-Lead Purchaser,DERBY HOSPITALS NHS FOUNDATION TRUST,10498280,500000
+Department of Health,NHS Derby City,29/03/2012,External Consultancy Fees,Strategic Reserve Project,HAY GROUP MANAGEMENT LTD,10508370,290922
+Department of Health,NHS Derby City,29/03/2012,SrvcsRecd-FoundationTrust,Strategic Reserve Project,SOUTH DEVON HEALTHCARE NHS FOUNDATION TRUST,10498326,250000
+Department of Health,NHS Derby City,30/03/2012,Contr Other External,DSS Estates,CLOWES DEVELOPMENT UK LTD,10527514,216000
+Department of Health,NHS Derby City,15/03/2012,Contract Payments,Opthalmic Services,VISION PLUS T/A SPECSAVERS OPTICIANS,O883,80038.08
+Department of Health,NHS Derby City,15/03/2012,Contract Payments,GP Medical Services ,HOLLYBROOK MEDICAL CENTRE,C81054,138854.43
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,CHARNWOOD SURGERY,C81006,110497.56
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,VERNON STREET MEDICAL CENTRE,C81007,88241.22
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,WILSON STREET SURGERY,C81009,136506.66
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,DERWENT VALLEY MED PRACTICE,C81014,116512.31
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,WELLSIDE MEDICAL CENTRE,C81019,69556.85
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,VILLAGE SURGERY,C81035,110297.61
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,FRIAR GATE SURGERY,C81036,46389.35
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,PARK LANE SURGERY,C81040,48527.79
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,MICKLEOVER MEDICAL CENTRE,C81042,95691.64
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,ALVASTON MEDICAL CENTRE,C81047,91809.68
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,PARK MEDICAL PRACTICE,C81051,185038.38
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,PARK FARM MEDICAL CENTRE,C81064,87866.74
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,OVERDALE MEDICAL PRACTICE,C81066,84648.71
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,CHAPEL STREET MEDICAL CENTRE,C81068,109041.93
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,OSMASTON SURGERY,C81071,135210.17
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,LISTER HOUSE,C81072,217008.15
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,MACKLIN STREET SURGERY,C81073,104266.29
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,HAVEN MEDICAL CENTRE,C81087,93115.47
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,PARKFIELDS SURGERY,C81100,48264.58
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,MELBOURNE HEALTH CARE CENTRE,C81108,152786.97
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,MICKLEOVER SURGERY,C81113,47792.25
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,DERBY LANE MEDICAL CENTRE,C81118,50158.35
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,PEARTREE MEDICAL CENTRE,C81616,52299.72
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,CLARENCE ROAD SURGERY,C81629,29953.21
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,OAKWOOD SURGERY,C81648,30640.37
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,DERWENT MEDICAL CENTRE,C81652,37046.53
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services,BROOK MEDICAL CENTRE,C81653,32416.86
+Department of Health,NHS Derby City,23/03/2012,Contract Payments,GP Medical Services ,MEADOWFIELDS,C81665,84739.84
+Department of Health,NHS Derby City,29/03/2012,Drugs,Prescribing Service,ALVASTON MEDICAL CENTRE,C81047,36420.38

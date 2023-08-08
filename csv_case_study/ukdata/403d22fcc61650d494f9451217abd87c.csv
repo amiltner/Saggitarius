@@ -1,0 +1,785 @@
+Payment Date,Transaction id,Supplier,Expense Type,Expense Area,Amount in Sterling
+08/07/2010,2647985,42 Bedford Row,Legal & Professional Fees,Legal Directorate,1025
+01/07/2010,2648127,AB Multimedia Ltd,Online Information Sources,Communications - Internal,3152.5
+01/07/2010,2648054,Access Plus Marketing Service Ltd,Printing (Internal),Health Directorate - Payment by Results,712.52
+06/07/2010,2648208,Access Plus Marketing Service Ltd,Printing (Internal),Financial Management Policy and Research,712.52
+06/07/2010,2648219,Access Plus Marketing Service Ltd,Corporate Subscriptions,Communications - Marketing,2071.83
+06/07/2010,2648288,Access Plus Marketing Service Ltd,Corporate Subscriptions,Communications - Marketing,750
+15/07/2010,2648517,Access Plus Marketing Service Ltd,Publications (External),Studies,2010.19
+08/07/2010,2647824,Accor Corporate Services,Health & Safety (Non Furniture),HR Service Centre,2824.75
+28/07/2010,2648792,Adrian Bowen,Contractor Costs,LGH&CS management,3000
+06/07/2010,2648213,Alan Pickstock Associates,Consultants (Non Time Sheet User),Communications - Account Management,4500
+06/07/2010,2648293,Arena Business Centres,Office Equipment (Revenue),Regional Costs - Ops Southern,22
+06/07/2010,2648293,Arena Business Centres,Postage & Delivery Charges,Regional Costs - Ops Southern,5.17
+06/07/2010,2648293,Arena Business Centres,Rent Licences (Not Leased),Estate Management,1590
+06/07/2010,2648293,Arena Business Centres,Telecommunication Charges,Regional Costs - Ops Southern,264.72
+08/07/2010,2646829,Arnold Clark Finance Ltd,Car Termination Penalties,Organisational Development,-1.74
+08/07/2010,2646829,Arnold Clark Finance Ltd,Car Termination Penalties,Organisational Development,-41.72
+08/07/2010,2646829,Arnold Clark Finance Ltd,Car Termination Penalties,Organisational Development,4.53
+08/07/2010,2646829,Arnold Clark Finance Ltd,Car Termination Penalties,Organisational Development,108.95
+08/07/2010,2646829,Arnold Clark Finance Ltd,Car Termination Penalties,Organisational Development,434.85
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,334.32
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,London operational staff,376.8
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Audit Approach Division,7.67
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Audit Approach Division,272.07
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,7.46
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,231.83
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,10.79
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,713.51
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,13.52
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,213.14
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,11.47
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,307.75
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Housing Admin,9.35
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Housing Admin,167.26
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Housing Admin,7.67
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,7.67
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Housing Admin,309.69
+13/07/2010,2647445,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,London operational staff,5.86
+08/07/2010,2647965,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of Operations - South East - Ops Southern,51.24
+08/07/2010,2647965,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of Operations - South East - Ops Southern,4013.27
+08/07/2010,2647966,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,London operational staff,4935.77
+08/07/2010,2647966,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,London operational staff,53.04
+08/07/2010,2647967,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,IT Running Costs,3171.8
+08/07/2010,2647967,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,IT Running Costs,69.24
+08/07/2010,2647968,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,London operational staff,4380.89
+08/07/2010,2647968,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,London operational staff,53.76
+08/07/2010,2647968,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,2871.26
+08/07/2010,2647968,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,53.64
+13/07/2010,2647969,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Finance and Planning Directorate Management,52.09
+13/07/2010,2647969,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Finance and Planning Directorate Management,4033.1
+13/07/2010,2647970,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of Operations - South East - Ops Southern,55.32
+13/07/2010,2647970,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of Operations - South East - Ops Southern,2327.86
+13/07/2010,2647971,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,3469.6
+13/07/2010,2647971,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,52.2
+13/07/2010,2647971,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,West Midlands Sub-Region - Ops Central,2356.83
+13/07/2010,2647971,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,West Midlands Sub-Region - Ops Central,55.56
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,London operational staff,5.86
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,622.79
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,13.11
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,334.32
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South Central - Ops Southern,7.67
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,307.75
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,11.47
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,133.94
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Professional Standards Division,8.5
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,371.63
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,5.62
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,358.98
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,18.14
+15/07/2010,2648340,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,London operational staff,376.8
+28/07/2010,2648912,Atlantic Business Centre,Rent Licences (Not Leased),Estate Management,3160
+13/07/2010,2648380,Atlantic Data Limited,Corporate Subscriptions,HR Service Centre,1334
+13/07/2010,2648380,Atlantic Data Limited,Corporate Subscriptions,HR Service Centre,539.5
+13/07/2010,2648389,Atlantic Data Limited,Corporate Subscriptions,HR Service Centre,420.75
+13/07/2010,2648389,Atlantic Data Limited,Corporate Subscriptions,HR Service Centre,1170
+15/07/2010,2648520,Auto Windscreens Limited,Car Miscellaneous Invoices,Head of Ops - South West - Ops Southern,452.8
+08/07/2010,2647766,Automotive Leasing,Car Lease Costs - Purchases,Head of Ops - South West - Ops Southern,2527.81
+08/07/2010,2647767,Automotive Leasing,Car Lease Costs - Purchases,Eastern Sub-Region - Ops Central,4607.28
+08/07/2010,2647768,Automotive Leasing,Car Lease Costs - Purchases,Head of Operations - South East - Ops Southern,3793.88
+08/07/2010,2647769,Automotive Leasing,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,4616.13
+08/07/2010,2647770,Automotive Leasing,Car Lease Costs - Purchases,HR Policy and Advice,2319.18
+08/07/2010,2647771,Automotive Leasing,Car Lease Costs - Purchases,Head of Operations - South East - Ops Southern,2354.66
+08/07/2010,2647772,Automotive Leasing,Car Lease Costs - Purchases,West Midlands Sub-Region - Ops Central,3766.58
+08/07/2010,2647773,Automotive Leasing,Car Lease Costs - Purchases,Business Unit - Ops Northern,2301.82
+08/07/2010,2647774,Automotive Leasing,Car Lease Costs - Purchases,West Midlands Sub-Region - Ops Central,3866.48
+06/07/2010,2648284,Avocent Software Ltd,Software Support & Maintenance,IT Running Costs,39459.66
+01/07/2010,2648053,Beaufort Training & Development,Consultants (Non Time Sheet User),HR Training and Development,400
+01/07/2010,2648053,Beaufort Training & Development,Staff Training,HR Training and Development,1350
+06/07/2010,2648353,Beaufort Training & Development,Staff Training,HR Training and Development,1100
+06/07/2010,2648354,Beaufort Training & Development,Staff Training,HR Training and Development,1100
+06/07/2010,2648355,Beaufort Training & Development,Staff Training,HR Training and Development,1100
+06/07/2010,2648077,Bevan Brittan LLP,Legal & Professional Fees,Legal Directorate,22.31
+06/07/2010,2648077,Bevan Brittan LLP,Legal & Professional Fees,Legal Directorate,593.66
+26/07/2010,1024025,Blaby District Council S/O,Business Rates,Estate Management,"9,256.42"
+21/07/2010,2648727,Boulden Management Consultants Ltd,Staff Training,HR Training and Development,2229
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,North East and Humberside,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Projects,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Projects,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,London operational staff,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,Audit Regulations,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,West Midlands Sub-Region - Ops Central,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,Head of Operations - South East - Ops Southern,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,North East and Humberside,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,Audit Approach Division,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,East Midlands Sub-Region - Ops Central,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,North East and Humberside,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,Head of Ops - South West - Ops Southern,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Projects,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,Information Management,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Projects,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Running Costs,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Projects,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Projects,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,Audit Approach Division,85.5
+28/07/2010,2648934,British Computer Society,Professional Subscriptions,IT Projects,52
+15/07/2010,2647870,British Gas Business,"Heat, Light & Power",Estate Management,1237.75
+15/07/2010,2648428,British Gas Business,"Heat, Light & Power",Estate Management,2334.32
+15/07/2010,2648439,British Gas Business,"Heat, Light & Power",Estate Management,1911.73
+15/07/2010,2648441,British Gas Business,"Heat, Light & Power",Estate Management,1035.63
+15/07/2010,2648249,British Institute of Facilities Management,Corporate Subscriptions,Estate Management,1389
+21/07/2010,2648593,BT Business Comm,Telecommunication Rental & Maintenance,IT Running Costs,18408.99
+28/07/2010,2648551,BT Conferencing,Telecommunication Charges,Regional Costs - Ops Southern,1561.43
+28/07/2010,2648551,BT Conferencing,Telecommunication Charges,Housing Admin,197.2
+13/07/2010,2648174,Cable & Wireless Communications,Telecommunication Rental & Maintenance,IT Running Costs,452.25
+13/07/2010,2648460,Cable & Wireless Communications,Telecommunication Rental & Maintenance,IT Running Costs,7547.07
+13/07/2010,2648461,Cable & Wireless Communications,Telecommunication Rental & Maintenance,IT Running Costs,66082.58
+21/07/2010,2648697,Cable & Wireless Communications,Telecommunication Rental & Maintenance,IT Running Costs,502.5
+23/07/2010,2648753,Cable & Wireless Communications,Telecommunication Rental & Maintenance,IT Running Costs,1475.1
+23/07/2010,2648754,Cable & Wireless Communications,Telecommunication Rental & Maintenance,IT Running Costs,3754.8
+28/07/2010,2648853,Cable & Wireless Communications,Telecommunication Rental & Maintenance,IT Running Costs,753.75
+06/07/2010,2648313,Canada Life Ltd,Rent Licences (Not Leased),Estate Management,750
+13/07/2010,2648508,Cannon Hygiene Ltd,Cleaning & Hygiene,Millbank - Facilities,711.75
+13/07/2010,2648516,Cannon Hygiene Ltd,Cleaning & Hygiene,Westward House,736.68
+06/07/2010,2648117,Church House Conference Centre,Conferences Hosted & Attended,Directorate Management,1296
+15/07/2010,2648658,CIPD Enterprises Ltd,Staff Training,HR Training and Development,880
+01/07/2010,2648105,CIPFA,Student Training,Graduate Trading Account,15455
+06/07/2010,2648235,CIPFA,Student Training,Graduate Trading Account,1155
+06/07/2010,2648237,CIPFA,Student Training,Graduate Trading Account,440
+08/07/2010,2648264,CIPFA,Student Training,Graduate Trading Account,440
+23/07/2010,2648807,CIPFA,Student Training,Graduate Trading Account,465
+28/07/2010,2648819,CIPFA,Student Training,Graduate Trading Account,465
+28/07/2010,2648827,CIPFA,Student Training,Graduate Trading Account,465
+28/07/2010,2648828,CIPFA,Student Training,Graduate Trading Account,465
+28/07/2010,2648887,CIPFA Business Ltd,Staff Training,HR Training and Development,910
+05/07/2010,GPCJUL10,City Inn Westminster,Staff Travel & Subsistence Expenses,Chief Executive's Office,526.25
+26/07/2010,1024015,City of Westminster S/O,Business Rates,Estate Management,"66,731.00"
+06/07/2010,2648278,Clarke Willmott,Property Services Professional Fees,Estate Management,58.09
+06/07/2010,2648278,Clarke Willmott,Property Services Professional Fees,Estate Management,1838.91
+26/07/2010,1024022,Clarke Willmott LLP F/FLOW,Business Rates,Estate Management,"4,670.63"
+28/07/2010,2648683,Connect Water Systems Central Ltd,Office Equipment Repairs & Maintenance,Business Unit - Ops Northern,509.7
+01/07/2010,2648062,Conseq Ltd,Consultants (Non Time Sheet User),Studies,7300
+06/07/2010,2648356,Conseq Ltd,Consultants (Non Time Sheet User),Studies,8760
+01/07/2010,2648109,Corona Energy Ltd,"Heat, Light & Power",Estate Management,535.19
+15/07/2010,2647728,Craig Shaw,Contractor Costs,LGH&CS management,3000
+15/07/2010,2648494,Cumbria County Council,Contractor Costs,LG Fire Services,19536.87
+15/07/2010,2648589,Cumbria County Council,Contractor Costs,LG Fire Services,1707.37
+06/07/2010,2648265,David Sloan,Consultants (Non Time Sheet User),Health and Wellbeing,5500
+23/07/2010,2648741,Davitt Jones Bould - MAIN ACCOUNT,Property Services Professional Fees,Estate Management,622.2
+23/07/2010,2648741,Davitt Jones Bould - MAIN ACCOUNT,Property Services Professional Fees,Estate Management,21
+23/07/2010,2648745,Davitt Jones Bould - MAIN ACCOUNT,Property Services Professional Fees,Estate Management,451.4
+08/07/2010,2647663,Deloitte LLP No 2 Account,Corporate Subscriptions,HR Service Centre,690
+08/07/2010,2648374,Deloitte LLP No 2 Account,Contractor Costs,London operational staff,2265
+28/07/2010,2648957,Deloitte LLP No 2 Account,Contractor Costs,Technical Support Team,6655
+08/07/2010,2647964,Department for Business Innovation & Skills (BIS),Conferences Hosted & Attended,HR Diversity,1304
+08/07/2010,2648317,Durrants,Publications (External),Press Office,720
+08/07/2010,2648321,Durrants,Publications (External),Press Office,430.7
+08/07/2010,2648323,Durrants,Publications (External),Press Office,925.1
+23/07/2010,2648852,Eastleigh Borough Council,Rent Licences (Not Leased),Estate Management,1200
+06/07/2010,2648294,EDF Energy,"Heat, Light & Power",Estate Management,1308.36
+06/07/2010,2648344,EDF Energy,"Heat, Light & Power",Estate Management,3941.84
+13/07/2010,2648475,EDF Energy Customer Field Services,"Heat, Light & Power",Estate Management,1029.02
+15/07/2010,2648634,Emerald Group Publishing Limited,Online Information Sources,Information Management,13230
+13/07/2010,2648547,Equanet Ltd,IT Disks & Consumables,IT Running Costs,800
+23/07/2010,2648837,Equanet Ltd,IT Disks & Consumables,IT Running Costs,908
+15/07/2010,2648493,Eurest Services,Meetings,Business Unit - Ops Northern,510.9
+06/07/2010,2648272,Evans Easyspace Limited,Rent Licences (Not Leased),Estate Management,1441.03
+06/07/2010,2648250,Executive Development International,Staff Training,HR Training and Development,460.5
+28/07/2010,2648978,Executive Development International,Staff Training,HR Training and Development,72.4
+28/07/2010,2648978,Executive Development International,Staff Training,HR Training and Development,437.5
+15/07/2010,2648495,Expotel Hotel Reservations Ltd,Hotels,All,3505.24
+15/07/2010,2648496,Expotel Hotel Reservations Ltd,Hotels,All,13751.55
+15/07/2010,2648497,Expotel Hotel Reservations Ltd,Hotels,All,2283.1
+15/07/2010,2648563,Expotel Hotel Reservations Ltd,Hotels,All,17710.72
+15/07/2010,2648564,Expotel Hotel Reservations Ltd,Hotels,All,1788.51
+15/07/2010,2648591,Expotel Hotel Reservations Ltd,Hotels,All,18657.84
+06/07/2010,2648352,Filton College,Student Training,HR Training and Development,1800
+08/07/2010,2648373,Financial Reporting Council,Legal & Professional Fees,Professional Standards Division,56668
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,172.5
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,105
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,366
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,42
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,93
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,349.5
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,304.2
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,465
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,120
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,195
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,126
+01/07/2010,2648066,Flora-Tec Ltd,"Planting, Grounds and Pests",Estate Management,1798.8
+06/07/2010,2648205,Flora-Tec Ltd,"Planting, Grounds and Pests",Westward House,1107
+06/07/2010,2648205,Flora-Tec Ltd,"Planting, Grounds and Pests",Westward House,828
+06/07/2010,2648205,Flora-Tec Ltd,"Planting, Grounds and Pests",Nicholson House,15
+06/07/2010,2648205,Flora-Tec Ltd,"Planting, Grounds and Pests",Millbank - Charity Commission,290.1
+21/07/2010,2617209,GE Capital Solutions,Car Termination Penalties,West Midlands Sub-Region - Ops Central,-439.73
+21/07/2010,2617209,GE Capital Solutions,Car Termination Penalties,West Midlands Sub-Region - Ops Central,977.3
+21/07/2010,2642871,GE Capital Solutions,Car Termination Penalties,Head of Ops - South West - Ops Southern,86.19
+21/07/2010,2642871,GE Capital Solutions,Car Termination Penalties,Head of Ops - South West - Ops Southern,744
+13/07/2010,2647060,GE Capital Solutions,Car Termination Penalties,East Midlands Sub-Region - Ops Central,849
+13/07/2010,2647060,GE Capital Solutions,Car Termination Penalties,East Midlands Sub-Region - Ops Central,-70.59
+13/07/2010,2647067,GE Capital Solutions,Car Termination Penalties,Head of North West Management - Ops Northern,60.01
+13/07/2010,2647067,GE Capital Solutions,Car Termination Penalties,Head of North West Management - Ops Northern,856.5
+13/07/2010,2647068,GE Capital Solutions,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,2574.66
+08/07/2010,2647807,GE Capital Solutions,Car Lease Costs - Purchases,North East and Humberside,917.11
+08/07/2010,2647826,GE Capital Solutions,Car Lease Costs - Purchases,East Midlands Sub-Region - Ops Central,2760.29
+13/07/2010,2648098,GE Capital Solutions,Car Lease Costs - Purchases,Technical Support Team,653.34
+13/07/2010,2648147,GE Capital Solutions,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,703.18
+06/07/2010,2648279,Gerald Eve,Legal & Professional Fees,Professional Standards Division,675
+06/07/2010,2648280,Gerald Eve,Legal & Professional Fees,Professional Standards Division,450
+15/07/2010,2648291,Gradweb,Graduate Recruitment,Recruitment - Talent,4031.59
+06/07/2010,2644681,Grant Thornton UK LLP (Northampton),Contractor Costs,Health Data Analysis,17925
+08/07/2010,2647652,Grant Thornton UK LLP (Northampton),Corporate Subscriptions,HR Service Centre,782
+06/07/2010,2648243,Grant Thornton UK LLP (Northampton),Contractor Costs,Health Data Analysis,4650
+13/07/2010,2648258,Grant Thornton UK LLP (Northampton),Contractor Costs,Health Directorate - Payment by Results,10000
+15/07/2010,2648573,Grant Thornton UK LLP (Northampton),Contractor Costs,North East and Humberside,4000
+01/07/2010,2648128,GVA Grimley LLP,Property Services Professional Fees,Estate Management,1020
+23/07/2010,2648796,GVA Grimley LLP,Property Services Professional Fees,Estate Management,2750
+23/07/2010,2648796,GVA Grimley LLP,Property Services Professional Fees,Estate Management,3068.6
+23/07/2010,2648796,GVA Grimley LLP,Property Services Professional Fees,Estate Management,2750
+28/07/2010,2648951,GVA Grimley LLP,Property Services Professional Fees,Estate Management,2069
+01/07/2010,2647829,Hays Accountancy Personnel,Contractors,All,62200.5
+21/07/2010,2648116,Hays Accountancy Personnel,Contractors,All,51457.86
+08/07/2010,2648366,Hays Accountancy Personnel,Contractors,All,40974.95
+08/07/2010,2648501,Hays Accountancy Personnel,Contractors,All,58126.62
+23/07/2010,2648799,Hemsley Fraser Training Group,Staff Training,HR Training and Development,699.3
+08/07/2010,2648411,Hewlett Packard Ltd,IT Equipment Capital Purchases,IT Running Costs,17850.56
+21/07/2010,2647837,Hilton Birmingham Metropole,Conferences Hosted & Attended,Communications - Internal,138823.85
+13/07/2010,2648499,Hilton Leeds City,Conferences Hosted & Attended,HR Training and Development,1912.34
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,London operational staff,160
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Operations - South East - Ops Southern,5
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Support Services - Ops Southern,50
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Regional Core Team - Northern,5
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Housing Admin,25
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Regional Core Team - Northern,444.21
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,London operational staff,10
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,West Midlands Sub-Region - Ops Central,5
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Regional Core Team - Northern,69.25
+21/07/2010,2644234,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Housing Admin,60
+08/07/2010,2647342,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,489.39
+08/07/2010,2647342,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,3696.88
+08/07/2010,2647342,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,19061.43
+08/07/2010,2647545,Hitachi Capital Vehicle Solutions Ltd,Car Termination Penalties,Head of North West Management - Ops Northern,600.65
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,80
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,68
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,East Midlands Sub-Region - Ops Central,112
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,IT Running Costs,104
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,West Midlands Sub-Region - Ops Central,68
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Operations - South East - Ops Southern,44
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Eastern Sub-Region - Ops Central,52
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Operations - South East - Ops Southern,28
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,124
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,HR Training and Development,124
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Recruitment - Talent,124
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,East Midlands Sub-Region - Ops Central,124
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,124
+21/07/2010,2648082,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Support Services - Ops Southern,124
+13/07/2010,2648310,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,1220.77
+13/07/2010,2648310,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,1676.74
+13/07/2010,2648426,Hitachi Capital Vehicle Solutions Ltd,Hitachi BIF Control Account,All,2457.27
+21/07/2010,2648643,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,IT Running Costs,192.2
+21/07/2010,2648643,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,HR Training and Development,120
+21/07/2010,2648643,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,120
+21/07/2010,2648643,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,East Midlands Sub-Region - Ops Central,116
+21/07/2010,2648643,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,28
+21/07/2010,2648643,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Eastern Sub-Region - Ops Central,100
+21/07/2010,2648643,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Recruitment - Talent,116
+21/07/2010,2648645,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,185.21
+21/07/2010,2648645,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Eastern Sub-Region - Ops Central,105
+21/07/2010,2648645,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,East Midlands Sub-Region - Ops Central,192.02
+21/07/2010,2648645,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,IT Running Costs,146.07
+21/07/2010,2648645,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of North West Management - Ops Northern,187.78
+15/07/2010,2648655,Holiday Inn Bristol - Filton,Staff Training,HR Training and Development,1191.49
+13/07/2010,2647650,Housing Consultancy Services Ltd,Contractor Costs,Housing Admin,1000
+13/07/2010,2648444,Hulley & Kirkwood Consulting Engineers,Fixtures & Fittings (Revenue),Estate Management,486
+13/07/2010,2648480,Hulley & Kirkwood Consulting Engineers,Property Services Professional Fees,Estate Management,960
+21/07/2010,2648388,Improvement & Development Agency,Recruitment,LGH&CS management,1479
+01/07/2010,2648070,ING Lease (UK) Ltd,Office Equipment Rental,Business Unit - Ops Northern,637.52
+01/07/2010,2648070,ING Lease (UK) Ltd,Office Equipment Repairs & Maintenance,Business Unit - Ops Northern,29.79
+15/07/2010,2648633,ING Lease (UK) Ltd,Office Equipment Rental,Millbank - Facilities,823.68
+15/07/2010,2648648,ING Lease (UK) Ltd,Office Equipment Rental,Head of Operations - South Central - Ops Southern,468.39
+23/07/2010,2648845,ING Lease (UK) Ltd,Office Equipment Rental,Regional Support Costs - Ops Central,936.78
+06/07/2010,2648290,Institute of Internal Auditors,Corporate Subscriptions,Directorate Management - MD CS,650
+06/07/2010,2648290,Institute of Internal Auditors,Corporate Subscriptions,Directorate Management - MD CS,145
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,681.9
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,1585.43
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,14102.32
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,374.36
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,255.35
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,291.74
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,471.26
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,442.03
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,236.95
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,158.85
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,419.89
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,462.67
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,274.99
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,1429.39
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,449.53
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,2189.94
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,4267.53
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,3347.5
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,1363.27
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,398.64
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,315.96
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,672.95
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,1771.89
+01/07/2010,2648065,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,3166.83
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,2070.8
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,1035.4
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,748.38
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,22010.64
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,617.82
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,1632.93
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,1203.66
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,747.81
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,3459.87
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,971.28
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,594.39
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,578.22
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,1204.95
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,624.84
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,2329.56
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,4804.29
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,1118.55
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,1181.37
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,835.41
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,1838.85
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Nicholson House,3317.61
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Westward House,4627.2
+06/07/2010,2648286,Integral Ltd,Cleaning & Hygiene,Estate Management,603.66
+15/07/2010,2648618,Integral Ltd,Reactive Building Maintenance,Estate Management,2847.9
+15/07/2010,2648619,Integral Ltd,Reactive Building Maintenance,Estate Management,2661.6
+15/07/2010,2648620,Integral Ltd,Reactive Building Maintenance,Estate Management,2030.49
+15/07/2010,2648621,Integral Ltd,Reactive Building Maintenance,Nicholson House,1928.32
+15/07/2010,2648622,Integral Ltd,Reactive Building Maintenance,Westward House,716.99
+15/07/2010,2648622,Integral Ltd,Reactive Building Maintenance,Nicholson House,716.99
+15/07/2010,2648623,Integral Ltd,Reactive Building Maintenance,Estate Management,1363.29
+15/07/2010,2648624,Integral Ltd,Reactive Building Maintenance,Estate Management,880
+15/07/2010,2648625,Integral Ltd,Reactive Building Maintenance,Nicholson House,825.62
+15/07/2010,2648626,Integral Ltd,Reactive Building Maintenance,Estate Management,801.68
+15/07/2010,2648627,Integral Ltd,Reactive Building Maintenance,Estate Management,715
+15/07/2010,2648628,Integral Ltd,Reactive Building Maintenance,Estate Management,490.67
+15/07/2010,2648629,Integral Ltd,Reactive Building Maintenance,Westward House,447.57
+15/07/2010,2648631,Integral Ltd,Security Guarding/Keyholding,Estate Management,33041.4
+15/07/2010,2648653,Integral Ltd,Reactive Building Maintenance,Millbank - Facilities,495
+15/07/2010,2648654,Integral Ltd,Reactive Building Maintenance,Millbank - Facilities,1330.55
+23/07/2010,2648716,Integral Ltd,IT Equipment Purchases (Revenue),IT Running Costs,490.33
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,1817.03
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,257.03
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,237.77
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,254.49
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,156.65
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,137.14
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,205.79
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,199.09
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,3741.47
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,1229.16
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,792.55
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,214.79
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,353.18
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,369.82
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,555.75
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,208.81
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,127.73
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,1314.02
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,1244.37
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,253.32
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,151.88
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,256.79
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,225.12
+21/07/2010,2648717,Integral Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,80.67
+21/07/2010,2648718,Integral Ltd,"Planting, Grounds and Pests",Estate Management,270
+21/07/2010,2648718,Integral Ltd,"Planting, Grounds and Pests",Estate Management,360.06
+21/07/2010,2648718,Integral Ltd,"Planting, Grounds and Pests",Estate Management,320.71
+21/07/2010,2648718,Integral Ltd,"Planting, Grounds and Pests",Estate Management,229.57
+21/07/2010,2648718,Integral Ltd,"Planting, Grounds and Pests",Estate Management,360.06
+21/07/2010,2648719,Integral Ltd,PPM Management Fee,Estate Management,7415.34
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,149.09
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,166.67
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,92.03
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,108.91
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,190.59
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,178.06
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,192.49
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,1160.94
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,828.78
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,544.53
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,302.54
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,74.98
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,276.95
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,299.49
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,559.9
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,83.04
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,52
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,168.59
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,179.7
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,96.93
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,172.89
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,919.39
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,2598.62
+21/07/2010,2648720,Integral Ltd,Reactive Building Maintenance,Estate Management,620.06
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,929.49
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,1003.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,460.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,1003.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,929.49
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,1003.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648721,Integral Ltd,Security Guarding/Keyholding,Estate Management,26.18
+21/07/2010,2648733,Integral Ltd,Reactive Building Maintenance,Millbank - Facilities,2622.6
+21/07/2010,2648781,Integral Ltd,Reactive Building Maintenance,Millbank - Facilities,2915.44
+21/07/2010,2648782,Integral Ltd,Reactive Building Maintenance,Millbank - Facilities,2732.4
+23/07/2010,2648805,Integral Ltd,Reactive Building Maintenance,Millbank - Facilities,4115.92
+28/07/2010,2648879,Integral Ltd,Reactive Building Maintenance,Millbank - Facilities,4253.4
+15/07/2010,2648578,IPL Information Processing Limited,Contractor Costs,IT Running Costs,7733
+15/07/2010,2648579,IPL Information Processing Limited,Contractor Costs,IT Running Costs,7425
+15/07/2010,2648580,IPL Information Processing Limited,Contractor Costs,IT Running Costs,10345.5
+15/07/2010,2648581,IPL Information Processing Limited,Contractor Costs,IT Running Costs,7873.6
+15/07/2010,2648582,IPL Information Processing Limited,Contractor Costs,IT Running Costs,10533.6
+15/07/2010,2648583,IPL Information Processing Limited,Contractor Costs,IT Running Costs,7235.2
+15/07/2010,2648584,IPL Information Processing Limited,Contractor Costs,IT Running Costs,8276.4
+01/07/2010,2647715,IRIS Software & Services,Software Support & Maintenance,IT Running Costs,26250
+01/07/2010,2648093,IRIS Software & Services,Software Support & Maintenance,IT Running Costs,25000
+13/07/2010,2648299,Iron Mountain (UK) Ltd,Archiving and CD Scanning,IT Running Costs,725.05
+06/07/2010,2648285,IT Works Recruitment LTD,Contractor Costs,IT Running Costs,2475
+15/07/2010,2648657,IT Works Recruitment LTD,Contractor Costs,IT Running Costs,2750
+27/07/2010,1024027,J Smaill,Contractor Costs,Audit Regulations,"10,187.06"
+01/07/2010,2648143,Jeremy Hilton,Contractor Costs,North East and Humberside,1200
+28/07/2010,2648362,Jodi Berg,Consultants (Non Time Sheet User),Complaints Unit,2500
+13/07/2010,2648446,Kaisen Consulting Ltd,Staff Training,HR Training and Development,40282.5
+15/07/2010,2648569,Kaisen Consulting Ltd,Staff Training,HR Training and Development,35151.75
+13/07/2010,2648187,Kaplan Financial (London),Student Training,Graduate Trading Account,1700
+01/07/2010,2648125,Kaplan Hawksmere Plc,Staff Training,HR Training and Development,184.35
+01/07/2010,2648125,Kaplan Hawksmere Plc,Staff Training,HR Training and Development,46654.9
+28/07/2010,2648867,Kathryn Larkin-Bramley,Contractor Costs,LGH&CS management,3000
+13/07/2010,2648222,KCOM Group PLC,Telecommunication Rental & Maintenance,IT Running Costs,476.35
+13/07/2010,2648223,KCOM Group PLC,Telecommunication Rental & Maintenance,IT Running Costs,476.35
+01/07/2010,2648160,Keith Dixon,Consultants (Non Time Sheet User),Governance and Counter Fraud Practice,3000
+01/07/2010,2648130,Kinnarps (UK) Ltd,Furniture Purchases (Revenue),Estate Management,1836
+15/07/2010,2648656,Kinnarps (UK) Ltd,Furniture Purchases (Revenue),Estate Management,570
+06/07/2010,2648003,KPMG LLP,Contractor Costs,Health Directorate - Payment by Results,5880
+06/07/2010,2648004,KPMG LLP,Contractor Costs,Health Directorate - Payment by Results,1134
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,3290
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,3760
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,3760
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,3290
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,1410
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,4700
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,5170
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,4230
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,4935
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,4465
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,3995
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,3995
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,3055
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,7080
+06/07/2010,2648274,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,4465
+15/07/2010,2648635,KPMG LLP,Contractor Costs,Head of North West Management - Ops Northern,705
+15/07/2010,2648635,KPMG LLP,Contractor Costs,Head of North West Management - Ops Northern,705
+15/07/2010,2648635,KPMG LLP,Contractor Costs,Head of North West Management - Ops Northern,4230
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,940
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,940
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,3290
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,940
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,940
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,940
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,705
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,470
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,1175
+15/07/2010,2648636,KPMG LLP,Contractor Costs,London operational staff,940
+28/07/2010,2648880,KPMG LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,2655
+28/07/2010,2648880,KPMG LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,470
+28/07/2010,2648880,KPMG LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,940
+28/07/2010,2648880,KPMG LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,737.5
+28/07/2010,2648881,KPMG LLP,Contractor Costs,North East and Humberside,3055
+23/07/2010,2648765,Lancashire County Council,Landlords Insurance,Estate Management,12.7
+23/07/2010,2648765,Lancashire County Council,Leased Property Rent Invoices,Estate Management,1033.33
+23/07/2010,2648765,Lancashire County Council,Service Charges,Estate Management,362.86
+23/07/2010,2648777,Lance Edynbry Partnership,Staff Training,HR Training and Development,1068
+13/07/2010,2648367,Leeming Pilkington Ltd,Food & Beverages Charges,Millbank - Facilities,7291.95
+28/07/2010,2648847,Leeming Pilkington Ltd,Office Equipment Rental,Millbank - Facilities,9141.57
+15/07/2010,2646425,Lex Autolease Ltd,Car Termination Penalties,HR Service Centre,840.9
+15/07/2010,2647690,Lex Autolease Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,551.6
+15/07/2010,2647690,Lex Autolease Ltd,Car Lease Costs - Recharges & Extensions,Head of Ops - South West - Ops Southern,329.19
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Health - NEU,1793.07
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Eastern Sub-Region - Ops Central,2482.37
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Audit Policy Division,2661.16
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Head of Operations - South East - Ops Southern,2895.27
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,West Midlands Sub-Region - Ops Central,2633.1
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,East Midlands Sub-Region - Ops Central,4832.55
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Housing Central,3731
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Housing Central,3534.2
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,East Midlands Sub-Region - Ops Central,2458.62
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,2346.65
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,West Midlands Sub-Region - Ops Central,3017.03
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,North East and Humberside,3575.96
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,North East and Humberside,3715.07
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,North East and Humberside,3570.35
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Housing Northern,4638.1
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,North East and Humberside,2467.89
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,HR Policy and Advice,2316.64
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Technical Support Team,2688.69
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,Housing Northern,3442.98
+08/07/2010,2647855,Lex Autolease Ltd,Car Lease Costs - Purchases,West Midlands Sub-Region - Ops Central,1898.64
+15/07/2010,2648596,Lex Autolease Ltd,Car Lease Costs - Recharges & Extensions,Head of Ops - South West - Ops Southern,329.19
+15/07/2010,2648596,Lex Autolease Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,197.51
+21/07/2010,2648707,Lex Autolease Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,551.6
+13/07/2010,2648103,LexisNexis Butterworths,Online Information Sources,Information Management,1789
+15/07/2010,2648218,London Fire & Emergency Planning Authority,Contractor Costs,LG Fire Services,25249.48
+15/07/2010,2648383,Martyn Griffiths,Contractor Costs,LGH&CS management,3000
+08/07/2010,2647515,Mazars LLP,Corporate Subscriptions,HR Service Centre,529
+28/07/2010,2648955,Mazars LLP,Contractor Costs,Head of Operations - South East - Ops Southern,34580
+01/07/2010,2648051,Michael Page UK Ltd,Contractor Costs,Finance Reporting Standards,1466.01
+01/07/2010,2648052,Michael Page UK Ltd,Contractor Costs,Communications - Internal,1018.98
+06/07/2010,2648282,Michael Page UK Ltd,Contractor Costs,Finance Reporting Standards,1179.36
+06/07/2010,2648283,Michael Page UK Ltd,Contractor Costs,Communications - Internal,899.1
+13/07/2010,2648476,Michael Page UK Ltd,Contractor Costs,Finance Reporting Standards,1015.56
+13/07/2010,2648477,Michael Page UK Ltd,Contractor Costs,Communications - Internal,1018.98
+23/07/2010,2648833,Michael Page UK Ltd,Contractor Costs,Communications - Internal,1153.85
+23/07/2010,2648835,Michael Page UK Ltd,Contractor Costs,Finance Reporting Standards,827.19
+28/07/2010,2648932,Michael Page UK Ltd,Contractor Costs,Finance Reporting Standards,1162.98
+28/07/2010,2648933,Michael Page UK Ltd,Contractor Costs,Communications - Internal,1093.91
+21/07/2010,2648722,Microsoft Ltd,Software Support & Maintenance,IT Running Costs,19900
+28/07/2010,2648939,Mitie Managed Services Ltd,Planned Preventative Building Maintenance (PPM),Estate Management,8292.02
+13/07/2010,2648546,MK PCT Solutions for Public Health,Consultants (Non Time Sheet User),Health and Wellbeing,21835
+27/07/2010,1024027,Multisystems,Online Information Sources,Information Management,970.94
+26/07/2010,1024020,MWB Room Charges,Rent Licences (Not Leased),Estate Management,"9,564.50"
+15/07/2010,2648571,Natfire Compliance Ltd,Health & Safety (Non Furniture),HR Health and Safety,650
+23/07/2010,2648804,National Association of Pension Funds LTD,Conferences Hosted & Attended,National Fraud Initiative - Ops Central Investment,4600
+23/07/2010,2648841,NCC Services Ltd,Consultants (Non Time Sheet User),National Fraud Initiative - Ops Central Investment,950
+08/07/2010,2647741,Neopost Ltd,Postage & Delivery Charges,Head of North West Management - Ops Northern,1000
+01/07/2010,2648132,NHS Confederation,Staff Training,HR Training and Development,337
+01/07/2010,2648132,NHS Confederation,Staff Training,HR Training and Development,337
+08/07/2010,2648266,NHS Confederation,Conferences Hosted & Attended,Communications - Events,480
+23/07/2010,2648797,NHS Confederation,Staff Training,HR Training and Development,438.1
+23/07/2010,2648798,NHS Confederation,Staff Training,HR Training and Development,674
+23/07/2010,2648802,NHS Confederation,Staff Training,HR Training and Development,674
+23/07/2010,2648836,NHS Information Centre,Other Supplies & Services Expenses,Health Directorate - Payment by Results,1917
+23/07/2010,2648838,NHS Information Centre,Data management Services,Health Directorate - Payment by Results,15194.88
+28/07/2010,2648962,Nicky Burton,Staff Training,HR Training and Development,517.5
+13/07/2010,2648457,Novotel London Waterloo Hotel,Meetings,Audit Approach Division,723.4
+23/07/2010,GPCJUL10,Office Depot,Stationery,Millbank - Facilities,542.6
+13/07/2010,2648395,Orange Personal Communications Services Ltd,Telecommunication Rental & Maintenance,IT Running Costs,16414.48
+13/07/2010,2648395,Orange Personal Communications Services Ltd,Telecommunication Rental & Maintenance,IT Running Costs,335.62
+13/07/2010,2648396,Orange Personal Communications Services Ltd,Telecommunication Rental & Maintenance,IT Running Costs,1845.35
+15/07/2010,2648510,Parliament News,Newspapers & Magazines,Millbank - Facilities,509.1
+05/07/2010,GPCJUL10,Paypal Webcredible,Other Supplies & Services Expenses,HR Training and Development,522.88
+06/07/2010,2648360,Penna Plc,Staff Training,HR Training and Development,495
+13/07/2010,2648498,Penna Plc,Staff Training,HR Training and Development,495
+28/07/2010,2648878,Penna Plc,Staff Training,HR Training and Development,495
+28/07/2010,2648977,Penna Plc,Staff Training,HR Training and Development,495
+06/07/2010,2648178,Phoenix Beard (service Chgs & electr only),"Heat, Light & Power",Estate Management,513.45
+06/07/2010,2648180,Phoenix Beard (service Chgs & electr only),"Heat, Light & Power",Estate Management,445.29
+01/07/2010,2643278,PinPoint Facilitation Ltd,Stationery,Organisational Development,830.4
+23/07/2010,2648794,Pitney Bowes postage by phone,Postage & Delivery Charges,Millbank - Facilities,500
+23/07/2010,2648794,Pitney Bowes postage by phone,Postage & Delivery Charges,Millbank - Facilities,9
+01/07/2010,2648137,PKF Accountants & Business Advisors,Contractor Costs,Regional Costs - Ops Southern,14490
+21/07/2010,2648555,PKF Accountants & Business Advisors,Corporate Subscriptions,HR Service Centre,759
+15/07/2010,2648637,Plain Language Commission,Consultants (Non Time Sheet User),Local Government,2997
+08/07/2010,2647654,PricewaterhouseCooper LLP,Corporate Subscriptions,HR Service Centre,1633
+01/07/2010,2648027,PricewaterhouseCooper LLP,Legal & Professional Fees,Professional Standards Division,5000
+08/07/2010,2648289,PricewaterhouseCooper LLP,Consultants (Non Time Sheet User),Studies,8000
+23/07/2010,2648375,PricewaterhouseCooper LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,4500
+23/07/2010,2648375,PricewaterhouseCooper LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,4500
+23/07/2010,2648375,PricewaterhouseCooper LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,6300
+23/07/2010,2648375,PricewaterhouseCooper LLP,Contractor Costs,East Midlands Sub-Region - Ops Central,14400
+28/07/2010,2648813,PricewaterhouseCooper LLP,Contractor Costs,Professional Standards Division,15333.33
+28/07/2010,2648813,PricewaterhouseCooper LLP,Contractor Travel & Subsistence Expenses,Professional Standards Division,66
+01/07/2010,2648153,Pringle Brandon,Property Services Professional Fees,Estate Management,6540.35
+01/07/2010,2648154,Pringle Brandon,Property Services Professional Fees,Estate Management,2530.65
+01/07/2010,2648155,Pringle Brandon,Property Services Professional Fees,Estate Management,4194.5
+01/07/2010,2648156,Pringle Brandon,Property Services Professional Fees,Estate Management,608.5
+01/07/2010,2648157,Pringle Brandon,Property Services Professional Fees,Estate Management,1819
+08/07/2010,2648379,Pringle Brandon,Fixtures and Fittings Capital Purchases,Estate Management,1938
+28/07/2010,2648953,Pringle Brandon,Property Services Professional Fees,Estate Management,620
+28/07/2010,2648954,Pringle Brandon,Property Services Professional Fees,Estate Management,1197.4
+23/07/2010,2648800,Quadrilect,Staff Training,HR Training and Development,695
+08/07/2010,2648184,Randstad Employment Bureau Ltd,Consultants (Time Sheet Users),London support staff,900.05
+21/07/2010,2648549,Randstad Employment Bureau Ltd,Consultants (Time Sheet Users),London support staff,848.83
+15/07/2010,2648567,Reading Borough Council,Staff Training,HR Training and Development,2100
+08/07/2010,2648390,Red Funnel Group,Staff Travel & Subsistence Expenses,Regional Costs - Ops Southern,690
+28/07/2010,2648931,Red Recruitment,Recruitment,Recruitment - Talent,3630.45
+06/07/2010,2647830,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,9611
+06/07/2010,2647830,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,9345.92
+06/07/2010,2648216,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,28381.47
+06/07/2010,2648254,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,16863.43
+06/07/2010,2648320,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,20339.66
+15/07/2010,2648507,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,16232.74
+28/07/2010,2648776,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,6534.08
+28/07/2010,2648776,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,8528.49
+28/07/2010,2648936,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,16643.62
+28/07/2010,2648936,Reed Managed Services Ltd,Reed & Hays BIF Control Account,All,7034.11
+15/07/2010,2648595,Regus (Cambridge Cambourne),Rent Licences (Not Leased),Estate Management,14376.12
+13/07/2010,2648164,Regus (Manchester Cheadle),Bank Charges,Performance and Development,50
+13/07/2010,2648164,Regus (Manchester Cheadle),Bank Interest Payable,Performance and Development,340.78
+13/07/2010,2648164,Regus (Manchester Cheadle),Telecommunication Charges,Business Unit - Ops Northern,923.87
+06/07/2010,2648211,Re-solve Limited,Consultants (Non Time Sheet User),Head of Operations - South East - Ops Southern,525
+06/07/2010,2648212,Re-solve Limited,Consultants (Non Time Sheet User),Head of Operations - South East - Ops Southern,2100
+06/07/2010,2648214,Re-solve Limited,Consultants (Non Time Sheet User),Head of Operations - South East - Ops Southern,525
+06/07/2010,2648214,Re-solve Limited,Consultants (Non Time Sheet User),Head of Operations - South East - Ops Southern,525
+13/07/2010,2648210,Ricoh UK Limited (NRG),Photocopier Rental,Millbank - Facilities,733.97
+13/07/2010,2648210,Ricoh UK Limited (NRG),Photocopy Charges,Millbank - Facilities,1597.96
+15/07/2010,2648191,Royal Mail Peterborough,Postage & Delivery Charges,Business Unit - Ops Northern,500.82
+08/07/2010,2648377,RSM Tenon Limited,Legal & Professional Fees,Directorate Management - MD CS,975
+08/07/2010,2648377,RSM Tenon Limited,Legal & Professional Fees,Directorate Management - MD CS,9750
+13/07/2010,2648422,Sanderson Weatherall,"Heat, Light & Power",Estate Management,733.87
+13/07/2010,2648448,Selecta UK Ltd,Food & Beverages Charges,Nicholson House,557.4
+13/07/2010,2648448,Selecta UK Ltd,Office Equipment Repairs & Maintenance,Nicholson House,200
+13/07/2010,2648450,Selecta UK Ltd,Food & Beverages Charges,Westward House,648.55
+13/07/2010,2648450,Selecta UK Ltd,Office Equipment Repairs & Maintenance,Westward House,200
+06/07/2010,2647732,Serco Limited,Health & Safety (Non Furniture),HR Grosvenor Health,1821.89
+21/07/2010,2648465,Serco Limited,Health & Safety (Non Furniture),HR Grosvenor Health,744.8
+21/07/2010,2648465,Serco Limited,Health & Safety (Non Furniture),HR Grosvenor Health,775.2
+08/07/2010,2648370,Serviceline,Reactive Building Maintenance,Millbank - Facilities,476.39
+15/07/2010,2647890,SHL Group Limited,Recruitment,Recruitment - Talent,2404
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,84
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,75.1
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,56
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,52.65
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,320
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,248.5
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,248.5
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,56.02
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,108.08
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,52.65
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,98
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,110.2
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,80
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,140
+15/07/2010,2648534,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,98
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,110
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,92.65
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,42
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,259
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,252
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,252
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,42
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,42
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,80
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,140
+15/07/2010,2648536,Shred It Ltd - Consolidated bill,Recycling and Refuse,Estate Management,40
+13/07/2010,2648525,SITA Uk Limited,Recycling and Refuse,Nicholson House,426.59
+13/07/2010,2648525,SITA Uk Limited,Recycling and Refuse,Westward House,426.58
+02/07/2010,GPCJUL10,Skybridge Group PLC,Other Supplies & Services Expenses,HR Training and Development,703.83
+01/07/2010,2648129,Software Box Limited,Software Support & Maintenance,IT Running Costs,239122.39
+23/07/2010,2648834,Software Box Limited,New Software Purchases,IT Running Costs,474.01
+28/07/2010,2648877,Software Box Limited,IT Equipment Capital Purchases,IT Projects,3929.28
+28/07/2010,2648935,Software Box Limited,Software Support & Maintenance,IT Running Costs,18497.74
+06/07/2010,2648115,SOG Ltd,Rent Licences (Not Leased),Estate Management,11729.39
+26/07/2010,1024015,South Gloucestershire Council S/O,Business Rates,Estate Management,"21,029.00"
+06/07/2010,2648277,Specialist Computer Centres,IT Equipment Capital Purchases,IT Running Costs,6436.23
+13/07/2010,2648349,Spring Technology,Contractor Costs,IT Running Costs,2777.25
+13/07/2010,2648447,St Johns Ambulance NHQ,Staff Training,HR Training and Development,311
+13/07/2010,2648447,St Johns Ambulance NHQ,Staff Training,HR Training and Development,215
+13/07/2010,2648447,St Johns Ambulance NHQ,Staff Training,HR Training and Development,215
+13/07/2010,2648447,St Johns Ambulance NHQ,Staff Training,HR Training and Development,137
+13/07/2010,2648447,St Johns Ambulance NHQ,Staff Training,HR Training and Development,311
+28/07/2010,2648876,St Johns Ambulance NHQ,Staff Training,HR Training and Development,166
+28/07/2010,2648876,St Johns Ambulance NHQ,Staff Training,HR Training and Development,137
+28/07/2010,2648876,St Johns Ambulance NHQ,Staff Training,HR Training and Development,72
+28/07/2010,2648876,St Johns Ambulance NHQ,Staff Training,HR Training and Development,137
+28/07/2010,2648876,St Johns Ambulance NHQ,Staff Training,HR Training and Development,72
+08/07/2010,2648412,Stiles Harold Williams,Service Charges,Estate Management,1527.48
+13/07/2010,2647249,Sweet & Maxwell Ltd,Books,Legal Directorate,990
+13/07/2010,2647249,Sweet & Maxwell Ltd,Books,Legal Directorate,3136
+28/07/2010,2648963,Talentfirst,Staff Training,HR Training and Development,1024
+01/07/2010,2648087,Tamar Science Park Limited,Leased Property Rent Invoices,Estate Management,261.08
+01/07/2010,2648087,Tamar Science Park Limited,Leased Property Rent Invoices,Estate Management,681.72
+01/07/2010,2648087,Tamar Science Park Limited,Rent Licences (Not Leased),Estate Management,496
+28/07/2010,2648680,Tamar Science Park Limited,Cleaning & Hygiene,Estate Management,70.37
+28/07/2010,2648680,Tamar Science Park Limited,"Heat, Light & Power",Estate Management,75.15
+28/07/2010,2648680,Tamar Science Park Limited,Meetings,Head of Ops - South West - Ops Southern,35
+28/07/2010,2648680,Tamar Science Park Limited,Postage & Delivery Charges,Head of Ops - South West - Ops Southern,386.2
+23/07/2010,2648830,Tamar Science Park Limited,Leased Property Rent Invoices,Estate Management,681.72
+23/07/2010,2648830,Tamar Science Park Limited,Leased Property Rent Invoices,Estate Management,261.08
+23/07/2010,2648830,Tamar Science Park Limited,Rent Licences (Not Leased),Estate Management,496
+01/07/2010,2648145,Timebus Travel,Conferences Hosted & Attended,Audit Policy Division,135.36
+01/07/2010,2648145,Timebus Travel,Conferences Hosted & Attended,Audit Policy Division,650
+06/07/2010,2648350,Trafalgar Conferences LTD,Staff Training,HR Training and Development,1200
+01/07/2010,2648101,Trainline.com Ltd,Trainline BIF Control Account,All,14404.35
+01/07/2010,2648131,Trainline.com Ltd,Other Supplies & Services Expenses,Performance and Development,1000
+13/07/2010,2648464,Trainline.com Ltd,Trainline BIF Control Account,All,16068.15
+08/07/2010,2647878,Trainline.com Ltd - Season Tickets,London Travelcards Holding Code,HR Service Centre,14418.3
+13/07/2010,2648102,Trainline.com Ltd - Season Tickets,London Travelcards Holding Code,HR Service Centre,7952
+13/07/2010,2648463,Trainline.com Ltd - Season Tickets,London Travelcards Holding Code,HR Service Centre,5549
+15/07/2010,2648565,Trainline.com Ltd - Season Tickets,London Travelcards Holding Code,HR Service Centre,4176
+08/07/2010,2648378,Tribal Consulting Ltd,Consultants (Non Time Sheet User),Knowledge,9000
+13/07/2010,2648543,Tribal Consulting Ltd,Contractor Costs,Health Directorate - Payment by Results,30015.01
+06/07/2010,2648287,Unit 4 Business Software Ltd (Agresso),Software Support & Maintenance,IT Running Costs,52846
+08/07/2010,2648414,Victoria Flint,Consultants (Non Time Sheet User),Communications - Account Management,1750
+23/07/2010,2648801,Video Arts Ltd,Staff Training,HR Training and Development,499
+15/07/2010,2648420,Viridor Waste Management Ltd,Recycling and Refuse,Millbank - Facilities,1367.73
+28/07/2010,2648863,Vodafone Limited,Telecommunication Rental & Maintenance,IT Running Costs,10.36
+28/07/2010,2648863,Vodafone Limited,Telecommunication Rental & Maintenance,IT Running Costs,1212.82
+28/07/2010,2648864,Vodafone Limited,Telecommunication Rental & Maintenance,IT Running Costs,11.17
+28/07/2010,2648864,Vodafone Limited,Telecommunication Rental & Maintenance,IT Running Costs,757.85
+28/07/2010,2648866,Vodafone Limited,Telecommunication Rental & Maintenance,IT Running Costs,27.49
+28/07/2010,2648866,Vodafone Limited,Telecommunication Rental & Maintenance,IT Running Costs,405.62
+01/07/2010,2648152,Voice Business,Staff Training,HR Training and Development,1650
+01/07/2010,2648161,Voice Business,Staff Training,HR Training and Development,1000
+01/07/2010,2648161,Voice Business,Staff Training,HR Training and Development,1000
+21/07/2010,2648699,Ward Goodman Chartered Accountants,Contractor Costs,Head of Ops - South West - Ops Southern,3276
+28/07/2010,2648980,Warwick University Training,Staff Training,HR Training and Development,1578.84
+28/07/2010,2648980,Warwick University Training,Staff Training,HR Training and Development,502.16
+21/07/2010,2648369,West Yorkshire Police Authority,Contractor Travel & Subsistence Expenses,LGH&CS management,464.9
+21/07/2010,2648369,West Yorkshire Police Authority,Contractor Travel & Subsistence Expenses,LGH&CS management,105
+06/07/2010,2648268,Westminster Business Centre,Rent Licences (Not Leased),Estate Management,5000
+06/07/2010,2648185,Willcox Catering,Food & Beverages Charges,Nicholson House,99.04
+06/07/2010,2648185,Willcox Catering,Food & Beverages Charges,Westward House,461.64
+15/07/2010,2648659,Willis UK Limited,Insurances,Performance and Development,1890
+15/07/2010,2648660,Willis UK Limited,Insurances,Performance and Development,10942.65
+15/07/2010,2648661,Willis UK Limited,Insurances,Performance and Development,69800.85
+15/07/2010,2648662,Willis UK Limited,Insurances,Performance and Development,1287.4
+15/07/2010,2648663,Willis UK Limited,Insurances,Performance and Development,17850
+15/07/2010,2648664,Willis UK Limited,Insurances,Performance and Development,7617.86
+15/07/2010,2648665,Willis UK Limited,Car Insurance Invoices,Performance and Development,287532
+15/07/2010,2648666,Willis UK Limited,Insurances,Performance and Development,9187.5
+15/07/2010,2648667,Willis UK Limited,Insurances,Performance and Development,1181.25
+15/07/2010,2648668,Willis UK Limited,Insurances,Performance and Development,99559.23
+15/07/2010,2648669,Willis UK Limited,Insurances,Performance and Development,233964.15
+01/07/2010,2648064,Woodside Training Conf Centre,Staff Training,HR Training and Development,3942
+09/07/2010,GPCJUL10,XMA Ltd,Other Supplies & Services Expenses,Regional Costs - Ops Northern,678.09
+,,,,,3418802.45

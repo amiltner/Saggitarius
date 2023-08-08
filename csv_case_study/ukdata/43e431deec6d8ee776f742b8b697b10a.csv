@@ -1,0 +1,6 @@
+Departmental Family,Entity,Input Date,Expense Type,Expense Area,Supplier,Transaction No,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
+Charity Commission,Charity Commission,08/10/2014,Hotels/Trains/Flights,General Expenditure,Redfern Travel LTD,90900,"34,043.93","Sept14 - Hotel, Train & Flight",,SME,,,Administration
+Charity Commission,Charity Commission,14/10/2014,Purchases (IS),Business Services,Fujitsu Services Ltd,195983,"124,603.20",Provision of 120 U772's,,Large,SC00001487,CHA000173,Administration
+Charity Commission,Charity Commission,14/10/2014,Contract computer services,Business Services,Attenda Limited,1029944,"35,025.00",Web hosting Management fees. 01/10/14 to 31/12/14,,Large,,STDW0215,Administration
+Charity Commission,Charity Commission,21/10/2014,Contract computer services,Business Services,Fujitsu Services Ltd,196251,"101,901.73",Sept14 Support charges,,Large,SC00001487,,Administration
+Charity Commission,Charity Commission,21/10/2014,Data Network,Business Services,Vodafone,102014/9388,"33,254.93",Quarterly GSI Framework Charges. July 14 to September 14,,Large,,,Administration

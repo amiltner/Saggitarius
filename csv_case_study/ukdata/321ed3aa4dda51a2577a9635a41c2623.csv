@@ -1,0 +1,50 @@
+Company,Transaction Date,Amount,VAT,Merchant,Cost Centre,Account Code,MCC,Description
+Health & Safety Executive,25/08/2015,£535.00,£0.00,Blackpool & Fylde,285811,52113000,8220,Training Event
+Health & Safety Executive,24/08/2015,£600.00,£463.79,Capita Business Services,285415,52113000,9399,Training Event
+Health & Safety Executive,24/08/2015,£780.00,£130.00,ABB Limited,285811,52113000,8911,Training Event
+Health & Safety Executive,24/08/2015,£794.40,£0.00,Capita Business Services,285292,52113000,9399,Training Event
+Health & Safety Executive,20/08/2015,£795.00,£0.00,Open Universit MOTO,282591,52113000,8220,Training Event
+Health & Safety Executive,14/09/2015,£862.84,£0.00,K.I.T. Congress,287193,52113000,5964,Training Event
+Health & Safety Executive,25/08/2015,£900.00,£0.00,Blackpool & Fylde,285292,52113000,8220,Training Event
+Health & Safety Executive,28/08/2015,£916.03,£329.77,Capita Business Services,287622,52113000,9399,Training Event
+Health & Safety Executive,28/08/2015,£916.03,£0.00,Capita Business Services,287622,52113000,9399,Training Event
+Health & Safety Executive,24/08/2015,£985.00,£0.00,Blackpool & Fylde,285811,52113000,8220,Training Event
+Health & Safety Executive,26/08/2015,£999.00,£0.00,Ind & Parliament Trust,287622,52113000,8999,Training Event
+Health & Safety Executive,26/08/2015,£999.00,£0.00,Ind & Parliament Trust,287622,52113000,8999,Training Event
+Health & Safety Executive,26/08/2015,£999.00,£0.00,Ind & Parliament Trust,284051,52113000,8999,Training Event
+Health & Safety Executive,25/08/2015,"£1,040.00",£0.00,Office for National Statistics,283052,52113000,9399,Training Event
+Health & Safety Executive,26/08/2015,"£1,194.00",£199.00,Maersk Training Engine,285811,52113000,8249,Training Event
+Health & Safety Executive,26/08/2015,"£1,499.00",£0.00,Ind & Parliament Trust,284071,52113000,8999,Training Event
+Health & Safety Executive,26/08/2015,"£1,499.00",£0.00,Ind & Parliament Trust,287622,52113000,8999,Training Event
+Health & Safety Executive,16/09/2015,"£1,552.80",£258.80,Capita Business Services,287622,52113000,9399,Training Event
+Health & Safety Executive,02/09/2015,"£2,712.00",£452.00,C & C Technical Support,285811,52113000,8299,Training Event
+Health & Safety Executive,14/09/2015,£513.60,£0.00,Capita Business Services,285811,52113000,9399,Training Event
+Health & Safety Executive,07/09/2015,£678.81,£0.00,Event Management,287101,52113000,7399,Training Event
+Health & Safety Executive,08/09/2015,"£1,428.00",£238.00,The Publishing Training,283831,52113000,5399,Training Event
+Health & Safety Executive,03/09/2015,£635.32,£105.89,Johnston Publishing House,280065,52121006,5994,Vacancy Advert
+Health & Safety Executive,03/09/2015,"£1,438.80",£0.00,T A Cook Consultant,280067,52113000,7392,Training Event
+Health & Safety Executive,15/09/2015,"£1,645.00",£0.00,www.leeds.ac.uk,280023,52113000,8220,Training Event
+Health & Safety Executive,10/09/2015,"£3,511.35",£0.00,Argos,285292,52241017,5310,Scientific Equipment
+Health & Safety Executive,15/09/2015,£944.40,£0.00,Royal Mail Group,285415,52171002,9402,Postal Charges
+Health & Safety Executive,16/09/2015,"£2,268.00",£378.00,ABB Limited,285811,52113000,8911,Training Event
+Health & Safety Executive,26/08/2015,£604.25,£0.00,www.ICHS2015.com,280023,52113000,8699,Training Event
+Health & Safety Executive,24/08/2015,£710.05,£118.34,www.fisher.co.uk,280028,52241017,5047,Scientific Consumables
+Health & Safety Executive,21/08/2015,£716.40,£0.00,Academy Class Limited,280024,52113000,8299,Training Event
+Health & Safety Executive,31/08/2015,£778.80,£0.00,RBI Events,280026,52113000,2741,Training Event
+Health & Safety Executive,11/09/2015,£871.00,£0.00,Faculty of Occupational,280031,52113000,8999,Training Event
+Health & Safety Executive,11/09/2015,£894.00,£0.00,Institute of Occupational Safety,280032,52121001,8699,Training Event
+Health & Safety Executive,21/08/2015,£953.25,£0.00,Berlitz Manchester,280025,52113000,8299,Training Event
+Health & Safety Executive,17/09/2015,"£1,000.00",£0.00,FOM,280027,52113000,8220,Training Event
+Health & Safety Executive,29/08/2015,"£1,131.40",£0.00,Amazon UK Marketplace,280061,52183001,5942,Computer Consumables
+Health & Safety Executive,28/08/2015,"£1,205.84",£0.00,Oxford College,280067,52113000,8220,Training Event
+Health & Safety Executive,16/09/2015,"£1,645.00",£0.00,www.leeds.ac.uk,280027,52113000,8220,Training Event
+Health & Safety Executive,17/09/2015,"£2,994.00",£0.00,Oliver Kinross Ltd,280067,52141002,8999,Training Event
+Health & Safety Executive,03/09/2015,£537.60,£0.00,Washington Dowling Ass,280032,52241017,7399,Training Event
+Health & Safety Executive,01/09/2015,£543.41,£0.00,R S Components,280023,52241017,5065,Scientific Consumables
+Health & Safety Executive,09/09/2015,£724.50,£0.00,Safety Supplies,280023,52241017,5311,Scientific Equipment
+Health & Safety Executive,10/09/2015,£778.80,£0.00,Cutler Cleaning,280025,52241017,5199,Scientific Equipment
+Health & Safety Executive,07/09/2015,£799.07,£133.18,Arco Ltd,280023,52241017,5137,Scientific Equipment
+Health & Safety Executive,14/09/2015,"£2,000.00",£0.00,ww.hpa.org.uk,280027,52113000,2741,Training Event
+Health & Safety Executive,24/08/2015,"£2,087.94",£0.00,www.safetyindustries.com,280028,52241017,7399,Scientific Equipment
+Health & Safety Executive,26/08/2015,"£2,100.00",£0.00,ww.oup.com,280063,52241017,5942,Computer Software
+Health & Safety Executive,10/09/2015,£818.00,£0.00,Nicoll Industries Ltd,280028,52241017,7692,Scientific Equipment

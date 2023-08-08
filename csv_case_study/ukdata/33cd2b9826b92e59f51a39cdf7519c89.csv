@@ -1,0 +1,827 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Vat Registration Number
+Department of Health,Western Cheshire PCT,19/08/2010,Comps Ex Gratia,CITC,ONE-OFF SUPPLIER,6912132,"78,997.58",NULL
+Department of Health,Western Cheshire PCT,16/08/2010,Disp of Clinical Waste,CHA OFFICE SERVICES,INTERCARE DISTRIBUTION SERVICES LTD,6870182,"31,666.56",NULL
+Department of Health,Western Cheshire PCT,02/08/2010,Early Retirement Payments,PREMATURE RETIREMENTS,NHS PENSION SCHEME,6776145,"62,915.20",654434141
+Department of Health,Western Cheshire PCT,02/08/2010,Grants,GRANTS TO VOL BODIES,COMMUNITY INTEGRATED CARE,6776127,"27,273.00",NULL
+Department of Health,Western Cheshire PCT,09/08/2010,Grants,GRANTS TO VOL BODIES,ST JOHN AMBULANCE,6742806,"50,000.00",564553916
+Department of Health,Western Cheshire PCT,20/08/2010,Hcare Srv Rec NHS Trust,RBN ST HELENS & KNOWS,ST HELENS&KNOWSLEY HOSPITALS NHS TRUST,6878229,"30,742.00",654943996
+Department of Health,Western Cheshire PCT,20/08/2010,Hcare Srv Rec NHS Trust,RJE N STAFF HOSP,UNIVERSITY HOSPITAL OF NORTH STAFFORDSHIRE NHS TRUST,6886214,"39,159.00",654932808
+Department of Health,Western Cheshire PCT,20/08/2010,Hcare Srv Rec NHS Trust,RL1 R JONES A HUNT,ROBERT JONES&AGNES HUNT ORTHOPAEDIC&DISTRICT HOSPITAL NHS TRUST,6878277,"167,287.00",654938006
+Department of Health,Western Cheshire PCT,20/08/2010,Hcare Srv Rec NHS Trust,RQ6 ROY LIV & BGREEN,ROYAL LIVERPOOL&BROADGREEN UNIVERSITY HOSPITALS NHS TRUST (THE),6878306,"317,614.00",654966000
+Department of Health,Western Cheshire PCT,20/08/2010,Hcare Srv Rec NHS Trust,RX7 NW AMBULANCE,BLACKPOOL PCT,6886114,"508,099.00",654416535
+Department of Health,Western Cheshire PCT,13/08/2010,Hcare Srv Rec NHS Trust,RXW SHREWS & TEL,SHREWSBURY&TELFORD HOSPITAL NHS TRUST,6798949,"54,980.00",654939296
+Department of Health,Western Cheshire PCT,20/08/2010,Healthcare Srv Rec PCTs,5NK WIRRAL PCT BLK,WIRRAL PCT,6878232,"44,748.00",NULL
+Department of Health,Western Cheshire PCT,26/08/2010,Healthcare Srv Rec PCTs,CITC,CENTRAL AND EASTERN CHESHIRE PCT,6954419,"845,000.00",654915513
+Department of Health,Western Cheshire PCT,26/08/2010,Healthcare Srv Rec PCTs,CITC,CENTRAL AND EASTERN CHESHIRE PCT,6954420,"382,000.00",654915513
+Department of Health,Western Cheshire PCT,20/08/2010,Healthcare Srv Rec PCTs,IS CONTRACTS,HALTON AND ST HELENS PCT,6878235,"371,616.00",NULL
+Department of Health,Western Cheshire PCT,02/08/2010,Healthcare Srv Rec PCTs,NW SSCT,NORTH WEST SPECIALISED COMMISSIONING TEAM,6742944,"2,102,000.00",654426237
+Department of Health,Western Cheshire PCT,02/08/2010,Healthcare Srv Rec PCTs,NWSCT HOST ALLOCATIONS,NORTH WEST SPECIALISED COMMISSIONING TEAM,6725523,"2,000,000.00",654426237
+Department of Health,Western Cheshire PCT,02/08/2010,Healthcare Srv Rec PCTs,NWSCT HOST ALLOCATIONS,NORTH WEST SPECIALISED COMMISSIONING TEAM,6776158,"710,000.00",654426237
+Department of Health,Western Cheshire PCT,13/08/2010,Hlthcre-Foundation Trsts,DAAT,CHESHIRE & WIRRAL PARTNERSHIP NHS FOUNDATION TRUST,6870103,"103,913.00",654951901
+Department of Health,Western Cheshire PCT,02/08/2010,Hlthcre-Foundation Trsts,RBL WIRRAL HOSP BLK,WIRRAL UNIVERSITY TEACHING HOSPITAL NHS FOUNDATION TRUST,6725561,"1,331,298.75",654952016
+Department of Health,Western Cheshire PCT,20/08/2010,Hlthcre-Foundation Trsts,RBL WIRRAL HOSP BLK,WIRRAL UNIVERSITY TEACHING HOSPITAL NHS FOUNDATION TRUST,6878261,"1,331,298.75",654952016
+Department of Health,Western Cheshire PCT,20/08/2010,Hlthcre-Foundation Trsts,RBT MID CHESH BLK,MID CHESHIRE HOSPITALS NHS FOUNDATION TRUST,6911857,"505,795.09",654929986
+Department of Health,Western Cheshire PCT,13/08/2010,Hlthcre-Foundation Trsts,RBV-CHRISTIE HOSP NHSFT,CHRISTIE HOSPITAL NHS FOUNDATION TRUST,6798952,"43,453.00",654916118
+Department of Health,Western Cheshire PCT,13/08/2010,Hlthcre-Foundation Trsts,REM AINTREE BLK,AINTREE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,6719038,"129,296.00",654910626
+Department of Health,Western Cheshire PCT,20/08/2010,Hlthcre-Foundation Trsts,REN CLATTERBRIDGE ONC,CLATTERBRIDGE CENTRE FOR ONCOLOGY NHS FOUNDATION TRUST,6920389,"527,076.00",654916412
+Department of Health,Western Cheshire PCT,20/08/2010,Hlthcre-Foundation Trsts,REP LIV WOMENS BLK,LIVERPOOL WOMENS HOSPITAL NHS FOUNDATION TRUST,6878327,"48,024.00",654928891
+Department of Health,Western Cheshire PCT,20/08/2010,Hlthcre-Foundation Trsts,RM2 S MANCHESTER UNI,UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST,6911856,"28,579.00",654941709
+Department of Health,Western Cheshire PCT,20/08/2010,Hlthcre-Foundation Trsts,RW3 C MAN & MAN CHILD,CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,6878236,"26,639.00",654415538
+Department of Health,Western Cheshire PCT,20/08/2010,Hlthcre-Foundation Trsts,RWW N CHESHIRE HOSP,WARRINGTON & HALTON HOSPITALS NHS FOUNDATION TRUST,6878228,"303,146.00",654404741
+Department of Health,Western Cheshire PCT,20/08/2010,Hlthcre-Foundation Trsts,RXA CHESH & WIRR BLK,CHESHIRE & WIRRAL PARTNERSHIP NHS FOUNDATION TRUST,6920357,"103,461.50",654951901
+Department of Health,Western Cheshire PCT,16/08/2010,Premises PMS,PMS DR A N HOY,PRIME PUBLIC PARTNERSHIPS LTD,6878226,"40,896.15",NULL
+Department of Health,Western Cheshire PCT,02/08/2010,Services Received - NHSTs,CONTRACTING TEAM-FINANCE,SALFORD ROYAL NHS FOUNDATION TRUST,6776107,"32,830.00",654939786
+Department of Health,Western Cheshire PCT,02/08/2010,Services Received - NHSTs,HUMAN RESOURCES,EAST CHESHIRE NHS TRUST,6719022,"278,072.00",654919892
+Department of Health,Western Cheshire PCT,13/08/2010,Services Received - NHSTs,HUMAN RESOURCES,EAST CHESHIRE NHS TRUST,6816616,"92,691.00",654919892
+Department of Health,Western Cheshire PCT,13/08/2010,Services Received - NHSTs,HUMAN RESOURCES,EAST CHESHIRE NHS TRUST,6816617,"92,691.00",654919892
+Department of Health,Western Cheshire PCT,13/08/2010,Services Received - PCTs,Collective Comm Networks,WIRRAL PCT,6870105,"364,000.00",NULL
+Department of Health,Western Cheshire PCT,13/08/2010,Services Received - PCTs,ICT,CENTRAL AND EASTERN CHESHIRE PCT,6798929,"121,833.33",654915513
+Department of Health,Western Cheshire PCT,13/08/2010,Services Received - PCTs,REGIONAL DEVOLVED BUDGETS,LIVERPOOL PCT,6870116,"42,183.50",654424145
+Department of Health,Western Cheshire PCT,05/08/2010,Services from Local Auth,REHAB LINK TEAM,CHESHIRE WEST & CHESTER COUNCIL,6816613,"52,329.00",945101154
+Department of Health,Western Cheshire PCT,20/08/2010,SrvcsRecd-FoundationTrust,ESTATES - OPERATIONAL,CHESHIRE & WIRRAL PARTNERSHIP NHS FOUNDATION TRUST,6878270,"76,938.75",654951901
+Department of Health,Western Cheshire PCT,20/08/2010,SrvcsRecd-FoundationTrust,ESTATES - OPERATIONAL,CHESHIRE & WIRRAL PARTNERSHIP NHS FOUNDATION TRUST,6878273,"25,834.15",654951901
+Department of Health,Western Cheshire PCT,13/08/2010,SrvcsRecd-FoundationTrust,PROVIDER MANAGEMENT,COUNTESS OF CHESTER HOSPITAL NHS FOUNDATION TRUST,6870100,"28,366.75",654917507
+Department of Health,Western Cheshire PCT,13/08/2010,SrvcsRecd-FoundationTrust,PROVIDER MANAGEMENT,COUNTESS OF CHESTER HOSPITAL NHS FOUNDATION TRUST,6870101,"28,366.75",654917507
+Department of Health,Western Cheshire PCT,13/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£36.20,
+Department of Health,Western Cheshire PCT,13/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"£1,938.30",
+Department of Health,Western Cheshire PCT,13/08/2010,BUDGET GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"£50,518.83",
+Department of Health,Western Cheshire PCT,13/08/2010,COURIER,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,-£6.00,
+Department of Health,Western Cheshire PCT,13/08/2010,DRUG MISUSE PATIENTS GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£414.59
+Department of Health,Western Cheshire PCT,13/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£7.78
+Department of Health,Western Cheshire PCT,13/08/2010,I U CONTRACEPTIVE GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"£1,103.89"
+Department of Health,Western Cheshire PCT,13/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"£6,030.64"
+Department of Health,Western Cheshire PCT,13/08/2010,INTERMEDIATE CARE,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£725.55
+Department of Health,Western Cheshire PCT,13/08/2010,INTRA PARTUM CARE GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£55.22
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (STAT),General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,-£162.87
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (VOL),General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,-£18.57
+Department of Health,Western Cheshire PCT,13/08/2010,MENTAL HEALTH,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£848.08
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"£2,615.05"
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"£3,387.32"
+Department of Health,Western Cheshire PCT,13/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£804.30
+Department of Health,Western Cheshire PCT,13/08/2010,OOH DEDUCTION GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"-£1,387.75"
+Department of Health,Western Cheshire PCT,13/08/2010,OSTEOPOROSIS,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£358.86
+Department of Health,Western Cheshire PCT,13/08/2010,PRESCR LEADS MEETING,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£70.00
+Department of Health,Western Cheshire PCT,13/08/2010,QUALITY ASPIRATION PYMT GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"£6,077.85"
+Department of Health,Western Cheshire PCT,13/08/2010,RURAL GP NETWORK,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£200.00
+Department of Health,Western Cheshire PCT,13/08/2010,SENIORITY PAYMENT GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,£121.33
+Department of Health,Western Cheshire PCT,13/08/2010,SPIROMETRY/ECG,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40403,"£4,117.25"
+Department of Health,Western Cheshire PCT,13/08/2010,BUDGET GENERAL,General Practioner Payments,CHESTER WALK IN CENTRE,Y02822 40403,"£133,479.50"
+Department of Health,Western Cheshire PCT,13/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,"£1,882.92"
+Department of Health,Western Cheshire PCT,13/08/2010,BUDGET GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,"£30,563.00"
+Department of Health,Western Cheshire PCT,13/08/2010,COURIER,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,-£3.00
+Department of Health,Western Cheshire PCT,13/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,£7.78
+Department of Health,Western Cheshire PCT,13/08/2010,I U CONTRACEPTIVE GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,£789.35
+Department of Health,Western Cheshire PCT,13/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,"£5,033.60"
+Department of Health,Western Cheshire PCT,13/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,£2.55
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (STAT),General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,-£158.05
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (VOL),General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,-£18.02
+Department of Health,Western Cheshire PCT,13/08/2010,MENTAL HEALTH,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,£749.20
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,"£1,271.77"
+Department of Health,Western Cheshire PCT,13/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,£367.68
+Department of Health,Western Cheshire PCT,13/08/2010,OOH DEDUCTION GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,"-£1,134.75"
+Department of Health,Western Cheshire PCT,13/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,£134.65
+Department of Health,Western Cheshire PCT,13/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,"£1,917.67"
+Department of Health,Western Cheshire PCT,13/08/2010,QUALITY ASPIRATION PYMT GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,"£4,672.55"
+Department of Health,Western Cheshire PCT,13/08/2010,RURAL GP NETWORK,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,£200.00
+Department of Health,Western Cheshire PCT,13/08/2010,SENIORITY PAYMENT GENERAL,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,£166.75
+Department of Health,Western Cheshire PCT,13/08/2010,SPIROMETRY/ECG,General Practioner Payments,FARNDON HEALTH CENTRE,N81126 40403,"£3,027.87"
+Department of Health,Western Cheshire PCT,13/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,£733.50
+Department of Health,Western Cheshire PCT,13/08/2010,BUDGET GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£89,757.00"
+Department of Health,Western Cheshire PCT,13/08/2010,COURIER,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,-£18.00
+Department of Health,Western Cheshire PCT,13/08/2010,GP RETAINER SCHEME GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£2,367.20"
+Department of Health,Western Cheshire PCT,13/08/2010,I U CONTRACEPTIVE GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£2,720.25"
+Department of Health,Western Cheshire PCT,13/08/2010,IM & T GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£1,811.25"
+Department of Health,Western Cheshire PCT,13/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£14,378.43"
+Department of Health,Western Cheshire PCT,13/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,£8.50
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (STAT),General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,-£393.13
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (VOL),General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,-£44.81
+Department of Health,Western Cheshire PCT,13/08/2010,MENTAL HEALTH,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£1,675.96"
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£3,788.45"
+Department of Health,Western Cheshire PCT,13/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,£965.16
+Department of Health,Western Cheshire PCT,13/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£10,000.00"
+Department of Health,Western Cheshire PCT,13/08/2010,OOH DEDUCTION GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"-£3,249.00"
+Department of Health,Western Cheshire PCT,13/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,£107.72
+Department of Health,Western Cheshire PCT,13/08/2010,OSTEOPOROSIS,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,£212.79
+Department of Health,Western Cheshire PCT,13/08/2010,PHLEBOTOMY,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,£981.00
+Department of Health,Western Cheshire PCT,13/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£7,721.08"
+Department of Health,Western Cheshire PCT,13/08/2010,PRESCR LEADS MEETING,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,£200.00
+Department of Health,Western Cheshire PCT,13/08/2010,QUALITY ASPIRATION PYMT GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£12,666.97"
+Department of Health,Western Cheshire PCT,13/08/2010,SENIORITY PAYMENT GENERAL,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£1,338.17"
+Department of Health,Western Cheshire PCT,13/08/2010,SPIROMETRY/ECG,General Practioner Payments,GARDEN LANE MEDICAL CENTRE,N81081 40403,"£3,549.34"
+Department of Health,Western Cheshire PCT,13/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£36.02
+Department of Health,Western Cheshire PCT,13/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£696.24
+Department of Health,Western Cheshire PCT,13/08/2010,BUDGET GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,"£21,384.00"
+Department of Health,Western Cheshire PCT,13/08/2010,COURIER,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,-£3.00
+Department of Health,Western Cheshire PCT,13/08/2010,DRUG MISUSE PATIENTS GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£414.59
+Department of Health,Western Cheshire PCT,13/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£38.90
+Department of Health,Western Cheshire PCT,13/08/2010,I U CONTRACEPTIVE GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£981.37
+Department of Health,Western Cheshire PCT,13/08/2010,IM & T GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£648.15
+Department of Health,Western Cheshire PCT,13/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,"£2,709.19"
+Department of Health,Western Cheshire PCT,13/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£5.10
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (STAT),General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,-£73.33
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (VOL),General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,-£8.36
+Department of Health,Western Cheshire PCT,13/08/2010,MENTAL HEALTH,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£518.68
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,"£2,031.56"
+Department of Health,Western Cheshire PCT,13/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£367.68
+Department of Health,Western Cheshire PCT,13/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,"£18,455.28"
+Department of Health,Western Cheshire PCT,13/08/2010,OOH DEDUCTION GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,-£616.25
+Department of Health,Western Cheshire PCT,13/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£26.93
+Department of Health,Western Cheshire PCT,13/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,"£1,083.33"
+Department of Health,Western Cheshire PCT,13/08/2010,PRESCR LEADS MEETING,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£200.00
+Department of Health,Western Cheshire PCT,13/08/2010,QUALITY ASPIRATION PYMT GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,"£3,434.21"
+Department of Health,Western Cheshire PCT,13/08/2010,SENIORITY PAYMENT GENERAL,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,£462.50
+Department of Health,Western Cheshire PCT,13/08/2010,SPIROMETRY/ECG,General Practioner Payments,HOOLE ROAD Surgery,N81102 40403,"£2,749.00"
+Department of Health,Western Cheshire PCT,13/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£28.14
+Department of Health,Western Cheshire PCT,13/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£850.96
+Department of Health,Western Cheshire PCT,13/08/2010,BUDGET GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,"£26,581.25"
+Department of Health,Western Cheshire PCT,13/08/2010,COURIER,General Practioner Payments,ROOKERY SURGERY,N81624 40403,-£3.00
+Department of Health,Western Cheshire PCT,13/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,"£4,178.13"
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (STAT),General Practioner Payments,ROOKERY SURGERY,N81624 40403,-£160.18
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (VOL),General Practioner Payments,ROOKERY SURGERY,N81624 40403,-£18.26
+Department of Health,Western Cheshire PCT,13/08/2010,MENTAL HEALTH,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£664.36
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,"£1,271.77"
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£222.85
+Department of Health,Western Cheshire PCT,13/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£344.70
+Department of Health,Western Cheshire PCT,13/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,"£2,263.68"
+Department of Health,Western Cheshire PCT,13/08/2010,OOH DEDUCTION GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,-£961.83
+Department of Health,Western Cheshire PCT,13/08/2010,OSTEOPOROSIS,General Practioner Payments,ROOKERY SURGERY,N81624 40403,-£1.12
+Department of Health,Western Cheshire PCT,13/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,-£593.92
+Department of Health,Western Cheshire PCT,13/08/2010,PRESCR LEADS MEETING,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£200.00
+Department of Health,Western Cheshire PCT,13/08/2010,QUALITY ASPIRATION PYMT GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,"£4,220.37"
+Department of Health,Western Cheshire PCT,13/08/2010,RURAL GP NETWORK,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£200.00
+Department of Health,Western Cheshire PCT,13/08/2010,SENIORITY PAYMENT GENERAL,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£173.42
+Department of Health,Western Cheshire PCT,13/08/2010,SPIROMETRY/ECG,General Practioner Payments,ROOKERY SURGERY,N81624 40403,"£3,139.47"
+Department of Health,Western Cheshire PCT,13/08/2010,VIOLENT PATIENTS,General Practioner Payments,ROOKERY SURGERY,N81624 40403,£310.95
+Department of Health,Western Cheshire PCT,13/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£792.18
+Department of Health,Western Cheshire PCT,13/08/2010,BUDGET GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"£46,515.00"
+Department of Health,Western Cheshire PCT,13/08/2010,COURIER,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,-£12.00
+Department of Health,Western Cheshire PCT,13/08/2010,ENHANCED SERVICES-MMR GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£15.56
+Department of Health,Western Cheshire PCT,13/08/2010,I U CONTRACEPTIVE GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£40.84
+Department of Health,Western Cheshire PCT,13/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"£6,766.32"
+Department of Health,Western Cheshire PCT,13/08/2010,INTERMEDIATE CARE,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£932.85
+Department of Health,Western Cheshire PCT,13/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£5.10
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (STAT),General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,-£182.48
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (VOL),General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,-£20.80
+Department of Health,Western Cheshire PCT,13/08/2010,MENTAL HEALTH,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£921.04
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"£4,350.12"
+Department of Health,Western Cheshire PCT,13/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"£3,377.99"
+Department of Health,Western Cheshire PCT,13/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£850.26
+Department of Health,Western Cheshire PCT,13/08/2010,OOH DEDUCTION GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"-£1,543.25"
+Department of Health,Western Cheshire PCT,13/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£80.79
+Department of Health,Western Cheshire PCT,13/08/2010,OSTEOPOROSIS,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"£1,345.53"
+Department of Health,Western Cheshire PCT,13/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"£4,841.67"
+Department of Health,Western Cheshire PCT,13/08/2010,QUALITY ASPIRATION PYMT GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"£7,514.66"
+Department of Health,Western Cheshire PCT,13/08/2010,RURAL GP NETWORK,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£200.00
+Department of Health,Western Cheshire PCT,13/08/2010,SPIROMETRY/ECG,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,"£3,333.42"
+Department of Health,Western Cheshire PCT,13/08/2010,SWINE FLU,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81031 40403,£47.25
+Department of Health,Western Cheshire PCT,13/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£99.44
+Department of Health,Western Cheshire PCT,13/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£198.18
+Department of Health,Western Cheshire PCT,13/08/2010,BUDGET GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,"£39,411.00"
+Department of Health,Western Cheshire PCT,13/08/2010,COURIER,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,-£15.00
+Department of Health,Western Cheshire PCT,13/08/2010,DRUG MISUSE PATIENTS GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£345.49
+Department of Health,Western Cheshire PCT,13/08/2010,ENHANCED SERVICES-MMR GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£15.56
+Department of Health,Western Cheshire PCT,13/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£626.48
+Department of Health,Western Cheshire PCT,13/08/2010,I U CONTRACEPTIVE GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£112.31
+Department of Health,Western Cheshire PCT,13/08/2010,IM & T GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,"£1,083.44"
+Department of Health,Western Cheshire PCT,13/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,"£4,624.62"
+Department of Health,Western Cheshire PCT,13/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£10.20
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (STAT),General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,-£123.53
+Department of Health,Western Cheshire PCT,13/08/2010,LEVY (VOL),General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,-£14.08
+Department of Health,Western Cheshire PCT,13/08/2010,LOCUM - MAT,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,"£3,333.40"
+Department of Health,Western Cheshire PCT,13/08/2010,MENTAL HEALTH,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£708.64
+Department of Health,Western Cheshire PCT,13/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£413.64
+Department of Health,Western Cheshire PCT,13/08/2010,OOH DEDUCTION GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,"-£1,038.00"
+Department of Health,Western Cheshire PCT,13/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£53.86
+Department of Health,Western Cheshire PCT,13/08/2010,OSTEOPOROSIS,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£138.53
+Department of Health,Western Cheshire PCT,13/08/2010,PHLEBOTOMY,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£561.00
+Department of Health,Western Cheshire PCT,13/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,"£3,041.66"
+Department of Health,Western Cheshire PCT,13/08/2010,PRESCR LEADS MEETING,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£200.00
+Department of Health,Western Cheshire PCT,13/08/2010,QUALITY ASPIRATION PYMT GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,"£4,406.17"
+Department of Health,Western Cheshire PCT,13/08/2010,SENIORITY PAYMENT GENERAL,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,£241.50
+Department of Health,Western Cheshire PCT,13/08/2010,SPIROMETRY/ECG,General Practioner Payments,WESTERN AVENUE MEDICAL CENTRE,N81626 40403,"£3,266.55"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,AUDLEM MEDICAL CENTRE,N81001 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,AUDLEM MEDICAL CENTRE,N81001 40408,"£26,164.43"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,AUDLEM MEDICAL CENTRE,N81001 40408,-£145.15
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,AUDLEM MEDICAL CENTRE,N81001 40408,£26.93
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,AUDLEM MEDICAL CENTRE,N81001 40408,"£2,616.67"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,AUDLEM MEDICAL CENTRE,N81001 40408,"£6,062.60"
+Department of Health,Western Cheshire PCT,18/08/2010,SENIORITY PAYMENT GENERAL,General Practioner Payments,AUDLEM MEDICAL CENTRE,N81001 40408,"£2,658.06"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,£23.40
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£1,189.08"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,-£18.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,£31.12
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£56,567.60"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,£108.50
+Department of Health,Western Cheshire PCT,18/08/2010,IM & T GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£1,655.13"
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£13,687.52"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,£37.40
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,-£370.21
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£1,607.44"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£7,940.71"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£5,427.49"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£1,355.82"
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£11,475.60"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,£296.23
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,£766.96
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,£840.00
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£6,250.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ACHIEVEMENT PYMT GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"-£61,000.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£14,136.67"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,£122.53
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,BOUGHTON HEALTH CENTRE,N81034 40408,"£3,341.32"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£78.20
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£1,768.94"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,-£33.00
+Department of Health,Western Cheshire PCT,18/08/2010,DRUG MISUSE PATIENTS GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£414.59
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£38.90
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£93,813.66"
+Department of Health,Western Cheshire PCT,18/08/2010,GSUM APR- JUN,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£1,375.00"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£162.75
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£20,713.99"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,-£560.78
+Department of Health,Western Cheshire PCT,18/08/2010,LOCUM ALLOW (PAT/MAT) GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£11,332.88"
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£2,304.28"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£10,580.68"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£1,477.51"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£2,183.10"
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£4,527.74"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£377.02
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£1,993.74"
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£840.00
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£14,770.83"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£21,315.24"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£2,783.61"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,"£3,135.02"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£932.85
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,CITY WALLS MEDICAL CENTRE,N81082 40408,£31.12
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,£16.08
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,£741.34
+Department of Health,Western Cheshire PCT,18/08/2010,AVC EQU LIFE,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,-£19.20
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,-£12.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,£23.34
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£48,635.02"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,£77.50
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£11,609.95"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,£25.50
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,-£314.24
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£1,401.40"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£4,046.54"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£2,660.36"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,£735.36
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£2,263.68"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,£53.86
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£1,270.38"
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,£840.00
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£4,020.83"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£11,377.70"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"-£1,539.07"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,ELMS MEDICAL CENTRE,N81079 40408,"£3,237.21"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£1.28
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,GREAT SUTTON M C,N81094 40408,£5.16
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£4.24
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£785.38
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,£572.52
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£389.02
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,GREAT SUTTON M C,N81050 40408,-£12.00
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,GREAT SUTTON M C,N81094 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,GREAT SUTTON M C,N81095 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,DRUG MISUSE PATIENTS GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£414.59
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£31.12
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,£155.60
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£46.68
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,GREAT SUTTON M C,N81050 40408,"£36,981.14"
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£30,743.74"
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"£28,840.95"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£69.75
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,GREAT SUTTON M C,N81094 40408,£77.50
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£7.75
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,"£9,041.12"
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£7,592.75"
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"£7,004.69"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£20.40
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,GREAT SUTTON M C,N81094 40408,£17.00
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£23.80
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,GREAT SUTTON M C,N81050 40408,-£244.77
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,GREAT SUTTON M C,N81094 40408,-£205.77
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,GREAT SUTTON M C,N81095 40408,-£189.82
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,GREAT SUTTON M C,N81050 40408,"£1,146.64"
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£1,003.00"
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£944.68
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,"£1,551.62"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£1,439.68"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"£1,495.65"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£623.98
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£17,945.40"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"£1,426.24"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,GREAT SUTTON M C,N81050 40408,"£4,432.97"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£4,586.49"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"£4,332.77"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£781.32
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,£482.58
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£735.36
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£2,640.96"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£161.58
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,£269.30
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£134.65
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,"£3,347.41"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£3,347.41"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"£3,347.41"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ACHIEVEMENT PYMT GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"-£10,000.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ACHIEVEMENT PYMT GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"-£10,000.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,GREAT SUTTON M C,N81050 40408,"£8,852.75"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£7,961.80"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"£7,814.02"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,GREAT SUTTON M C,N81050 40408,£959.89
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,GREAT SUTTON M C,N81095 40408,£393.12
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,GREAT SUTTON M C,N81050 40408,"£3,502.72"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,GREAT SUTTON M C,N81094 40408,"£3,831.56"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,GREAT SUTTON M C,N81095 40408,"£3,081.97"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,£11.84
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,£521.14
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,-£6.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£32,438.05"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,£77.50
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£7,831.12"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,£17.00
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,-£211.47
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£1,026.64"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£4,579.30"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£4,128.09"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,£597.48
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,£26.93
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,£602.84
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£1,962.00"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£3,229.17"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£7,838.26"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£2,019.87"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,HANDBRIDGE MEDICAL CENTRE,N81101 40408,"£1,462.36"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,£68.28
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,£792.72
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,-£6.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£34,874.36"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,£93.00
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£8,381.67"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,£6.80
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,-£226.34
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£1,081.24"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£7,021.32"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£4,450.75"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,£896.22
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£1,949.28"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,£296.23
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,£275.12
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£1,962.00"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£6,461.50"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£8,561.27"
+Department of Health,Western Cheshire PCT,18/08/2010,SENIORITY PAYMENT GENERAL,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£1,000.00"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£1,238.67"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,HEATH LANE MEDICAL CENTRE,N81009 40408,"£2,162.87"
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,£919.32
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,-£15.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£44,607.90"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,£23.25
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£10,476.18"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,-£282.31
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£1,288.96"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£7,066.99"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£5,362.62"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£3,957.66"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£1,217.94"
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£9,996.38"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,£215.44
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,£558.68
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£4,505.08"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£10,615.75"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£2,716.25"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,"£3,510.88"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,HELSBY HEALTH CENTRE,N81005 40408,£7.78
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,£12.06
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,£785.38
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,-£15.00
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,£256.74
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£59,385.71"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,£69.75
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£14,480.07"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,£47.60
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,-£390.84
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£1,686.04"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£3,566.54"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£8,043.35"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£4,777.69"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£1,126.02"
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£13,896.48"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,£296.23
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£6,287.17"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,£400.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£15,133.18"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£3,213.57"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,HOPE FARM MEDICAL CENTRE,N81092 40408,"£4,303.42"
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,£860.64
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,KNOLL SURGERY,N81030 40408,-£27.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,£54.46
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£63,451.28"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,KNOLL SURGERY,N81030 40408,£77.50
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£14,163.05"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,KNOLL SURGERY,N81030 40408,-£381.08
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£1,654.60"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£4,350.12"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£7,600.73"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£2,052.81"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£1,930.32"
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£3,898.56"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£4,700.75"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,KNOLL SURGERY,N81030 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£14,686.91"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£1,810.51"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,KNOLL SURGERY,N81030 40408,"£3,664.03"
+Department of Health,Western Cheshire PCT,18/08/2010,SWINE FLU,General Practioner Payments,KNOLL SURGERY,N81030 40408,£68.25
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£146.22
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£782.40
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,-£12.00
+Department of Health,Western Cheshire PCT,18/08/2010,DRUG MISUSE PATIENTS GENERAL,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£414.59
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,"£29,498.61"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£31.00
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,"£7,125.69"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£11.90
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,-£193.00
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£956.68
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,"£2,789.25"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,"£5,896.53"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£528.54
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£53.86
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£453.84
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£561.00
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,"£7,230.16"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,"£1,861.46"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,LACHE HEALTH CENTRE,N81115 40408,"£3,253.48"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,MALPAS SURGERY,N81038 40408,£139.08
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£2,519.79"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,MALPAS SURGERY,N81038 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,£7.78
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£36,790.12"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,MALPAS SURGERY,N81038 40408,£232.50
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£7,566.13"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,MALPAS SURGERY,N81038 40408,£25.50
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,MALPAS SURGERY,N81038 40408,-£204.23
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£1,000.36"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£5,409.52"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£3,645.41"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£6,552.12"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,£919.20
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£4,244.40"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£3,916.67"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,MALPAS SURGERY,N81038 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£8,701.26"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,MALPAS SURGERY,N81038 40408,£784.23
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,MALPAS SURGERY,N81038 40408,"£3,529.25"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40408,£310.95
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£11.64
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£1,163.82"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,-£6.00
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£54.46
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£41,341.11"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£46.50
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£9,353.30"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,-£254.66
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£1,177.60"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£4,853.85"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£89.14
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£696.99
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£1,171.98"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£26.93
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£1,250.03"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£4,062.50"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£400.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ACHIEVEMENT PYMT GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"-£30,000.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£9,474.63"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£71.47
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,"£3,653.92"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£7.78
+Department of Health,Western Cheshire PCT,18/08/2010,SWINE FLU,General Practioner Payments,NESTON MEDICAL CENTRE,N81125 40408,£346.50
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,"£2,132.04"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,NESTON SURGERY,N81060 40408,-£12.00
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,NESTON SURGERY,N81060 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,£7.78
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,NESTON SURGERY,N81060 40408,"£45,230.22"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,NESTON SURGERY,N81060 40408,£131.75
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,"£10,052.68"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,NESTON SURGERY,N81060 40408,-£271.37
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,NESTON SURGERY,N81060 40408,"£1,246.96"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,"£1,551.62"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,"£9,189.79"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,NESTON SURGERY,N81060 40408,"£2,320.60"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,£804.30
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,"£4,904.64"
+Department of Health,Western Cheshire PCT,18/08/2010,OPHTHALMOMLOGY  & ERECTILE DYSFUNCTION,General Practioner Payments,NESTON SURGERY,N81060 40408,"£2,487.61"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,£296.23
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,NESTON SURGERY,N81060 40408,"£2,108.19"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,"£3,837.33"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,NESTON SURGERY,N81060 40408,£400.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,"£11,849.52"
+Department of Health,Western Cheshire PCT,18/08/2010,RETAINER SCHEME GENERAL,General Practioner Payments,NESTON SURGERY,N81060 40408,"£12,309.44"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,NESTON SURGERY,N81060 40408,"£1,094.66"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,NESTON SURGERY,N81060 40408,"£3,988.87"
+Department of Health,Western Cheshire PCT,18/08/2010,SWINE FLU,General Practioner Payments,NESTON SURGERY,N81060 40408,£845.25
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£2.12
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£623.90
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,-£15.00
+Department of Health,Western Cheshire PCT,18/08/2010,DRUG MISUSE PATIENTS GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£414.59
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£7.78
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£35,586.23"
+Department of Health,Western Cheshire PCT,18/08/2010,GSUM APR- JUN,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£3,776.00"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£69.75
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£7,677.45"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,-£208.91
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£1,011.40"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£1,728.90"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£1,410.27"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£942.18
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£107.72
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£253.66
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£561.00
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£4,406.25"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£8,203.90"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£1,963.67"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,NORTHGATE MEDICAL CENTRE,N81080 40408,"£3,802.99"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£8.00
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£403.70
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"£33,383.65"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£31.00
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"£7,475.38"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£30.60
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,-£202.00
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£991.36
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"£3,745.92"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£466.54
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£712.38
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"£2,263.68"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£107.72
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£205.85
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£977.67
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"£3,029.17"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£140.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ACHIEVEMENT PYMT GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"-£30,000.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"£8,090.82"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,£71.47
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"£3,804.98"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,NORTHGATE VILLAGE SURGERY,N81121 40408,"£4,767.90"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£135.32
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£1,218.42"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,OLD HALL SURGERY,N81117 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£27,831.76"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£69.75
+Department of Health,Western Cheshire PCT,18/08/2010,IM & T GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£777.00
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£6,255.70"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£34.00
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,OLD HALL SURGERY,N81117 40408,-£169.61
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£870.40
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£1,551.62"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£534.84
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£4,255.28"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£804.30
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£2,955.36"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£53.86
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£179.01
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£2,250.00"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£400.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£6,899.47"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,OLD HALL SURGERY,N81117 40408,£712.76
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,OLD HALL SURGERY,N81117 40408,"£3,584.37"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,£36.18
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,£623.90
+Department of Health,Western Cheshire PCT,18/08/2010,AVC EQU LIFE,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,-£66.59
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,-£15.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£42,407.53"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,£54.25
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£10,209.98"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,£18.70
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,-£275.79
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£1,262.56"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£4,579.30"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£2,842.13"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,£666.42
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£2,515.20"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,£26.93
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,£806.80
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,£561.00
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£4,875.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£10,094.06"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£1,487.81"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,PARK MEDICAL CENTRE,N81046 40408,"£3,523.10"
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,£332.52
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,ROCK SURGERY,N81017 40408,-£6.00
+Department of Health,Western Cheshire PCT,18/08/2010,DRUG MISUSE PATIENTS GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,£414.59
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,£7.78
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,ROCK SURGERY,N81017 40408,"£28,618.65"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,ROCK SURGERY,N81017 40408,£108.50
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,"£6,875.22"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,ROCK SURGERY,N81017 40408,-£188.18
+Department of Health,Western Cheshire PCT,18/08/2010,LOCUM ALLOW (SICKNESS) GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,"£1,196.36"
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,ROCK SURGERY,N81017 40408,£931.84
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,"£1,551.62"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,"£1,621.10"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,ROCK SURGERY,N81017 40408,"£2,718.95"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,£735.36
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,"£2,358.00"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,£26.93
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,ROCK SURGERY,N81017 40408,£604.86
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,"£1,283.33"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ACHIEVEMENT PYMT GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,"-£30,000.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40408,"£6,959.87"
+Department of Health,Western Cheshire PCT,18/08/2010,RURAL GP NETWORK,General Practioner Payments,ROCK SURGERY,N81017 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,ROCK SURGERY,N81017 40408,£473.81
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,ROCK SURGERY,N81017 40408,"£2,896.08"
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£1,154.04"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£42,849.31"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,£46.50
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£9,428.32"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,-£256.30
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£2,726.99"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£7,924.20"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£4,430.69"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£1,011.12"
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£4,527.36"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£3,304.17"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ACHIEVEMENT PYMT GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"-£30,000.00"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£9,357.16"
+Department of Health,Western Cheshire PCT,18/08/2010,RURAL GP NETWORK,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,£790.38
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£3,792.71"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,"£2,176.65"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40408,£7.78
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£41.60
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£723.72
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,"£29,119.87"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£31.00
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,"£7,183.77"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£34.00
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,-£194.40
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£962.44
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£802.26
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,"£3,690.52"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£528.54
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£134.65
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£893.38
+Department of Health,Western Cheshire PCT,18/08/2010,PHLEBOTOMY,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£840.00
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,"£5,362.50"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,"£7,153.26"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£40.84
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,"£1,733.99"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£15.56
+Department of Health,Western Cheshire PCT,18/08/2010,SWINE FLU,General Practioner Payments,UPTON VILLAGE SURGERY,N81100 40408,£26.25
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,Whitby Group Practice,N81023 40408,£0.36
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,Whitby Group Practice,N81091 40408,£0.32
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,Whitby Group Practice,N81093 40408,£0.24
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,Whitby Group Practice,N81023 40408,£462.42
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,Whitby Group Practice,N81091 40408,£477.10
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,£616.56
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,Whitby Group Practice,N81023 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,Whitby Group Practice,N81091 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,Whitby Group Practice,N81093 40408,-£9.00
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,Whitby Group Practice,N81023 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,Whitby Group Practice,N81091 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,Whitby Group Practice,N81093 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,Whitby Group Practice,N81023 40408,£38.90
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,Whitby Group Practice,N81091 40408,£23.34
+Department of Health,Western Cheshire PCT,18/08/2010,FLU & PNEU VACCS GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,£23.34
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,Whitby Group Practice,N81023 40408,"£26,872.99"
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,Whitby Group Practice,N81091 40408,"£22,895.41"
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,Whitby Group Practice,N81093 40408,"£32,530.46"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,Whitby Group Practice,N81023 40408,£100.75
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,Whitby Group Practice,N81091 40408,£116.25
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,Whitby Group Practice,N81093 40408,£155.00
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,Whitby Group Practice,N81023 40408,"£6,331.93"
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,Whitby Group Practice,N81091 40408,"£5,501.87"
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,"£7,584.28"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,Whitby Group Practice,N81023 40408,-£170.82
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,Whitby Group Practice,N81091 40408,-£148.98
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,Whitby Group Practice,N81093 40408,-£205.67
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,Whitby Group Practice,N81023 40408,£877.96
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,Whitby Group Practice,N81091 40408,£795.64
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,Whitby Group Practice,N81093 40408,"£1,002.16"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,Whitby Group Practice,N81023 40408,"£1,887.44"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,Whitby Group Practice,N81091 40408,"£1,439.68"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,"£2,447.14"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,Whitby Group Practice,N81023 40408,£757.69
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,Whitby Group Practice,N81091 40408,£980.54
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,"£4,323.29"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,Whitby Group Practice,N81023 40408,"£1,151.60"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,Whitby Group Practice,N81091 40408,"£2,101.24"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,Whitby Group Practice,N81093 40408,£848.19
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,Whitby Group Practice,N81023 40408,£597.48
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,Whitby Group Practice,N81091 40408,£505.56
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,£942.18
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,Whitby Group Practice,N81023 40408,£26.93
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,Whitby Group Practice,N81091 40408,£188.51
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,£107.72
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,Whitby Group Practice,N81091 40408,£448.56
+Department of Health,Western Cheshire PCT,18/08/2010,PRACTICE STAFF,General Practioner Payments,Whitby Group Practice,N81093 40408,"£6,765.00"
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,"£8,937.50"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,Whitby Group Practice,N81023 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,Whitby Group Practice,N81091 40408,£400.00
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,Whitby Group Practice,N81093 40408,£400.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,Whitby Group Practice,N81023 40408,"£6,755.67"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,Whitby Group Practice,N81091 40408,"£6,039.76"
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,Whitby Group Practice,N81093 40408,"£7,988.94"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,Whitby Group Practice,N81023 40408,£40.84
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,Whitby Group Practice,N81091 40408,£658.64
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,Whitby Group Practice,N81093 40408,£592.27
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,Whitby Group Practice,N81023 40408,"£2,994.13"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,Whitby Group Practice,N81091 40408,"£3,506.76"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,Whitby Group Practice,N81093 40408,"£3,339.31"
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£24.88
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£537.90
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,WRENBURY SURGERY,N81614 40408,-£3.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,WRENBURY SURGERY,N81614 40408,"£15,245.01"
+Department of Health,Western Cheshire PCT,18/08/2010,GSUM APR- JUN,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£250.00
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£54.25
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40408,"£3,404.94"
+Department of Health,Western Cheshire PCT,18/08/2010,LEARING DISABLITY - ASPIRATION,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£10.20
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,WRENBURY SURGERY,N81614 40408,-£126.09
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£587.68
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40408,"£2,241.39"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40408,"£1,426.24"
+Department of Health,Western Cheshire PCT,18/08/2010,MPIG,General Practioner Payments,WRENBURY SURGERY,N81614 40408,"£1,356.35"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£367.68
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40408,"£1,509.12"
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£308.19
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40408,"£3,564.39"
+Department of Health,Western Cheshire PCT,18/08/2010,RURAL GP NETWORK,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,WRENBURY SURGERY,N81614 40408,"£3,265.71"
+Department of Health,Western Cheshire PCT,18/08/2010,STUDENT MMR GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40408,£15.56
+Department of Health,Western Cheshire PCT,18/08/2010,ALCOHOL - NEW PATIENT SCREENING,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,£118.14
+Department of Health,Western Cheshire PCT,18/08/2010,ANTI COAG MONITORING GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£1,476.78"
+Department of Health,Western Cheshire PCT,18/08/2010,COURIER,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,-£18.00
+Department of Health,Western Cheshire PCT,18/08/2010,EP&N GP FORUM,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,£200.00
+Department of Health,Western Cheshire PCT,18/08/2010,GLOBAL SUM,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£63,117.33"
+Department of Health,Western Cheshire PCT,18/08/2010,HPV COHORT,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,£186.00
+Department of Health,Western Cheshire PCT,18/08/2010,IMP QUALITY ACCESS SCHEME GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£14,144.90"
+Department of Health,Western Cheshire PCT,18/08/2010,LEVY (STAT),General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,-£381.31
+Department of Health,Western Cheshire PCT,18/08/2010,MENTAL HEALTH,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£1,652.80"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR INJURIES SERVICES GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£1,215.80"
+Department of Health,Western Cheshire PCT,18/08/2010,MINOR SURGERY GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£2,273.07"
+Department of Health,Western Cheshire PCT,18/08/2010,NEAR PATIENT TESTING GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£1,149.00"
+Department of Health,Western Cheshire PCT,18/08/2010,NURSING/RESIDENTIAL HOMES GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£3,081.12"
+Department of Health,Western Cheshire PCT,18/08/2010,ORANGE BADGE PAYMENTS GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,£296.23
+Department of Health,Western Cheshire PCT,18/08/2010,OSTEOPORCSIS,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,£718.63
+Department of Health,Western Cheshire PCT,18/08/2010,PREMISES (RENT) GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£4,719.58"
+Department of Health,Western Cheshire PCT,18/08/2010,PRESCR LEADS MEETING,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,£400.00
+Department of Health,Western Cheshire PCT,18/08/2010,QUALITY ASPIRATION PAYMENT GENERAL,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£13,794.87"
+Department of Health,Western Cheshire PCT,18/08/2010,SEXUAL HEALTH,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£2,816.40"
+Department of Health,Western Cheshire PCT,18/08/2010,SPIROMETRY/ECG,General Practioner Payments,YORK ROAD GROUP PRACTICE,N81063 40408,"£4,219.52"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40413,"£44,670.81"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40413,"-£44,427.40"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - DRUGS GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40413,"£43,456.20"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - REMUNERATION GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40413,"£13,107.65"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40413,"£3,492.00"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,BUNBURY MEDICAL CENTRE,N81006 40413,"-£3,492.00"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,KELSALL MEDICAL CENTRE,N81120 40413,"£20,560.06"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,KELSALL MEDICAL CENTRE,N81120 40413,"-£19,177.40"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - DRUGS GENERAL,General Practioner Payments,KELSALL MEDICAL CENTRE,N81120 40413,"£19,759.22"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - REMUNERATION GENERAL,General Practioner Payments,KELSALL MEDICAL CENTRE,N81120 40413,"£4,836.27"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,KELSALL MEDICAL CENTRE,N81120 40413,£871.20
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,KELSALL MEDICAL CENTRE,N81120 40413,-£871.20
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40413,"£42,290.88"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40413,"-£46,996.02"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - DRUGS GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40413,"£47,782.18"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - REMUNERATION GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40413,"£13,431.46"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40413,"£3,031.20"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,KNOLL SURGERY,N81030 40413,"-£3,031.20"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40413,"£44,439.12"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40413,"-£47,396.40"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - DRUGS GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40413,"£49,066.56"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - REMUNERATION GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40413,"£12,953.95"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40413,"£2,937.60"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,MALPAS SURGERY,N81038 40413,"-£2,937.60"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40413,"£12,260.40"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40413,"-£11,820.15"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - DRUGS GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40413,"£12,246.28"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - REMUNERATION GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40413,"£2,966.86"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40413,£676.80
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,ROCK SURGERY,N81017 40413,-£676.80
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40413,"£48,565.50"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40413,"-£50,699.04"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - DRUGS GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40413,"£50,286.73"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - REMUNERATION GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40413,"£13,107.20"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40413,"£2,109.60"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,TARPORLEY HEALTH CENTRE,N81018 40413,"-£2,109.60"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40413,"£31,097.60"
+Department of Health,Western Cheshire PCT,23/08/2010,ADV/REC DISPENSING DRS GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40413,"-£33,472.50"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - DRUGS GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40413,"£33,123.82"
+Department of Health,Western Cheshire PCT,23/08/2010,DISP DRS - REMUNERATION GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40413,"£8,836.51"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40413,"£1,800.00"
+Department of Health,Western Cheshire PCT,23/08/2010,PRESC CHGS-DISP GP GENERAL,General Practioner Payments,WRENBURY SURGERY,N81614 40413,"-£1,800.00"

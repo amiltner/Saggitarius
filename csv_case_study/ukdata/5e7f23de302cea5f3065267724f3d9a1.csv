@@ -1,0 +1,20 @@
+Category,Farm by size and region and type,Always,Most of the time,Some of the time,Rarely,Never,No of responses used
+Farm size,Small,10%,11%,17%,24%,37%,671
+Farm size,Medium,23%,17%,25%,15%,19%,329
+Farm size,Large,45%,20%,16%,10%,10%,748
+Region,North East,13%,13%,20%,26%,28%,123
+Region,North West & Merseyside,28%,17%,15%,20%,20%,268
+Region,Yorkshire & The Humber,19%,16%,23%,19%,22%,244
+Region,East Midlands,21%,15%,19%,23%,22%,191
+Region,West Midlands,21%,11%,17%,21%,30%,227
+Region,East of England,23%,12%,16%,19%,30%,80
+Region,South East,16%,14%,16%,11%,42%,147
+Region,South West,22%,13%,18%,17%,30%,468
+Farm type,Cereals,9%,12%,26%,23%,31%,174
+Farm type,Other crops,17%,16%,15%,25%,27%,108
+Farm type,Pigs & poultry,19%,15%,14%,18%,34%,57
+Farm type,Dairy,66%,20%,8%,4%,3%,412
+Farm type,Grazing livestock (LFA),11%,14%,18%,28%,29%,300
+Farm type,Grazing livestock (Lowland),11%,11%,20%,20%,38%,443
+Farm type,Mixed,21%,17%,24%,17%,20%,254
+####For holdings with cattle or sheep####,,,,,,,

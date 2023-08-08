@@ -1,0 +1,3 @@
+"KpiId","KpiName","Value","DataType","Period","StartDate","EndDate","CollectionFrequency"
+"LDHC08","% of adults with a learning disability having a GP Health Check - (VoY CCG)","33.00 %","Percentage","2013/2014","2013-04-01","2014-03-31","Annual"
+"LDHC08","% of adults with a learning disability having a GP Health Check - (VoY CCG)","51.00 %","Percentage","2014/2015","2014-04-01","2015-03-31","Annual"

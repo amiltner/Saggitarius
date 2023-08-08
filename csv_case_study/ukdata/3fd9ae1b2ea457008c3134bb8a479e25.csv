@@ -1,0 +1,21 @@
+Category,Farm by size and region and type,1 to 3 months,4 to 6 months,7 to 12 months,Over 12 months,Number of responses used
+Farm size,Small,18%,60%,19%,2%,126
+Farm size,Medium,21%,61%,14%,4%,113
+Farm size,Large,16%,62%,19%,2%,434
+Region,North East,28%,55%,17%,0%,22
+Region,North West & Merseyside,20%,66%,14%,0%,176
+Region,Yorkshire & The Humber,19%,59%,21%,1%,91
+Region,East Midlands,16%,61%,19%,4%,51
+Region,West Midlands,16%,68%,13%,2%,71
+Region,East of England,0%,55%,42%,3%,21
+Region,South East,0%,58%,32%,10%,33
+Region,South West,19%,58%,19%,5%,208
+Farm type,Cereals,2%,56%,38%,3%,20
+Farm type,Other crops,21%,33%,36%,10%,20
+Farm type,Pigs & poultry,9%,58%,27%,6%,49
+Farm type,Dairy,19%,66%,14%,1%,355
+Farm type,Grazing livestock (LFA),22%,64%,14%,0%,90
+Farm type,Grazing livestock (Lowland),21%,56%,18%,5%,91
+Farm type,Mixed,3%,56%,35%,6%,48
+####For holdings that have livestock and manure or slurry storage facilities####,,,,,,
+###Results relate only to holdings with livestock####,,,,,,

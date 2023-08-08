@@ -1,0 +1,204 @@
+Department family,Entity,Date,Expense Type,Expense area,Supplier,Transaction number,Amount
+NHS,Barnsley PCT,01/06/2011,Service Level Agreement,HQ Services,BARNSLEY HOSPITAL NHS FOUNDATION TRUST,6012365,"51,361.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,CARE PRINCIPLES,INV029946,"50,050.80 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,HEALTHCARE AT HOME LTD,OP/2481413,"48,319.92 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,INMIND (DOULTON LODGE),1988,"39,006.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,INMIND (DOULTON LODGE),1950,"39,006.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,INMIND (DOULTON LODGE),1969,"40,306.20 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,MERSEY CARE NHS TRUST,I0026348,"53,680.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,NOTTINGHAMSHIRE HEALTHCARE NHS TRUST,1000019213,"2,097,945.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,NW SPECIAL SRVS COMM TEAM,9132249,"152,849.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,THE ROYAL ORTHOPAEDIC TRUST,0000032606,"53,135.17 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD CHILDRENS HOSPITAL,2100133400,"36,144.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD TEACHING HOSPITALS NHS TRUST,4000278125,"43,428.69 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C079384,"-32,450.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C079359,"-37,820.02 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/M075366,"86,671.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,WEST LONDON MENTAL HEALTH NHS TRUST,1100037197,"27,250.00 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,YORK TEACHING HOSPITALS NHS FT,10035965,"422,216.32 "
+NHS,Barnsley PCT,01/06/2011,Healthcare Contracts,Specialist Commissioning Group,YORK TEACHING HOSPITALS NHS FT,10036025,"81,000.00 "
+NHS,Barnsley PCT,01/06/2011,Service Level Agreement,Pharmacy,BARNSLEY HOSPITAL NHS FOUNDATION TRUST,6012453,"59,589.20 "
+NHS,Barnsley PCT,01/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,76103.25
+NHS,Barnsley PCT,08/06/2011,Healthcare Contracts,Healthcare,BARNSLEY MBC,8000043182,"-32,236.93 "
+NHS,Barnsley PCT,08/06/2011,Healthcare Contracts,Healthcare,BARNSLEY MBC,9000116934,"207,460.00 "
+NHS,Barnsley PCT,08/06/2011,Healthcare Contracts,Specialist Commissioning Group,CARE SHEFFIELD,100203,"36,267.00 "
+NHS,Barnsley PCT,08/06/2011,Healthcare Contracts,Specialist Commissioning Group,CARE SHEFFIELD,100204,"25,886.00 "
+NHS,Barnsley PCT,08/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,"138,145.19 "
+NHS,Barnsley PCT,08/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,"45,506.60 "
+NHS,Barnsley PCT,08/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,"49,729.17 "
+NHS,Barnsley PCT,08/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,"50,604.16 "
+NHS,Barnsley PCT,08/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,"102,896.73 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,BARNSLEY HOSPITAL NHS FOUNDATION TRUST,6012499,"138,028.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,BARNSLEY HOSPITAL NHS FOUNDATION TRUST,6012500,"138,028.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,BARNSLEY HOSPITAL NHS FOUNDATION TRUST,6012546,"213,762.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,BARNSLEY HOSPITAL NHS FOUNDATION TRUST,6012545,"-276,056.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,BARNSLEY HOSPITAL NHS FOUNDATION TRUST,6012547,"9,886,230.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,BIRMINGHAM CHILDRENS HOSPITAL,15652030,"46,116.25 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,BRADFORD DISTRICT CARE TRUST,177874,"370,046.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,CALDERDALE & HUDDERSFIELD NHS TRUST,213996,"100,960.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,CALDERSTONES NHS TRUST,M0004839,"229,806.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,CALDERSTONES NHS TRUST,M0004618,"106,300.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,CALDERSTONES NHS TRUST,M0004617,"123,784.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,DONCASTER & BASSETLAW HOSPITAL,82092792,"575,723.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,GUYS & ST.THOMAS HOSPITAL TRUST,3059908,"119,942.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,HULL & E.YORKSHIRE HOSPITLAS TRUST,49937,"26,254.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,HUMBER MH TEACHING NHS TRUST,2014544,"240,438.25 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,HUMBER MH TEACHING NHS TRUST,2014543,"40,004.34 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,HUMBER MH TEACHING NHS TRUST,2014542,"108,549.25 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,HUMBER MH TEACHING NHS TRUST,2014541,"398,808.17 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,HUMBER MH TEACHING NHS TRUST,2014540,"134,373.59 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,HUMBER MH TEACHING NHS TRUST,2014539,"210,958.34 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,IMPERIAL COLLEGE HEALTHCARE NHS TRUST,H0056585,"62,732.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,THE LEEDS TEACHING HOSPITALS,356277,"106,180.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,MID YORKSHIRE HOSPITALS NHS TRUST,M126416,"136,651.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,MID YORKSHIRE HOSPITALS NHS TRUST,M126423,"882,948.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,NORTHERN LINCS AND GOOLE HOSPS NHS TRUST,1035146,"28,936.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,NOTTINGHAMSHIRE HEALTHCARE NHS TRUST,1000019375,"2,064,086.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,NOTTINGHAMSHIRE HEALTHCARE NHS TRUST,1000019360,"722,017.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,PAPWORTH HOSPITAL TRUST,C0005712,"-40,917.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,ROTHERHAM DONCASTER & SOUTH HUMBER MENTAL HEALTH,0000056621,"34,187.83 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,ROTHERHAM DONCASTER & SOUTH HUMBER MENTAL HEALTH,0000056867,"250,666.26 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,ROTHERHAM NHS FOUNDATION TRUST,6020288,"90,221.25 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,THE ROYAL NATIONAL ORTHOPAEDIC,B0018196,"26,557.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD HEALTH & SOCIAL CARE,2100064102,"275,804.67 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,SHEFFIELD CHILDRENS HOSPITAL,2100133626,"331,980.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD CHILDRENS HOSPITAL,2100133638,"1,539,018.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD CHILDRENS HOSPITAL,2100128691,"76,936.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD CHILDRENS HOSPITAL,2100131648,"97,919.93 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD CHILDRENS HOSPITAL,2100131500,"105,392.92 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD CHILDRENS HOSPITAL,2200008367,"-437,375.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD CHILDRENS HOSPITAL,2200008436,"-121,509.79 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD CHILDRENS HOSPITAL,2200008443,"-450,000.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD TEACHING HOSPITALS NHS TRUST,4000280648,"66,350.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD TEACHING HOSPITALS NHS TRUST,4000280693,"27,680.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD TEACHING HOSPITALS NHS TRUST,4000280671,"3,690,627.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD TEACHING HOSPITALS NHS TRUST,4000280665,"193,106.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Healthcare,SHEFFIELD TEACHING HOSPITALS NHS TRUST,4000280619,"1,955,913.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SOUTH WEST YORKSHIRE PARTNERSHIP,709705,"1,962,000.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,SOUTH WEST YORKSHIRE PARTNERSHIP,709529,"89,182.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,TEES ESK & WEAR VALLEYS  NHS FT,430019058,"220,193.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY COLLEGE LONDON HOSPITALS,184085,"160,376.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,WEST LONDON MENTAL HEALTH NHS TRUST,1100037461,"27,250.00 "
+NHS,Barnsley PCT,13/06/2011,Healthcare Contracts,Specialist Commissioning Group,YORK TEACHING HOSPITALS NHS FT,10036407,"103,250.00 "
+NHS,Barnsley PCT,15/06/2011,Property Rent,HQ Services,BARNSLEY COMMUNITY SOLUTOPNS (TRANCHE 1) LTD,544,"42,075.82 "
+NHS,Barnsley PCT,15/06/2011,Property Rent,HQ Services,BARNSLEY COMMUNITY SOLUTOPNS (TRANCHE 1) LTD,546,"45,303.00 "
+NHS,Barnsley PCT,15/06/2011,Property Rent,HQ Services,BARNSLEY COMMUNITY SOLUTOPNS (TRANCHE 1) LTD,543,"55,006.01 "
+NHS,Barnsley PCT,15/06/2011,Property Rent,HQ Services,BARNSLEY COMMUNITY SOLUTIONS (TRANCHE 2) LTD,BCS2-153,"79,691.52 "
+NHS,Barnsley PCT,15/06/2011,Property Rent,HQ Services,BARNSLEY COMMUNITY SOLUTIONS (TRANCHE 2) LTD,BCS2-152,"33,418.26 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Healthcare,BARNSLEY HOSPICE,1338,"132,423.84 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,CARE SHEFFIELD,102117,"31,427.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,CARE PRINCIPLES,0511Y&H,"139,003.20 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,CHEADLE ROYAL HOSPITAL,2530000489,"44,927.40 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,CHESWOLD PARK HOSPITAL,2519,"488,461.80 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,CHESWOLD PARK HOSPITAL,2421,"26,828.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,CYGNET HOSPITAL AT WYKE,WKE0984,"42,966.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,GATESHEAD HEALTH NHS FOUNDATION TRUST,303236,"219,530.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,GREAT ORMOND ST HOSPITAL NHS TRUST,X0075227,"84,638.29 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,HEALTHCARE AT HOME LTD,OP/2490472,"58,638.86 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,HEALTHCARE AT HOME LTD,OP/2472066,"70,203.03 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,HEALTHCARE AT HOME LTD,OP/2503386,"96,173.68 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,KINGS COLLEGE HOSPITAL NHS FOUNDATION TRUST,00138815,"38,174.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,LIGHTHOUSE HEALTHCARE,30342,"288,646.20 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,PARTNERSHIPS IN CARE (CENTRAL OFFICES),PCO0000139838,"1,272,600.30 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,RAPHAEL HEALTH CARE LTD,001654,"114,720.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,ROYAL BROMPTON & HAREFIELD NHS TRUST,I0146881,"34,304.65 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,THE ROYAL ORTHOPAEDIC TRUST,0000032626,"180,961.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,THE ROYAL ORTHOPAEDIC TRUST,0000031841,"56,463.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,THE ROYAL ORTHOPAEDIC TRUST,0000031926,"27,739.52 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,BRADFORD HOSPITAL TRUST,265737,"1,687,251.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,LEEDS TEACHING HOSP TRUST,356269,"13,282,393.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,SHEFFIELD TEACHING HOSPITALS NHS TRUST,4000280625,"8,846,612.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Healthcare,SOUTH WEST YORKSHIRE PARTNERSHIP,709708,"5,827,258.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Healthcare,YORKSHIRE AMBULANCE NHS TRUST,340543,"535,049.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Healthcare,YORKSHIRE AMBULANCE NHS TRUST,340515,"144,505.00 "
+NHS,Barnsley PCT,15/06/2011,Healthcare Contracts,Specialist Commissioning Group,HULL & E.YORKSHIRE HOSPITLAS TRUST,49936,"6,110,494.00 "
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,136602.09
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,58120.86
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,30355.34
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,29621.04
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,111840.88
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,42023.4
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,55253.89
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,95450.01
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,72248.92
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,93226.41
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,39153.11
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,139328.71
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,79238.82
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,38609.15
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,97262.86
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,42000.34
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,79679.13
+NHS,Barnsley PCT,15/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,74181.83
+NHS,Barnsley PCT,22/06/2011,Property Rent,HQ Services,BARNSLEY COMMUNITY SOLUTIONS (TRANCHE 3) LTD,BCS3-012,"84,247.93 "
+NHS,Barnsley PCT,22/06/2011,Healthcare Contracts,Healthcare,BARNSLEY MBC,8500002473,"29,058.40 "
+NHS,Barnsley PCT,22/06/2011,Healthcare Contracts,Healthcare,BARNSLEY MBC,9000112652,"47,070.07 "
+NHS,Barnsley PCT,22/06/2011,Healthcare Contracts,Healthcare,BARNSLEY MBC,9000117827,"3,870,000.00 "
+NHS,Barnsley PCT,22/06/2011,Healthcare Contracts,Specialist Commissioning Group,THE LEEDS TEACHING HOSPITALS,357530,"88,022.00 "
+NHS,Barnsley PCT,22/06/2011,Healthcare Contracts,Specialist Commissioning Group,NOVA HEALTHCARE,560,"90,393.00 "
+NHS,Barnsley PCT,24/06/2011,Opticians,Primary Care,BARNSLEY VISION PLUS LTD,JUNE 2011,40385.25
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,BELFAST HEALTH & SOCIAL CARE TRUST (NO:1A/C),069042,"123,206.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Healthcare,BRADFORD HOSPITALS NHS TRUST,262967,"38,345.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Healthcare,CARE UK,25770796,"48,650.55 "
+NHS,Barnsley PCT,29/06/2011,Property Rent,HQ Services,DBH SERVICED BUS CENTRES LTD,0009/1465,"110,852.40 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,DONCASTER & BASSETLAW HOSPITAL,82092793,"502,737.63 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,DONCASTER & BASSETLAW HOSPITAL,82092237,"42,747.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,DONCASTER & BASSETLAW HOSPITAL,82091989,"42,747.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,DONCASTER & BASSETLAW HOSPITAL,82092794,"59,159.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,EAST RIDING FERTILITY SERVICES LTD,111810,"37,345.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,HEALTHCARE AT HOME LTD,OP/2518941,"123,791.92 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,HEALTHCARE AT HOME LTD,OP/2527980,"38,740.16 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Healthcare,THE LEEDS TEACHING HOSPITALS,358162,"79,879.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,OXFORD RADCLIFFE HOSPITAL TRUST,8127809,"57,054.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Healthcare,ROTHERHAM DONCASTER & SOUTH HUMBER MENTAL HEALTH,0000056866,"34,187.83 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Healthcare,ROTHERHAM NHS FOUNDATION TRUST,6020283,"1,165,178.34 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Healthcare,SOUTH WEST YORKSHIRE PARTNERSHIP,709798,"382,934.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C079344,"-38,225.17 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C074061,"-52,887.63 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/M125714,"86,671.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C079389,"-32,450.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C079384,"-32,450.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C079359,"-37,820.02 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C079359,"-37,820.02 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C079344,"-38,225.17 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/M028874,"86,671.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/M075366,"86,671.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/M125714,"86,671.00 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/C069206,"-38,680.72 "
+NHS,Barnsley PCT,29/06/2011,Healthcare Contracts,Specialist Commissioning Group,UNIVERSITY HOSP BIRMINGHAM NHS TRUST,OP/K436308,"86,671.00 "
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,111041.33
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,32823.18
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,32344.00
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,115384.94
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,37424.85
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,25140.01
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,74667.95
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,58236.91
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,87469.63
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,39776.31
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,65777.63
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,38847.86
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,37428.14
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,89947.37
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,26638.56
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,95664.67
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,56068.35
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,32640.22
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,61241.33
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,82104.06
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,46830.82
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,43457.70
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,117259.40
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,36219.44
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,62928.35
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,127385.37
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,77602.45
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,154692.19
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,33443.26
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,145611.53
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,51116.94
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,55951.51
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,50212.50
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,108039.35
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,26553.08
+NHS,Barnsley PCT,30/06/2011,GP Contract,Primary Care,GP CONTRACT,JUNE 2011,68025.32

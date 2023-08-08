@@ -1,0 +1,506 @@
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier,Transaction No.,Amount,Total Inv Amount
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,DRUGS,PHARMACY,AAH HOSPITAL SERVICE,ASC2937,"38,109.95",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,DRUGS,PHARMACY,,,"6,669.25","44,779.20 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,ASC2971,"35,498.87",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"6,212.31","41,711.18 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,ASC2973,"22,919.72",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"4,010.95","26,930.67 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,ASC2990,"22,202.51",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"3,885.44","26,087.95 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,ASC2992,"32,656.77",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"6,531.36","39,188.13 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,ASC3016,"38,105.04",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"7,621.01","45,726.05 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,ASC3023,"31,378.26",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"6,275.66","37,653.92 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,ASC3024,"41,003.05",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"8,200.61","49,203.66 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,ASC3028,"26,253.20",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"5,250.64","31,503.84 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,ASC3030,"34,631.45",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"6,926.29","41,557.74 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,ASC3037,"25,659.05",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"5,131.81","30,790.86 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,ABBOTT LABORATORIES LTD,4316699,"5,920.53",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"4,933.70",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"4,371.65",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"3,947.04",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"3,747.12",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"2,001.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,648.74",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,416.80",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,184.11",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,034.22",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,034.22",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,986.74,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,874.33,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,874.33,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,789.41,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,749.42,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,689.48,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,689.48,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,671.73,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,413.24,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,400.20,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,349.72,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,344.74,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,344.74,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,329.75,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,283.36,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,206.84,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,206.84,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,174.87,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,137.90,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,137.90,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,134.35,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,104.96,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,82.65,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,69.94,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,68.95,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,68.95,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,32.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,20.99,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,15.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,6.40,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,3.04,"42,676.66 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,COMPUTER MAINTENANCE,RADIOLOGY,ACCENTURE (UK) LTD,3003144102,"54,304.55","63,807.85 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,COMMERCIAL SECTOR,TRANSPORT SERVICES,AMBULINE,1261,"-44,725.57","<44,725.57>"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,COMMERCIAL SECTOR,TRANSPORT SERVICES,,32574,"44,725.57","44,725.57 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,RENAL FLUIDS,RENAL,BAXTER HEALTHCARE LTD,001319367,"50,032.60","50,032.60 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,BECKMAN COULTER UK,1211937,"6,106.05",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"2,080.08",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"2,037.62",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,693.90",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,693.65",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,465.52",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,447.08",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,362.13",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,317.47",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,146.24",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,068.56",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,038.62",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,750.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,635.60,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,558.36,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,522.96,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,515.24,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,387.95,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,374.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,366.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,320.25,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,312.01,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,305.64,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,254.09,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,254.05,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,247.50,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,219.83,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,217.06,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,204.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,197.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,187.76,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,187.76,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,187.76,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,177.86,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,171.94,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,155.79,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,150.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,114.18,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,112.59,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,110.16,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,110.16,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,110.16,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,104.70,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,102.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,101.38,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,101.38,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,95.34,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,92.42,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,83.75,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,81.25,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,77.29,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,67.48,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,65.46,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,58.19,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,55.13,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,54.90,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,48.04,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,44.64,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,43.31,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,32.76,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,31.13,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,28.16,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,28.16,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,28.16,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,27.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,26.25,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,23.75,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,17.85,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,17.74,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,17.74,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,17.13,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.52,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.52,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.52,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,15.71,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,13.86,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,12.19,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,10.61,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,10.12,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,8.42,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,8.27,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,6.70,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,4.91,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,4.16,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,4.06,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,1.59,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,1.47,"32,600.42 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,1214256,"6,106.05",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"2,080.08",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"2,037.62",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"2,005.92",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,695.36",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,693.90",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,693.65",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,465.52",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,464.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,447.08",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,362.13",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,344.86",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,317.47",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,221.21",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,"1,038.62",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,931.04,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,750.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,635.60,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,558.36,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,550.80,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,550.80,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,515.24,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,440.64,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,374.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,314.10,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,312.01,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,310.36,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,305.64,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,300.89,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,275.65,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,275.60,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,267.75,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,256.20,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,254.30,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,254.09,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,254.05,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,247.50,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,219.83,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,219.60,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,217.06,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,204.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,197.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,195.99,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,177.86,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,165.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,155.79,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,139.66,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,129.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,114.18,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,112.59,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,112.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,102.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,101.38,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,95.34,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,93.88,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,93.88,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,93.88,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,93.88,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,93.88,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,83.75,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,82.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,82.62,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,77.29,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,74.82,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,74.27,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,67.48,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,66.10,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,65.52,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,53.55,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,49.87,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,49.50,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,47.12,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,46.55,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,44.64,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,41.35,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,41.34,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,38.43,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,35.57,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,33.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,29.40,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,27.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,25.80,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,24.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,23.75,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,20.40,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,20.28,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,17.13,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,16.80,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,14.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,14.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,14.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,14.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,14.08,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,11.14,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,10.61,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,10.12,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,9.83,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,7.48,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,6.70,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,4.80,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,4.75,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,4.06,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,LABORATORY REAGENTS,PATHOLOGY,,,1.59,"41,538.92 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,GAS,ENERGY AND UTILITIES,GAZPROM MARKETING AND TRADING RETAIL LTD,956118,"130,970.61",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,GAS,ENERGY AND UTILITIES,,,"22,919.85","153,890.46 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,GAS,ENERGY AND UTILITIES,,956119,"76,594.47",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,GAS,ENERGY AND UTILITIES,,,"13,404.03","89,998.50 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,GILEAD SCIENCES LTD,11088428,"24,963.96",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"4,992.79","29,956.75 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,HEALTHCARE PRODUCT SERVICES LTD,9730005134,"33,900.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"5,932.50","39,832.50 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,9730005348,"22,600.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"4,520.00","27,120.00 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,9730005508,"33,900.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"6,780.00","40,680.00 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,28/02/2011,RENT,PLANNING,HEALTHCARE SOLUTIONS LTD,2059,"412,557.71","495,069.25 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,28/02/2011,RENT,PLANNING,HULL MATERNITY DEVELOPMENT LTD,HMD99A,"232,316.42",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,28/02/2011,RENT,PLANNING,,,616.70,"278,779.71 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,SERVICES FROM OTHER NHS BODIES,NONE,HUMBER NHS FOUNDATION TRUST,2013721,"123,832.00","123,832.00 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,28/02/2011,RENT,FACILITIES,INFRASTRUCTURE INVESTORS CASTLEHILL LTD,128,"152,100.65","182,520.78 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,01/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,K BINKS HEATING LTD,IN004454,"24,354.70",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,01/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,,,"24,354.70",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,01/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,,,"2,958.73",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,01/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,,,"-24,354.70","28,616.77 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,15/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,,IN004486,"36,662.21",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,15/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,,,"5,492.64","43,078.10 ",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,SERVICES FROM OTHER NHS BODIES,CLINICAL HAEMATOLOGY,LEEDS TEACHING HOSPITALS NHS TRUST,342310,"110,657.00","110,657.00 ",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,15/02/2011,MEDICAL STAFF RECHARGES,FINANCE AND IT,,347400,"230,000.00","230,000.00 ",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,MEDICAL STAFF RECHARGES,FINANCE AND IT,,918050,"-89,726.35","<89,726.35>",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,15/02/2011,MEDICAL STAFF RECHARGES,FINANCE AND IT,,918259,"-37,696.24","<37,696.24>",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,22/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,MAQUET LTD,3590028778,"72,000.00",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,22/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,,,"14,400.00","86,400.00 ",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,MEDTRONIC LTD,1050569532,"43,750.00",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,,"8,587.25",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,,"5,320.00","57,657.25 ",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,1050573097,"130,500.00",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"46,500.00",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"46,200.00",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"31,500.00",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"28,500.00",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"26,100.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"19,500.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"18,600.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"17,250.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"15,500.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"12,250.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"9,300.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"9,240.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"6,300.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"5,700.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"3,900.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"3,720.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"3,450.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"3,100.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,PACEMAKERS,CARDIOLOGY,,,"2,450.00","439,560.00 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,1050580011,"21,600.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,"9,400.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,"7,680.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,"4,320.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,"2,760.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,"1,880.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,"1,600.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,"1,536.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,"1,005.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,600.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,552.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,320.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,201.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,MED SURG EQPT DISPOSABLE,DAY CASE SURG,,,120.00,"53,574.00 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,1050580612,"1,226.75",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,,"-5,320.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,,"-9,814.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,,"-43,750.00","<57,657.25>"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,1050580613,"48,650.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,,"9,730.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,STENTS,CARDIOLOGY,,,"-1,216.25","57,163.75 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,EXTERNAL CONTRACTS : DOMESTICS,DOMESTIC SERVICES,MITIE CLEANING AND ENVIRONMENTAL SERVICES LTD,7410/90234403,"273,451.19","321,305.15 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,EXTERNAL CONTRACTS : DOMESTICS,DOMESTIC SERVICES,,7410/90234404,"148,645.81","174,658.83 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,EXTERNAL CONTRACTS : DOMESTICS,DOMESTIC SERVICES,,7410/90234409,"63,423.66","74,522.80 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,EXTERNAL CONTRACTS : DOMESTICS,DOMESTIC SERVICES,,7410/90234410,"51,617.19","60,650.20 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,MOVIANTO UK LTD,9550682521,"22,653.15",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"3,964.30","26,617.45 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,15/02/2011,SERVICES FROM OTHER NHS BODIES,PATHOLOGY,NHS BLOOD AND TRANSPLANT,800776,"254,597.60","254,597.60 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,NHS SUPPLY CHAIN,1011027522,"40,510.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,,,"7,089.25","47,599.25 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,NON-N.H.S. TRADE CREDITORS < ONE YEAR,FINANCE AND IT,,1011029991,"289,131.99","289,131.99 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,NON-N.H.S. TRADE CREDITORS < ONE YEAR,FINANCE AND IT,,1011034062,"299,048.65","299,048.65 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,NON-N.H.S. TRADE CREDITORS < ONE YEAR,FINANCE AND IT,,1011038011,"315,604.80","315,604.80 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,NON-N.H.S. TRADE CREDITORS < ONE YEAR,FINANCE AND IT,,1011041243,"353,547.12","353,547.12 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,DRUGS,PHARMACY,NOVARTIS PHARMACEUTICALS UK LTD,90768515,"38,060.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,DRUGS,PHARMACY,,,"6,660.50","44,720.50 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,90774038,"34,285.72",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,DRUGS,PHARMACY,,,"6,000.00","40,285.72 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,DRUGS,PHARMACY,,90779906,"40,223.60",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,DRUGS,PHARMACY,,,"8,044.72","48,268.32 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,DRUGS,PHARMACY,,90782522,"41,386.80",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,DRUGS,PHARMACY,,,"8,277.36","49,664.16 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,90786742,"38,060.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"7,612.00","45,672.00 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,ORTHO CLINICAL DIAGNOSTICS,10015577,"10,821.96",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,"9,881.52",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,"1,893.84",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,"1,729.27",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,"1,176.30",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,352.89,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,205.85,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,135.32,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,61.76,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,23.68,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,11.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,1.93,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,LABORATORY BOTTLES AND CONTAINERS,PATHOLOGY,,,-0.01,"26,295.31 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,PHOENIX HEALTHCARE DISTRIBUTION LTD,29909119,"25,177.20",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"4,406.01",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,456.00,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,22.80,"30,062.01 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,15/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,PORTAKABIN LTD,915041297,"589,609.65",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,15/02/2011,ADDITIONS - ASSETS UNDER CONSTRUCTION,BUSINESS DEVELOPMENT,,,"103,181.68","692,791.33 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,DRUGS,PHARMACY,ROCHE PRODUCTS LTD,1321324683,"40,740.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,DRUGS,PHARMACY,,,"7,129.50","47,869.50 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,DRUGS,PHARMACY,,1321326946,"40,740.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,DRUGS,PHARMACY,,,"7,129.50","47,869.50 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,1321332057,"29,332.80",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"5,866.56","35,199.36 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,1321332109,"32,848.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"6,569.60","39,417.60 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,1321334552,"37,885.30",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"7,577.06","45,462.36 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,1321336198,"27,897.50",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"5,579.50","33,477.00 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,1321338202,"24,444.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"4,888.80","29,332.80 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,1321338665,"27,754.31",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,DRUGS,PHARMACY,,,"5,550.86","33,305.17 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,17/02/2011,OTHER DEBTORS < ONE YEAR,FINANCE AND IT,SAVILLE AUDIO VISUAL,OP/4055306,"28,825.00",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,17/02/2011,OTHER DEBTORS < ONE YEAR,FINANCE AND IT,,,"5,044.38",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,17/02/2011,OTHER DEBTORS < ONE YEAR,FINANCE AND IT,,,0.05,"33,869.43 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,17/02/2011,OTHER DEBTORS < ONE YEAR,FINANCE AND IT,,OP/4056473,-0.05,0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,17/02/2011,OTHER DEBTORS < ONE YEAR,FINANCE AND IT,,,"-5,044.38",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,17/02/2011,OTHER DEBTORS < ONE YEAR,FINANCE AND IT,,,"-28,825.00","<33,869.43>"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,17/02/2011,OTHER DEBTORS < ONE YEAR,FINANCE AND IT,,OP/4056475,"28,825.00","28,825.00 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,CONTRACT : PREMISES SECURITY,FACILITIES,SHIELD SECURITY SERVICES (YORKSHIRE) LTD,15221,"49,266.59","57,888.24 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,ELECTRICITY,ENERGY AND UTILITIES,SOUTHERN ELECTRIC,291302936/0034,"98,544.43",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,ELECTRICITY,ENERGY AND UTILITIES,,,"16,538.02","115,082.45 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,ELECTRICITY,ENERGY AND UTILITIES,,431303177/0040,"50,917.49",0.00 
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,ELECTRICITY,ENERGY AND UTILITIES,,,"8,910.56","59,828.05 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,04/02/2011,CONTRACT : REFUSE AND CLINICAL WASTE,WORKS DEPARTMENT,SRCL LTD,0000305441,"55,255.80","64,925.57 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,CONTRACT : REFUSE AND CLINICAL WASTE,WORKS DEPARTMENT,,0000311988,"55,240.80","66,288.96 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,CONTRACT : REFUSE AND CLINICAL WASTE,WORKS DEPARTMENT,THOMPSON WASTE MANAGEMENT LTD,101957,"26,300.09","30,902.61 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,CONTRACT : REFUSE AND CLINICAL WASTE,WORKS DEPARTMENT,,102887,"-26,300.09","<30,902.61>"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,CONTRACT : REFUSE AND CLINICAL WASTE,WORKS DEPARTMENT,,102888,"27,314.77","32,777.72 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,CONTRACT : REFUSE AND CLINICAL WASTE,WORKS DEPARTMENT,,102957,"27,314.77","32,777.72 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,ENT,UNIVERSITY OF HULL,40464,"18,545.63",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"18,163.21",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,ONCOLOGY,,,"17,109.97",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"16,696.11",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,CHEST MEDICINE,,,"16,083.33",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"16,004.75",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,COLORECTAL,,,"15,843.59",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,CARDIOLOGY,,,"15,256.75",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,COLORECTAL,,,"14,371.36",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"14,260.25",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,ONCOLOGY,,,"14,182.43",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,CARDIOLOGY,,,"13,666.28",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,COLORECTAL,,,"11,795.01",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,RADIOLOGY,,,"10,623.13",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,CANCER SERVICES,,,"8,863.66",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"6,961.94",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"6,961.94",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,COLORECTAL,,,"6,002.49",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"5,693.18",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,ONCOLOGY,,,"5,414.30",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,CHEST MEDICINE,,,"3,575.22",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,CHEST MEDICINE,,,"3,102.76",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"2,949.58",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,ONCOLOGY,,,"2,874.60",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"2,622.10",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"2,117.68",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,COLORECTAL,,,"1,972.13",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,RESEARCH AND DEVELOPMENT,,,"1,963.04",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,CARDIOLOGY,,,"1,570.40",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,COLORECTAL,,,"1,479.68",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,COLORECTAL,,,"1,459.99",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,CANCER SERVICES,,,"1,441.41",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,11/02/2011,STAFF RECHARGES,COLORECTAL,,,"1,203.12","282,241.41 ",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,COLORECTAL,,40657,"18,619.41",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,ENT,,,"18,545.63",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"18,163.21",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,COLORECTAL,,,"17,704.79",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,ONCOLOGY,,,"17,109.97",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,COLORECTAL,,,"16,852.96",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"16,696.11",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,CHEST MEDICINE,,,"16,083.33",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"16,004.75",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,CARDIOLOGY,,,"15,256.75",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"14,260.25",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,ONCOLOGY,,,"14,182.43",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,CARDIOLOGY,,,"13,666.28",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,RADIOLOGY,,,"10,623.13",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,CANCER SERVICES,,,"8,863.66",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"6,961.94",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"6,961.94",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,COLORECTAL,,,"6,002.49",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,GYNAECOLOGY,,,"5,693.18",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,ONCOLOGY,,,"5,414.30",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,CHEST MEDICINE,,,"3,575.22",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,CHEST MEDICINE,,,"3,102.76",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,ONCOLOGY,,,"2,874.60",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,COLORECTAL,,,"1,972.13",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,RESEARCH AND DEVELOPMENT,,,"1,963.04",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"1,724.37",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,VASCULAR SURGERY,,,"1,724.37",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,CARDIOLOGY,,,"1,570.40",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,COLORECTAL,,,"1,479.68",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,CANCER SERVICES,,,"1,441.41",0.00 ,
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,STAFF RECHARGES,COLORECTAL,,,"1,203.12","287,708.00 ",
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,SERVICES FROM NHS TRUSTS,TRANSPORT SERVICES,YORKSHIRE AMBULANCE SERVICE NHS TRUST,338889,"44,013.38","44,013.38 "
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,07/02/2011,MISC,BALANCE SHEET,BARCLAYCARD,,"40,228.03","40,228.03"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,01/02/2011,LEASED EQUIPMENT,BALANCE SHEET,SIEMENS,,"36,600.00","36,600.00"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,LEASED EQUIPMENT,BALANCE SHEET,SINGER & FRIEDLANDER,,"36,027.98","36,027.98"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,LEASED EQUIPMENT,BALANCE SHEET,SINGER & FRIEDLANDER,,"36,027.98","36,027.98"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,LEASED EQUIPMENT,BALANCE SHEET,SINGER & FRIEDLANDER,,"46,767.02","46,767.02"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,18/02/2011,LEASED EQUIPMENT,BALANCE SHEET,SINGER & FRIEDLANDER,,"46,767.02","46,767.02"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,25/02/2011,NURSERY VOUCHERS,BALANCE SHEET,COMPUTERSHARE VOUCHERS,,"50,278.95","50,278.95"
+Department of Health,Hull And East Yorkshire Hospitals NHS Trust,28/02/2011,LEASED EQUIPMENT,BALANCE SHEET,DE LAGE LANDEN,,"26,248.44","26,248.44"
+,,,,,,,"7,619,781.49","7,927,375.03"

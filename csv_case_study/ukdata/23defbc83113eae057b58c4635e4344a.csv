@@ -1,0 +1,48 @@
+Department family,Entity,Date Paid,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,TB Service,Emergency Services,Barnet Primary Care Trust,343540,58500.00,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,IT Support and Maintenance,Computer Services,Bt Global Services,350511,47627.84,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Therapy Services,Therapies,Nhs Haringey Provider Services,352568,201321.00,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Therapy Services,Therapies,Nhs Haringey Provider Services,353310,88623.54,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Asbestos Clearance,Hospital Development,R & F Insulations Ltd,353753,57528.00,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Design Fees,Hospital Development,Geoffrey Osborne Ltd,353932,105750.00,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Design Fees,Hospital Development,Geoffrey Osborne Ltd,353934,352355.48,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Design Fees,Hospital Development,Geoffrey Osborne Ltd,353936,189645.00,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Miscellaneous Supplies,Hospital Wide,Nhs Supply Chain,353985,47647.03,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Drugs,Pharmacy,Gilead Sciences Ltd,354268,31351.54,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Drugs,Pharmacy,Roche Products Ltd,354389,28721.70,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,IT Support and Maintenance,Computer Services,Bt Global Services,354473,47627.84,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,MRI Scans,Cardiology,University College London Hosp Ft,354499,25880.00,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Catering Contract,Environmental Services,Medirest - Compass Group Uk & Ireland,354791,137547.92,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Training,Hospital Wide,Juice Learning Ltd,354870,34985.00,
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Audit Services,Finance,Grant Thornton Uk Llp,355002,44101.55
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Consultancy,Trust Headquarters,Mckinsey & Company,355107,88125.00
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Medical Equipment,New Hospital,Nhs Supply Chain,355108,35000.00
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Therapy Services,Therapies,Nhs Haringey Provider Services,355110,31242.17
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Consultancy,Hospital Development,Barnet & Chase Farm Hospital Nhs Trust,355120,76225.00
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Laundry Contract,Environmental Services,Sunlight Services Group Ltd,355139,51845.76
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Medical Training Equipment,Training,Sonosite Ltd,355500,41668.44
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Telecom Equipment,New Hospital,Isoft Plc,355513,46588.75
+Department of Health,North Middlesex University Hospital NHS Trust,14-Apr-10,Building Consultancy,Hospital Development,Cyril Sweett Ltd,355549,55182.08
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Refurbishment,Hospital Development,Liftec Lifts Ltd,353832,78032.69
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Refurbishment,Hospital Development,Liftec Lifts Ltd,353833,64107.53
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Miscellaneous Supplies,Hospital Wide,Nhs Supply Chain,354559,31925.35
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Bank Nurses,Hospital Wide,Nhs Professionals,354773,94537.55
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Legal Services,Human Resources Dept,Beachcroft Llp,355007,35476.19
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Paediatric Services,Paediatrics,Great Ormond St Hospital Nhs Trust,355320,139681.40
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Paediatric Services,Paediatrics,Great Ormond St Hospital Nhs Trust,355321,147218.00
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Paediatric Services,Paediatrics,Great Ormond St Hospital Nhs Trust,355322,163210.00
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Refurbishment,Hospital Development,Comunica Limited,355509,138038.28
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Med Equip Maint Contracts,Pathology,Beckman Coulter Uk Ltd,355852,38838.45
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Software Development,Finance,Waverley,355961,63566.64
+Department of Health,North Middlesex University Hospital NHS Trust,21-Apr-10,Drugs,Pharmacy,Roche Products Ltd,356258,25986.59
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Linkworkers,Patient Services,Haringey Teaching Primary Care Trust,348509,114337.00
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Bank Nurses,Hospital Wide,Nhs Professionals,354911,84252.15
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Miscellaneous Supplies,Hospital Wide,Nhs Supply Chain,354927,43577.13
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Insurance,Patient Services,Nhs Litigation Authority,355317,312768.60
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Miscellaneous Supplies,Hospital Wide,Nhs Supply Chain,355702,46326.03
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Gas,Environmental Services,Dalkia Utilities Services,355727,68827.47
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Electricity,Environmental Services,Southern Electric Plc,355738,35334.87
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Paediatric Services,Paediatrics,Great Ormond St Hospital Nhs Trust,356410,600000.00
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Sterile Services Contract,Environmental Services,Synergy Healthcare (Uk) Ltd,356456,58750.00
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,PFI Unitary Payment,New Hospital,Bynorth Ltd,357354,1005883.13
+Department of Health,North Middlesex University Hospital NHS Trust,28-Apr-10,Rates,Environmental Services,London Borough Of Enfield,357365,96348.00

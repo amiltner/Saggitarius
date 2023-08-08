@@ -1,0 +1,16 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,3-Jan-12,1000742,BROOK STREET (UK) LTD,471.6,212001-Agency staff,Agency staff costs
+Wales Office,Wales Office,6-Jan-12,1000750,LANCASTER CLEANING AND SUPPORT SERVICES,"2,117.96",222002-Other Property Costs,Cleaning services for London office
+Wales Office,Wales Office,6-Jan-12,1000749,GOVERNMENT CAR & DESPATCH AGENCY,531.08,223000-Other Expenditure,Ministerial car hire charges
+Wales Office,Wales Office,11-Jan-12,1000766,GOVERNMENT CAR & DESPATCH AGENCY,804,223001-Printing Postage and Office expenditure,Government internal mail service
+Wales Office,Wales Office,12-Jan-12,1000773,CARLISLE SECURITY SERVICES LTD,"8,763.80",222002-Other Property Costs,24 hour Security for London office
+Wales Office,Wales Office,12-Jan-12,1000774,M J FERGUSON LTD,"3,948.72",222001-Maintenance,Monthly maintenance charge for London office
+Wales Office,Wales Office,16-Jan-12,1000778,GOVERNMENT CAR & DESPATCH AGENCY,"6,730.34",223000-Other Expenditure,Ministerial car hire charges
+Wales Office,Wales Office,18-Jan-12,1000793,PRECISE MEDIA MONITORING LTD,958.33,263000-Other Contracted Out Services,Press cuttings
+Wales Office,Wales Office,18-Jan-12,1000791,HM PRISON SERVICE,"1,118.18",223000-Other Expenditure,MoJ contract providing Office furniture
+Wales Office,COMMISSION ON DEVOLUTION,18-Jan-12,1000788,CENTRAL OFFICE OF INFORMATION (COI),"3,137.43",223000-Other Expenditure,Publication of Commision's call for evidence
+Wales Office,Wales Office,20-Jan-12,1000802,WYG MANAGEMENT SERVICES LTD,898,222001-Maintenance,Managing agent fees
+Wales Office,Wales Office,25-Jan-12,1000806,WELSH ASSEMBLY GOVERNMENT,588.6,223001-Printing Postage and Office expenditure,Postage charges
+Wales Office,Wales Office,27-Jan-12,1000809,CIVIC MAINTENANCE SERVICES LTD,595.48,222002-Other Property Costs,Cleaning services for Cardiff office
+Wales Office,Wales Office,27-Jan-12,1000812,M J FERGUSON LTD,507.81,222001-Maintenance,Reactive maintenance costs
+Wales Office,Wales Office,27-Jan-12,1000812,M J FERGUSON LTD,890.71,222001-Maintenance,Reactive maintenance costs

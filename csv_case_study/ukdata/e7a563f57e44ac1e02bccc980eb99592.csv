@@ -1,0 +1,106 @@
+Appendix B - Car Park Spaces (and charging class),,,,,,
+Location,,,Spaces/Bays,,,
+SMBC Ref. No.,Area,Name,Total Capacity,Disabled Spaces,Parent & Child,Charging Class
+124,Bramhall,Bramhall Park,78,5,0,*
+123,Bramhall,Bramhall Precinct,81,5,2,Class C
+125,Bramhall,Bramley Close,90,5,0,Free
+128,Bramhall,Meadway East,139,6,1,Class C
+129,Bramhall,Meadway West,99,7,4,Class C
+107,Cheadle,Back Massie Street (North),16,0,0,Contract only
+108,Cheadle,Back Massie Street (South),9,0,0,Contract only
+109,Cheadle,Bruntwood Park,172,7,0,*
+111,Cheadle,Church Street,52,0,0,Class C
+112,Cheadle,Church Street/Wood Street,10,0,0,Contract only
+113,Cheadle,Frances Street,19,2,0,Free
+114,Cheadle,Mary Street,33,3,0,Class C
+115,Cheadle,Massie Street East,191,11,5,Class C
+115A,Cheadle,Massie Street West,108,6,4,Class C
+116,Cheadle Heath,Essex Avenue,13,1,0,Free
+120,Cheadle Hulme,Church Road/Woods Lane,50,2,0,Free
+122,Cheadle Hulme,Mellor Road,65,4,2,Class C
+121,Cheadle Hulme,Station Approach,66,4,0,Class C
+41,Compstall,Etherow Country Pk.,91,6,0,*
+43,Compstall,George Street (Lower),11,1,0,*
+99,Edgeley,Arnold St/Hardcastle Road ,12,0,0,Free
+98,Edgeley,Arnold Street,10,0,0,Free
+100,Edgeley,Bakewell Street,11,1,0,Class C
+101,Edgeley,Bulkeley Street,22,2,0,Class C
+102,Edgeley,Caroline Street,73,5,4,Class C
+103,Edgeley,Heron Street,18,0,0,Contract only
+104,Edgeley,James Street East & West,46,3,0,Class C
+104A,Edgeley,Lomas Street,6,0,0,Contract only
+105,Edgeley,St.Matthews Terrace,18,0,0,Free
+106,Edgeley,York Street,26,2,0,Class C
+117,Gatley,Church Road,21,2,0,Free
+81,Hazel Grove,Beech Avenue,31,3,0,Class C
+82,Hazel Grove,Brook Street P&D,39,2,0,Class C
+83,Hazel Grove,Brook Street Contract,4,0,0,Contract only
+86,Hazel Grove,Commercial Road East,30,2,0,Class C
+85,Hazel Grove,Commercial Road West,21,2,0,Class C
+87,Hazel Grove,Davenport Road ,29,0,0,Class C
+89,Hazel Grove,Spring Vale,29,2,0,Class C
+90,Hazel Grove,Torkington Park,65,0,0,Free
+131,Heald Green,Finney Lane,38,0,0,Free
+66,Heaton Mersey,Didsbury Road,22,2,0,Free
+64,Heaton Moor,Derby Range,21,0,0,Free
+65,Heaton Moor,Kings Drive,32,2,0,Class C
+58,Heaton Norris,Athol Street,11,0,0,Free
+59,Heaton Norris,Belmont Street (1),12,0,0,Free
+60,Heaton Norris,Belmont Street (2),25,0,0,Free
+61,Heaton Norris,Bourne Street,8,0,0,Free
+62,Heaton Norris,Cheviot Close,12,0,0,Free
+62A,Heaton Norris,Ellen Street,12,0,0,Free
+63,Heaton Norris,Grafton Street,12,0,0,Free
+91,Heaviley,Cambridge Street,10,0,0,Free
+92,Heaviley,Hallam Street,41,0,0,Free
+93,Heaviley,Heaviley Grove,10,0,0,Free
+76,High Lane,Brookside Lane,23,1,0,Free
+78,High Lane,Buxton Road            (Library),25,2,0,Free
+77,High Lane,Buxton Road            (Medical Centre),31,1,0,Free
+79,High Lane,Windlehurst Road,28,4,0,Free
+27,"Hillgate, Town Centre",Higher Barlow Row,8,0,0,Free
+29a,"Hillgate, Town Centre",Welcroft Street,13,0,0,Free
+49,Marple,Chadwick Street,95,7,4,Class C
+50,Marple,Derby Street,8,0,0,Contract only
+51,Marple,Derby Way,53,5,1,Class C
+53,Marple,Hollins Lane,35,3,0,Class C
+54,Marple,Market Street,12,0,0,Contract only
+55,Marple,Memorial Park,63,6,0,Class C
+56,Marple,Springfield Avenue,9,1,0,Class C
+57,Marple,Townley Terrace,30,3,0,Class C
+44,Marple Bridge,Brabyns Brow,76,5,0,Free
+132,Marple Bridge,Brabyns Park,0,0,0,Free
+45,Marple Bridge,Hogarth Road (North),7,0,0,Free
+46,Marple Bridge,Hogarth Road (South),6,0,0,Free
+48,Marple Bridge,Longhurst Lane,14,2,0,Class C
+47,Marple Bridge,Town Street,11,2,0,Class C
+72,Offerton,Banks Lane,47,0,0,Free
+73,Offerton,Greystokes/Holly Street,16,0,0,Free
+74,Offerton,Hulme St,20,0,0,Free
+75,Offerton,Marsland Terrace,9,0,0,Free
+32,"Portwood,   Town Centre",Werneth Street,12,0,0,Free
+67,Reddish,Ashbrook Lane,23,1,0,Free
+70,Reddish,Margaret Street,22,0,0,Free
+71,Reddish,Rupert Street,28,2,0,Free
+37,Romiley,Dye Lane,15,0,0,Class C
+39,Romiley,Guywood Lane   (Romiley Station),83,4,0,Class C
+38,Romiley,Romiley Precinct,96,7,3,Class C
+95,Shaw Heath,Green Street,33,3,0,Free
+96,Shaw Heath,Heathland Terrace,6,0,0,Free
+9,Town Centre,Armoury St.,61,0,0,Class B
+16,Town Centre,Bamford Street,10,0,0,Contract only
+10,Town Centre,Banbury St.,33,0,0,Class B
+1,Town Centre,Churchgate,69,3,0,Class B
+17,Town Centre,Edward Street,16,0,0,Contract only
+3,Town Centre,Gt. Egerton St.,323,24,0,Class A
+12,Town Centre,Heaton Lane (Multi -Storey),799,11,0,Class A
+13,Town Centre,Hopes Carr,37,0,0,Class B
+4,Town Centre,Knightsbridge,22,2,0,Class A
+21,Town Centre,Loonies Court,16,0,0,Contract only
+22,Town Centre,Lord Street 1,23,0,0,Contract only
+23,Town Centre,Lord Street 2,10,0,0,Contract only
+5,Town Centre,Merseyway,815,31,18,Class A
+6,Town Centre,Newbridge La.,206,6,0,Class A
+7,Town Centre,Ritz Cinema,87,0,0,Class A
+25,"Waterloo,   Town Centre",Canal Street,16,0,0,Free
+33,Woodley,Chapel Street,13,0,0,Free

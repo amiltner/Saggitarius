@@ -1,0 +1,1994 @@
+Department,Entity,Pay Date,Product Family,Expense Area,Supplier Name,Transaction Number,Net Amount
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Sterling Thermal Technology Ltd,5000588,"£30,117.14"
+BEIS,UKAEA,09/12/2016,Engineering Goods,Support Services,Science And Technology Facilities Council,5002501,£173.00
+BEIS,UKAEA,09/12/2016,Engineering Goods,Fusion,Science And Technology Facilities Council,5002501,£173.00
+BEIS,UKAEA,13/12/2016,Facilities,Property,Securitas Security Services,5002803,£71.58
+BEIS,UKAEA,13/12/2016,Facilities,Property,Securitas Security Services,5002805,-£116.82
+BEIS,UKAEA,05/12/2016,Learning and Development,Fusion,Nafems Ltd,5003089,"£1,600.00"
+BEIS,UKAEA,05/12/2016,Office Solutions,Other,Springfield Business Papers Ltd,5003090,"£2,080.00"
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003091,£143.87
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003092,£60.48
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Carbolite Gero Ltd,5003093,"£7,507.02"
+BEIS,UKAEA,05/12/2016,Construction,Fusion,Carbolite Gero Ltd,5003094,"£3,445.33"
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003095,£31.89
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,SM Gauge Company Limited,5003096,£461.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,National Instruments Ltd,5003097,"£13,091.40"
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,National Instruments Ltd,5003097,£37.57
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,SMC Pneumatics UK Ltd,5003098,£607.20
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,SMC Pneumatics UK Ltd,5003098,£5.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,SMC Pneumatics UK Ltd,5003099,£312.80
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Nor-Cal UK Ltd,5003100,"£2,570.00"
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,Nor-Cal UK Ltd,5003100,£15.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003101,£110.10
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Hutton Engineering (Precision) Ltd,5003102,£849.35
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Omega Engineering Ltd,5003103,£62.00
+BEIS,UKAEA,05/12/2016,Professional Services,Property,Burges Salmon,5003105,"£7,818.00"
+BEIS,UKAEA,08/12/2016,Engineering Goods,Fusion,HTMS NV,5003106,"£1,649.72"
+BEIS,UKAEA,05/12/2016,Research,Fusion,Warwick University,5003107,"£1,440.58"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,ILF Ltd,5003108,£873.20
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5003109,£178.60
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Carillon Industrial Services Ltd,5003110,£16.90
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Peak Sensors Ltd,5003111,£80.40
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Other,Peak Sensors Ltd,5003111,£20.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Sundry Supplier,5003112,£205.84
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Other,Sundry Supplier,5003112,£16.86
+BEIS,UKAEA,07/12/2016,Facilities,Fusion,Lorne Stewart Plc,5003113,"£35,426.70"
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003114,£34.60
+BEIS,UKAEA,05/12/2016,Operational Goods,Support Services,Arco Ltd,5003114,£34.20
+BEIS,UKAEA,05/12/2016,Engineering Goods,Support Services,Arco Ltd,5003114,£121.22
+BEIS,UKAEA,05/12/2016,ICT,Fusion,Kerrco Automation Ltd,5003115,£12.50
+BEIS,UKAEA,05/12/2016,ICT,Fusion,Kerrco Automation Ltd,5003116,"£5,205.55"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,RS Components Ltd,5003117,£39.05
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003118,£205.90
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003119,£42.58
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003121,£248.88
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003122,£139.68
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003123,£111.44
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Sundry Supplier,5003124,"£8,082.50"
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003125,£111.44
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003126,£583.20
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003127,£28.19
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003128,£85.44
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003129,£111.44
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003130,£68.72
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003131,£334.49
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003131,£587.76
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003132,£110.00
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003133,£68.72
+BEIS,UKAEA,05/12/2016,Waste Management,Property,Grundon Waste Management Ltd,5003134,£111.44
+BEIS,UKAEA,05/12/2016,Professional Services,Fusion,Southern Calibration Laboratories L,5003135,£521.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Aquila Nuclear Engineering Ltd,5003136,"£107,047.50"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Aquila Nuclear Engineering Ltd,5003137,"£55,650.00"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003138,"£30,266.20"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003139,"£30,872.70"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003140,"£29,809.89"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003141,"£30,504.75"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003142,"£32,233.80"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003143,"£30,988.25"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003144,"£31,110.83"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003145,"£31,750.70"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003146,"£29,755.74"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003147,"£22,282.73"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,JSB UK and Ireland Ltd,5003148,"£13,330.59"
+BEIS,UKAEA,05/12/2016,Facilities,Property,Thames Water Utilities,5003149,"£11,214.71"
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Property,EDF Energy,5003150,"£30,872.32"
+BEIS,UKAEA,05/12/2016,Professional Services,Property,Gerald Honey Partnership,5003151,"£1,337.60"
+BEIS,UKAEA,05/12/2016,Professional Services,Property,Gerald Honey Partnership,5003152,"£1,337.60"
+BEIS,UKAEA,05/12/2016,Professional Services,Property,Fraser Walker Associates,5003153,£495.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Clean Linen Services Ltd,5003154,£81.93
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Sundry Supplier,5003155,£75.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Orbital Fabrications Ltd,5003156,"£2,165.44"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Forgeweld Ltd,5003158,£411.44
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Forgeweld Ltd,5003159,£444.46
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003160,£45.60
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5003161,£69.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003162,£28.50
+BEIS,UKAEA,05/12/2016,Facilities,Fusion,Farnell Electronic Components Ltd,5003162,£11.44
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003163,£130.45
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,BOC Ltd,5003164,£237.69
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,BOC Ltd,5003165,£41.10
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,BOC Ltd,5003167,£41.10
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,BOC Ltd,5003168,£49.32
+BEIS,UKAEA,09/12/2016,Personnel Related,Fusion,Sundry Supplier,5003169,"£62,299.04"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003170,£681.67
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003171,£681.67
+BEIS,UKAEA,05/12/2016,Construction,Fusion,RS Components Ltd,5003172,£90.87
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003172,£49.35
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003173,£90.82
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003174,£194.70
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003174,£18.36
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003175,£670.85
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,BOC Ltd,5003176,£192.00
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003177,£487.49
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003178,"£2,412.96"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003179,£103.47
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003180,£107.52
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Cromwell Ltd,5003181,£139.20
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Cromwell Ltd,5003182,£135.63
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003183,£159.93
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003183,£11.44
+BEIS,UKAEA,07/12/2016,Facilities,Fusion,Knowles and Sons (Oxford) Ltd,5003184,£790.12
+BEIS,UKAEA,07/12/2016,Professional Services,Fusion,Cavendish Nuclear Ltd,5003185,"£26,057.89"
+BEIS,UKAEA,05/12/2016,Research,Support Services,Sundry Supplier,5003186,£610.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Shawcity Ltd,5003187,£200.00
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Other,Shawcity Ltd,5003187,£18.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Belleville Springs Ltd,5003188,"£2,918.56"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Edm Precision Technologies Ltd,5003189,£738.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Eriks UK,5003190,"£3,392.12"
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,Eriks UK,5003190,£20.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Precision Waterjet Ltd,5003191,£212.03
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003192,"£3,073.69"
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003193,£30.00
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003194,£25.00
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003195,£246.50
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003196,£10.00
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003197,£226.00
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003198,£15.00
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003199,£25.54
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003200,£15.00
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003201,£10.00
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Hills Waste Solutions Ltd,5003202,£10.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Obart Pumps Ltd,5003204,£119.20
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,Obart Pumps Ltd,5003204,£11.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,New Pig Ltd,5003205,£4.50
+BEIS,UKAEA,05/12/2016,Professional Services,Fusion,RCD Lockinge Ltd,5003206,"£16,133.60"
+BEIS,UKAEA,05/12/2016,Travel,Fusion,Leasedrive Rental Management Ltd,5003207,£70.55
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003208,£132.24
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003208,£148.80
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,BOC Ltd,5003209,£63.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003210,£152.28
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003211,£20.04
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003212,£33.06
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Newey and Eyre,5003213,£203.06
+BEIS,UKAEA,05/12/2016,Facilities,Property,Thames Water Utilities,5003215,"£7,465.30"
+BEIS,UKAEA,05/12/2016,Research,Fusion,The University Of Sheffield,5003216,"£5,120.00"
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,New Pig Ltd,5003217,£722.25
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,New Pig Ltd,5003217,£65.70
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,New Pig Ltd,5003217,£38.25
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Belleville Springs Ltd,5003218,£193.75
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,Belleville Springs Ltd,5003218,£9.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003219,£293.34
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003219,£35.35
+BEIS,UKAEA,05/12/2016,Professional Services,Fusion,Astles Control Systems,5003220,"£1,205.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003221,£62.84
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003221,£137.37
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003222,£120.46
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003223,£33.07
+BEIS,UKAEA,05/12/2016,ICT,Fusion,RS Components Ltd,5003223,£354.33
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Agilent Technologies LDA UK Limited,5003224,"£1,965.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003225,£261.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003225,£19.29
+BEIS,UKAEA,05/12/2016,Engineering Goods,Support Services,Edmundson Electricals Ltd,5003226,£144.54
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003227,£58.81
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,BOC Ltd,5003228,£27.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Edmundson Electricals Ltd,5003229,"£1,717.44"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Crossman Engineering,5003230,£344.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,BOC Ltd,5003231,£57.50
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Swagelok London,5003232,"£9,094.68"
+BEIS,UKAEA,05/12/2016,Office Solutions,Fusion,Markertech UK Ltd,5003233,£132.12
+BEIS,UKAEA,05/12/2016,Office Solutions,Fusion,Markertech UK Ltd,5003233,£55.95
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Hilti GB Ltd,5003234,£153.31
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003235,£4.85
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003236,£29.00
+BEIS,UKAEA,05/12/2016,Learning and Development,Support Services,Abingdon & Witney Co,5003237,"£2,000.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Gear Cutting Co Ltd,5003239,"£1,074.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,ILF Ltd,5003240,"£1,733.30"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Swagelok London,5003241,£430.99
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003241,£9.80
+BEIS,UKAEA,05/12/2016,Facilities,Other,PHS Group Plc,5003242,£45.28
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Wellington Engineering Co Ltd,5003244,£644.00
+BEIS,UKAEA,05/12/2016,ICT,Fusion,Q Associates Ltd,5003245,"£1,467.51"
+BEIS,UKAEA,05/12/2016,Travel,Other,Leasedrive Rental Management Ltd,5003246,£1.93
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Pfeiffer Vacuum UK,5003247,£249.13
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Forward 2000 Ltd,5003248,£140.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5003249,£44.58
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Hilti GB Ltd,5003250,"£2,240.89"
+BEIS,UKAEA,05/12/2016,Office Solutions,Fusion,Sundry Supplier,5003251,"£3,150.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,City Electrical Factors,5003252,£85.19
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003253,£254.36
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,New Pig Ltd,5003254,£19.80
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003255,"£2,256.91"
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003256,£229.50
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003257,£461.26
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003258,"£15,180.00"
+BEIS,UKAEA,07/12/2016,Construction,Property,Knowles and Sons (Oxford) Ltd,5003259,"-£1,013.50"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003260,£384.98
+BEIS,UKAEA,05/12/2016,Facilities,Fusion,RS Components Ltd,5003260,£158.43
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Lindy Electronics Limited,5003261,£87.89
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003262,£5.14
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003263,£92.12
+BEIS,UKAEA,05/12/2016,Office Solutions,Fusion,RS Components Ltd,5003263,£22.49
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003263,£69.02
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003264,£2.38
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003265,£773.20
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,RS Components Ltd,5003265,£64.52
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003265,£789.76
+BEIS,UKAEA,05/12/2016,Professional Services,Fusion,RCD Lockinge Ltd,5003266,"£20,167.00"
+BEIS,UKAEA,05/12/2016,Facilities,Property,Elior UK Plc,5003267,£357.84
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003268,£286.30
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003269,£52.92
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5003270,£19.00
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Ind-Tech Ltd,5003270,£40.70
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Nce Solutions Ltd,5003271,£85.74
+BEIS,UKAEA,08/12/2016,Engineering Goods,Other,Kamet Thermocomponents,5003272,£198.26
+BEIS,UKAEA,05/12/2016,Energy and Fuels,Fusion,National Grid Plc,5003273,"£3,704.24"
+BEIS,UKAEA,05/12/2016,Waste Management,Fusion,Arco Ltd,5003274,£117.76
+BEIS,UKAEA,05/12/2016,Facilities,Fusion,RS Components Ltd,5003275,£144.11
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003276,£84.02
+BEIS,UKAEA,05/12/2016,Professional Services,Fusion,Cavendish Nuclear Limited,5003277,"£2,073.68"
+BEIS,UKAEA,05/12/2016,Office Solutions,Other,Getty Images,5003278,"£1,150.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003279,£26.86
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003279,£35.58
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003280,£432.65
+BEIS,UKAEA,05/12/2016,Professional Services,Fusion,UKAS Laboratory Accreditation Service,5003282,£213.25
+BEIS,UKAEA,05/12/2016,Office Solutions,Other,Annodata Business Communications,5003283,"£34,855.59"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003285,£220.01
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003286,"£3,187.32"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003286,£114.86
+BEIS,UKAEA,05/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003287,£670.75
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Faro Technologies UK Ltd,5003288,£40.00
+BEIS,UKAEA,08/12/2016,Engineering Goods,Fusion,Rafix SAS,5003289,"£2,422.66"
+BEIS,UKAEA,05/12/2016,Professional Services,Property,LAPD Limited,5003290,"£3,089.50"
+BEIS,UKAEA,07/12/2016,Facilities,Fusion,Knowles and Sons (Oxford) Ltd,5003291,£25.00
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003292,£216.00
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003293,£25.00
+BEIS,UKAEA,07/12/2016,Facilities,Other,Knowles and Sons (Oxford) Ltd,5003294,£175.50
+BEIS,UKAEA,07/12/2016,Facilities,Other,Knowles and Sons (Oxford) Ltd,5003295,£52.21
+BEIS,UKAEA,07/12/2016,Facilities,Fusion,Knowles and Sons (Oxford) Ltd,5003296,£28.02
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003297,£25.00
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003298,£108.00
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003299,£25.00
+BEIS,UKAEA,07/12/2016,Facilities,Fusion,Knowles and Sons (Oxford) Ltd,5003300,£209.00
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003301,£81.00
+BEIS,UKAEA,07/12/2016,Facilities,Support Services,Knowles and Sons (Oxford) Ltd,5003302,£28.02
+BEIS,UKAEA,07/12/2016,Facilities,Support Services,Knowles and Sons (Oxford) Ltd,5003303,£28.02
+BEIS,UKAEA,07/12/2016,Facilities,Support Services,Knowles and Sons (Oxford) Ltd,5003304,£121.50
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003305,£114.11
+BEIS,UKAEA,05/12/2016,Facilities,Property,Cut Keys Direct Ltd,5003307,£7.80
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,BOC Ltd,5003308,£289.50
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,BOC Ltd,5003309,£456.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,BOC Ltd,5003310,"£1,516.06"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003313,"£1,848.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Spirit Circuits Ltd.,5003314,£655.60
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Underwoods Electrical Distributors,5003315,-£229.95
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Underwoods Electrical Distributors,5003316,-£30.66
+BEIS,UKAEA,05/12/2016,Travel,Fusion,Leasedrive Rental Management Ltd,5003317,£19.09
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Routeco,5003318,£390.08
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003319,£17.94
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003320,£9.69
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Kemet International Ltd,5003321,£89.25
+BEIS,UKAEA,05/12/2016,Travel,Fusion,Leasedrive Rental Management Ltd,5003322,£87.14
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003323,£53.61
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003323,£102.30
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Brite Precision,5003324,£76.65
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003325,"£2,279.13"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003326,£665.68
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003327,£745.08
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Belleville Springs Ltd,5003328,£749.81
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Kemwell Thermal Ltd,5003329,"£3,500.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,TR Fastenings Ltd,5003330,£225.02
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,TR Fastenings Ltd,5003330,£225.02
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003331,£278.32
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003332,£11.82
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003333,£323.70
+BEIS,UKAEA,05/12/2016,Professional Services,Fusion,Feedwater Ltd,5003334,"£2,404.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5003335,£400.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003336,£333.93
+BEIS,UKAEA,08/12/2016,Engineering Goods,Fusion,ISOLCERAM SRL,5003337,"£5,214.44"
+BEIS,UKAEA,08/12/2016,Logistics and Shipping,Fusion,ISOLCERAM SRL,5003337,£127.39
+BEIS,UKAEA,05/12/2016,Travel,Support Services,Flightlink Executive Travel Ltd,5003338,"£9,235.82"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,RS Components Ltd,5003339,"£1,495.51"
+BEIS,UKAEA,05/12/2016,Operational Goods,Fusion,Arco Ltd,5003340,£313.98
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5003341,£445.73
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003342,£66.81
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Spirit Circuits Ltd.,5003343,£670.60
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003344,£175.28
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003345,£83.52
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,Kemwell Thermal Ltd,5003346,£250.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,BOC Ltd,5003347,£402.75
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003348,£1.09
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Swagelok London,5003350,£62.18
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003350,£9.80
+BEIS,UKAEA,05/12/2016,Travel,Fusion,Leasedrive Rental Management Ltd,5003351,£32.67
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003352,"£30,000.00"
+BEIS,UKAEA,07/12/2016,Facilities,Property,Knowles and Sons (Oxford) Ltd,5003353,"£15,000.00"
+BEIS,UKAEA,05/12/2016,Facilities,Fusion,RS Components Ltd,5003354,£36.64
+BEIS,UKAEA,05/12/2016,Engineering Goods,Other,Edmundson Electricals Ltd,5003355,£10.16
+BEIS,UKAEA,05/12/2016,Facilities,Support Services,Broadstock Office Furniture Ltd,5003356,"£1,840.00"
+BEIS,UKAEA,05/12/2016,Professional Services,Fusion,Latis Scientific Limited,5003357,"£2,108.00"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,Pipeline And Construction,5003358,"£1,194.00"
+BEIS,UKAEA,05/12/2016,Logistics and Shipping,Fusion,Pipeline And Construction,5003358,£30.00
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003359,"£1,139.05"
+BEIS,UKAEA,05/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003360,£606.88
+BEIS,UKAEA,07/12/2016,ICT,Fusion,SM Systems UK Ltd,5003361,£154.00
+BEIS,UKAEA,07/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003362,£89.34
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Cavendish Nuclear Ltd,5003363,"£3,730.31"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Cavendish Nuclear Ltd,5003364,£219.41
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Acrona Engineering Ltd,5003365,£533.69
+BEIS,UKAEA,07/12/2016,Communications,Fusion,Machining Techology (Mach-Tech) Ltd,5003366,£211.57
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003367,£950.76
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003368,"£1,484.64"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003369,£536.88
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003370,£849.65
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003371,£215.65
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Powell Mail Order Ltd,5003372,£487.20
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003373,£210.63
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Island Optics Ltd,5003374,£350.00
+BEIS,UKAEA,07/12/2016,Professional Services,Property,Glanville Consultants,5003375,"£2,000.00"
+BEIS,UKAEA,07/12/2016,Operational Goods,Fusion,FISHERSCIENTIFIC,5003376,£57.50
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Sandvik Materials Technology Emea A,5003377,"£2,566.24"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Sandvik Materials Technology Emea A,5003378,£654.48
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Swagelok London,5003379,"£1,280.33"
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003379,£9.80
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Powersolve Electronics Ltd.,5003380,"£1,777.33"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Property,Trinity Protection Systems,5003381,"£1,410.75"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003382,"£3,408.35"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003383,"£2,682.85"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Support Services,RS Components Ltd,5003384,£500.85
+BEIS,UKAEA,07/12/2016,Operational Goods,Fusion,Arco Ltd,5003385,£115.92
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003387,£40.78
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Fusion,Screwfix Direct Ltd,5003387,£4.17
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003388,£141.66
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003389,£169.95
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Tacklestore Ltd,5003391,£350.02
+BEIS,UKAEA,07/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003392,£287.54
+BEIS,UKAEA,07/12/2016,Professional Services,Fusion,Sundry Supplier,5003394,£100.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Acrona Engineering Ltd,5003395,£756.81
+BEIS,UKAEA,07/12/2016,ICT,Fusion,Intrinsys Ltd,5003396,"£4,456.12"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Crossman Engineering,5003397,£149.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Crossman Engineering,5003398,£806.00
+BEIS,UKAEA,07/12/2016,Operational Goods,Fusion,Arco Ltd,5003399,£83.99
+BEIS,UKAEA,07/12/2016,Operational Goods,Fusion,Arco Ltd,5003400,£120.40
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Edwards Limited,5003401,£174.25
+BEIS,UKAEA,07/12/2016,Facilities,Property,Elior UK Plc,5003402,£197.99
+BEIS,UKAEA,07/12/2016,ICT,Fusion,Parallel Systems Ltd,5003403,£399.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Support Services,Torr Scientific Ltd,5003404,£112.90
+BEIS,UKAEA,07/12/2016,Engineering Goods,Support Services,Torr Scientific Ltd,5003405,£100.38
+BEIS,UKAEA,07/12/2016,Engineering Goods,Support Services,Torr Scientific Ltd,5003406,£71.85
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Aalco Limited,5003407,£299.75
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Sundry Supplier,5003408,£136.13
+BEIS,UKAEA,07/12/2016,Engineering Goods,Support Services,Torr Scientific Ltd,5003409,£134.35
+BEIS,UKAEA,07/12/2016,ICT,Support Services,Sundry Supplier,5003410,£475.00
+BEIS,UKAEA,07/12/2016,Energy and Fuels,Fusion,EOn UK Plc,5003411,"£2,472.89"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,SM Gauge Company Limited,5003412,£188.85
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Fusion,SM Gauge Company Limited,5003412,£15.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,SM Gauge Company Limited,5003413,£159.96
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Fusion,SM Gauge Company Limited,5003413,£15.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Arco Ltd,5003414,£41.01
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Carillon Industrial Services Ltd,5003415,£18.25
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Carillon Industrial Services Ltd,5003416,£109.62
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Carillon Industrial Services Ltd,5003417,£70.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,Carillon Industrial Services Ltd,5003418,£36.50
+BEIS,UKAEA,07/12/2016,Facilities,Fusion,RS Components Ltd,5003419,£34.30
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Arco Ltd,5003420,£19.88
+BEIS,UKAEA,07/12/2016,Learning and Development,Support Services,The British Library,5003421,£28.85
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Sandvik Materials Technology Emea A,5003422,£82.50
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Fusion,Sandvik Materials Technology Emea A,5003422,£30.00
+BEIS,UKAEA,07/12/2016,Waste Management,Fusion,Chemtech Waste Management,5003423,"£5,510.00"
+BEIS,UKAEA,07/12/2016,Learning and Development,Support Services,Engineering Trust Training Limited,5003424,"£10,140.00"
+BEIS,UKAEA,07/12/2016,ICT,Fusion,Labcenter Electronics Ltd,5003425,"£1,000.00"
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Fusion,Carbolite Gero Ltd,5003426,"£1,550.00"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Wika Instruments Ltd,5003427,£10.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Sundry Supplier,5003428,"£5,595.00"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,MSC/J & L Industrial Supply,5003429,£103.80
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Fusion,MSC/J & L Industrial Supply,5003429,£4.95
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Fortress Interlocks Ltd,5003430,"£15,463.80"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Reece Safety Products Ltd,5003431,"£1,195.05"
+BEIS,UKAEA,07/12/2016,Facilities,Fusion,Haesco Ltd,5003432,"£19,592.00"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Sandvik Materials Technology Emea A,5003433,£139.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,CPC Plc,5003434,£9.37
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,CPC Plc,5003435,£172.06
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Flowserve,5003436,"£5,180.00"
+BEIS,UKAEA,07/12/2016,Professional Services,Fusion,Flowserve,5003436,"£1,250.00"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Sundry Supplier,5003437,"£1,033.38"
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Fusion,Sundry Supplier,5003437,£25.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Other,FTI Ltd,5003438,"£2,156.71"
+BEIS,UKAEA,07/12/2016,Logistics and Shipping,Other,FTI Ltd,5003438,£25.00
+BEIS,UKAEA,07/12/2016,Professional Services,Fusion,Environmental Scientifics Group,5003439,"£6,794.89"
+BEIS,UKAEA,07/12/2016,Personnel Related,Property,Gold Group Ltd,5003440,"£3,500.00"
+BEIS,UKAEA,07/12/2016,Professional Services,Property,Fraser Walker Associates,5003441,"£1,785.00"
+BEIS,UKAEA,07/12/2016,Facilities,Property,Trinity Protection Systems,5003442,"£3,000.00"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003445,"£1,569.32"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,R&M Electrical Group Ltd,5003446,£144.50
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,R&M Electrical Group Ltd,5003447,£61.96
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003448,£7.74
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003449,£178.00
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003450,£339.00
+BEIS,UKAEA,07/12/2016,Facilities,Fusion,Bluebell Laundry,5003451,£122.00
+BEIS,UKAEA,09/12/2016,Engineering Goods,Fusion,Fug Electronik GmbH,5003452,"£3,240.70"
+BEIS,UKAEA,07/12/2016,Professional Services,Fusion,Cavendish Nuclear Ltd,5003453,"£26,407.65"
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Pipaway Engineering Ltd,5003454,"£1,300.00"
+BEIS,UKAEA,07/12/2016,Professional Services,Fusion,Environmental Scientifics Group Ltd,5003455,"£1,215.00"
+BEIS,UKAEA,07/12/2016,Construction,Fusion,Nuvia Limited,5003456,"£74,898.95"
+BEIS,UKAEA,07/12/2016,ICT,Fusion,Millgate Computer Systems Ltd,5003457,£661.52
+BEIS,UKAEA,07/12/2016,Engineering Goods,Fusion,Crossman Engineering,5003458,"£1,952.00"
+BEIS,UKAEA,13/12/2016,Energy and Fuels,Property,EDF Energy,5003459,£66.63
+BEIS,UKAEA,13/12/2016,Energy and Fuels,Property,EDF Energy,5003460,"£3,677.12"
+BEIS,UKAEA,13/12/2016,Energy and Fuels,Property,EDF Energy,5003461,"£1,880.42"
+BEIS,UKAEA,13/12/2016,Energy and Fuels,Property,EDF Energy,5003462,£259.28
+BEIS,UKAEA,13/12/2016,Energy and Fuels,Property,EDF Energy,5003463,"£3,363.31"
+BEIS,UKAEA,13/12/2016,Energy and Fuels,Property,EDF Energy,5003464,"£3,158.01"
+BEIS,UKAEA,13/12/2016,Energy and Fuels,Property,EDF Energy,5003465,£765.36
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Faro Technologies UK Ltd,5003466,"£1,610.00"
+BEIS,UKAEA,13/12/2016,Facilities,Other,Lorne Stewart Plc,5003468,£223.12
+BEIS,UKAEA,13/12/2016,Facilities,Other,Lorne Stewart Plc,5003469,£84.77
+BEIS,UKAEA,13/12/2016,Facilities,Property,Environmental Scientifics Group,5003470,"£1,400.00"
+BEIS,UKAEA,13/12/2016,Communications,Fusion,Onefix Recruitment Ltd,5003471,£834.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,FTI Ltd,5003472,"£2,950.45"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003473,£59.07
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,Storage Solution Ltd,5003474,"£2,047.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003475,£349.42
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003476,"£1,435.16"
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Ltd,5003477,£103.68
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,Knowles and Sons (Oxford) Ltd,5003478,"£1,171.01"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003479,£78.00
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Oxford Bolts & Bearings,5003479,£6.50
+BEIS,UKAEA,13/12/2016,Facilities,Support Services,BWT UK Limited,5003480,£367.20
+BEIS,UKAEA,13/12/2016,Facilities,Support Services,BWT UK Limited,5003481,£854.73
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003482,"£1,481.63"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003483,£30.05
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,City Engineering Systems (Bristol),5003484,£89.20
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Sundry Supplier,5003485,"£1,605.00"
+BEIS,UKAEA,13/12/2016,Waste Management,Fusion,Environmental Scientifics Group,5003486,£408.88
+BEIS,UKAEA,13/12/2016,Waste Management,Fusion,T H White Ltd,5003487,£119.00
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,T H White Ltd,5003487,£6.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Farnell Electronic Components Ltd,5003488,£60.86
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Hutton Engineering (Precision) Ltd,5003489,£138.70
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Compressor Engineering Company,5003490,£983.64
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Compressor Engineering Company,5003490,£245.93
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Penningtons Manches Llp,5003491,£526.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003492,"£1,445.99"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003492,£25.46
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Underwoods Electrical Distributors,5003493,£740.40
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Underwoods Electrical Distributors,5003493,£9.75
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Gardner Denver Thomas GmbH,5003494,£194.79
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Gardner Denver Thomas GmbH,5003494,£18.50
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,Trinity Protection Systems,5003495,£499.04
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Underwoods Electrical Distributors,5003496,£304.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Belleville Springs Ltd,5003497,£256.80
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Rochling Engineering Plastics UK,5003498,£184.20
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003499,£163.17
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Tungsten Alloys,5003500,£360.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003501,£134.75
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003501,£9.80
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003503,£38.08
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003504,£78.66
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,RS Components Ltd,5003504,£24.68
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Pipaway Engineering Ltd,5003505,£522.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Pipaway Engineering Ltd,5003506,£179.00
+BEIS,UKAEA,13/12/2016,Waste Management,Fusion,Thames Valley Saw Service Ltd,5003507,"£1,249.00"
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Ltd,5003508,"£1,806.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003509,£730.96
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003510,£429.85
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003511,£271.68
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Ltd,5003512,£83.99
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003513,"£2,386.76"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003514,£33.58
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Labcenter Electronics Ltd,5003515,£345.00
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Labcenter Electronics Ltd,5003515,£10.00
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Labcenter Electronics Ltd,5003515,£15.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003516,£698.94
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Powersolve Electronics Ltd.,5003517,"£5,454.90"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Powersolve Electronics Ltd.,5003517,£14.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Applus Aerospace UK Ltd,5003518,£393.51
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,RS Components Ltd,5003519,£1.30
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003520,£72.92
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003521,£181.76
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003521,£6.94
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Medline Scientific Ltd,5003522,£69.35
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Total Protection UK Limited,5003523,£550.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003524,£46.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003525,£656.67
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5003526,£586.84
+BEIS,UKAEA,13/12/2016,Communications,Fusion,Sundry Supplier,5003527,£525.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003528,"£2,833.58"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003529,£942.14
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,R&M Electrical Group Ltd,5003530,£28.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,R&M Electrical Group Ltd,5003531,£34.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003532,£73.15
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Arco Ltd,5003533,£81.60
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003534,£28.04
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003535,£287.33
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003536,£142.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Condec Industrial Maintenance,5003537,£125.00
+BEIS,UKAEA,13/12/2016,Construction,Property,Winder Controls Europe Limited,5003538,"£81,908.00"
+BEIS,UKAEA,13/12/2016,Professional Services,Fusion,Quartzelec Ltd,5003539,"£62,689.90"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003540,-£437.81
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Aalco Limited,5003541,£204.95
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003542,£149.30
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003543,£57.61
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Artisan Litho Print & Design,5003544,£102.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003545,£435.36
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Artisan Litho Print & Design,5003546,£60.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Artisan Litho Print & Design,5003547,£40.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Artisan Litho Print & Design,5003548,£851.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003549,£117.82
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003550,£350.94
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,RS Components Ltd,5003550,£14.01
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,BOC Ltd,5003551,£117.82
+BEIS,UKAEA,13/12/2016,Waste Management,Property,Shred-It,5003552,£201.59
+BEIS,UKAEA,13/12/2016,Engineering Goods,Property,BOC Ltd,5003553,£117.82
+BEIS,UKAEA,13/12/2016,Engineering Goods,Property,BOC Ltd,5003554,£52.86
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003555,£11.30
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003556,£8.22
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003557,£10.12
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003558,£11.30
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Forward 2000 Ltd,5003559,£483.00
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Forward 2000 Ltd,5003559,£10.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003560,£11.30
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003561,£24.60
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003561,£18.36
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003562,£212.74
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003562,£9.80
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,BOC Ltd,5003563,£69.10
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,BOC Ltd,5003565,£144.31
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Tessella Ltd,5003566,"£10,832.25"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003567,£54.54
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,BOC Ltd,5003568,£56.46
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Allectra Ltd,5003569,"£6,552.01"
+BEIS,UKAEA,13/12/2016,ICT,Support Services,Red Plane Ltd,5003570,"£1,635.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Aalco Limited,5003572,£119.75
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003573,£17.30
+BEIS,UKAEA,13/12/2016,Waste Management,Fusion,Arco Ltd,5003574,£176.88
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003575,£170.44
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,The Valve & Actuator Company Ltd,5003576,"£1,439.00"
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,Compressors & Pnuematic Systems Ltd,5003577,"£2,217.56"
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Nuvia Limited,5003578,"£36,453.06"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Sundry Supplier,5003580,"£3,066.30"
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Probrand Limited,5003581,"£3,763.50"
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Millgate Computer Systems Ltd,5003582,"£1,781.60"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Interform,5003583,£841.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Forward 2000 Ltd,5003584,£62.76
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Tesla Engineering Ltd,5003585,"£6,365.15"
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Beckhoff Automation Ltd,5003586,"£3,973.20"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Beckhoff Automation Ltd,5003586,£15.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003587,£151.00
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Beckhoff Automation Ltd,5003588,"£1,283.26"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Beckhoff Automation Ltd,5003588,£15.00
+BEIS,UKAEA,13/12/2016,Waste Management,Fusion,Fastfix,5003589,£334.95
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Virac Marketing Ltd,5003590,£139.50
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Virac Marketing Ltd,5003590,£7.50
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Beckhoff Automation Ltd,5003591,"£1,678.50"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Sundry Supplier,5003592,"£6,994.00"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Sundry Supplier,5003592,£210.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003593,£28.42
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003593,£9.80
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Sundry Supplier,5003594,"£5,196.60"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003595,£52.86
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003596,£257.17
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,BOC Ltd,5003596,£22.11
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,BOC Ltd,5003596,£78.68
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003596,£70.36
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003596,£4.94
+BEIS,UKAEA,13/12/2016,Engineering Goods,Property,BOC Ltd,5003596,£62.76
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003596,£45.01
+BEIS,UKAEA,13/12/2016,Professional Services,Fusion,Feedwater Ltd,5003597,£719.80
+BEIS,UKAEA,13/12/2016,Construction,Fusion,Travis Perkins Trading Co Ltd,5003598,£386.70
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Aon Hewitt Ltd,5003599,"£154,447.79"
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Scan Computers International Ltd,5003600,£799.13
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Bluefort Security Ltd,5003601,"£6,013.35"
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Bluefort Security Ltd,5003601,"£2,004.45"
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Tessella Ltd,5003602,"£12,422.85"
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Wessex,5003603,£25.58
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Arco Ltd,5003605,£164.45
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Wessex,5003606,£42.38
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,VWR International Ltd,5003607,£438.00
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,VWR International Ltd,5003607,£21.35
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003608,"£2,819.15"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Carillon Industrial Services Ltd,5003609,£10.44
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Carillon Industrial Services Ltd,5003610,£79.17
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Metro Engineering And Plating Works,5003611,£195.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5003612,£195.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Metspin Ltd,5003613,£336.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Crystran Ltd,5003614,£180.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Cutwel Ltd,5003615,£102.88
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003616,£21.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Tacklestore Ltd,5003617,£162.26
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Tacklestore Ltd,5003617,£9.95
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Cromwell Ltd,5003618,£137.40
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,National Instruments Ltd,5003619,"£12,855.60"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,National Instruments Ltd,5003619,£34.03
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003620,£482.47
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003621,£611.36
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003622,£109.32
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003623,£126.94
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Allectra Ltd,5003625,"£1,946.00"
+BEIS,UKAEA,13/12/2016,Professional Services,Fusion,Morson International,5003626,"£487,798.52"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003627,£109.32
+BEIS,UKAEA,13/12/2016,Waste Management,Fusion,Environmental Scientifics Group Ltd,5003628,"£2,160.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Lambert Engineering Limited,5003629,£270.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Peak Sensors Ltd,5003630,£263.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Sundry Supplier,5003631,£198.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003632,£45.00
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,Sutton Courtenay Tyres,5003634,£75.00
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,Sutton Courtenay Tyres,5003635,£33.34
+BEIS,UKAEA,13/12/2016,Learning and Development,Support Services,Gloucestershire College,5003636,"£3,000.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Underwoods Electrical Distributors,5003637,£828.93
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Underwoods Electrical Distributors,5003637,£9.75
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003638,£318.87
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Lemo UK Ltd,5003639,"£1,152.45"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Lemo UK Ltd,5003639,£7.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003640,£67.48
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003641,£179.40
+BEIS,UKAEA,13/12/2016,Office Solutions,Fusion,RS Components Ltd,5003641,£40.34
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003642,£12.51
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003643,£55.55
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003644,£374.74
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5003645,£47.60
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Mouser Electronics,5003646,£141.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Machowie Transport Ltd,5003647,£750.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Machowie Transport Ltd,5003648,£750.00
+BEIS,UKAEA,13/12/2016,Professional Services,Fusion,Markertech UK Ltd,5003649,£475.00
+BEIS,UKAEA,13/12/2016,Professional Services,Fusion,RCD Lockinge Ltd,5003650,"£26,880.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,TR Fastenings Ltd,5003651,£18.41
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003652,£76.65
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Seaward Electronic Ltd,5003653,£252.00
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Seaward Electronic Ltd,5003653,£15.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Metro Engineering And Plating Works,5003654,£100.00
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,RS Components Ltd,5003655,£8.19
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003655,£498.06
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,MSC/J & L Industrial Supply,5003656,£304.20
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Tiverton Fabrications Ltd,5003657,"£2,277.50"
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Black Diamond Umbrella Ltd,5003658,"£5,200.84"
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Black Diamond Umbrella Ltd,5003659,£91.68
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003660,£61.35
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003661,£97.51
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003661,£9.80
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Ltd,5003662,£732.38
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Millhill Tools Ltd,5003663,£155.39
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003664,£81.20
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003665,£16.48
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003666,£162.18
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Millhill Tools Ltd,5003667,£68.03
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Millhill Tools Ltd,5003668,£13.44
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Millhill Tools Ltd,5003669,£7.26
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003670,"£1,320.60"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003670,£9.80
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003671,£47.43
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003671,£9.80
+BEIS,UKAEA,13/12/2016,Facilities,Other,Securitas Security Services,5003672,£186.00
+BEIS,UKAEA,13/12/2016,Facilities,Property,Mears Estates,5003673,"£6,700.50"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003674,-£110.16
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,HSE - Financial Operations,5003675,£204.40
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003676,£42.83
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Keoghs,5003677,£430.50
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Keoghs,5003678,£651.00
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Keoghs,5003679,£630.00
+BEIS,UKAEA,13/12/2016,Professional Services,Fusion,Cavendish Nuclear Ltd,5003680,"£27,449.90"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Underwoods Electrical Distributors,5003681,"£4,590.96"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Underwoods Electrical Distributors,5003681,£9.75
+BEIS,UKAEA,13/12/2016,Office Solutions,Other,Annodata Business Communications,5003682,"£34,855.59"
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Keoghs,5003683,£840.00
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Keoghs,5003684,£222.00
+BEIS,UKAEA,13/12/2016,Professional Services,Support Services,Keoghs,5003685,£661.50
+BEIS,UKAEA,13/12/2016,Waste Management,Fusion,Screwfix Direct Ltd,5003686,£58.33
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003687,£10.66
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003688,£3.77
+BEIS,UKAEA,22/12/2016,ICT,Support Services,Falconstor Software Ltd,5003689,"£5,232.09"
+BEIS,UKAEA,13/12/2016,ICT,Fusion,Media Resources,5003690,£240.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003691,£97.14
+BEIS,UKAEA,13/12/2016,Facilities,Property,Securitas Security Services,5003692,£199.76
+BEIS,UKAEA,13/12/2016,Facilities,Property,Securitas Security Services,5003693,£926.96
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,ABB Limited,5003694,"£32,916.75"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003695,£2.61
+BEIS,UKAEA,13/12/2016,Waste Management,Fusion,Arco Ltd,5003696,£52.99
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003697,£26.77
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003698,£298.47
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Condec Industrial Maintenance,5003699,£85.00
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,Knowles and Sons (Oxford) Ltd,5003700,"£2,076.97"
+BEIS,UKAEA,13/12/2016,Office Solutions,Other,Annodata Business Communications,5003703,£127.65
+BEIS,UKAEA,13/12/2016,Construction,Fusion,D Clough Ltd,5003704,"£2,485.36"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Support Services,Farnell Electronic Components Ltd,5003705,£8.48
+BEIS,UKAEA,13/12/2016,Engineering Goods,Support Services,Farnell Electronic Components Ltd,5003705,£53.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Sigma - Aldrich Co Ltd,5003706,£137.60
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Sigma - Aldrich Co Ltd,5003706,£15.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003707,"£1,493.00"
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,RS Components Ltd,5003708,£158.43
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Ltd,5003709,£33.04
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Arco Ltd,5003710,£294.00
+BEIS,UKAEA,13/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003711,£299.55
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003712,£21.77
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Flexible Reinforcement Limited,5003713,"£1,475.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Sundry Supplier,5003714,£470.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003715,£174.76
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003716,£299.91
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003717,£37.50
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003718,£191.60
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Oxford Bolts & Bearings,5003718,£15.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003719,£11.46
+BEIS,UKAEA,13/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003720,£279.65
+BEIS,UKAEA,13/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003721,£95.17
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Ltd,5003722,£70.00
+BEIS,UKAEA,13/12/2016,Operational Goods,Fusion,Arco Ltd,5003723,£38.93
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,RS Components Ltd,5003724,£332.91
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Arco Ltd,5003725,£587.04
+BEIS,UKAEA,13/12/2016,ICT,Support Services,CSC Computer Sciences Limited,5003726,"£10,011.39"
+BEIS,UKAEA,13/12/2016,Professional Services,Fusion,Morson International,5003727,-£26.69
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003728,£67.00
+BEIS,UKAEA,13/12/2016,Office Solutions,Fusion,Farnell Electronic Components Ltd,5003728,£274.67
+BEIS,UKAEA,13/12/2016,ICT,Fusion,SM Systems UK Ltd,5003729,£889.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Swagelok London,5003730,£212.17
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003730,£9.80
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Forward 2000 Ltd,5003731,£45.59
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003732,£48.57
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003733,£150.42
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Spirit Circuits Ltd.,5003734,£283.20
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003735,£31.10
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Insight Direct UK Ltd,5003736,£1.90
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Vat Vacuum Products Ltd,5003737,"£11,594.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003738,£26.37
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003739,£8.22
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003740,£50.04
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003740,£52.20
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,Casella Cel,5003741,"£7,060.00"
+BEIS,UKAEA,13/12/2016,Logistics and Shipping,Other,Casella Cel,5003741,£25.00
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003742,£5.44
+BEIS,UKAEA,13/12/2016,Facilities,Fusion,Trinity Protection Systems,5003743,"£10,013.34"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,BOC Ltd,5003744,£127.66
+BEIS,UKAEA,13/12/2016,Facilities,Support Services,Office for Nuclear Regulation,5003745,£625.21
+BEIS,UKAEA,13/12/2016,Engineering Goods,Support Services,Edmundson Electricals Ltd,5003746,£864.92
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003747,£194.76
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003748,£105.69
+BEIS,UKAEA,13/12/2016,Engineering Goods,Support Services,Edmundson Electricals Ltd,5003749,£143.68
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,R&M Electrical Group Ltd,5003750,£130.40
+BEIS,UKAEA,13/12/2016,Engineering Goods,Support Services,Edmundson Electricals Ltd,5003751,£28.74
+BEIS,UKAEA,13/12/2016,Engineering Goods,Other,RS Components Ltd,5003752,£22.92
+BEIS,UKAEA,13/12/2016,Learning and Development,Support Services,Lucid Associates,5003753,"£2,700.00"
+BEIS,UKAEA,13/12/2016,Engineering Goods,Fusion,Cromwell Ltd,5003754,£18.50
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Dunasfern inc. Auriga,5003755,£81.00
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Dunasfern inc. Auriga,5003755,£10.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,XP Plc,5003758,"£1,556.24"
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,XP Plc,5003758,£15.00
+BEIS,UKAEA,15/12/2016,Facilities,Property,Lorne Stewart Plc,5003759,"£11,292.41"
+BEIS,UKAEA,15/12/2016,Facilities,Property,Lorne Stewart Plc,5003759,"£16,132.01"
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,Lorne Stewart Plc,5003759,"£4,839.60"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Condec Industrial Maintenance,5003760,£195.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Acrona Engineering Ltd,5003761,£434.28
+BEIS,UKAEA,15/12/2016,Engineering Goods,Other,FTI Ltd,5003762,£436.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Compressors & Pnuematic Systems Ltd,5003763,£655.00
+BEIS,UKAEA,15/12/2016,Personnel Related,Support Services,Sundry Supplier,5003764,"£4,500.00"
+BEIS,UKAEA,15/12/2016,Facilities,Support Services,BWT UK Limited,5003765,£125.46
+BEIS,UKAEA,15/12/2016,Facilities,Support Services,BWT UK Limited,5003766,"£1,463.94"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Newbury Electronics,5003767,£144.50
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Newbury Electronics,5003767,£10.00
+BEIS,UKAEA,15/12/2016,Personnel Related,Fusion,Imass Ltd,5003768,"£4,562.50"
+BEIS,UKAEA,15/12/2016,ICT,Support Services,Gael Ltd,5003769,"£1,175.00"
+BEIS,UKAEA,15/12/2016,Professional Services,Fusion,Hydrock Nmc Limited,5003770,"£1,340.00"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5003771,£239.60
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5003772,£28.08
+BEIS,UKAEA,15/12/2016,Professional Services,Fusion,Gunnebo UK Ltd,5003773,£85.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Millhill Tools Ltd,5003774,£52.08
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5003776,£136.70
+BEIS,UKAEA,15/12/2016,Facilities,Property,Mears Estates,5003777,"£10,704.02"
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,Securitas Security Services,5003778,£490.68
+BEIS,UKAEA,15/12/2016,Research,Fusion,Oxford University,5003779,"£7,150.70"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003780,£31.48
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003781,£80.97
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Thurlby Thandar Instruments Ltd,5003782,"£3,604.00"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,BOC Ltd,5003784,£95.50
+BEIS,UKAEA,15/12/2016,Research,Fusion,University of Oxford,5003785,"£1,250.00"
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,BG Counters Ltd,5003786,"£6,495.12"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Videk Ltd,5003787,£697.77
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Videk Ltd,5003787,£8.95
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003788,£15.82
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Swagelok London,5003789,£331.38
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003789,£9.80
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5003790,£149.50
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Marshallton Research,5003791,"£3,933.45"
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Marshallton Research,5003791,£253.15
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003792,£71.32
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003793,£43.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Precision Waterjet Ltd,5003794,"£1,338.16"
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Precision Waterjet Ltd,5003794,£45.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003795,£27.04
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,MCT Brattberg Ltd,5003796,£628.51
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,MCT Brattberg Ltd,5003796,£22.29
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Fusion,Electronic Manufacturing Solutions,5003797,"£7,029.20"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Electronic Manufacturing Solutions,5003797,"£1,058.00"
+BEIS,UKAEA,15/12/2016,Waste Management,Fusion,New Pig Ltd,5003799,£321.15
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,New Pig Ltd,5003799,£7.65
+BEIS,UKAEA,15/12/2016,Engineering Goods,Other,Carillon Industrial Services Ltd,5003800,£7.45
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Tiverton Fabrications Ltd,5003801,£378.70
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,CPC Plc,5003802,£146.33
+BEIS,UKAEA,15/12/2016,ICT,Support Services,Pageone Communications Ltd,5003803,£533.82
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,Broadstock Office Furniture Ltd,5003804,"£1,965.00"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003805,£31.66
+BEIS,UKAEA,15/12/2016,Travel,Fusion,Sundry Supplier,5003806,£171.25
+BEIS,UKAEA,15/12/2016,Office Solutions,Other,Perfect Colours Ltd,5003807,£214.70
+BEIS,UKAEA,15/12/2016,Facilities,Property,M & J Group (Construction & Roofing) Ltd,5003808,"£32,574.59"
+BEIS,UKAEA,15/12/2016,Construction,Property,Callaghan Demolition Limited,5003809,"£93,898.50"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Acrona Engineering Ltd,5003811,"£3,758.78"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Amluc Ltd T/A Pirtek Oxford,5003812,"£1,060.00"
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003813,£86.99
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003814,£689.53
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003815,£89.79
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003816,£48.98
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003817,£216.45
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003818,£731.35
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003819,£406.64
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003820,"£1,221.85"
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Property,British Gas Business,5003821,£203.81
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,Elior UK Plc,5003822,"£1,501.70"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Promega UK Ltd,5003823,£337.00
+BEIS,UKAEA,15/12/2016,Learning and Development,Fusion,Southampton Solent University,5003824,"£3,600.00"
+BEIS,UKAEA,15/12/2016,Learning and Development,Fusion,Southampton Solent University,5003824,£900.00
+BEIS,UKAEA,15/12/2016,Facilities,Property,Elior UK Plc,5003825,£632.43
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Reece Safety Products Ltd,5003826,£564.98
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,Elior UK Plc,5003827,£633.28
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Faro Technologies UK Ltd,5003828,"£2,577.17"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,City Engineering Systems (Bristol),5003830,"£1,056.60"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Other,High Technology Products Ltd,5003831,£250.00
+BEIS,UKAEA,15/12/2016,Facilities,Support Services,Disclosure Scotland,5003832,£375.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5003833,£133.10
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003834,£20.83
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,Boxer Machine Tools Services,5003835,£325.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Cromwell Ltd,5003836,£104.32
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Cromwell Ltd,5003837,£137.40
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003838,£70.76
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003839,£55.45
+BEIS,UKAEA,15/12/2016,Professional Services,Fusion,Cavendish Nuclear Ltd,5003840,"£29,199.23"
+BEIS,UKAEA,22/12/2016,Office Solutions,Fusion,IOP Publishing Ltd - EUR,5003842,"£1,300.00"
+BEIS,UKAEA,15/12/2016,Office Solutions,Fusion,RS Components Ltd,5003843,£27.06
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003843,"£1,225.12"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003843,£121.38
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,RS Components Ltd,5003843,£18.36
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Nightsearcher Ltd,5003844,£359.88
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Nightsearcher Ltd,5003844,£12.50
+BEIS,UKAEA,15/12/2016,ICT,Support Services,British Telecommunications Public,5003845,"£1,781.88"
+BEIS,UKAEA,15/12/2016,Facilities,Fusion,RS Components Ltd,5003846,£702.90
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,King Lifting Limited,5003847,"£3,355.00"
+BEIS,UKAEA,15/12/2016,Operational Goods,Support Services,Specsavers Corporate Eye Care,5003848,£170.00
+BEIS,UKAEA,15/12/2016,Professional Services,Support Services,Pelican Software Ltd,5003849,"£7,961.00"
+BEIS,UKAEA,15/12/2016,ICT,Property,Verteda Limited,5003850,"£2,910.00"
+BEIS,UKAEA,15/12/2016,Personnel Related,Fusion,Imass Ltd,5003851,"£4,562.50"
+BEIS,UKAEA,15/12/2016,ICT,Fusion,Beckhoff Automation Ltd,5003852,£188.10
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Beckhoff Automation Ltd,5003852,£15.00
+BEIS,UKAEA,15/12/2016,ICT,Support Services,TeleCentric Ltd,5003853,£337.50
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Air Products Plc,5003854,£22.80
+BEIS,UKAEA,15/12/2016,Waste Management,Fusion,New Pig Ltd,5003855,"£2,235.15"
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,New Pig Ltd,5003855,£49.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,BOC Ltd,5003857,"£24,492.69"
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Fusion,Oxford Bolts & Bearings,5003858,£332.40
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003860,£72.10
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003861,£84.18
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Arco Ltd,5003862,£104.95
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003863,£148.23
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003863,£552.74
+BEIS,UKAEA,15/12/2016,Learning and Development,Fusion,Southampton Solent University,5003864,"£4,500.00"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003865,£9.55
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003866,£380.23
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003866,£104.63
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003867,£84.37
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,BOC Ltd,5003868,"£13,587.25"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,BOC Ltd,5003869,"£21,132.63"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,BOC Ltd,5003870,£759.60
+BEIS,UKAEA,15/12/2016,Waste Management,Fusion,Inutec Ltd T/A Tradebe Inutec,5003871,"£1,065.00"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Hytec Electronics Ltd,5003872,£735.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Rochling Engineering Plastics UK,5003873,"£7,325.89"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Rochling Engineering Plastics UK,5003873,"£1,874.45"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Rochling Engineering Plastics UK,5003874,"£1,458.21"
+BEIS,UKAEA,15/12/2016,Office Solutions,Fusion,Rochling Engineering Plastics UK,5003874,£93.12
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Rochling Engineering Plastics UK,5003874,"£4,080.51"
+BEIS,UKAEA,15/12/2016,Operational Goods,Fusion,Arco Ltd,5003875,£55.32
+BEIS,UKAEA,15/12/2016,Operational Goods,Fusion,Arco Ltd,5003876,£126.00
+BEIS,UKAEA,15/12/2016,Operational Goods,Fusion,Arco Ltd,5003877,£340.65
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Swagelok London,5003878,"£6,389.46"
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003878,£9.80
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Swagelok London,5003879,£530.24
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003879,£32.50
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003880,£148.54
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Swagelok London,5003881,"£2,553.45"
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003881,£9.80
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Swagelok London,5003882,£901.58
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003882,£32.50
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003883,£59.64
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,BSA Technologies Ltd,5003884,£720.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Property,Didcot Plant Ltd,5003885,£660.00
+BEIS,UKAEA,15/12/2016,Learning and Development,Fusion,Venusworks Ltd,5003886,"£3,000.00"
+BEIS,UKAEA,15/12/2016,Facilities,Property,Securitas Security Services,5003887,£180.72
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003888,£119.30
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Fusion,Swagelok London,5003889,£9.80
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Swagelok London,5003889,£129.70
+BEIS,UKAEA,15/12/2016,Facilities,Property,Elior UK Plc,5003890,£255.55
+BEIS,UKAEA,15/12/2016,Energy and Fuels,Fusion,Alrad Instruments Ltd,5003891,"£2,200.00"
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Alrad Instruments Ltd,5003891,£16.50
+BEIS,UKAEA,15/12/2016,Engineering Goods,Support Services,Woodstock Industrial Supplies Ltd.,5003893,£47.79
+BEIS,UKAEA,15/12/2016,Logistics and Shipping,Support Services,Woodstock Industrial Supplies Ltd.,5003893,£8.00
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003894,£55.66
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003895,£18.00
+BEIS,UKAEA,15/12/2016,Waste Management,Fusion,Arco Ltd,5003896,£38.60
+BEIS,UKAEA,15/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003897,£67.40
+BEIS,UKAEA,15/12/2016,Facilities,Property,Elior UK Plc,5003898,£341.05
+BEIS,UKAEA,15/12/2016,Engineering Goods,Other,Central Metal and Alloys Ltd,5003899,£729.00
+BEIS,UKAEA,15/12/2016,ICT,Fusion,Aveva Solutions Limited,5003900,"£4,860.00"
+BEIS,UKAEA,15/12/2016,Facilities,Property,Elior UK Plc,5003901,£411.60
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003902,£78.29
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Leasedrive Rental Management Ltd,5003904,£83.97
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Cleeve Technology Ltd UK,5003905,"£15,905.67"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Cleeve Technology Ltd UK,5003905,£551.94
+BEIS,UKAEA,21/12/2016,Facilities,Property,Hillmoore Fire Protection Limited,5003906,"£7,290.05"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Sundry Supplier,5003907,£397.38
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Other,Sundry Supplier,5003907,£25.00
+BEIS,UKAEA,21/12/2016,Waste Management,Fusion,CSS Worksafe,5003908,"£1,810.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003911,£143.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003912,£63.51
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003913,£150.81
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Tensator Limited,5003914,£198.53
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Tensator Limited,5003914,£7.50
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Leasedrive Rental Management Ltd,5003915,£49.44
+BEIS,UKAEA,21/12/2016,ICT,Fusion,Millgate Computer Systems Ltd,5003916,£274.31
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Innolas UK Ltd,5003917,"£5,913.04"
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Hydrock Nmc Limited,5003918,"£1,985.75"
+BEIS,UKAEA,21/12/2016,ICT,Fusion,Beckhoff Automation Ltd,5003919,£347.60
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Beckhoff Automation Ltd,5003919,£15.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003920,£106.48
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003921,£158.72
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003922,£115.77
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003923,£82.77
+BEIS,UKAEA,21/12/2016,Professional Services,Property,Blake Morgan LLP,5003924,"£3,419.50"
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5003926,"£1,155.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,VWR International Ltd,5003927,£292.00
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,VWR International Ltd,5003927,£21.35
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003928,£161.50
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003929,"£1,144.97"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003930,£18.57
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003931,"£4,407.11"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003932,£293.42
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5003933,£82.50
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5003934,£421.60
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003935,£106.53
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5003936,£43.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Artisan Litho Print & Design,5003937,£125.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5003938,£8.45
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5003939,£43.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5003940,£38.50
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Onefix Recruitment Ltd,5003941,£750.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Machowie Transport Ltd,5003942,£750.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Machowie Transport Ltd,5003943,£650.00
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Onefix Recruitment Ltd,5003944,"£1,095.00"
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Trinity Protection Systems,5003945,"£1,170.33"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Fortress Interlocks Ltd,5003946,"£6,328.58"
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Nuvia Limited,5003947,"£30,331.88"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Rochling Engineering Plastics UK,5003948,£686.45
+BEIS,UKAEA,21/12/2016,ICT,Fusion,Bluefort Security Ltd,5003949,"£2,217.60"
+BEIS,UKAEA,21/12/2016,ICT,Fusion,Bluefort Security Ltd,5003949,"£1,478.40"
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Pelican Software Ltd,5003950,"£7,501.08"
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Pelican Software Ltd,5003951,"£7,018.20"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Edmundson Electricals Ltd,5003952,£194.07
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Leasedrive Rental Management Ltd,5003953,£9.47
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5003954,£112.88
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Thorlabs Ltd,5003955,£72.25
+BEIS,UKAEA,21/12/2016,ICT,Support Services,Sundry Supplier,5003956,"£4,211.50"
+BEIS,UKAEA,21/12/2016,ICT,Support Services,Sundry Supplier,5003957,£732.75
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Thorlabs Ltd,5003958,"£1,631.20"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5003959,£50.50
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Aalco Limited,5003961,£194.00
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Aalco Limited,5003961,£29.75
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Global Robots Ltd,5003962,"£9,500.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Leybold GmbH,5003963,£526.30
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Leybold GmbH,5003963,£281.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003964,£732.08
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Lot-Quantumdesign Limited,5003965,"£4,060.00"
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Lot-Quantumdesign Limited,5003965,£100.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Aalco Limited,5003966,£235.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Aalco Limited,5003967,£36.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Aalco Limited,5003968,£250.00
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Sure Safe Ltd,5003969,£459.00
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Sure Safe Ltd,5003969,£20.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5003970,£171.15
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5003971,£85.52
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Aalco Limited,5003972,£194.75
+BEIS,UKAEA,21/12/2016,ICT,Fusion,Design Rule Ltd,5003973,£125.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Cutwel Ltd,5003974,£119.10
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,PMD UK Ltd,5003975,£134.90
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Rajapack Ltd,5003976,£83.79
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Cromwell Ltd,5003977,£101.20
+BEIS,UKAEA,21/12/2016,Professional Services,Property,Blake Morgan LLP,5003978,£203.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Thorlabs Ltd,5003979,£209.86
+BEIS,UKAEA,21/12/2016,Professional Services,Property,Blake Morgan LLP,5003980,£333.50
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Belleville Springs Ltd,5003981,£82.39
+BEIS,UKAEA,21/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003982,£496.46
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5003983,£35.85
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Shropshire Stainless & Aluminium Ltd,5003984,£40.70
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Arco Ltd,5003985,£387.80
+BEIS,UKAEA,21/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003986,£313.95
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Wika Instruments Ltd,5003987,£449.78
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Wika Instruments Ltd,5003987,£18.75
+BEIS,UKAEA,21/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5003988,£8.39
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Hutton Engineering (Precision) Ltd,5003989,£890.21
+BEIS,UKAEA,21/12/2016,Travel,Other,Leasedrive Rental Management Ltd,5003990,£32.67
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Hutton Engineering (Precision) Ltd,5003991,£356.90
+BEIS,UKAEA,21/12/2016,Facilities,Property,Mears Estates,5003992,"£1,003.16"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5003993,£17.81
+BEIS,UKAEA,21/12/2016,Facilities,Property,Mears Estates,5003994,£680.00
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5003995,£480.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5003996,£261.75
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5003997,£261.75
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5003998,£261.75
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5003999,£261.75
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Swagelok London,5004000,£441.71
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Swagelok London,5004000,£9.80
+BEIS,UKAEA,21/12/2016,Communications,Other,Onefix Recruitment Ltd,5004001,"£1,085.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5004002,£813.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5004003,£96.00
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Oxford Bolts & Bearings,5004003,£6.50
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Oxford Bolts & Bearings,5004004,£70.25
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Oxford Bolts & Bearings,5004004,£15.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Astles Control Systems,5004005,£249.00
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Environmental Scientifics Group,5004006,£297.00
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Environmental Scientifics Group,5004007,£297.00
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Environmental Scientifics Group,5004008,£297.00
+BEIS,UKAEA,22/12/2016,Engineering Goods,Fusion,PVA Industrial Vacuum Systems GmbH,5004009,"£37,810.69"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Southern Calibration Laboratories L,5004010,£111.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Southern Calibration Laboratories L,5004011,£243.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,FISHERSCIENTIFIC,5004012,£180.29
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,UKAS Laboratory Accreditation Service,5004013,"£2,945.00"
+BEIS,UKAEA,21/12/2016,Professional Services,Other,Sundry Supplier,5004014,£650.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5004015,£144.22
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5004016,£28.23
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,BOC Ltd,5004016,£9.41
+BEIS,UKAEA,21/12/2016,Engineering Goods,Property,BOC Ltd,5004016,£18.82
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004017,"£8,773.85"
+BEIS,UKAEA,21/12/2016,Facilities,Other,Lorne Stewart Plc,5004018,£139.45
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Lorne Stewart Plc,5004019,"£24,268.63"
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Lorne Stewart Plc,5004020,£950.64
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004021,"£2,813.20"
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Lorne Stewart Plc,5004022,£266.85
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Lorne Stewart Plc,5004023,£302.40
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Lorne Stewart Plc,5004024,£486.68
+BEIS,UKAEA,21/12/2016,Facilities,Other,Lorne Stewart Plc,5004025,£55.78
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004026,"£14,443.97"
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004027,"£3,459.61"
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004028,"£10,979.84"
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004029,£83.67
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Lorne Stewart Plc,5004030,"£12,644.76"
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004031,"£1,309.92"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Sundry Supplier,5004032,"£2,200.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004033,£562.50
+BEIS,UKAEA,21/12/2016,Personnel Related,Support Services,Reed Business Information Ltd,5004035,"£6,753.10"
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Ashdale Engineering UK Ltd,5004036,£300.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5004038,£14.34
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,RS Components Ltd,5004039,£264.52
+BEIS,UKAEA,21/12/2016,Office Solutions,Property,Securitas Security Services,5004040,"£5,088.35"
+BEIS,UKAEA,21/12/2016,ICT,Fusion,Newbury Electronics,5004041,"£4,218.98"
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Newbury Electronics,5004041,£10.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,CSE Cables Ltd,5004042,£940.00
+BEIS,UKAEA,21/12/2016,ICT,Support Services,SM Systems UK Ltd,5004044,"£1,582.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004045,£32.99
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004046,£57.04
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004046,£22.80
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Reece Safety Products Ltd,5004048,£711.59
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Amec Foster Wheeler Nuclear UK Limited,5004049,"£21,000.00"
+BEIS,UKAEA,21/12/2016,ICT,Fusion,SM Systems UK Ltd,5004050,"£1,599.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004051,£26.97
+BEIS,UKAEA,21/12/2016,Engineering Goods,Other,Arco Ltd,5004053,-£68.15
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Aon Hewitt Ltd,5004054,"£182,074.59"
+BEIS,UKAEA,21/12/2016,Personnel Related,Support Services,Rullion Engineering Ltd,5004055,"£7,875.00"
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5004056,£16.58
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5004057,£16.58
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5004058,£29.89
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5004059,£15.84
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Rembe Ltd,5004060,"£8,183.00"
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5004061,£79.98
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Hotchkiss Air Supply,5004062,£314.84
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Hotchkiss Air Supply,5004062,£50.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004063,£365.51
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004063,£282.64
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004063,£114.79
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,RS Components Ltd,5004063,£31.43
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,RS Components Ltd,5004063,£31.43
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Co-Channel Electronics Ltd,5004064,£270.00
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Elior UK Plc,5004065,£712.63
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004066,£16.62
+BEIS,UKAEA,21/12/2016,ICT,Fusion,SM Systems UK Ltd,5004068,£39.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Alpha Laboratories Ltd,5004069,£70.50
+BEIS,UKAEA,21/12/2016,Logistics and Shipping,Fusion,Alpha Laboratories Ltd,5004069,£15.00
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Environmental Scientifics Group,5004070,£297.00
+BEIS,UKAEA,21/12/2016,Research,Fusion,The University Of Sheffield,5004071,"£10,423.30"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,R&M Electrical Group Ltd,5004072,£226.94
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Kurt J Lesker,5004073,£166.90
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004074,£279.24
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004075,£48.81
+BEIS,UKAEA,21/12/2016,ICT,Fusion,RS Components Ltd,5004075,£3.62
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004076,£96.10
+BEIS,UKAEA,21/12/2016,Office Solutions,Fusion,RS Components Ltd,5004076,£24.59
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Cavendish Nuclear Ltd,5004077,"£32,028.39"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Machining Techology (Mach-Tech) Ltd,5004078,£241.82
+BEIS,UKAEA,21/12/2016,Operational Goods,Fusion,Arco Ltd,5004079,£23.35
+BEIS,UKAEA,21/12/2016,Travel,Other,Leasedrive Rental Management Ltd,5004080,£113.20
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Screwfix Direct Ltd,5004081,£12.50
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004082,£2.62
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,University of Oxford,5004083,"£5,103.00"
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Keoghs,5004084,£178.50
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Keoghs,5004085,£129.75
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Keoghs,5004086,£970.00
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Keoghs,5004087,£42.00
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Keoghs,5004088,£661.50
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004089,£525.71
+BEIS,UKAEA,21/12/2016,ICT,Fusion,RS Components Ltd,5004090,£12.46
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004090,£56.52
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004090,£306.60
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Pentair Technical Solutions UK Ltd,5004091,£428.74
+BEIS,UKAEA,21/12/2016,ICT,Fusion,SM Systems UK Ltd,5004092,"£2,611.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004093,£101.76
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Southern Calibration Laboratories L,5004094,£80.00
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Southern Calibration Laboratories L,5004095,£110.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004096,£88.02
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004096,£94.85
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5004097,£19.67
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5004097,£14.23
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5004098,£18.45
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,RS Components Ltd,5004099,£25.20
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004099,£27.42
+BEIS,UKAEA,21/12/2016,ICT,Fusion,RS Components Ltd,5004099,£7.12
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004099,£1.15
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5004100,£80.38
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Southern Calibration Laboratories L,5004101,£310.00
+BEIS,UKAEA,21/12/2016,Professional Services,Fusion,Southern Calibration Laboratories L,5004102,£187.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Forward 2000 Ltd,5004103,£88.64
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Forward 2000 Ltd,5004104,£140.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Arco Ltd,5004105,-£81.11
+BEIS,UKAEA,21/12/2016,Waste Management,Fusion,Flexible Reinforcement Limited,5004106,"£4,532.50"
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004107,"£25,776.80"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Property,I2 Security Limited,5004108,"£4,000.00"
+BEIS,UKAEA,21/12/2016,Facilities,Property,Lorne Stewart Plc,5004109,"£25,920.78"
+BEIS,UKAEA,21/12/2016,Professional Services,Support Services,Capita Business Services Ltd,5004110,"£2,286.59"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004111,£208.48
+BEIS,UKAEA,21/12/2016,Construction,Fusion,RS Components Ltd,5004111,£84.45
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004112,£20.52
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,RS Components Ltd,5004112,£56.79
+BEIS,UKAEA,21/12/2016,ICT,Support Services,O2 UK Ltd,5004113,£127.71
+BEIS,UKAEA,21/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5004114,£153.51
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,TR Fastenings Ltd,5004115,£22.19
+BEIS,UKAEA,21/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5004116,£40.77
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5004117,£4.21
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5004118,£32.55
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004119,£178.79
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Pipaway Engineering Ltd,5004120,£900.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Farnell Electronic Components Ltd,5004121,£395.59
+BEIS,UKAEA,21/12/2016,Office Solutions,Fusion,Lyreco UK Limited,5004122,£89.62
+BEIS,UKAEA,21/12/2016,ICT,Fusion,Intrinsys Ltd,5004123,"£4,000.00"
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Hiden Analytical Ltd,5004124,£530.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Kurt J Lesker,5004125,£366.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Environmental Scientifics Group,5004126,£810.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Electrical Oil Services Ltd,5004127,£628.80
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,TVH,5004128,£440.00
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Reece Safety Products Ltd,5004129,£290.94
+BEIS,UKAEA,21/12/2016,Facilities,Property,Elior UK Plc,5004130,"£1,336.00"
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Elior UK Plc,5004131,£637.51
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,Elior UK Plc,5004132,-£83.20
+BEIS,UKAEA,21/12/2016,Facilities,Property,Securitas Security Services,5004133,-£215.50
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Reece Safety Products Ltd,5004134,£380.84
+BEIS,UKAEA,21/12/2016,Facilities,Property,Elior UK Plc,5004135,£643.55
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,RS Components Ltd,5004136,£146.74
+BEIS,UKAEA,21/12/2016,Facilities,Fusion,RS Components Ltd,5004136,£118.86
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,Ind-Tech Ltd,5004137,£85.77
+BEIS,UKAEA,21/12/2016,Waste Management,Fusion,Arco Ltd,5004138,£55.37
+BEIS,UKAEA,21/12/2016,Engineering Goods,Fusion,CPC Plc,5004139,£25.65
+BEIS,UKAEA,23/12/2016,Construction,Support Services,A R Smith Builders Ltd,5004220,"£104,500.00"
+BEIS,UKAEA,07/12/2016,Road Travel,Support Services,Employee Expenses,20000559,£6.20
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000559,£8.10
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000560,£51.67
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000560,£16.54
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000560,£14.96
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000560,£5.00
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000560,£54.00
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000561,£9.40
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000561,£12.60
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000562,£7.00
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000562,£30.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000562,£9.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000562,£51.67
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000562,£9.30
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000562,£29.68
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000562,£3.62
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000562,£18.50
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000562,£1.21
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000562,£17.41
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000562,£12.71
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000562,£30.00
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000563,£67.10
+BEIS,UKAEA,07/12/2016,Personnel Related,Fusion,Employee Expenses,20000564,£102.40
+BEIS,UKAEA,07/12/2016,Travel,Other,Employee Expenses,20000565,£30.77
+BEIS,UKAEA,07/12/2016,Travel,Other,Employee Expenses,20000565,£14.12
+BEIS,UKAEA,07/12/2016,Travel,Other,Employee Expenses,20000565,£20.00
+BEIS,UKAEA,07/12/2016,Travel,Other,Employee Expenses,20000565,£42.98
+BEIS,UKAEA,07/12/2016,Travel,Other,Employee Expenses,20000565,£46.68
+BEIS,UKAEA,07/12/2016,Travel,Other,Employee Expenses,20000565,£23.21
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000566,£40.00
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000566,£9.00
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000566,£63.73
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000566,£26.36
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000567,£40.00
+BEIS,UKAEA,07/12/2016,Air Travel - Overseas,Fusion,Employee Expenses,20000567,£25.90
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000567,£30.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000567,£8.33
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000567,£20.92
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000567,£520.92
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000567,£2.10
+BEIS,UKAEA,07/12/2016,Air Travel - UK,Fusion,Employee Expenses,20000567,£26.82
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000567,£6.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000568,£12.52
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000568,£33.51
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000568,£4.35
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000568,£25.17
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000568,£5.43
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000568,£8.50
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000568,£8.31
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000568,£4.43
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000568,£60.00
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000569,£20.00
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000570,£3.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000570,£4.17
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000570,£64.35
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000571,£6.20
+BEIS,UKAEA,07/12/2016,Road Travel,Other,Employee Expenses,20000572,£14.97
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000573,£5.58
+BEIS,UKAEA,07/12/2016,Rail Travel,Support Services,Employee Expenses,20000573,£30.60
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000574,£5.58
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000574,£2.50
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000574,£26.00
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000575,£4.64
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000575,£20.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000575,£51.65
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000575,£17.95
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000575,£21.49
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000576,£11.00
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000576,£29.50
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000577,£4.76
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000577,£6.66
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000577,£4.58
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000577,£126.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000577,£3.75
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000577,£10.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000577,£10.75
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000577,£31.75
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000577,£19.20
+BEIS,UKAEA,07/12/2016,Road Travel,Support Services,Employee Expenses,20000578,£6.20
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£6.78
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£25.47
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000579,£28.36
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£8.92
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£12.60
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£13.12
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000579,£25.21
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£18.70
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£37.14
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£10.90
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£12.54
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£12.65
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000579,£12.61
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000579,£28.90
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000579,£29.10
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£17.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£80.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000579,£52.50
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000579,£23.00
+BEIS,UKAEA,07/12/2016,Rail Travel,Other,Employee Expenses,20000580,£67.10
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Other,Employee Expenses,20000580,£16.67
+BEIS,UKAEA,07/12/2016,Travel,Other,Employee Expenses,20000580,£10.79
+BEIS,UKAEA,07/12/2016,Personnel Related,Other,Employee Expenses,20000580,£266.90
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Other,Employee Expenses,20000580,£39.23
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000581,£67.10
+BEIS,UKAEA,07/12/2016,Learning and Development,Fusion,Employee Expenses,20000582,£107.45
+BEIS,UKAEA,07/12/2016,Personnel Related,Fusion,Employee Expenses,20000583,£219.80
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000584,£39.85
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000584,£7.40
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000584,£39.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000584,£5.00
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000585,£52.65
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000585,£52.65
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000586,£16.02
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000586,£8.78
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000586,£31.40
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000586,£18.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000586,£10.00
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000586,£6.30
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000586,£4.71
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000586,£2.33
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000586,£5.01
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000586,£1.27
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000586,£4.67
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000586,£22.00
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000586,£4.90
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000586,£29.10
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000586,£15.61
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000587,£62.10
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000591,£30.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000591,£35.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000591,£40.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000591,£15.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000591,£38.77
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000591,£7.84
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000591,£99.01
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000591,£38.68
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000591,£7.39
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000591,£19.75
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000591,£4.65
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000591,£4.61
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000591,£9.23
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000591,£29.00
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000592,£7.20
+BEIS,UKAEA,07/12/2016,Road Travel,Support Services,Employee Expenses,20000592,£2.92
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000593,£24.30
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000594,£7.71
+BEIS,UKAEA,07/12/2016,Road Travel,Support Services,Employee Expenses,20000594,£11.00
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000594,£84.60
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000594,£84.60
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000594,£18.80
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000595,£12.61
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000595,£30.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000595,£28.21
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000595,£30.71
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000595,£20.33
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000596,£58.50
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000597,£38.43
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000597,£36.86
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000598,£20.56
+BEIS,UKAEA,07/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000598,£20.00
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000599,£44.37
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000599,£3.00
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000600,£5.00
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000600,£92.25
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000600,£107.50
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Other,Employee Expenses,20000601,£7.20
+BEIS,UKAEA,07/12/2016,Personnel Related,Fusion,Employee Expenses,20000602,£102.40
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000603,£110.40
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000603,£14.82
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000603,£5.99
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000604,£300.00
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000604,£103.95
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000604,£532.78
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000604,£17.60
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000604,"£1,384.44"
+BEIS,UKAEA,07/12/2016,Personnel Related,Other,Employee Expenses,20000605,£158.00
+BEIS,UKAEA,07/12/2016,Rail Travel,Other,Employee Expenses,20000606,£44.30
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000607,£40.00
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000608,£81.00
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000608,£6.50
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000609,£24.75
+BEIS,UKAEA,07/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000609,£2.75
+BEIS,UKAEA,07/12/2016,Rail Travel,Fusion,Employee Expenses,20000610,£51.20
+BEIS,UKAEA,07/12/2016,Rail Travel,Support Services,Employee Expenses,20000611,£34.85
+BEIS,UKAEA,07/12/2016,Road Travel,Support Services,Employee Expenses,20000611,£2.50
+BEIS,UKAEA,07/12/2016,Road Travel,Fusion,Employee Expenses,20000612,£16.67
+BEIS,UKAEA,07/12/2016,Travel,Fusion,Employee Expenses,20000612,£5.33
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000613,£7.00
+BEIS,UKAEA,07/12/2016,Rail Travel,Support Services,Employee Expenses,20000613,£19.40
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000613,£12.00
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000613,£12.00
+BEIS,UKAEA,07/12/2016,Travel,Support Services,Employee Expenses,20000613,£7.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000614,£51.67
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000614,£16.54
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000614,£16.85
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000614,£54.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000614,£5.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Other,Employee Expenses,20000615,£7.20
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000616,£40.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000616,£86.53
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000616,£60.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£70.00
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000617,£8.53
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£23.62
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£61.76
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£105.85
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£122.79
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000617,£4.71
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£21.85
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£18.44
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£40.03
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£23.77
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000617,£4.67
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000618,£4.71
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000618,£5.70
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000618,£9.00
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000618,£4.80
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Employee Expenses,20000619,£143.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000620,£9.30
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000620,£0.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000620,£51.75
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000621,£10.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000621,£13.97
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000622,£24.90
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000623,£50.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000623,£7.69
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000623,£34.46
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000623,£34.18
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000623,£495.64
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000623,£76.65
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000624,£3.79
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000624,£30.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000625,£7.04
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000625,£0.48
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000625,£12.87
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000625,£10.00
+BEIS,UKAEA,13/12/2016,Rail Travel,Other,Employee Expenses,20000625,£4.28
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000625,£5.16
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000625,£0.57
+BEIS,UKAEA,13/12/2016,Rail Travel,Other,Employee Expenses,20000625,£4.29
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000625,£10.21
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000625,£12.74
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000625,£1.31
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000626,£64.35
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000626,£3.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000626,£4.17
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£87.18
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£94.01
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£123.76
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£132.76
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£153.62
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£588.69
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£624.96
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£270.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000627,£300.00
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000627,£319.05
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000627,£178.16
+BEIS,UKAEA,13/12/2016,Air Travel - Overseas,Fusion,Employee Expenses,20000627,£281.93
+BEIS,UKAEA,13/12/2016,Car Hire,Fusion,Employee Expenses,20000627,£49.98
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000627,£11.41
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000627,£92.26
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000628,£53.82
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000628,£9.17
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000628,£5.00
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000629,£11.45
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000630,£8.29
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000630,£16.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000630,£9.80
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000630,£2.10
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000630,£5.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000631,£28.08
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000632,£15.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000632,£10.20
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000632,£2.55
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000632,£12.76
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000632,£91.64
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000632,£34.61
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000632,£2.80
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000633,£37.75
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000633,£30.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000633,£20.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000634,£3.53
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000634,£67.58
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000634,£30.00
+BEIS,UKAEA,13/12/2016,Rail Travel,Other,Employee Expenses,20000634,£12.98
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000634,£20.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000635,£19.13
+BEIS,UKAEA,13/12/2016,Rail Travel,Other,Employee Expenses,20000635,£10.02
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000635,£105.57
+BEIS,UKAEA,13/12/2016,Rail Travel,Other,Employee Expenses,20000635,£10.02
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000635,£10.00
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Employee Expenses,20000636,£265.90
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Employee Expenses,20000637,£50.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000638,£171.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000638,£17.10
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000639,£166.20
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000640,£43.33
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000641,£172.80
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000642,£11.97
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000642,£166.50
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000642,£11.25
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000643,£86.84
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000644,£30.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000644,£15.45
+BEIS,UKAEA,13/12/2016,Rail Travel,Other,Employee Expenses,20000644,£16.09
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000644,£55.64
+BEIS,UKAEA,13/12/2016,Rail Travel,Other,Employee Expenses,20000644,£12.06
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000644,£10.41
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Employee Expenses,20000645,£90.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000646,£64.50
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000647,£12.15
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000648,£1.28
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000648,£5.04
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000648,£3.85
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000648,£10.00
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000648,£3.84
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Other,Employee Expenses,20000649,£9.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000650,£30.00
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000650,£2.88
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000651,£10.00
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000651,£128.74
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000651,£55.99
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000651,£7.30
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000652,£20.00
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000652,£38.29
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Employee Expenses,20000653,£265.90
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000654,£5.58
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000654,£10.00
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Employee Expenses,20000655,£219.80
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000656,£79.65
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000657,£248.17
+BEIS,UKAEA,13/12/2016,Car Hire,Other,Employee Expenses,20000657,£416.72
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000657,£40.25
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000657,£40.00
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000657,£16.91
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000657,£4.30
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000657,£7.40
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Employee Expenses,20000658,£132.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000659,£90.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000659,£16.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000659,£76.50
+BEIS,UKAEA,13/12/2016,Road Travel,Support Services,Employee Expenses,20000659,£6.50
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000659,£5.00
+BEIS,UKAEA,13/12/2016,Road Travel,Support Services,Employee Expenses,20000659,£13.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000659,£3.54
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000659,£20.83
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000660,£10.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000660,£5.94
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000660,£38.29
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000660,£1.19
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000660,£7.06
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000660,£8.51
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000660,£10.38
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000661,£20.00
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000661,£9.43
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000661,£4.63
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000661,£28.16
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000661,£1.19
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000661,£3.65
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000661,£8.48
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000662,£54.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000662,£15.00
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000662,£51.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000663,£34.80
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000663,£89.40
+BEIS,UKAEA,13/12/2016,Road Travel,Other,Employee Expenses,20000663,£19.33
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000663,£4.83
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000663,£20.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000664,£5.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000664,£26.00
+BEIS,UKAEA,13/12/2016,Road Travel,Support Services,Employee Expenses,20000664,£14.94
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000664,£22.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000665,£90.93
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000665,£74.42
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000665,£49.50
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000665,£60.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000666,£29.53
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000666,£2.05
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000666,£35.31
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000666,£20.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000666,£7.10
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000667,£5.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000667,£139.17
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000667,£20.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000668,£30.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Other,Employee Expenses,20000668,£47.70
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000668,£14.52
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Other,Employee Expenses,20000668,£38.99
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000668,£149.55
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000668,£102.55
+BEIS,UKAEA,13/12/2016,Air Travel - Overseas,Other,Employee Expenses,20000668,£38.76
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000668,£62.64
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000669,£9.97
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000669,£30.00
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000670,£7.26
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000670,£7.69
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000670,£28.20
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000670,£96.73
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000670,£40.70
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000670,£22.78
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000670,£5.38
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000670,£10.25
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000670,£50.00
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000670,£8.62
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000671,£4.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000671,£3.15
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000671,£3.15
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000672,£44.41
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000672,£24.57
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000672,£108.28
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000672,£40.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000672,£47.86
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000672,£35.62
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000672,£31.29
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000672,£9.33
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000672,£70.47
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000673,£38.08
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000673,£39.31
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000673,£119.56
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000673,£15.00
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000673,£30.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000673,£193.42
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000673,£4.82
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000673,£24.19
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000673,£7.39
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000673,£14.82
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000673,£30.00
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000673,£8.27
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000674,£10.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000674,£21.58
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000674,£5.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000674,£7.00
+BEIS,UKAEA,13/12/2016,Rail Travel,Support Services,Employee Expenses,20000674,£2.80
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000675,£24.00
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000675,£3.20
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000676,£25.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000676,£5.00
+BEIS,UKAEA,13/12/2016,Road Travel,Support Services,Employee Expenses,20000676,£12.86
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000676,£70.83
+BEIS,UKAEA,13/12/2016,Learning and Development,Fusion,Employee Expenses,20000677,£180.90
+BEIS,UKAEA,13/12/2016,Rail Travel,Support Services,Employee Expenses,20000678,£16.45
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000678,£23.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000678,£22.00
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000679,£3.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000679,£44.37
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000680,£115.83
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000680,£5.00
+BEIS,UKAEA,13/12/2016,Road Travel,Support Services,Employee Expenses,20000680,£17.10
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000681,£5.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000681,£24.00
+BEIS,UKAEA,13/12/2016,Road Travel,Support Services,Employee Expenses,20000681,£15.50
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000681,£10.46
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000681,£11.29
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000681,£70.83
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000681,£26.00
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000682,£20.00
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000682,£7.47
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000682,£7.66
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000682,£40.00
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000682,£40.36
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000682,£8.89
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000682,£8.24
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000682,£7.47
+BEIS,UKAEA,13/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000683,£316.30
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000684,£5.44
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000684,£18.73
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000684,£5.55
+BEIS,UKAEA,13/12/2016,Personnel Related,Other,Employee Expenses,20000685,£264.90
+BEIS,UKAEA,13/12/2016,Personnel Related,Other,Employee Expenses,20000686,£226.00
+BEIS,UKAEA,13/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000687,£54.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000687,£42.62
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000687,£51.30
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000687,£46.60
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000687,£28.79
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000687,£30.00
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000687,£90.50
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000687,£43.16
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000687,£71.70
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000688,£31.25
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000688,£23.80
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000689,£82.86
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000689,£5.81
+BEIS,UKAEA,13/12/2016,Road Travel,Support Services,Employee Expenses,20000689,£23.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000689,£6.28
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000689,£3.00
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000689,£30.03
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000689,£30.00
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000689,£38.19
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000689,£6.59
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000689,£10.56
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Other,Employee Expenses,20000690,£43.55
+BEIS,UKAEA,13/12/2016,Personnel Related,Fusion,Employee Expenses,20000691,£107.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000692,£20.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000692,£3.35
+BEIS,UKAEA,13/12/2016,Car Hire,Fusion,Employee Expenses,20000692,£263.17
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000692,£20.41
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000692,£4.18
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000693,£4.80
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000693,£10.17
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000694,£15.17
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000694,£5.00
+BEIS,UKAEA,13/12/2016,Travel,Other,Employee Expenses,20000694,£6.63
+BEIS,UKAEA,13/12/2016,Entertainment - Business,Support Services,Employee Expenses,20000695,£460.46
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000696,£8.10
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000696,£13.80
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000696,£40.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000696,£25.84
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000696,£41.44
+BEIS,UKAEA,13/12/2016,Travel,Support Services,Employee Expenses,20000697,£5.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000698,£469.50
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000698,£50.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000698,£34.18
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000698,£13.55
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000698,£31.65
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000699,£13.84
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000699,£13.47
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000699,£13.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000699,£46.44
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000699,£70.00
+BEIS,UKAEA,13/12/2016,Rail Travel,Fusion,Employee Expenses,20000700,£1.49
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000700,£70.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000700,£12.89
+BEIS,UKAEA,13/12/2016,Road Travel,Fusion,Employee Expenses,20000700,£30.00
+BEIS,UKAEA,13/12/2016,Travel,Fusion,Employee Expenses,20000700,£24.10
+BEIS,UKAEA,13/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000700,£3.00
+BEIS,UKAEA,13/12/2016,Personnel Related,Support Services,Employee Expenses,20000701,£355.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000702,£5.00
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000702,£4.60
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000702,£6.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000702,£6.51
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000702,£4.50
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000702,£4.60
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Employee Expenses,20000703,£219.80
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000704,£51.67
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000704,£15.75
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000704,£10.40
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000704,£54.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000704,£5.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000704,£9.21
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000705,£13.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000705,£19.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000705,£5.00
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Employee Expenses,20000706,£264.90
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000707,£97.20
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£30.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£20.00
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000709,£30.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£10.83
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000709,£7.99
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£6.91
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£123.18
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£25.33
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£41.52
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£31.15
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£20.28
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£49.52
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000709,£7.33
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000709,£25.56
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Employee Expenses,20000710,£253.00
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000711,£3.00
+BEIS,UKAEA,21/12/2016,Relocation Costs,Fusion,Employee Expenses,20000711,£12.29
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000711,£25.00
+BEIS,UKAEA,21/12/2016,Relocation Costs,Fusion,Employee Expenses,20000711,£6.88
+BEIS,UKAEA,21/12/2016,Rail Travel,Other,Employee Expenses,20000712,£46.90
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£17.15
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£24.85
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£8.95
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£20.00
+BEIS,UKAEA,21/12/2016,Rail Travel,Other,Employee Expenses,20000712,£26.00
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£10.00
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£6.85
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£9.35
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£12.40
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£17.84
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£15.79
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000712,£11.89
+BEIS,UKAEA,21/12/2016,Personnel Related,Support Services,Employee Expenses,20000713,£355.00
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Employee Expenses,20000714,£6.62
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000714,£3.40
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000715,£6.61
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000715,£13.87
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000715,£137.78
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000715,£9.80
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000715,£0.60
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000715,£1.79
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000715,£9.49
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000715,£1.78
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000715,£11.86
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000715,£11.93
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000715,£20.00
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000715,£5.40
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000716,£54.00
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000716,£44.10
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000717,£19.46
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000717,£0.91
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000717,£7.28
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000717,£12.46
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000717,£70.00
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000717,£10.47
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000718,£19.58
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Other,Employee Expenses,20000719,£12.15
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000720,£41.40
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000721,£11.00
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000721,£33.12
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000721,£29.30
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000721,£21.69
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000721,£15.38
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000721,£6.95
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000721,£12.27
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000721,"£1,100.24"
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000721,£110.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000721,£0.00
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000721,£33.88
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000721,£97.35
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000721,£2.03
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000721,£2.88
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000721,£60.10
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000721,£55.41
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000722,£80.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000722,£8.54
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000722,£131.50
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000722,£125.79
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000722,£48.18
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000722,£27.42
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000722,£78.69
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000722,£131.01
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000722,£910.43
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000722,£76.93
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000723,£5.00
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000723,£4.50
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Employee Expenses,20000724,£7.54
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Employee Expenses,20000724,£27.96
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Employee Expenses,20000724,£5.79
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Employee Expenses,20000724,£2.04
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Employee Expenses,20000724,£28.44
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Employee Expenses,20000724,£9.89
+BEIS,UKAEA,21/12/2016,Travel,Support Services,Employee Expenses,20000724,£10.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000725,£38.93
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000725,£5.00
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000725,£53.77
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Other,Employee Expenses,20000726,£7.65
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000727,£6.50
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000727,£4.00
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000727,£56.43
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000728,£28.00
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000729,£25.00
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000729,£2.40
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000729,£13.19
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000730,£4.17
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000730,£58.50
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Employee Expenses,20000731,£312.70
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000732,£31.94
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000733,£25.83
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000733,£5.41
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000733,£18.78
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000733,£2.50
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000733,£5.00
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Support Services,Employee Expenses,20000734,£59.31
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000735,£10.00
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000735,£7.28
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000735,£7.71
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000735,£93.72
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000736,£166.48
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000736,£104.25
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000736,£110.55
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000737,£8.49
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000737,£24.97
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000737,£2.42
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000737,£10.65
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000738,£6.31
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000738,£4.20
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000738,£40.00
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000738,£2.52
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Other,Employee Expenses,20000739,£7.20
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000740,£17.96
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000740,£64.88
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000740,£13.97
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000740,£33.58
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000740,£20.00
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Fusion,Employee Expenses,20000741,£58.50
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000742,£6.65
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000742,£67.10
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Employee Expenses,20000743,£136.81
+BEIS,UKAEA,21/12/2016,Relocation Costs,Other,Employee Expenses,20000744,£227.12
+BEIS,UKAEA,21/12/2016,Personnel Related,Fusion,Employee Expenses,20000745,£312.95
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000746,£60.00
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000746,£30.00
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000746,£3.50
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000746,£8.15
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000746,£40.15
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000746,£7.26
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000746,£28.39
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Other,Employee Expenses,20000746,£2.71
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Other,Employee Expenses,20000746,£3.16
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000746,£10.29
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000746,£8.43
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000746,£25.53
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£15.25
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£5.62
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£23.25
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£24.07
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£36.41
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£52.20
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£17.35
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000747,£11.25
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£20.65
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000747,£5.94
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£12.00
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000747,£37.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£11.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000747,£50.00
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000748,£30.00
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000748,£40.00
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000748,£7.41
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000748,£7.35
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000748,£28.56
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000748,£7.71
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000748,£8.96
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000748,£28.20
+BEIS,UKAEA,21/12/2016,Learning and Development,Fusion,Employee Expenses,20000750,£608.34
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000751,£41.65
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000751,£40.00
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000751,£19.48
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000751,£5.53
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000751,£5.98
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000751,£4.25
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000751,£13.13
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000751,£14.53
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000751,£29.55
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Other,Employee Expenses,20000751,£6.28
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Other,Employee Expenses,20000751,£6.29
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Support Services,Employee Expenses,20000752,£720.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000753,£40.00
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£28.20
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£5.55
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£5.07
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£35.73
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£5.02
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£5.01
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£25.71
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£2.91
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£2.89
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£5.06
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£4.70
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£8.02
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£2.04
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£4.24
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£2.58
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£4.27
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£2.55
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£2.57
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000753,£1.27
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000754,£50.00
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000754,£4.50
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000754,£16.90
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000755,£90.00
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000755,£23.71
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000755,£48.14
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000755,£11.64
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000756,£20.00
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000756,£10.18
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000756,£13.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000757,£20.00
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000757,£55.94
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000757,£25.78
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000757,£1.29
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000757,£15.90
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000757,£1.29
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000757,£26.34
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000757,£5.02
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000757,£25.71
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000758,£20.00
+BEIS,UKAEA,21/12/2016,PMU Travel Expenses,Fusion,Employee Expenses,20000758,£11.88
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000759,£9.44
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000759,£9.44
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£19.39
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000759,£4.70
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£6.50
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000759,£4.70
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£3.52
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£4.11
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£7.03
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£7.45
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000759,£10.73
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£11.49
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£3.94
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000759,£40.00
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000759,£25.00
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000760,£5.00
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000760,£6.50
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000760,£6.28
+BEIS,UKAEA,21/12/2016,Mileage Allowance,Other,Employee Expenses,20000760,£4.50
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000761,£25.83
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000761,£10.00
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000762,£20.00
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000762,£243.36
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000762,£6.33
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000762,£23.21
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000762,£86.04
+BEIS,UKAEA,21/12/2016,Road Travel,Other,Employee Expenses,20000762,£3.99
+BEIS,UKAEA,21/12/2016,Air Travel - Overseas,Fusion,Employee Expenses,20000764,£481.03
+BEIS,UKAEA,21/12/2016,Road Travel,Fusion,Employee Expenses,20000764,£23.00
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000764,£412.15
+BEIS,UKAEA,21/12/2016,Other Employee Expenses,Fusion,Employee Expenses,20000764,£425.57
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000765,£20.00
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000765,£4.13
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000765,£3.29
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000765,£22.07
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000765,£23.48
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000765,£23.66
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000765,£12.09
+BEIS,UKAEA,21/12/2016,Travel,Other,Employee Expenses,20000765,£3.25
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000766,£6.75
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000766,£10.83
+BEIS,UKAEA,21/12/2016,Rail Travel,Fusion,Employee Expenses,20000766,£2.30
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£30.00
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£191.70
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£8.50
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£4.25
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£11.41
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£5.32
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£14.78
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£3.35
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£21.17
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£3.49
+BEIS,UKAEA,21/12/2016,Travel,Fusion,Employee Expenses,20000766,£9.71

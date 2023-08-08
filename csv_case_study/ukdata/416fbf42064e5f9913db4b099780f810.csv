@@ -1,0 +1,20 @@
+Year,North East Area in thousand hectares,North West and Merseyside Area in thousand hectares,Yorkshire & The Humber Area in thousand hectares,East Midlands Area in thousand hectares,West Midlands Area in thousand hectares,Eastern Area in thousand hectares,South East and London Area in thousand hectares,South West Area in thousand hectares,Wales Area in thousand hectares,Scotland Area in thousand hectares,Northern Ireland Area in thousand hectares,North East Yield in tonnes per hectare,North West and Merseyside Yield in tonnes per hectare,Yorkshire & The Humber Yield in tonnes per hectare,East Midlands Yield in tonnes per hectare,West Midlands Yield in tonnes per hectare,Eastern Yield in tonnes per hectare,South East and London Yield in tonnes per hectare,South West Yield in tonnes per hectare,Wales Yield in tonnes per hectare,Scotland Yield in tonnes per hectare,Northern Ireland Yield in tonnes per hectare,North East Production in thousand tonnes,North West and Merseyside Production in thousand tonnes,Yorkshire & The Humber Production in thousand tonnes,East Midlands Production in thousand tonnes,West Midlands Production in thousand tonnes,Eastern Production in thousand tonnes,South East and London Production in thousand tonnes,South West Production in thousand tonnes,Wales Production in thousand tonnes,Scotland Production in thousand tonnes,Northern Ireland Production in thousand tonnes
+1999,18,24,41,31,25,60,43,59,19,281,31,5.0,4.5,5.4,5.7,4.7,5.4,5.7,5.1,4.9,5.2,4.5, 88, 107, 224, 176, 116, 320, 248, 302, 92,1 462, 139
+2000,10,19,33,25,20,48,38,49,15,255,27,5.3,5.3,5.3,5.0,4.7,5.7,5.4,4.8,4.1,5.1,5.2, 53, 99, 172, 126, 92, 271, 206, 239, 62,1 311, 142
+2001,26,40,74,43,41,84,61,82,21,281,30,4.6,4.7,5.5,4.9,4.2,4.6,4.8,4.9,4.5,5.6,5.0, 118, 184, 405, 208, 170, 391, 289, 406, 96,1 571, 150
+2002,12,20,36,25,20,51,37,50,15,264,25,5.4,4.2,5.5,5.1,5.3,5.4,5.2,4.2,4.4,4.9,3.7, 67, 85, 198, 130, 105, 272, 192, 212, 65,1 280, 91
+2003,16,25,49,33,25,70,38,61,15,265,24,5.3,4.8,5.8,5.7,5.6,5.8,5.5,5.1,5.1,6.0,4.8, 86, 117, 283, 189, 138, 404, 209, 314, 78,1 581, 114
+2004,14,24,43,30,21,63,37,59,16,257,22,5.0,5.0,5.3,5.4,5.0,5.1,5.5,4.7,4.6,5.6,4.8, 69, 122, 227, 161, 104, 326, 208, 278, 72,1 430, 107
+2005,13,24,39,29,20,57,37,55,14,243,22,5.3,4.5,5.6,5.8,5.1,5.5,5.7,5.2,4.6,5.6,4.3, 69, 107, 215, 168, 103, 318, 208, 288, 65,1 356, 93
+2006,11,20,33,26,17,52,34,50,12,221,18,4.6,4.1,5.0,4.7,5.1,5.5,5.4,5.1,4.7,5.7,4.6, 51, 83, 166, 123, 86, 283, 182, 254, 57,1 263, 84
+2007,10,21,35,26,18,55,37,54,13,226,18,4.8,4.5,5.0,5.4,5.2,5.2,5.2,5.1,4.9,5.6,5.0, 50, 96, 179, 142, 93, 286, 195, 274, 63,1 273, 90
+2008,12,26,42,32,21,68,48,69,15,262,20,5.2,3.9,5.7,6.0,5.0,5.9,5.9,5.0,4.8,5.5,4.5, 65, 100, 241, 193, 106, 400, 285, 344, 71,1 447, 88
+2009 published,20,35,57,42,30,86,62,91,18,287,22,5.1,4.4,5.8,5.6,5.3,5.6,6.0,5.7,5.3,5.5,4.9, 101, 153, 328, 238, 161, 483, 371, 519, 95,1 587, 105
+2009 revised (a),20,34,55,41,30,84,60,89,18,287,22,5.1,4.4,5.8,5.6,5.3,5.6,6.0,5.7,5.3,5.5,4.9, 100, 149, 322, 232, 157, 473, 360, 510, 95,1 587, 105
+2010,12,22,32,27,18,54,40,62,13,242,18,4.7,4.6,5.0,5.2,4.7,4.9,5.3,5.1,4.9,5.5,5.1, 55, 99, 163, 137, 84, 262, 213, 315, 65,1 328, 90
+2011,13,26,38,32,20,67,47,73,15,263,17,5.2,4.8,5.5,5.2,5.3,4.2,6.0,5.7,5.4,5.6,5.2, 70, 124, 210, 169, 108, 279, 279, 413, 79,1 475, 89
+2012,12,24,35,30,19,58,45,70,14,289,20,4.4,3.9,5.1,4.9,4.8,5.7,5.4,4.6,4.4,5.0,4.7, 55, 96, 180, 149, 93, 331, 239, 320, 63,1 447, 95
+2013,28,45,76,63,43,105,84,127,15,296,20,4.9,5.2,5.8,5.9,5.5,5.8,5.8,5.5,5.4,5.8,5.0, 137, 234, 442, 368, 237, 604, 494, 694, 83,1 714, 103
+2014, 15, 27, 44, 40, 26, 65, 51, 78, 14, 274, 17,5.6,4.3,5.5,6.0,5.4,6.4,6.4,5.5,5.2,6.1,5.2, 85, 117, 243, 241, 141, 410, 326, 430, 73,1 665, 88
+2015, 15, 28, 46, 45, 27, 72, 57, 83, 15, 256, 16,6.2,4.6,6.5,7.0,6.3,6.4,6.7,5.5,5.4,5.9,5.5, 93, 128, 302, 314, 167, 457, 381, 457, 82,1 521, 86
+####(a) 2009 area and production results have been revised to be on a comparable basis with 2010. Yields remain as previously published. Please see the sheet titled 'notes' for more information.####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

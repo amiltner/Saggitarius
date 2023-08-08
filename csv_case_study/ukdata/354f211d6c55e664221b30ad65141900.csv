@@ -1,0 +1,213 @@
+Department family,Entity,Date,Expense Type,Expense area,Supplier,Transaction number,Amount
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,SLA Block Payments,SLA Block Payments,Swindon PCT                                  ,39531,"2,889.49"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,OOH Medical Services,WMS Out of Hours Service,Swindon PCT                                  ,39531,"40,251.98"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,All Other NHS Services,Provider Services Received,Swindon PCT                                  ,39531,"50,675.68"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Joint Finance,Commissioning Projects,Swindon PCT                                  ,39699,"33,177.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"2,196.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,All Other NHS Services,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"3,123.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"1,827.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,IM&T,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"34,465.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"9,628.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"7,824.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,All Other NHS Services,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"1,350.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"17,937.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"8,617.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Xray Radiology Services,RUH - Services Received,Royal United Hospital NHS Trust              ,10292808,"117,563.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Occupational Health,RUH - Services Received,Royal United Hospital NHS Trust              ,10292808,"20,746.50"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Domestic,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"64,957.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Pathology,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"41,307.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,All Other NHS Services,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"2,340.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"5,103.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Portering,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"19,485.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Gas,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"8,177.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Electricity,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"8,502.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,221
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Med Staff Svcs - Geriatric,RUH - Services Received,Royal United Hospital NHS Trust              ,10292808,"31,265.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"5,442.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Med Staff Svcs - Obstetrics,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"739,065.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Pharmacy,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"34,426.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"30,881.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,All Other NHS Services,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"7,470.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Xray Radiology Services,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"51,897.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Pathology,RUH - Services Received,Royal United Hospital NHS Trust              ,10292808,"24,041.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Occupational Health,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"1,322.50"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,770
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Accommodation - Capital Charges,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"67,138.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,CSSD / DSDU,RUH - Services Received,Royal United Hospital NHS Trust              ,10292808,"1,242.75"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Med Staff Svcs - Obstetrics,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"12,770.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Xray Radiology Services,RUH - Services Received,Royal United Hospital NHS Trust              ,10292808,"1,516.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,All Other NHS Services,RUH - Services Received,Royal United Hospital NHS Trust              ,10292808,"1,305.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,CSSD / DSDU,RUH - Maternity Services Received,Royal United Hospital NHS Trust              ,10292808,"33,498.25"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,Clinical Negligence - Maternity,All Insurances,Royal United Hospital NHS Trust              ,10292809,"501,273.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Computer Comms Link Rental,IM&T Systems,Redstone Managed Solutions Ltd               ,10I0016819            ,"28,980.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,Inpatients Elective - PbR,SLA Over/Under Activity,Department Of Health                         ,201076,"25,576.80"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Adult Physical Disabilities,CHC - Adult,Consensus Support Services Ltd               ,54303685,"37,726.36"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Med Staff Svcs - Ultrasound,RUH PAW - Nuchal Screening,Global Diagnostics Ltd                       ,67,"30,756.70"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Inpatients Non-El Long - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86214,"59,009.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Inpatients Elective - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,"4,289.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,92
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,75
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,139
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Inpatients Non-El Long - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,"4,839.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,177
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,231
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,138
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,104
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,75
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,161
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,105
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,NICE- Cancer Drugs,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,"16,556.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,86606,450
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Inpatients Non-El Long - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"6,578.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,137
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Inpatients Elective - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"1,458.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,NICE- Cancer Drugs,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"5,158.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,NICE- Cancer Drugs,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"4,098.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,NICE- Cancer Drugs,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"9,012.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,NICE- Cancer Drugs,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,543
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,918
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,271
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,105
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,316
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,277
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,90
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,918
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,206
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,92
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,NICE- Cancer Drugs,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,543
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,308
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Inpatients Non-El Long - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"1,100.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,81
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,67
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,109
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,220
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Inpatients Non-El Long - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"1,053.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Inpatients Non-El Long - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"2,824.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Inpatients Non-El Long - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,"3,189.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Outpatients First Adult - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88622,73
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Inpatients Non-El Long - PbR,G&A NCA Old Year Balances,Barts and The London NHS Trust               ,88664,"-59,009.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,In Pat - MH Adult,G&A NCA Old Year Balances,OBMH NHS Foundation Trust                    ,A0062979              ,"26,637.32"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,In Pat - MH Adult,G&A NCA Old Year Balances,OBMH NHS Foundation Trust                    ,A0063053              ,"-26,637.32"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,PBC - Achievement,Services for Primary Care,Western Locality                             ,ANNUAL-PAYMENT        ,"34,578.50"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Inpatients Elective - PbR,SLA Over/Under Activity,Salisbury NHS Foundation Trust RNZ           ,B007399               ,"1,500,000.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Inpatients Elective - PbR,SLA Over/Under Activity,Salisbury NHS Foundation Trust RNZ           ,B007406               ,"1,500,000.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Royal United Hospital NHS Trust              ,BLOCK/JUN10-REKEY     ,"6,033,821.50"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Oxford Radcliffe Hosp NHS Trust              ,BLOCK-JUNE-2010       ,"200,210.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,In Pat - LD Older Adult,SLA Block Payments,Oxfordshire Learning Disability Trust        ,BLOCK-JUNE-2010       ,"146,269.58"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Accomodation - Service charges,B&NES - Services Received,Bath & North East Somerset PCT               ,BLOCK-JUNE-2010       ,"9,235.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,All Other NHS Services,Provider Services Received,Bath & North East Somerset PCT               ,BLOCK-JUNE-2010       ,662
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Physiotherapy,SLA Block Payments,Bath & North East Somerset PCT               ,BLOCK-JUNE-2010       ,"166,062.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Winchester & Eastleigh NHS Trust             ,BLOCK-JUNE-2010       ,"153,271.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,University Hospitals Bristol NHS FT          ,BLOCK-JUNE-2010       ,"650,774.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Day Cases - PbR,SLA Block Payments,British Pregnancy Advisory Service           ,BLOCK-JUNE-2010       ,"33,460.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Royal Bournemouth & Christchurch Hosp NHS FT ,BLOCK-JUNE-2010       ,"88,176.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Great Western Hospitals NHS Foundation Trust ,BLOCK-JUNE-2010       ,"3,235,678.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Bristol PCT(5QJ)                             ,BLOCK-JUNE-2010       ,"3,272,218.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Southampton Univ Hospital NHS T (RHM)        ,BLOCK-JUNE-2010       ,"830,130.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Palliative Care,SLA Block Payments,Salisbury Hospice Care Trust                 ,BLOCK-JUNE-2010       ,"61,583.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Transport,SLA Block Payments,Royal Nat Hosp For Rheumatic Diseases        ,BLOCK-JUNE-2010       ,480.5
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Poole Hospital NHS Trust                     ,BLOCK-JUNE-2010       ,"32,926.58"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,North Bristol NHS (SM)                       ,BLOCK-JUNE-2010       ,"233,872.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Great Western Hospitals NHS Foundation Trust ,BLOCK-JUNE-2010       ,"2,689,304.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Salisbury NHS Foundation Trust RNZ           ,BLOCK-JUNE-2010       ,"7,285,786.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,OBMH NHS Foundation Trust                    ,BLOCK-JUNE-2010       ,"1,082,073.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Ambulance Journeys,SLA Block Payments,Great Western Ambulance Service NHS Trust    ,BLOCK-JUNE-2010       ,"1,075,251.26"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Royal Nat Hosp For Rheumatic Diseases        ,BLOCK-JUNE-2010       ,"179,653.64"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Royal Nat Hosp For Rheumatic Diseases        ,BLOCK-JUNE-2010       ,"3,578.03"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,High Cost Drugs - NOT NICE,SLA Block Payments,Royal Nat Hosp For Rheumatic Diseases        ,BLOCK-JUNE-2010       ,"4,929.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Mental Health Services,SLA Block Payments,Avon & Wilts Mental Health Pnship            ,BLOCK-JUNE-2010       ,"2,647,500.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Mental Health Services,SLA Block Payments,Avon & Wilts Mental Health Pnship            ,BLOCK-JUNE-2010       ,"112,333.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,NICE - Infliximab,SLA Block Payments,Royal Nat Hosp For Rheumatic Diseases        ,BLOCK-JUNE-2010       ,"74,146.40"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,SLA Block Payments,SLA Block Payments,Gloucestershire Hospitals NHS Trust          ,BLOCK-JUNE-2010       ,"84,167.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Palliative Care,SLA Block Payments,Dorothy House Foundation                     ,BLOCK-JUNE-2010       ,"76,645.27"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Drugs Misuse,Public Health - Health Improvement,Wiltshire Council                            ,DAAT-FUNDING          ,"1,050,000.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,General Ledger Revenue Charges,Financial Services,Infor Global Solutions (Midland) Ltd         ,GB5BC1000310          ,"27,746.93"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,"3,485.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,"3,860.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,"3,485.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,"3,485.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,"3,860.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,"3,485.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,395
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,944.5
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,"3,860.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,944.5
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,944.5
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,945
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Sub - Fertility Drugs,Prescribing Expenditure,Salisbury NHS Foundation Trust RNZ           ,H019616               ,944.5
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,09/06/2010,Rent,Savernake Cap Chgs & PFI,Marlborough Facilities Ltd                   ,M00395                ,"74,193.24"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,15/06/2010,Wheelchairs - Approved Repairers - Contract,Wheelchair Services Contract - Wiltshire,Care Plus Mobility                           ,NHS/WCS/06/10         ,"31,666.66"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,OOH Medical Services,WMS Out of Hours Service,Wiltshire Medical Services                   ,OOH/BLOCK/10-11       ,"571,159.95"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,OOH Medical Services,WMS Out of Hours Service,Wiltshire Medical Services                   ,OOH/BLOCK/10-11       ,"571,159.95"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,Placements - LD Adult,CHC - Adult,Aspects and Milestones Trust                 ,SI/009984             ,"29,078.82"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Child Health System,IM&T Systems,Bath & North East Somerset PCT               ,SI010359              ,"28,489.16"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,SLA Block Payments,SLA Block Payments,NHS Litigation Authority                     ,SICX/00049181         ,"2,574.10"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,Insurance Charges / Employers Liability,All Insurances,NHS Litigation Authority                     ,SICX/00049181         ,"2,132.30"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,Clinical Negligence - Maternity,All Insurances,NHS Litigation Authority                     ,SICX/00049181         ,"92,629.77"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,30/06/2010,Adult Physical Disabilities,CHC - Adult,Bupa Home Healthcare                         ,SINV672887            ,"26,640.81"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,23/06/2010,Grants to VOs Other Community Svcs,Partnerships - Elderly & Adult,Aster Group Ltd                              ,SIRH/00006841         ,"30,049.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Inpatients Elective - PbR,SLA Over/Under Activity,Salisbury NHS Foundation Trust RNZ           ,Z024953               ,"-1,500,000.00"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,02/06/2010,Rent,Services for Primary Care,Dr P J Phillips & Partners                   ,RENT-1192             ,"37,306.25"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,09/06/2010,Rent,Services for Primary Care,Dr Simmons & Partners                        ,RENT-MEL030429        ,"26,760.63"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Salisbury Walk In Health Centre,FHSEXETERM03        1_1000,"32,585.25"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Purton Surgery,FHSEXETERM03        1_1157,"140,943.69"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Pewsey Surgery,FHSEXETERM03        1_1237,"93,081.33"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Tinkers Lane Surgery,FHSEXETERM03        1_1418,"126,529.36"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Marlborough Surgery,FHSEXETERM03        1_1470,"157,335.35"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Ramsbury Surgery,FHSEXETERM03        1_1525,"168,622.22"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,New Court Surgery,FHSEXETERM03        1_1619,"121,047.95"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Burbage Surgery,FHSEXETERM03        1_1711,"46,487.10"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Cricklade Surgery,FHSEXETERM03        1_1732,"40,156.43"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Old School House Surgery,FHSEXETERM03        1_1740,"59,785.41"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Castle Practice,FHSEXETERM03        1_1202,"183,224.98"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Bourne Valley Practice,FHSEXETERM03        1_1871,"62,108.65"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Hathaway Surgery,FHSEXETERM03        1_1159,"288,253.43"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Porch Surgery,FHSEXETERM03        1_1168,"187,439.17"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Box Surgery,FHSEXETERM03        1_1201,"103,363.30"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Lansdown Surgery,FHSEXETERM03        1_1468,"113,384.07"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Northlands Surgery,FHSEXETERM03        1_1478,"158,179.29"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Malmesbury Primary Care Centre,FHSEXETERM03        1_1486,"244,754.39"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Rowden Medical Practice,FHSEXETERM03        1_1493,"218,416.97"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Southbroom Surgery,FHSEXETERM03        1_1582,"152,771.15"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Patford House Surgery,FHSEXETERM03        1_1583,"88,100.95"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,St James Surgery,FHSEXETERM03        1_1610,"93,284.53"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Market Lavington Surgery,FHSEXETERM03        1_1626,"93,499.38"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Jubilee Field Surgery,FHSEXETERM03        1_1712,"69,166.44"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Sutton Benger Surgery,FHSEXETERM03        1_1713,"31,375.89"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Tolsey Surgery,FHSEXETERM03        1_1741,"49,633.26"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Courtyard Surgery,FHSEXETERM03        1_1742,"42,341.47"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Lodge Surgery,FHSEXETERM03        1_1772,"104,829.65"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Beversbrook Medical Centre,FHSEXETERM03        1_1868,"100,045.03"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Lovemead Group Practice,FHSEXETERM03        1_1160,"199,778.98"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Giffords Primary Care Centre,FHSEXETERM03        1_1191,"206,880.16"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Adcroft Surgery,FHSEXETERM03        1_1236,"169,329.56"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Avenue Surgery,FHSEXETERM03        1_1255,"246,435.95"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Bradford Road Surgery,FHSEXETERM03        1_1417,"143,222.56"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,The Health Centre Bradford On Avon,FHSEXETERM03        1_1419,"221,615.50"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Eastleigh Surgery,FHSEXETERM03        1_1479,"254,813.01"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Widbrook Medical Practice,FHSEXETERM03        1_1517,"82,294.73"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Spa Medical Centre,FHSEXETERM03        1_1549,"130,999.92"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,St Margarets Surgery,FHSEXETERM03        1_1749,"92,025.45"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Smallbrook Surgery,FHSEXETERM03        1_1870,"70,067.26"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Whiteparish Surgery,FHSEXETERM03        1_1108,"109,998.59"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Grove House Surgery,FHSEXETERM03        1_1344,"100,786.21"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,St Ann Street Surgery,FHSEXETERM03        1_1311,"122,712.36"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Castle Street Surgery,FHSEXETERM03        1_1609,"87,445.28"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Downton Surgery,FHSEXETERM03        1_1515,"100,500.65"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,New Street Surgery,FHSEXETERM03        1_1227,"80,991.93"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Endless Street Surgery,FHSEXETERM03        1_1409,"141,642.54"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Hindon Surgery,FHSEXETERM03        1_1822,"39,652.58"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Three Swans Surgery,FHSEXETERM03        1_1447,"123,203.18"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Codford Wilton Partnership,FHSEXETERM03        1_1280,"130,006.32"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Barcroft Medical Centre,FHSEXETERM03        1_1136,"138,204.96"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,St Melor House Surgery,FHSEXETERM03        1_1573,"84,038.42"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Harcourt Medical Centre,FHSEXETERM03        1_1077,"167,136.15"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Silton Surgery,FHSEXETERM03        1_1796,"29,362.56"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Cross Plains Surgery,FHSEXETERM03        1_1866,"52,750.44"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Avon Valley Practice,FHSEXETERM03        1_1379,"102,666.32"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Mere Surgery,FHSEXETERM03        1_1687,"80,931.51"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Bemerton Heath Surgery,FHSEXETERM03        1_1794,"44,476.23"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Till Valley Surgery,FHSEXETERM03        1_1770,"28,588.94"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Tisbury Surgery,FHSEXETERM03        1_1655,"61,342.37"
+DEPARTMENT OF HEALTH,WILTSHIRE NHS,40359,GMS/PMS Contract Payments,Services for Primary Care,Wilton Health Centre,FHSEXETERM03        1_1709,"47,305.38"
+ 

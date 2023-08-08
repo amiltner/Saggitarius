@@ -1,0 +1,47 @@
+,,,General Information,,,,,,,,,Availability Information,,,,,,Further Information,,,,,
+ID,Category,Sub-Category,Title / Full Data Name,Description of Data,Method of Data Collection,Method of Data Storage,Published,Disclosive,Disposal,Date of Review,Mandate,Data Publisher,Licence,Resources,Date Released,Update Frequency,Charging,Geographical Coverage,Geographical Granularity,Geographic Bounding Box,Temporal Extent Begin,Temporal Extent End,Secondary Owner
+,,,The title of the data item,Description of the data item,"Source of the data item, how the data is collected","Location of the data item, how the data is stored",Whether the data item is already published and available in the public domain,"For unpublished items, whether it contains information that can be disclosed (No) subject to undertaking the appropriate impact assessments","For unpublished items, when it will be destroyed (or if selected for permanent preservation).","For unpublished items, when the item will next be reviewed for disposal, updating or publication.",The enabling legislation that mandates the collection or creation of this data item,Location of published data e.g. LR or data.gov or both ,The licence under which the information can be re-used.,The details of each available file or API,When the data item was initially released,How frequently the item is updated,A URL to the charging policy for the data item. Charging can be for access or re-use,The spatial extent described by the item,The most specific level of geographic granularity offered in the item,,,,Another organisation credited with or associated with the item
+EST-001,Estates,Property ,Property & Land,"Various property and asset management data including extracts of clauses, covenants, rents and rates.
+",Administrative Data,"On-premise
+Mapped network drive",No,Yes,"Corporate procurement policy applies to contract files, which is 6 years from the end of the contract (or 12 years for a deed).",April 2017,Not mandated,Not published,Not licenced,Not released,Not published,Not available,Not available,Not geographic data,Not geographic data,Not geographic data, ,Current, 
+EST-003,Estates,Facilities Management ,Facilities Management ,"Facilities management data including commercial data, contract and supplier information, property running costs and environmental information.",Contract details and administrative data,"Off-premise
+Public Cloud
+SharePoint
+Microsoft
+",No,Yes,Retained for 7 years,April 2017,Not mandated,Not published,Not licenced,Not released,Not published,Not available,Not available,Not published,Not published,Not published, 7 years from current date,Current, 
+EST-004,Estates,Facilities Management ,Facilities Management Contracts ,"Contracts entered into with HM Land Registry relating to facilities management including tenders, awards, transactional data, contract variations and performance against Key Performance Indicators. ",Contract details   ,"Off-premise
+Public Cloud
+SharePoint
+Microsoft
+",No,Yes,Retained for 7 years,April 2017,Not mandated,Not published,Not licenced,Not released,Not published,Not available,Not available,Not geographic data,Not geographic data,Not geographic data, 7 years from current date,Current, 
+EST-005,Estates,Facilities Management ,Facilities Management Financials ,Current and historic information on  budgets and financial performance of facilities management.,Administrative Data,"Off-premise
+Public Cloud
+SharePoint
+Microsoft
+",No,Yes,Retained for 7 years,April 2017,Not mandated,Not published,Not licenced,Not released,Not published,Not available,Not available,Not geographic data,Not geographic data,Not geographic data, 7 years from current date,Current, 
+EST-006,Estates,Facilities Management ,Facilities Management Governance ,"Facilities management governance data including minutes, performance against Key Performance Indicators, and compliance data.",Corporate Governance,"Off-premise
+Public Cloud
+SharePoint
+Microsoft
+",No,Yes,Retained for 7 years,April 2017,Not mandated,Not published,Not licenced,Not released,Not published,Not available,Not available,Not geographic data,Not geographic data,Not geographic data, 7 years from current date,Current, 
+EST-007,Estates,Facilities Management ,Health & Safety,Risk assesments and health & safety process maps.,Corporate Governance,"Off-premise
+Public Cloud
+SharePoint
+Microsoft
+",No,Yes,Retained for 7 years,April 2017,Health and Safety at Work Act 1974,Not published,Not licenced,Not released,Not published,Not available,Not available,Not geographic data,Not geographic data,Not geographic data, 7 years from current date,Current, 
+EST-008,Estates,Facilities Management ,Sustainability,"Data concerning HM Land Registrys environmental policies, accreditations, legal obligations, achievements and targets.
+",Corporate Governance,"Off-premise
+Public Cloud
+SharePoint
+Microsoft
+",No,Yes,Retained for 7 years,April 2017,Not mandated,Not published,Not licenced,Not released,Not published,Not available,Not available,Not geographic data,Not geographic data,Not geographic data, 7 years from current date,Current, 
+EST-009,Estates,Facilities Management ,Incident Data,"Incidents and Reporting of Injuries, Diseases and Dangerous Occurrences Regulations records for reported injuries, accidents, diseases and dangerous occurrences.",Reported by HM Land Registry staff  ,"Off-premise
+Public Cloud
+SharePoint
+Microsoft
+",No,Yes,Retained for 7 years,April 2017,Health and Safety at Work Act 1974,Not published,Not licenced,Not released,Not published,Not available,Not available,Not geographic data,Not geographic data,Not geographic data, 7 years from current date,Current, 
+EST-010,Estates,Facilities Management ,Facilities Management Compliance ,"Building Compliance data, including Planned Preventative Maintenance records, Statutory Inspections, Building Condition Surveys and Building Log Books",Corporate Governance,"Off-premise
+Public Cloud
+SharePoint
+Microsoft
+",No,Yes,Retained for 7 years,April 2017,"Health and Safety at Work Act 1974, (plus specific H&S Legislation, ACOP and Regulation) and HM Land Registry policies",Not published,Not licenced,Not released,Not published,Not available,Not available,Not geographic data,Not geographic data,Not geographic data, 7 years from current date,Current, 

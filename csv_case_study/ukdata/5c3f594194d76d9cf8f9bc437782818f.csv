@@ -1,0 +1,14 @@
+Fraud Information,,,,,,,
+"This information is published to meet the requirements of the Local Government Transparency Code. Regular reports on anti-fraud measures are reported to the Council's Audit Committee, and papers are published on the Council website.  ",,,,,,,
+Row,Field name,What is required,Reason for inclusion,Additional information,Inclusion status,Information,Comments
+1,Organisation name,Name of the authority,Identifies accountable public organisation,,Optional,Stockport Metropolitan Borough Council,
+2,Organisation code,A unique code to identify an organisation. ,To allow the file to be self-describing,,Optional,,
+3,Effective date,Date at which the information provided is true.,To identify the date to which the data may apply,The UK date format (dd/mm/yyyy) should be used.,Optional,31/03/2015,2015/16
+4,"Number of occasions the Council used special powers - Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014, or similar powers ",Total number of trade union representatives,Requested in the Code,"Total number of staff who are union representatives (including general, learning and health and safety representatives)",Mandated for the median,345,All under other powers
+5,Total number of employees undertaking investigations and prosecutions of fraud,FTE number of trade union representatives,Requested in the Code,"Total number (full time equivalent) of staff who are union representatives (including general, learning and health and safety representatives)",Mandated ,3.5,
+6,Total full time equivalent (FTE) numbers of employees undertaking investigations and prosecutions of fraud,Total number of union representatives who devote at least 50 per cent of their time to union duties,Requested in the Code,,Mandated,3.5,
+7,Total number of professionally accredited counter fraud specialists,total number (full time equivalent) of union representatives who devote at least 50 per cent of their time to union duties,Requested in the Code,,Mandated,0,All have gone to the Single Fraud Investigation Service (DWP)
+8,Total full time equivalent numbers of professionally accredited counter fraud specialists,a basic estimate of spending on unions ,Requested in the Code,calculated as the number of full time equivalent days spent on union duties multiplied by the average salary,Mandated,0,
+9,Total amount spent by the authority on the investigation and prosecution of fraud,,,,,"£68,561.15",
+10,Total number of possible fraud cases investigated,,,,Total number of Possible fraud cases investigated,607,
+11,Total number of occasions on which fraud was identified,,,,Total number of occasions on which fraud was identified,68,

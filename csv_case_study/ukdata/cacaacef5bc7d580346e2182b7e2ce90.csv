@@ -1,0 +1,461 @@
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier,System Transaction Number,Amount,Plain English Description
+MOJ,NOMS,29/06/2012,Contracted-out Catering Services,Holme House,ESS SUPPORT SERVICES WORLDWIDE,4493343,36989.15,Catering services supplied by an external provider
+MOJ,NOMS,18/06/2012,Contracted-out Catering Services,Hewell,ARAMARK LTD,4489384,27772.45,Catering services supplied by an external provider
+MOJ,NOMS,06/06/2012,Contracted-out Catering Services,Woodhill,ARAMARK LTD,4489371,25747.66,Catering services supplied by an external provider
+MOJ,NOMS,11/06/2012,"Prisoner Compensation over £5,000",Wandsworth,TREASURY SOLICITORS,4495094,52800.00,Compensation payments and legal costs for prisoner litigation
+MOJ,NOMS,21/06/2012,Contracted-out Computer Services,MoJ ICT,MINISTRY OF JUSTICE,4489739,5935140.28,Computer services supplied by an external provider
+MOJ,NOMS,21/06/2012,Contracted-out Computer Services,MoJ ICT,MINISTRY OF JUSTICE,4489738,4425324.53,Computer services supplied by an external provider
+MOJ,NOMS,27/06/2012,Contracted-out Computer Services,NOMIS Programme,STERIA LTD,4514963,324625.00,Computer services supplied by an external provider
+MOJ,NOMS,14/06/2012,Consultancy,Procurement Group,DRIVERS JONAS DELOITTE,4494169,32656.80,Consultancy services supplied by an external supplier
+MOJ,NOMS,14/06/2012,Consultancy,Procurement Group,DRIVERS JONAS DELOITTE,4494481,29905.19,Consultancy services supplied by an external supplier
+MOJ,NOMS,11/06/2012,Consultancy,Procurement Group,DRIVERS JONAS DELOITTE,4494213,26719.20,Consultancy services supplied by an external supplier
+MOJ,NOMS,19/06/2012,Consultancy,Procurement Group,DRIVERS JONAS DELOITTE,4502037,26719.20,Consultancy services supplied by an external supplier
+MOJ,NOMS,19/06/2012,Consultancy,Procurement Group,DRIVERS JONAS DELOITTE,,-26719.20,Consultancy services supplied by an external supplier
+MOJ,NOMS,21/06/2012,Contract IT Maintenance,MoJ ICT,MINISTRY OF JUSTICE,4490024,5088507.87,Costs of  IT maintenance and support
+MOJ,NOMS,21/06/2012,Contract IT Maintenance,MoJ ICT,MINISTRY OF JUSTICE,4490023,4815827.86,Costs of  IT maintenance and support
+MOJ,NOMS,21/06/2012,Contract IT Maintenance,MoJ ICT,MINISTRY OF JUSTICE,4490022,2633449.91,Costs of  IT maintenance and support
+MOJ,NOMS,21/06/2012,Contract IT Maintenance,MoJ ICT,MINISTRY OF JUSTICE,4490021,1551347.45,Costs of  IT maintenance and support
+MOJ,NOMS,29/06/2012,Contract IT Maintenance,MoJ ICT,STERIA LTD,4438367,406178.79,Costs of  IT maintenance and support
+MOJ,NOMS,29/06/2012,Contract IT Maintenance,MoJ ICT,STERIA LTD,4521925,406178.79,Costs of  IT maintenance and support
+MOJ,NOMS,28/06/2012,Contract IT Maintenance,MoJ ICT,STERIA LTD,4515714,308315.10,Costs of  IT maintenance and support
+MOJ,NOMS,29/06/2012,Contract IT Maintenance,MoJ ICT,STERIA LTD,4491000,273636.73,Costs of  IT maintenance and support
+MOJ,NOMS,29/06/2012,Contract IT Maintenance,MoJ ICT,STERIA LTD,4521766,273636.73,Costs of  IT maintenance and support
+MOJ,NOMS,27/06/2012,Contract IT Maintenance,NOMS ICT,HP ENTERPRISE SERVICES UK LTD,4504775,81106.15,Costs of  IT maintenance and support
+MOJ,NOMS,22/06/2012,Contract IT Maintenance,Procurement Group,HP ENTERPRISE SERVICES UK LTD,4495098,72921.70,Costs of  IT maintenance and support
+MOJ,NOMS,07/06/2012,Contract IT Maintenance,HOPS Payroll Charge,LOGICA CMG (UK) LIMITED,4490435,69357.83,Costs of  IT maintenance and support
+MOJ,NOMS,14/06/2012,Contract IT Maintenance,NOMIS Programme,HOME OFFICE,4469605,54519.78,Costs of  IT maintenance and support
+MOJ,NOMS,25/06/2012,Contract IT Maintenance,HOPS Payroll Charge,LOGICA CMG (UK) LIMITED,4509536,41863.59,Costs of  IT maintenance and support
+MOJ,NOMS,27/06/2012,Contract IT Maintenance,NOMS ICT,HP ENTERPRISE SERVICES UK LTD,4519686,35143.58,Costs of  IT maintenance and support
+MOJ,NOMS,06/06/2012,Contract IT Maintenance,NOMS ICT,HP ENTERPRISE SERVICES UK LTD,4489401,27007.08,Costs of  IT maintenance and support
+MOJ,NOMS,29/06/2012,Contract IT Maintenance,MoJ ICT,STERIA LTD,4521926,-273636.73,Costs of  IT maintenance and support
+MOJ,NOMS,29/06/2012,Contract IT Maintenance,MoJ ICT,STERIA LTD,4521767,-406178.79,Costs of  IT maintenance and support
+MOJ,NOMS,14/06/2012,External Telecom Charges,High Security Prisons Group,AIRWAVE SOLUTIONS LIMITED,4502199,25336.53,Costs of external telecom charges
+MOJ,NOMS,08/06/2012,Counselling & Advisory Costs,Hull,THE FOUNDATION TRAINING COMPANY,4442762,75000.00,Provision of medical services in prison. The amount is claimed back from the local Primary Trust.
+MOJ,NOMS,20/06/2012,Counselling & Advisory Costs,Brixton,R A P T,4486032,46330.76,Provision of medical services in prison. The amount is claimed back from the local Primary Trust.
+MOJ,NOMS,08/06/2012,Counselling & Advisory Costs,Hull,THE FOUNDATION TRAINING COMPANY,4450431,37500.00,Provision of medical services in prison. The amount is claimed back from the local Primary Trust.
+MOJ,NOMS,08/06/2012,Counselling & Advisory Costs,Hull,THE FOUNDATION TRAINING COMPANY,4484455,-75000.00,Provision of medical services in prison. The amount is claimed back from the local Primary Trust.
+MOJ,NOMS,18/06/2012,Contracted-out Education,Hindley,THE MANCHESTER COLLEGE,4446292,77134.64,Education services supplied by an external provider
+MOJ,NOMS,18/06/2012,Contracted-out Education,Dover,THE MANCHESTER COLLEGE,4504541,29722.35,Education services supplied by an external provider
+MOJ,NOMS,20/06/2012,Electricity,Wymott,EDF ENERGY,4509611,80074.50,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Lindholme,EDF ENERGY,4509768,76076.54,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Belmarsh,EDF ENERGY,4509616,50639.76,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Frankland,EDF ENERGY,4509648,47745.32,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Acklington,EDF ENERGY,4509585,47080.89,Electricity utility costs
+MOJ,NOMS,21/06/2012,Electricity,Manchester,EDF ENERGY,4511062,46726.42,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Highdown,EDF ENERGY,4509612,45473.11,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Swaleside,EDF ENERGY,4509622,43821.36,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Birmingham,EDF ENERGY,4509734,42494.53,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Wandsworth,EDF ENERGY,4509551,41838.78,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Liverpool,EDF ENERGY,4509766,41763.64,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Sheppey Clustered Services,EDF ENERGY,4509735,39739.24,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Ranby,EDF ENERGY,4509658,38174.06,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Full Sutton,EDF ENERGY,4509575,34342.18,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Hewell,EDF ENERGY,4509731,33658.26,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Risley,EDF ENERGY,4509664,33575.63,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Wormwood Scrubs,EDF ENERGY,4509595,33448.64,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Holme House,EDF ENERGY,4509589,32903.55,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Wakefield,EDF ENERGY,4509689,32467.93,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Highpoint,EDF ENERGY,4509600,32379.55,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Mount (The),EDF ENERGY,4509656,32062.82,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Leeds,EDF ENERGY,4509550,30694.14,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Nottingham,EDF ENERGY,4509587,30554.14,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Littlehey,EDF ENERGY,4509590,30089.41,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Long Lartin,EDF ENERGY,4509645,29571.74,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Hull,EDF ENERGY,4509719,29257.60,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Woodhill,EDF ENERGY,4509683,28848.58,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Wealstun,EDF ENERGY,4509745,28528.49,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Kirkham,EDF ENERGY,4509765,28099.27,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Durham,EDF ENERGY,4509744,27684.75,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Feltham,EDF ENERGY,4509586,27280.45,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Dartmoor,EDF ENERGY,4509559,27098.28,Electricity utility costs
+MOJ,NOMS,13/06/2012,Electricity,Hindley,EDF ENERGY,4489281,26553.35,Electricity utility costs
+MOJ,NOMS,20/06/2012,Electricity,Rochester,EDF ENERGY,4509583,26264.93,Electricity utility costs
+MOJ,NOMS,27/06/2012,Electricity,Isis,EDF ENERGY,4519606,26234.35,Electricity utility costs
+MOJ,NOMS,26/06/2012,Electricity,Gartree,EDF ENERGY,4516308,25746.27,Electricity utility costs
+MOJ,NOMS,21/06/2012,Electricity,Whitemoor,EDF ENERGY,4511072,25049.89,Electricity utility costs
+MOJ,NOMS,13/06/2012,Electricity,Hindley,EDF ENERGY,4489279,-27190.08,Electricity utility costs
+MOJ,NOMS,25/06/2012,Contracted-out Electronic Monitoring,Electronic Monitoring,G4S CARE & JUSTICE SERVICES LTD,4516123,51655.20,Electronic monitoring services supplied by an external provider
+MOJ,NOMS,28/06/2012,Contracted-out Electronic Monitoring,Electronic Monitoring,SERCO LTD,4503877,4417360.22,Electronic monitoring services supplied by an external provider
+MOJ,NOMS,21/06/2012,Contracted-out Electronic Monitoring,Electronic Monitoring,SERCO LTD,4496608,4399707.40,Electronic monitoring services supplied by an external provider
+MOJ,NOMS,15/06/2012,Contracted-out Electronic Monitoring,Electronic Monitoring,G4S CARE & JUSTICE SERVICES LTD,4501907,5243830.86,Electronic monitoring services supplied by an external provider
+MOJ,NOMS,08/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4489490,1341027.60,Enhancement to buildings
+MOJ,NOMS,14/06/2012,WIP - Acquisitions,Estates Capacity,INTERSERVE CONSTRUCTION LTD,4500827,779859.31,Enhancement to buildings
+MOJ,NOMS,27/06/2012,WIP - Acquisitions,NOMIS Programme,STERIA LTD,4518760,678498.00,Enhancement to buildings
+MOJ,NOMS,08/06/2012,WIP - Acquisitions,Estates Capacity,INTERSERVE CONSTRUCTION LTD,4488924,378493.84,Enhancement to buildings
+MOJ,NOMS,01/06/2012,WIP - Acquisitions,Estates Capacity,VINCI CONSTRUCTION UK LTD,4486920,329383.20,Enhancement to buildings
+MOJ,NOMS,18/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4504308,326109.60,Enhancement to buildings
+MOJ,NOMS,27/06/2012,WIP - Acquisitions,Estates Capacity,ISG CONSTRUCTION LTD,4490376,320738.40,Enhancement to buildings
+MOJ,NOMS,15/06/2012,WIP - Acquisitions,Estates Capacity,SHEPHERD CONSTRUCTION LTD,4502579,315235.76,Enhancement to buildings
+MOJ,NOMS,20/06/2012,WIP - Acquisitions,Estates Capacity,WILLMOTT DIXON CONSTRUCTION LTD,4508694,307233.95,Enhancement to buildings
+MOJ,NOMS,15/06/2012,WIP - Acquisitions,Estates Capacity,KIER NORTHERN,4503208,274497.35,Enhancement to buildings
+MOJ,NOMS,01/06/2012,WIP - Acquisitions,Estates Capacity,WATES CONSTRUCTION LTD,4458951,259392.00,Enhancement to buildings
+MOJ,NOMS,29/06/2012,WIP - Acquisitions,Estates Capacity,BRIDGEND CUSTODIAL SERVICES LTD,4484358,247280.40,Enhancement to buildings
+MOJ,NOMS,18/06/2012,WIP - Acquisitions,Estates Capacity,VINCI CONSTRUCTION UK LTD,4504516,245509.20,Enhancement to buildings
+MOJ,NOMS,13/06/2012,WIP - Acquisitions,Estates Capacity,ISG CONSTRUCTION LTD,4499284,200838.00,Enhancement to buildings
+MOJ,NOMS,11/06/2012,WIP - Acquisitions,Estates Capacity,GALLIFORD TRY CONSTRUCTION LTD,4493541,194301.42,Enhancement to buildings
+MOJ,NOMS,22/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4511660,186000.00,Enhancement to buildings
+MOJ,NOMS,18/06/2012,WIP - Acquisitions,Estates Capacity,GALLIFORD TRY CONSTRUCTION LTD,4502524,164420.40,Enhancement to buildings
+MOJ,NOMS,19/06/2012,WIP - Acquisitions,Estates Capacity,VINCI CONSTRUCTION UK LTD,4484706,146953.20,Enhancement to buildings
+MOJ,NOMS,14/06/2012,WIP - Acquisitions,Estates Capacity,VINCI CONSTRUCTION UK LTD,4500027,132000.00,Enhancement to buildings
+MOJ,NOMS,20/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4489554,124837.20,Enhancement to buildings
+MOJ,NOMS,19/06/2012,WIP - Acquisitions,Estates Capacity,INTERSERVE CONSTRUCTION LTD,4506118,121905.82,Enhancement to buildings
+MOJ,NOMS,28/06/2012,WIP - Acquisitions,Estates Capacity,GLEESON CONSTRUCTION SERVICES LTD,4499579,120000.00,Enhancement to buildings
+MOJ,NOMS,08/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4489553,111513.60,Enhancement to buildings
+MOJ,NOMS,20/06/2012,WIP - Acquisitions,Estates Capacity,LORNE STEWART PLC,4509493,110121.60,Enhancement to buildings
+MOJ,NOMS,13/06/2012,WIP - Acquisitions,Estates Capacity,VINCI CONSTRUCTION UK LTD,4491437,106302.00,Enhancement to buildings
+MOJ,NOMS,21/06/2012,WIP - Acquisitions,Estates Capacity,GALLIFORD TRY CONSTRUCTION LTD,4458183,96462.90,Enhancement to buildings
+MOJ,NOMS,29/06/2012,WIP - Acquisitions,Estates Capacity,WATES CONSTRUCTION LTD,4521209,83163.60,Enhancement to buildings
+MOJ,NOMS,19/06/2012,WIP - Acquisitions,Estates Capacity,INTERSERVE CONSTRUCTION LTD,4506793,80518.36,Enhancement to buildings
+MOJ,NOMS,20/06/2012,WIP - Acquisitions,Estates Capacity,WILLMOTT DIXON CONSTRUCTION LTD,4508693,75705.01,Enhancement to buildings
+MOJ,NOMS,20/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4457562,66708.00,Enhancement to buildings
+MOJ,NOMS,12/06/2012,WIP - Acquisitions,Estates Capacity,KIER NORTHERN,4496632,64758.00,Enhancement to buildings
+MOJ,NOMS,15/06/2012,WIP - Acquisitions,Estates Capacity,INTERSERVE CONSTRUCTION LTD,4461367,63516.11,Enhancement to buildings
+MOJ,NOMS,20/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4496007,61914.00,Enhancement to buildings
+MOJ,NOMS,27/06/2012,WIP - Acquisitions,Estates Capacity,LORNE STEWART PLC,4519443,55440.34,Enhancement to buildings
+MOJ,NOMS,26/06/2012,Buildings - Acquisitions,Wales Prisons Estate Management Group (WPEMG),WB GRIFFITHS & SONS LTD,4513592,47374.19,Enhancement to buildings
+MOJ,NOMS,12/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4496757,38193.60,Enhancement to buildings
+MOJ,NOMS,26/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4511661,36036.73,Enhancement to buildings
+MOJ,NOMS,20/06/2012,WIP - Acquisitions,Estates Capacity,GALLIFORD TRY CONSTRUCTION LTD,4508894,32608.80,Enhancement to buildings
+MOJ,NOMS,13/06/2012,WIP - Acquisitions,Estates Capacity,KIER CONSTRUCTION LTD,4437303,30762.00,Enhancement to buildings
+MOJ,NOMS,11/06/2012,WIP - Acquisitions,Estates Capacity,COFATHEC ENERGY SERVICES UK LTD,4396465,29047.50,Enhancement to buildings
+MOJ,NOMS,13/06/2012,WIP - Acquisitions,Estates Capacity,VINCI CONSTRUCTION UK LTD,4500028,27295.67,Enhancement to buildings
+MOJ,NOMS,11/06/2012,WIP - Acquisitions,Estates Capacity,COFATHEC ENERGY SERVICES UK LTD,4474912,-29047.50,Enhancement to buildings
+MOJ,NOMS,21/06/2012,Legal Representation,Insurance / Loan Contracts,TREASURY SOLICITORS,4511070,46504.94,Expenditure on legal representation
+MOJ,NOMS,21/06/2012,Professional Advice,MOJ Shared Services NOMS Delivery,TREASURY SOLICITORS,4511058,1212730.96,Expenditure on professional advice
+MOJ,NOMS,08/06/2012,Structural works / maintenance - Fees & professional services,Estates Capacity,WATES CONSTRUCTION LTD,4493149,46462.67,Fees for professional services for major maintenance on prison estate
+MOJ,NOMS,25/06/2012,Structural works / maintenance - Fees & professional services,Estates Capacity,URS INFRASTRUCTURE & ENVIRONMENT UK LTD,4514052,45575.99,Fees for professional services for major maintenance on prison estate
+MOJ,NOMS,14/06/2012,Professional works advice / services,Brixton,MITIE JUSTICE LTD,4492386,30995.88,Fees for professional services for major maintenance on prison estate
+MOJ,NOMS,29/06/2012,Professional works advice / services,Brixton,MITIE JUSTICE LTD,4521928,30995.88,Fees for professional services for major maintenance on prison estate
+MOJ,NOMS,28/06/2012,Structural works / maintenance - Fees & professional services,Estates Capacity,AEDAS ARCHITECTS LTD,4519194,30890.71,Fees for professional services for major maintenance on prison estate
+MOJ,NOMS,29/06/2012,Other Fuels,Sudbury,HARVEST ENERGY LTD,4498328,48051.29,Fuel utility costs
+MOJ,NOMS,08/06/2012,Other Fuels,Wayland,COAL 4 ENERGY LTD,4491540,27759.85,Fuel utility costs
+MOJ,NOMS,21/06/2012,Other Fuels,Transport Group,HARVEST ENERGY LTD,4510696,26257.31,Fuel utility costs
+MOJ,NOMS,22/06/2012,Gas,MOJ Shared Services NOMS Delivery,CORONA ENERGY RETAIL 4 LTD,4509547,1796663.13,Gas utility costs
+MOJ,NOMS,18/06/2012,Resource Grants / Grant-in-Aid,Commercial Development Group,THE SAMARITANS,4506286,226006.50,Grant payments to voluntary and community sector organisations
+MOJ,NOMS,11/06/2012,Resource Grants / Grant-in-Aid,Commercial Development Group,SOVA,4491025,42066.75,Grant payments to voluntary and community sector organisations
+MOJ,NOMS,08/06/2012,Resource Grants / Grant-in-Aid,Commercial Development Group,PRAXIS COMMUNITY PROJECTS,4490914,30828.00,Grant payments to voluntary and community sector organisations
+MOJ,NOMS,26/06/2012,Probation - Approved Premisis,Offender Management and Public Protection Group,LANGLEY HOUSE TRUST,4516331,118850.00,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,HESTIA HOUSING SUPPORT CO LTD REF BATTERSEA & STREATHAM,4514122,58416.67,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,ELIZABETH FRY APPROVED PREMISES,4514118,57916.67,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,RIPON HOUSE,4514123,57750.00,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,WEST LONDON MISSION REF: KATHERINE HUGHES HOUSE,4514129,54000.00,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,ST JOHN'S APPROVED PREMISES,4514128,53333.33,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,ADELAIDE HOUSE,4514114,52833.33,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,ST. VINCENT DE PAUL SOCIETY REF OZANAM HOUSE,4514125,52083.33,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,CARDIGAN HOUSE APPROVED PREMISE,4514117,51916.67,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,ASHLEY HOUSE,4514116,50250.00,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,HESTIA HOUSING SUPPORT CO LTD REF BATTERSEA & STREATHAM,4514120,48250.00,Grant to voluntary approved probation premises
+MOJ,NOMS,25/06/2012,Probation - Approved Premisis,Voluntary Approved Premises,ST. VINCENT DE PAUL SOCIETY REF ST CHRISTOPHERS,4514127,47833.33,Grant to voluntary approved probation premises
+MOJ,NOMS,12/06/2012,Contracted-out Library,Isle of Wight,ISLE OF WIGHT COUNCIL,4497206,41012.51,Library services supplied by an external provider
+MOJ,NOMS,15/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,KIER CONSTRUCTION LTD,4498422,243000.00,Major maintenance on prison estate
+MOJ,NOMS,06/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,WATES CONSTRUCTION LTD,4488697,215477.40,Major maintenance on prison estate
+MOJ,NOMS,21/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,VINCI CONSTRUCTION UK LTD,4489120,190296.00,Major maintenance on prison estate
+MOJ,NOMS,29/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,WATES CONSTRUCTION LTD,4493148,140640.00,Major maintenance on prison estate
+MOJ,NOMS,06/06/2012,"New structural works, structural maintenance and equipment",TSS West Midlands Area,GLENBEIGH CONSTRUCTION LTD,4403937,119990.15,Major maintenance on prison estate
+MOJ,NOMS,12/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,INTERSERVE CONSTRUCTION LTD,4484927,114000.00,Major maintenance on prison estate
+MOJ,NOMS,13/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,KIER CONSTRUCTION LTD,4498421,90000.00,Major maintenance on prison estate
+MOJ,NOMS,15/06/2012,"New structural works, structural maintenance and equipment",Moorland,GARSIDE & LAYCOCK,4503263,71689.20,Major maintenance on prison estate
+MOJ,NOMS,22/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,VINCI CONSTRUCTION UK LTD,4511655,65682.83,Major maintenance on prison estate
+MOJ,NOMS,20/06/2012,"New structural works, structural maintenance and equipment",Hull,SEDDON PROPERTY SERVICES LTD,4415364,56468.26,Major maintenance on prison estate
+MOJ,NOMS,11/06/2012,"New structural works, structural maintenance and equipment",Isle of Wight,LORNE STEWART LTD,4490408,49508.72,Major maintenance on prison estate
+MOJ,NOMS,20/06/2012,"New structural works, structural maintenance and equipment",TSS Kent and Sussex,GLENBEIGH CONSTRUCTION LTD,4400985,41752.12,Major maintenance on prison estate
+MOJ,NOMS,29/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,VINCI CONSTRUCTION UK LTD,4489121,34800.00,Major maintenance on prison estate
+MOJ,NOMS,12/06/2012,"New structural works, structural maintenance and equipment",East Midlands Estates,HERBERT BAGGALEY CONSTRUCTION LTD,4477866,32394.60,Major maintenance on prison estate
+MOJ,NOMS,26/06/2012,"New structural works, structural maintenance and equipment",Pentonville,FOLKNOLL SERVICES,4285773,30660.00,Major maintenance on prison estate
+MOJ,NOMS,28/06/2012,"New structural works, structural maintenance and equipment",TSS West Midlands Area,ROBERT POOLE CONSTRUCTION LTD,4519445,29972.40,Major maintenance on prison estate
+MOJ,NOMS,12/06/2012,"New structural works, structural maintenance and equipment",Estates Capacity,VINCI CONSTRUCTION UK LTD,4450624,28455.60,Major maintenance on prison estate
+MOJ,NOMS,07/06/2012,"New structural works, structural maintenance and equipment",TSS West Midlands Area,TECHNICAL SERVICES (SHROPSHIRE) LTD,4404949,25559.76,Major maintenance on prison estate
+MOJ,NOMS,29/06/2012,Contracted-out Building Maintenance,Brixton,MITIE JUSTICE LTD,4521929,51380.71,Major maintenance on prison estate by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Building Maintenance,Brixton,MITIE JUSTICE LTD,4492386,46612.70,Major maintenance on prison estate by an external provider
+MOJ,NOMS,29/06/2012,Contracted-out Building Maintenance,Brixton,MITIE JUSTICE LTD,4521928,46612.70,Major maintenance on prison estate by an external provider
+MOJ,NOMS,20/06/2012,Contracted-out Building Maintenance,Lindholme,SEDDON PROPERTY SERVICES LTD,4467569,42171.01,Major maintenance on prison estate by an external provider
+MOJ,NOMS,20/06/2012,Contracted-out Building Maintenance,Brixton,CARILLION SERVICES 2006 LTD,4509382,26245.57,Major maintenance on prison estate by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Building Maintenance,Estates Capacity,HOME OFFICE,4490383,-30803.90,Major maintenance on prison estate by an external provider
+MOJ,NOMS,14/06/2012,General Maintenance Materials,Haverigg,WACO UK LIMITED,4501658,54778.72,Minor maintenance on prison estate
+MOJ,NOMS,13/06/2012,General Maintenance Materials,DDC East of England,BIS ATG LTD,4498593,43103.04,Minor maintenance on prison estate
+MOJ,NOMS,14/06/2012,General Maintenance Materials,Haverigg,WACO UK LIMITED,4501657,37914.97,Minor maintenance on prison estate
+MOJ,NOMS,25/06/2012,Occupational Health Services,Organisational Development Group,ATOS ORIGIN IT SERVICES UK LTD,4484650,81507.45,Occupational health services for staff
+MOJ,NOMS,15/06/2012,Rates and Ground Rents,Dartmoor,DUCHY OF CORNWALL,4499535,668153.80,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,20/06/2012,Rates and Ground Rents,MOJ Shared Services NOMS Delivery,DANMERC,4393052,192920.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,15/06/2012,Rates and Ground Rents,HOPS Payroll Charge,LONDON & CAPITAL PROPERTIES LTD,4499954,99924.90,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,GREENWICH COUNCIL,4412388,79268.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,DURHAM COUNTY COUNCIL,4412230,65646.67,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,MILTON KEYNES COUNCIL,4424732,57250.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,18/06/2012,Rates and Ground Rents,Director of Finance Office,KNIGHT FRANK LLP,4495990,54900.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,SWALE BOROUGH COUNCIL,4412412,54196.67,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,THE EAST RIDING OF YORKSHIRE COUNCIL,4412365,53433.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,LB OF HAMMERSMITH AND FULHAM,4412212,52978.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,CHERWELL DISTRICT COUNCIL,4412426,51143.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,MANCHESTER CITY COUNCIL,4437697,48853.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,NORTHUMBERLAND COUNTY COUNCIL,4412262,46563.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,REIGATE & BANSTEAD BOROUGH COUNCIL,4412427,43891.67,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,NOTTINGHAM CITY COUNCIL,4412268,43128.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,HUNTINGDONSHIRE DISTRICT COUNCIL,4412209,43128.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,27/06/2012,Rates and Ground Rents,HOPS Payroll Charge,CB RICHARD ELLIS LTD,4486379,43076.40,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,DONCASTER MET DIST COUNCIL,4412373,42365.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,FENLAND DISTRICT COUNCIL,4412217,40838.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,CHORLEY BOROUGH COUNCIL,4412357,40456.67,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,PETERBOROUGH CITY COUNCIL,4412348,40075.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,LIVERPOOL CITY COUNCIL,4416984,39693.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,LONDON BOROUGH OF ISLINGTON,4412398,38837.50,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,LIVERPOOL CITY COUNCIL,4416989,37021.67,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,LANCASTER CITY COUNCIL,4412340,36449.17,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,SALFORD CITY COUNCIL,4412218,36449.17,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,DACORUM BOROUGH COUNCIL,4412367,36067.50,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,CITY OF WAKEFIELD,4412222,35876.67,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,LONDON BOROUGH OF HOUNSLOW,4412411,35650.83,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,WANDSWORTH BOROUGH COUNCIL,4412215,35451.67,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,BROMSGROVE DISTRICT COUNCIL,4412386,34540.83,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,SPELTHORNE BOROUGH COUNCIL,4412324,34540.83,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,BIRMINGHAM CITY COUNCIL,4425947,34159.17,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,CHORLEY BOROUGH COUNCIL,4412354,33968.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,CHELMSFORD BOROUGH COUNCIL,4412321,33586.67,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,STOCKTON-ON-TEES BOROUGH COUNCIL,4412326,32823.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,BRECKLAND DISTRICT COUNCIL,4412317,32632.50,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,DONCASTER MBC,4412377,31487.50,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,KINGSTON-UPON T/A HULL CITY COUNCIL,4412420,30724.17,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,SWALE BOROUGH COUNCIL,4412410,30342.50,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,SURREY HEATH BOROUGH COUNCIL,4412339,30342.50,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,RUTLAND DISTRICT COUNCIL,4412281,30342.50,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,NEWARK & SHERWOOD DISTRICT COUNCIL,4412254,29770.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,EAST STAFFORDSHIRE BOROUGH COUNCIL,4412368,29388.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,WYCHAVON DISTRICT COUNCIL,4412252,28815.83,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,MEDWAY COUNCIL,4412207,28625.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,DURHAM COUNTY COUNCIL,4412387,26144.17,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,20/06/2012,Rates and Ground Rents,MOJ Shared Services NOMS Delivery,CYNCOED PROPERTY (CARDIFF) LTD,4393072,26000.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,WIGAN COUNCIL,4412205,25953.33,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,WARRINGTON BOROUGH COUNCIL,4412266,25762.50,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,28/06/2012,Rates and Ground Rents,Estates Capacity,BRIDGEND COUNTY BOROUGH COUNCIL,4412225,25425.00,"Payment of rents, Business Rates and Council Tax"
+MOJ,NOMS,22/06/2012,Miscellaneous,Secretariat,KINGS FUND,4512160,60000.00,Payment relating to prison awards programme
+MOJ,NOMS,26/06/2012,Secondments,Hindley,WIGAN COUNCIL,4472797,146627.62,Payments to outside bodies for staff seconded to NOMS
+MOJ,NOMS,14/06/2012,Prison Shop Cost of Sales,Director of Finance Office,EXEL EUROPE1 LTD,4500826,619535.50,Prison shop purchases where items are paid for by prisoners from their own funds at no cost to the taxpayer
+MOJ,NOMS,27/06/2012,Prison Shop Cost of Sales,Director of Finance Office,EXEL EUROPE1 LTD,4518030,567637.73,Prison shop purchases where items are paid for by prisoners from their own funds at no cost to the taxpayer
+MOJ,NOMS,20/06/2012,Prison Shop Cost of Sales,Director of Finance Office,EXEL EUROPE1 LTD,4507398,564629.98,Prison shop purchases where items are paid for by prisoners from their own funds at no cost to the taxpayer
+MOJ,NOMS,13/06/2012,Prison Shop Cost of Sales,Director of Finance Office,EXEL EUROPE1 LTD,4494847,554855.15,Prison shop purchases where items are paid for by prisoners from their own funds at no cost to the taxpayer
+MOJ,NOMS,20/06/2012,Contracted-out Prison Shop,Director of Finance Office,EXEL EUROPE1 LTD,4509178,1276973.00,Prison shops supplied by an external provider where items are paid for by prisoners from their own funds at no cost to the taxpayer
+MOJ,NOMS,20/06/2012,Contracted-out Prison Shop,ROM - North East,DHL EXPRESS (UK) LIMITED,4509176,268432.50,Prison shops supplied by an external provider where items are paid for by prisoners from their own funds at no cost to the taxpayer
+MOJ,NOMS,27/06/2012,Contracted-out Prison Shop,Director of Finance Office,EXEL EUROPE1 LTD,4512739,-88080.86,Prison shops supplied by an external provider where items are paid for by prisoners from their own funds at no cost to the taxpayer
+MOJ,NOMS,21/06/2012,Contracted-out Escorts,Prisoner Escort & Custody Service (PECS),SERCO LTD,4503878,3568630.50,Prisoner escort services supplied by an external provider
+MOJ,NOMS,15/06/2012,Contracted-out Escorts,Prisoner Escort & Custody Service (PECS),GEO AMEY PECS LTD,4497907,2946949.75,Prisoner escort services supplied by an external provider
+MOJ,NOMS,15/06/2012,Contracted-out Escorts,Prisoner Escort & Custody Service (PECS),GEO AMEY PECS LTD,4498983,2431316.06,Prisoner escort services supplied by an external provider
+MOJ,NOMS,15/06/2012,Contracted-out Escorts,Prisoner Escort & Custody Service (PECS),GEO AMEY PECS LTD,4497908,2397221.51,Prisoner escort services supplied by an external provider
+MOJ,NOMS,14/06/2012,Victims of Crime Deductions suspense account,Control Accounts,MINISTRY OF JUSTICE,SSCMISC3818,59615.22,Prisoners' pay deductions transferred to the Victims Fund
+MOJ,NOMS,18/06/2012,Contracted-out operation of prisons and detention centres,Altcourse,FAZAKERLEY PRISON SERVICES LTD,4496020,3603303.60,Prisons and detention centres operated by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out operation of prisons and detention centres,Forest Bank,AGECROFT PRISON MANAGEMENT LTD,4492745,3056306.01,Prisons and detention centres operated by an external provider
+MOJ,NOMS,13/06/2012,Contracted-out operation of prisons and detention centres,Parc,BRIDGEND CUSTODIAL SERVICES LTD,4495557,2972032.00,Prisons and detention centres operated by an external provider
+MOJ,NOMS,15/06/2012,Contracted-out operation of prisons and detention centres,Dovegate,MORETON PRISON SERVICES LTD,4491772,2506487.03,Prisons and detention centres operated by an external provider
+MOJ,NOMS,15/06/2012,Contracted-out operation of prisons and detention centres,Bronzefield,ASHFORD PRISON SERVICES LIMITED,4494881,2468797.09,Prisons and detention centres operated by an external provider
+MOJ,NOMS,20/06/2012,Contracted-out operation of prisons and detention centres,Wolds,G4S CARE & JUSTICE SERVICES LTD,4506450,733108.10,Prisons and detention centres operated by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out operation of prisons and detention centres,Ashfield,PUCKLECHURCH CUSTODIAL SERVICES LTD,4491770,2302760.87,Prisons and detention centres operated by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out operation of prisons and detention centres,Lowdham Grange,LOWDHAM GRANGE PRISON SERVICES LTD,4491774,2282314.12,Prisons and detention centres operated by an external provider
+MOJ,NOMS,01/06/2012,Contracted-out operation of prisons and detention centres,Oakwood,G4S CARE & JUSTICE SERVICES LTD,4488471,1809698.52,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Thameside,BWP PROJECT SERVICES LTD,4492232,1756150.17,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Rye Hill,ONLEY PRISON SERVICES LTD,4494146,1583134.12,Prisons and detention centres operated by an external provider
+MOJ,NOMS,28/06/2012,Contracted-out operation of prisons and detention centres,Doncaster,SERCO LTD,4504540,1529082.32,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494484,1430064.41,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494482,1270672.95,Prisons and detention centres operated by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out operation of prisons and detention centres,Parc,BRIDGEND CUSTODIAL SERVICES LTD,4495576,1217930.36,Prisons and detention centres operated by an external provider
+MOJ,NOMS,22/06/2012,Contracted-out operation of prisons and detention centres,G4S Birmingham,G4S CARE & JUSTICE SERVICES LTD,4472873,2317559.91,Prisons and detention centres operated by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out operation of prisons and detention centres,Dovegate,MORETON PRISON SERVICES LTD,4491771,613914.17,Prisons and detention centres operated by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out operation of prisons and detention centres,Altcourse,FAZAKERLEY PRISON SERVICES LTD,4495686,459719.46,Prisons and detention centres operated by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out operation of prisons and detention centres,Parc,BRIDGEND CUSTODIAL SERVICES LTD,4495558,338708.48,Prisons and detention centres operated by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out operation of prisons and detention centres,Parc,BRIDGEND CUSTODIAL SERVICES LTD,4495559,336803.84,Prisons and detention centres operated by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out operation of prisons and detention centres,Parc,BRIDGEND CUSTODIAL SERVICES LTD,4495577,103232.17,Prisons and detention centres operated by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out operation of prisons and detention centres,Bronzefield,ASHFORD PRISON SERVICES LIMITED,4494655,91604.38,Prisons and detention centres operated by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out operation of prisons and detention centres,G4S Birmingham,G4S CARE & JUSTICE SERVICES LTD,4492492,2320786.04,Prisons and detention centres operated by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out operation of prisons and detention centres,Dovegate,MORETON PRISON SERVICES LTD,4490744,68812.87,Prisons and detention centres operated by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out operation of prisons and detention centres,Dovegate,MORETON PRISON SERVICES LTD,4490745,61287.40,Prisons and detention centres operated by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out operation of prisons and detention centres,Bronzefield,ASHFORD PRISON SERVICES LIMITED,4494813,57750.84,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494834,55710.72,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Lowdham Grange,LOWDHAM GRANGE PRISON SERVICES LTD,4491773,43171.84,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494817,42065.76,Prisons and detention centres operated by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out operation of prisons and detention centres,Lowdham Grange,LOWDHAM GRANGE PRISON SERVICES LTD,4490748,41721.12,Prisons and detention centres operated by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494483,39703.13,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494809,39552.00,Prisons and detention centres operated by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out operation of prisons and detention centres,Forest Bank,AGECROFT PRISON MANAGEMENT LTD,4492495,38958.27,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Rye Hill,ONLEY PRISON SERVICES LTD,4494145,38034.75,Prisons and detention centres operated by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out operation of prisons and detention centres,Parc,BRIDGEND CUSTODIAL SERVICES LTD,4495560,33648.97,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Bronzefield,ASHFORD PRISON SERVICES LIMITED,4494637,33576.76,Prisons and detention centres operated by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out operation of prisons and detention centres,Altcourse,FAZAKERLEY PRISON SERVICES LTD,4496014,31827.44,Prisons and detention centres operated by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494806,28051.73,Prisons and detention centres operated by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494810,27623.33,Prisons and detention centres operated by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out operation of prisons and detention centres,Bronzefield,ASHFORD PRISON SERVICES LIMITED,4494654,-33189.74,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Rye Hill,ONLEY PRISON SERVICES LTD,4478711,-69596.33,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Rye Hill,ONLEY PRISON SERVICES LTD,4478712,-78223.54,Prisons and detention centres operated by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out operation of prisons and detention centres,Altcourse,FAZAKERLEY PRISON SERVICES LTD,4496019,-88170.47,Prisons and detention centres operated by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out operation of prisons and detention centres,Altcourse,FAZAKERLEY PRISON SERVICES LTD,4470277,-88170.47,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4482339,-100851.30,Prisons and detention centres operated by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4482338,-100851.30,Prisons and detention centres operated by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out operation of prisons and detention centres,Peterborough,PETERBOROUGH PRISON MANAGEMENT LTD,4494818,-104213.01,Prisons and detention centres operated by an external provider
+MOJ,NOMS,26/06/2012,WIP - Professional Fees,Estates Capacity,VINCI CONSTRUCTION UK LTD,4506120,407400.00,Professional fees in respect of construction work-in-progress
+MOJ,NOMS,22/06/2012,WIP - Professional Fees,Estates Capacity,URS INFRASTRUCTURE & ENVIRONMENT UK LTD,4514053,86780.64,Professional fees in respect of construction work-in-progress
+MOJ,NOMS,29/06/2012,WIP - Professional Fees,Estates Capacity,AEDAS ARCHITECTS LTD,4521420,49293.80,Professional fees in respect of construction work-in-progress
+MOJ,NOMS,15/06/2012,WIP - Professional Fees,Estates Capacity,ATKINS LTD,4328715,46099.45,Professional fees in respect of construction work-in-progress
+MOJ,NOMS,13/06/2012,WIP - Professional Fees,Estates Capacity,ATKINS LTD,4416707,45377.62,Professional fees in respect of construction work-in-progress
+MOJ,NOMS,15/06/2012,WIP - Professional Fees,Estates Capacity,ATKINS LTD,4291340,37797.46,Professional fees in respect of construction work-in-progress
+MOJ,NOMS,25/06/2012,WIP - Professional Fees,Estates Capacity,AEDAS ARCHITECTS LTD,4510695,33619.77,Professional fees in respect of construction work-in-progress
+MOJ,NOMS,28/06/2012,Contracted-out Medical services,Whitemoor,CAMBRIDGESHIRE & PETERBOROUGH MENTAL HEALTH PARTNERSHIP,4519813,147320.84,Provision of medical services in prison; amount is claimed back from the local Primary Care Trust
+MOJ,NOMS,08/06/2012,Contracted-out Probation Trusts,London Probation Trust,LONDON PROBATION TRUST,4493678,9000000.00,Provision of probation services
+MOJ,NOMS,14/06/2012,Contracted-out Probation Trusts,Staffordshire & West Midlands Probation Trust,STAFFORDSHIRE AND WEST MIDLANDS PROBATION TRUST,4496164,4300000.00,Provision of probation services
+MOJ,NOMS,06/06/2012,Contracted-out Probation Trusts,Wales Probation Trust,WALES PROBATION TRUST,4479705,3750000.00,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,West Yorkshire Probation Trust,WEST YORKSHIRE PROBATION TRUST,4519436,3000000.00,Provision of probation services
+MOJ,NOMS,29/06/2012,Contracted-out Probation Trusts,Northumbria Probation Trust,NORTHUMBRIA PROBATION TRUST,4516692,2700000.00,Provision of probation services
+MOJ,NOMS,18/06/2012,Contracted-out Probation Trusts,Merseyside Probation Trust,MERSEYSIDE PROBATION TRUST,4504597,2500000.00,Provision of probation services
+MOJ,NOMS,07/06/2012,Contracted-out Probation Trusts,Leicestershire Probation Trust,LEICESTERSHIRE&RUTLAND PROBATION TRUST,4489488,2290033.34,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Essex Probation Trust,ESSEX PROBATION TRUST,4519215,2250000.00,Provision of probation services
+MOJ,NOMS,29/06/2012,Contracted-out Probation Trusts,South Yorkshire Probation Trust,SOUTH YORKSHIRE PROBATION TRUST,4521451,2103000.00,Provision of probation services
+MOJ,NOMS,12/06/2012,Contracted-out Probation Trusts,Surrey & Sussex Probation Trust,SURREY & SUSSEX PROBATION TRUST,4494558,2100000.00,Provision of probation services
+MOJ,NOMS,13/06/2012,Contracted-out Probation Trusts,Kent Probation Trust,KENT PROBATION TRUST,4500638,2000000.00,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Devon and Cornwall Probation Trust,DEVON AND CORNWALL PROBATION TRUST,4513906,1919589.83,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Thames Valley Probation Trust,THAMES VALLEY PROBATION TRUST,4506426,1886926.83,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Lancashire Probation Trust,LANCASHIRE PROBATION TRUST,4511974,1666666.67,Provision of probation services
+MOJ,NOMS,06/06/2012,Contracted-out Probation Trusts,South Yorkshire Probation Trust,SOUTH YORKSHIRE PROBATION TRUST,4489402,1588000.00,Provision of probation services
+MOJ,NOMS,14/06/2012,Contracted-out Probation Trusts,Hertfordshire Probation Trust,HERTFORDSHIRE PROBATION TRUST,4499831,1500000.00,Provision of probation services
+MOJ,NOMS,08/06/2012,Contracted-out Probation Trusts,Avon and Somerset Probation Trust,AVON AND SOMERSET PROBATION TRUST,4491329,1400000.00,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Hampshire Probation Trust,HAMPSHIRE PROBATION TRUST,4508559,1300000.00,Provision of probation services
+MOJ,NOMS,29/06/2012,Contracted-out Probation Trusts,Cambridgeshire Probation Trust,CAMBRIDGESHIRE & PETERBOROUGH PROBATION TRUST,4519477,1250000.00,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Nottinghamshire Probation Trust,NOTTINGHAMSHIRE PROBATION TRUST,4519132,1200000.00,Provision of probation services
+MOJ,NOMS,12/06/2012,Contracted-out Probation Trusts,Humberside Probation Trust,HUMBERSIDE PROBATION TRUST,4494555,1137611.14,Provision of probation services
+MOJ,NOMS,08/06/2012,Contracted-out Probation Trusts,West Mercia Probation Trust,WEST MERCIA PROBATION TRUST,4491434,1118225.00,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Cheshire Probation Trust,CHESHIRE PROBATION TRUST,4499833,1000000.00,Provision of probation services
+MOJ,NOMS,13/06/2012,Contracted-out Probation Trusts,Bedfordshire Probation Trust,BEDFORDSHIRE PROBATION TRUST,4499381,731814.00,Provision of probation services
+MOJ,NOMS,06/06/2012,Contracted-out Probation Trusts,Lincolnshire Probation Trust,LINCOLNSHIRE PROBATION TRUST,4489139,727940.00,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Northamptonshire Probation Trust,NORTHAMPTONSHIRE PROBATION TRUST,4508916,709150.00,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,York and North Yorkshire Probation Trust,YORK AND NORTH YORKSHIRE PROBATION TRUST,4519435,700000.00,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Dorset Probation Trust,DORSET PROBATION TRUST,4511956,695700.00,Provision of probation services
+MOJ,NOMS,19/06/2012,Contracted-out Probation Trusts,Cumbria Probation Trust,CUMBRIA PROBATION TRUST,4505548,665000.00,Provision of probation services
+MOJ,NOMS,06/06/2012,Contracted-out Probation Trusts,Cambridgeshire Probation Trust,CAMBRIDGESHIRE & PETERBOROUGH PROBATION TRUST,4489176,625000.00,Provision of probation services
+MOJ,NOMS,11/06/2012,Contracted-out Probation Trusts,Gloucestershire Probation Trust,GLOUCESTERSHIRE PROBATION TRUST,4494448,600000.00,Provision of probation services
+MOJ,NOMS,12/06/2012,Contracted-out Probation Trusts,Wiltshire Probation Trust,WILTSHIRE PROBATION TRUST,4496304,572676.58,Provision of probation services
+MOJ,NOMS,29/06/2012,Contracted-out Probation Trusts,Warwickshire Probation Trust,WARWICKSHIRE PROBATION TRUST,4521084,520000.00,Provision of probation services
+MOJ,NOMS,20/06/2012,Contracted-out Probation Trusts,Hampshire Probation Trust,HAMPSHIRE PROBATION TRUST,4508559,500000.00,Provision of probation services
+MOJ,NOMS,01/06/2012,Contracted-out Probation Trusts,Warwickshire Probation Trust,WARWICKSHIRE PROBATION TRUST,4487251,475000.00,Provision of probation services
+MOJ,NOMS,22/06/2012,Contracted-out Probation Trusts,Lancashire Probation Trust,LANCASHIRE PROBATION TRUST,4511974,333333.33,Provision of probation services
+MOJ,NOMS,19/06/2012,Contracted-out Probation Trusts,Thames Valley Probation Trust,THAMES VALLEY PROBATION TRUST,4506426,166666.67,Provision of probation services
+MOJ,NOMS,01/06/2012,Contracted-out Probation Boards,Bristol,AVON AND SOMERSET PROBATION TRUST,4404836,79852.44,Provision of probation services
+MOJ,NOMS,08/06/2012,Contracted-out Probation Trusts,Business and Service Development Group,MINISTRY OF JUSTICE,4437983,45308.46,Provision of probation services
+MOJ,NOMS,12/06/2012,Contracted-out Probation Trusts,Wandsworth,LONDON PROBATION TRUST,4496684,44215.56,Provision of probation services
+MOJ,NOMS,19/06/2012,Contracted-out Probation Trusts,Highpoint,NORFOLK AND SUFFOLK PROBATION TRUST,4506776,43706.34,Provision of probation services
+MOJ,NOMS,21/06/2012,Contracted-out Probation Trusts,Isle of Wight,HAMPSHIRE PROBATION TRUST,4510774,38889.88,Provision of probation services
+MOJ,NOMS,13/06/2012,Contracted-out Probation Trusts,Nottingham,NOTTINGHAMSHIRE PROBATION TRUST,4501883,37308.21,Provision of probation services
+MOJ,NOMS,14/06/2012,Contracted-out Probation Trusts,Whatton,NOTTINGHAMSHIRE PROBATION TRUST,4501934,36286.08,Provision of probation services
+MOJ,NOMS,19/06/2012,Contracted-out Probation Trusts,Durham,DURHAM TEES VALLEY PROBATION TRUST,4505858,35298.95,Provision of probation services
+MOJ,NOMS,20/06/2012,Contracted-out Probation Trusts,Isle of Wight,HAMPSHIRE PROBATION TRUST,4509179,35146.02,Provision of probation services
+MOJ,NOMS,29/06/2012,Contracted-out Probation Trusts,Hull,HUMBERSIDE PROBATION TRUST,4500217,33799.14,Provision of probation services
+MOJ,NOMS,19/06/2012,Contracted-out Probation Trusts,Bure,NORFOLK AND SUFFOLK PROBATION TRUST,4506774,33755.86,Provision of probation services
+MOJ,NOMS,22/06/2012,Contracted-out Probation Trusts,Hull,HUMBERSIDE PROBATION TRUST,4459491,33726.73,Provision of probation services
+MOJ,NOMS,22/06/2012,Contracted-out Probation Trusts,Hull,HUMBERSIDE PROBATION TRUST,4440516,33564.69,Provision of probation services
+MOJ,NOMS,27/06/2012,Contracted-out Probation Trusts,Acklington,NORTHUMBRIA PROBATION TRUST,4516669,33513.48,Provision of probation services
+MOJ,NOMS,28/06/2012,Contracted-out Probation Trusts,Wellingborough,NORTHAMPTONSHIRE PROBATION TRUST,4520985,32189.70,Provision of probation services
+MOJ,NOMS,08/06/2012,Contracted-out Probation Trusts,Preston,LANCASHIRE PROBATION TRUST,4491082,31822.12,Provision of probation services
+MOJ,NOMS,12/06/2012,Contracted-out Probation Trusts,Wormwood Scrubs,LONDON PROBATION TRUST,4500502,31412.50,Provision of probation services
+MOJ,NOMS,27/06/2012,Contracted-out Probation Trusts,Glen Parva,LEICESTERSHIRE&RUTLAND PROBATION TRUST,4518015,29859.04,Provision of probation services
+MOJ,NOMS,11/06/2012,Contracted-out Probation Trusts,Bullingdon,THAMES VALLEY PROBATION TRUST,4494522,29702.23,Provision of probation services
+MOJ,NOMS,27/06/2012,Contracted-out Probation Trusts,Glen Parva,LEICESTERSHIRE&RUTLAND PROBATION TRUST,4518013,28335.45,Provision of probation services
+MOJ,NOMS,13/06/2012,Contracted-out Probation Trusts,Erlestoke and Shepton Mallet,WILTSHIRE PROBATION TRUST,4478593,26961.58,Provision of probation services
+MOJ,NOMS,11/06/2012,Contracted-out Probation Boards,Belmarsh,LONDON PROBATION TRUST,4496681,26188.41,Provision of probation services
+MOJ,NOMS,11/06/2012,Contracted-out Probation Trusts,Devon and Cornwall Probation Trust,DEVON AND CORNWALL PROBATION TRUST,4494887,25029.87,Provision of probation services
+MOJ,NOMS,29/06/2012,"Books, Stationery & IT Consumables",Central Budgets,J P MORGAN EUROPE LTD,4523120,45893.22,"Purchase of books, stationery and IT consumables"
+MOJ,NOMS,06/06/2012,VISA Costs,MOJ Shared Services NOMS Delivery,ALLSTAR BUSINESS SOLUTIONS LTD,4489248,84119.47,Purchase of motor fuel
+MOJ,NOMS,06/06/2012,VISA Costs,MOJ Shared Services NOMS Delivery,ALLSTAR BUSINESS SOLUTIONS LTD,4489235,73917.81,Purchase of motor fuel
+MOJ,NOMS,18/06/2012,Drugs,Rochester,ALLIANCE HEALTHCARE,4504768,29015.71,Purchase of pharmaceutical items
+MOJ,NOMS,14/06/2012,Pin Phone Suspense,Pentonville,BT PAYPHONES,4502038,25222.12,Purchase of pin phone credits for prisoner use. The money is repaid by prisoners from their own funds so this is at no cost to the taxpayer 
+MOJ,NOMS,14/06/2012,Pin Phone Suspense,Sheppey Clustered Services,BT PAYPHONES,4502002,25206.41,Purchase of pin phone credits for prisoner use. The money is repaid by prisoners from their own funds so this is at no cost to the taxpayer 
+MOJ,NOMS,19/06/2012,Plant and Machinery - Acquisitions,Transport Group,RYGOR COMMERCIALS LTD,4509392,124610.40,Purchase of Plant and Machinery
+MOJ,NOMS,19/06/2012,Plant and Machinery - Acquisitions,Transport Group,RYGOR COMMERCIALS LTD,4509393,124610.40,Purchase of Plant and Machinery
+MOJ,NOMS,20/06/2012,Plant and Machinery - Acquisitions,Transport Group,RYGOR COMMERCIALS LTD,4509394,124610.40,Purchase of Plant and Machinery
+MOJ,NOMS,15/06/2012,Plant and Machinery - Acquisitions,Belmarsh,SCHNEIDER ELECTRIC LTD,4407945,120000.00,Purchase of Plant and Machinery
+MOJ,NOMS,28/06/2012,Plant and Machinery - Acquisitions,DDC East of England,PENTACO CONSTRUCTION LTD,4519806,105539.10,Purchase of Plant and Machinery
+MOJ,NOMS,06/06/2012,Plant and Machinery - Acquisitions,Low Newton,VINCI CONSTRUCTION UK LTD,4489189,73110.05,Purchase of Plant and Machinery
+MOJ,NOMS,11/06/2012,Plant and Machinery - Acquisitions,Stoke Heath,IVECO LIMITED,4494846,59697.60,Purchase of Plant and Machinery
+MOJ,NOMS,19/06/2012,Plant and Machinery - Acquisitions,Send,SCHNEIDER ELECTRIC LTD,4397067,59528.40,Purchase of Plant and Machinery
+MOJ,NOMS,27/06/2012,Plant and Machinery - Acquisitions,Moorland,IVECO LIMITED,4516909,47368.80,Purchase of Plant and Machinery
+MOJ,NOMS,13/06/2012,Plant and Machinery - Acquisitions,DDC East of England,LORNE STEWART PLC,4500773,44082.68,Purchase of Plant and Machinery
+MOJ,NOMS,13/06/2012,Plant and Machinery - Acquisitions,DDC East of England,LORNE STEWART PLC,4500780,43795.94,Purchase of Plant and Machinery
+MOJ,NOMS,22/06/2012,Plant and Machinery - Acquisitions,Erlestoke and Shepton Mallet,CENTERPRISE INTERNATIONAL LIMITED,4502935,41322.36,Purchase of Plant and Machinery
+MOJ,NOMS,15/06/2012,Plant and Machinery - Index,Cookham Wood,IVECO LIMITED,4502434,36838.80,Purchase of Plant and Machinery
+MOJ,NOMS,08/06/2012,Plant and Machinery - Acquisitions,DDC East of England,PENTACO CONSTRUCTION LTD,4491439,32418.29,Purchase of Plant and Machinery
+MOJ,NOMS,21/06/2012,Plant and Machinery - Acquisitions,Hollesley Bay,FORD MOTOR CO LTD,4511654,30753.24,Purchase of Plant and Machinery
+MOJ,NOMS,25/06/2012,Plant and Machinery - Acquisitions,Hollesley Bay,FORD MOTOR CO LTD,4514934,30753.24,Purchase of Plant and Machinery
+MOJ,NOMS,01/06/2012,Plant and Machinery - Acquisitions,Sheppey Clustered Services,RENAULT,4481756,30240.24,Purchase of Plant and Machinery
+MOJ,NOMS,19/06/2012,Plant and Machinery - Acquisitions,Sheppey Clustered Services,RENAULT,4492688,30240.24,Purchase of Plant and Machinery
+MOJ,NOMS,14/06/2012,Plant and Machinery - Acquisitions,Belmarsh,SCHNEIDER ELECTRIC LTD,4490394,27634.95,Purchase of Plant and Machinery
+MOJ,NOMS,13/06/2012,Plant and Machinery - Acquisitions,DDC East of England,LORNE STEWART PLC,,-43795.94,Purchase of Plant and Machinery
+MOJ,NOMS,13/06/2012,Plant and Machinery - Acquisitions,DDC East of England,LORNE STEWART PLC,,-44082.68,Purchase of Plant and Machinery
+MOJ,NOMS,19/06/2012,Plant and Machinery - Acquisitions,Send,SCHNEIDER ELECTRIC LTD,4504604,-59528.40,Purchase of Plant and Machinery
+MOJ,NOMS,22/06/2012,Buildings - Acquisitions,Springhill,GLISCO LTD T/A POLYTHENEONE.COM,4511703,37062.90,Purchase of polytunnels for horticulture
+MOJ,NOMS,08/06/2012,Clothing,Offender Services Co Commissioning Group,JIANGSU SAINTY CORP LTD,4493443,73615.36,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,27/06/2012,Clothing,Offender Services Co Commissioning Group,CARPENTER LTD,4514063,73287.84,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,08/06/2012,Clothing,Offender Services Co Commissioning Group,JIANGSU SAINTY CORP LTD,4493462,51408.00,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,06/06/2012,Clothing,Offender Services Co Commissioning Group,CARPENTER LTD,4488746,36087.21,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,08/06/2012,Clothing,Offender Services Co Commissioning Group,JIANGSU SAINTY CORP LTD,4493463,30744.00,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,08/06/2012,Clothing,Offender Services Co Commissioning Group,JIANGSU SAINTY CORP LTD,4493486,30200.00,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,27/06/2012,Clothing,Offender Services Co Commissioning Group,CARPENTER LTD,4508464,27515.58,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,08/06/2012,Clothing,Offender Services Co Commissioning Group,JIANGSU SAINTY CORP LTD,4493808,26611.20,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,08/06/2012,Clothing,Offender Services Co Commissioning Group,JIANGSU SAINTY CORP LTD,4493444,26544.67,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,08/06/2012,Clothing,Offender Services Co Commissioning Group,JIANGSU SAINTY CORP LTD,4493485,25650.00,"Purchase of raw materials for prisoners to make clothing, bedding, towels etc"
+MOJ,NOMS,20/06/2012,Office Equipment Purchases Under £10k,Leeds,BT PAYPHONES,4509653,45478.37,"Purchases and short term rentals of equipment, furniture and fittings"
+MOJ,NOMS,11/06/2012,Office Equipment Purchases Under £10k,Littlehey,JLA LTD,4494200,28666.80,"Purchases and short term rentals of equipment, furniture and fittings"
+MOJ,NOMS,29/06/2012,Accruals - Goods & services,MOJ Shared Services NOMS Delivery,J P MORGAN EUROPE LTD,4523120,2873253.77,Purchases via Government Procurement Card (GPC)
+MOJ,NOMS,15/06/2012,Raw Materials - ESS/LBA Industries ,Offender Services Co Commissioning Group,T.R.LAWMAN LTD,4504452,49789.71,Raw materials for prison industries
+MOJ,NOMS,08/06/2012,Raw Materials - ESS/LBA Industries ,Offender Services Co Commissioning Group,T.R.LAWMAN LTD,4493009,49678.91,Raw materials for prison industries
+MOJ,NOMS,21/06/2012,Miscellaneous,ER and Reward Team,MINISTRY OF JUSTICE,4418454,860369.71,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,21/06/2012,Miscellaneous,Learning and Development Group,MINISTRY OF JUSTICE,4418454,824719.12,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,21/06/2012,Miscellaneous,Organisational Development Group,MINISTRY OF JUSTICE,4418454,380389.89,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,21/06/2012,Miscellaneous,Organisational Development Group,MINISTRY OF JUSTICE,4420276,-112690.87,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,21/06/2012,Miscellaneous,Learning and Development Group,MINISTRY OF JUSTICE,4420276,-244323.76,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,21/06/2012,Miscellaneous,Organisational Development Group,MINISTRY OF JUSTICE,4422014,-324968.36,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,21/06/2012,Miscellaneous,ER and Reward Team,MINISTRY OF JUSTICE,4420276,-357014.61,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,21/06/2012,Miscellaneous,Learning and Development Group,MINISTRY OF JUSTICE,4422014,-704560.19,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,21/06/2012,Miscellaneous,ER and Reward Team,MINISTRY OF JUSTICE,4422014,-735016.67,Relates to Civil Service HR Expert Service Cost
+MOJ,NOMS,11/06/2012,Contracted-out Resettlement Services,NOMS Cymru Regional Services,G4S CARE & JUSTICE SERVICES LTD,4490928,91205.12,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,19/06/2012,Contracted-out Resettlement Services,NOMS CFO,WORKING LINKS,4501798,272164.93,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,22/06/2012,Contracted-out Resettlement Services,Wandsworth,ST. GILES TRUST,4511433,179167.66,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out Resettlement Services,NOMS CFO,PERTEMPS PEOPLE DEVELOPMENT GROUP,4496301,160478.88,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out Resettlement Services,NOMS CFO,PERTEMPS PEOPLE DEVELOPMENT GROUP,4496300,106976.49,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,13/06/2012,Contracted-out Resettlement Services,Newday ESF,SOVA,4487917,103602.33,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out Resettlement Services,NOMS CFO,SERCO LTD,4483521,100100.69,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Resettlement Services,NOMS CFO,SERCO LTD,4501793,100100.69,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,19/06/2012,Contracted-out Resettlement Services,NOMS CFO,LEICESTERSHIRE&RUTLAND PROBATION TRUST,4502912,97240.50,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Resettlement Services,NOMS CFO,SERCO LTD,4501792,95697.00,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Resettlement Services,NOMS CFO,SERCO LTD,4484725,95697.00,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,20/06/2012,Contracted-out Resettlement Services,NOMS CFO,PERTEMPS PEOPLE DEVELOPMENT GROUP,4509008,90194.76,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,27/06/2012,Contracted-out Resettlement Services,ROM - North East,PRISON FELLOWSHIP ENGLAND & WALES,4487166,76434.75,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,20/06/2012,Contracted-out Resettlement Services,NOMS CFO,PERTEMPS PEOPLE DEVELOPMENT GROUP,4509007,37721.42,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,29/06/2012,Contracted-out Resettlement Services,Women and Equalities Group,RECOOP,4522890,37480.00,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out Resettlement Services,DDC North East,SHELTER,4384780,33193.00,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,29/06/2012,Contracted-out Resettlement Services,ROM - North East,PRISON FELLOWSHIP ENGLAND & WALES,4523127,31250.00,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,21/06/2012,Contracted-out Resettlement Services,Stocken,KAINOS COMMUNITY,4509072,26953.00,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Resettlement Services,NOMS CFO,SERCO LTD,4451148,-95697.00,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Resettlement Services,NOMS CFO,SERCO LTD,4451146,-100100.69,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,29/06/2012,Contracted-out Resettlement Services,Wandsworth,ST. GILES TRUST,,-161250.99,Resettlement and community services for prisoners supplied by an external provider
+MOJ,NOMS,07/06/2012,Contracted-out Other Services,Bail Accommodation Support Services,HOME GROUP LTD (STONHAM),4481587,618360.65,Services supplied by an external provider
+MOJ,NOMS,27/06/2012,Contracted-out Other Services,Estates Capacity,HOME OFFICE,4518604,441000.00,Services supplied by an external provider
+MOJ,NOMS,26/06/2012,Contracted-out Other Services,DDC North East,MIDDLESBROUGH COUNCIL,4513046,125000.00,Services supplied by an external provider
+MOJ,NOMS,27/06/2012,Contracted-out Other Services,Director PSP Front Line Centrally Managed,COFATHEC ENERGY PFI LTD,4519684,124146.13,Services supplied by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Other Services,Isle of Wight,COFATHEC ENERGY SERVICES UK LTD,4502171,64585.79,Services supplied by an external provider
+MOJ,NOMS,08/06/2012,Contracted-out Other Services,Business and Service Development Group,MINISTRY OF JUSTICE,4426471,54384.00,Services supplied by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out Other Services,Blundeston,COFATHEC ENERGY SERVICES UK LTD,4494462,51352.80,Services supplied by an external provider
+MOJ,NOMS,14/06/2012,Contracted-out Other Services,Isle of Wight,COFATHEC ENERGY SERVICES UK LTD,4502169,40027.05,Services supplied by an external provider
+MOJ,NOMS,11/06/2012,Contracted-out Other Services,Chelmsford,COFATHEC ENERGY SERVICES UK LTD,4494853,38114.71,Services supplied by an external provider
+MOJ,NOMS,19/06/2012,Specialist Contractors,Organisational Restructure Programme,PARITY RESOURCES LTD,4483117,221623.50,Specialist contractors engaged under a fixed-term contract for services 
+MOJ,NOMS,08/06/2012,Specialist Contractors,Estates Capacity,G V A GRIMLEY,4491084,97743.48,Specialist contractors engaged under a fixed-term contract for services 
+MOJ,NOMS,19/06/2012,Specialist Contractors,Director of HRs Office and Programme Hub,PARITY RESOURCES LTD,4457126,72214.20,Specialist contractors engaged under a fixed-term contract for services 
+MOJ,NOMS,12/06/2012,Training and Further Education Courses,Learning and Development Group,CITY OF BRISTOL COLLEGE,4490175,53483.16,Staff training and further education courses
+MOJ,NOMS,27/06/2012,Uniforms & protective Clothing,Birmingham,JIANGSU SUNSHINE DONGSHENG IMP & EXP CO LTD,4080709,25866.36,Staff uniforms and protective clothing
+MOJ,NOMS,08/06/2012,Travel - Non-Taxable,Procurement Group,MINISTRY OF JUSTICE,4432967,78789.59,Staff work related travel
+MOJ,NOMS,07/06/2012,Travel - Non-Taxable,HOPS Payroll Charge,CARLSON WAGONLIT TRAVEL,4490402,58946.99,Staff work related travel
+MOJ,NOMS,15/06/2012,Subsistence,HOPS Payroll Charge,CALDER CONFERENCE,4503353,68569.50,Subsistence and hotel accommodation for staff working away from their home area 
+MOJ,NOMS,28/06/2012,Subsistence,HOPS Payroll Charge,CALDER CONFERENCE,4520231,64095.04,Subsistence and hotel accommodation for staff working away from their home area 
+MOJ,NOMS,21/06/2012,Subsistence,HOPS Payroll Charge,CALDER CONFERENCE,4511053,57251.02,Subsistence and hotel accommodation for staff working away from their home area 
+MOJ,NOMS,07/06/2012,Subsistence,HOPS Payroll Charge,CALDER CONFERENCE,4490404,40423.15,Subsistence and hotel accommodation for staff working away from their home area 
+MOJ,NOMS,27/06/2012,Contracted-out Visitor's Centres,Send,SEND PLAY PROJECT & VISTORS CENTRE,4519573,33441.00,Visitors' Centre facilities supplied by an external provider
+MOJ,NOMS,12/06/2012,Contracted-out Visitor's Centres,Highdown,THE VISITORS CENTRE,4495720,27500.00,Visitors' Centre facilities supplied by an external provider
+MOJ,NOMS,13/06/2012,Water and Sewage,Channings Wood,SOUTH WEST WATER LTD,4500721,74736.90,Water and sewage utility costs
+MOJ,NOMS,15/06/2012,Water and Sewage,Lindholme,YORKSHIRE WATER SERVICES LTD,4503362,46465.71,Water and sewage utility costs
+MOJ,NOMS,29/06/2012,Water and Sewage,Long Lartin,SEVERN TRENT WATER LTD,4489366,37714.92,Water and sewage utility costs
+MOJ,NOMS,06/06/2012,Water and Sewage,Liverpool,UNITED UTILITIES WATER PLC,4489247,34047.58,Water and sewage utility costs
+MOJ,NOMS,18/06/2012,Water and Sewage,Sheppey Clustered Services,SOUTHERN WATER SERVICES LTD,4471478,30284.05,Water and sewage utility costs
+MOJ,NOMS,15/06/2012,Water and Sewage,Verne (The),BRISTOL AND WESSEX WATER BILLING SERVICES LTD,4503366,27836.23,Water and sewage utility costs
+MOJ,NOMS,13/06/2012,Water and Sewage,Acklington,NORTHUMBRIAN WATER,4500731,26191.29,Water and sewage utility costs
+MOJ,NOMS,18/06/2012,Water and Sewage,Wormwood Scrubs,THAMES WATER UTILITIES LTD,4459834,26111.42,Water and sewage utility costs

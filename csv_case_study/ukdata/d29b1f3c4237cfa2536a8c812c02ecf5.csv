@@ -1,0 +1,180 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,Description
+Department of Health,NHS Blood and Transplant,26/10/2012,BUSINESS RATES,Estates & Logistics,SOUTH GLOUCESTERSHIRE COUNCIL PO BOX 101,1591904,54502,Business rates
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS HTLV,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1636904,14440.86,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS NAT,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1636904,227125.8,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS HTLV,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1636906,28382.34,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS NAT,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1636906,446008.2,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,12/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,JOHNSON & JOHNSON MEDICAL LTD (THERAKOS),1639980,64044,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1642031,-118359.36,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,IMPORTS FRESH FROZEN PLASMA,Blood Supply,MACO PHARMA UK LTD,1642100,55440,Imports of Fresh Frozen Plasma
+Department of Health,NHS Blood and Transplant,05/10/2012,WASTE DISPOSAL - CLINICAL,Estates & Logistics,SRCL LTD,1642107,25766.36,External Contract for disposal of clinical waste
+Department of Health,NHS Blood and Transplant,19/10/2012,LEGAL FEES,Clinical,MILLS & REEVE,1643550,37919.23,Legal fees incurred - relating to patent application
+Department of Health,NHS Blood and Transplant,05/10/2012,OTHER PROFESSIONAL FEES,Estates & Logistics,FRAIKIN LTD,1643810,735,Other professional fees - management fee relating to fleet repair contract
+Department of Health,NHS Blood and Transplant,05/10/2012,VEHICLE REPAIRS & MAINTENANCE,Estates & Logistics,FRAIKIN LTD,1643810,35566.44,External contract for fleet vehicle repairs amd maintenance
+Department of Health,NHS Blood and Transplant,05/10/2012,AVERAGE COST VARIANCE,General and Other,HAEMONETICS LIMITED,1644145,18,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1644145,67838.4,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,AVERAGE COST VARIANCE,General and Other,HAEMONETICS LIMITED,1644159,18,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1644159,41057.52,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,AVERAGE COST VARIANCE,General and Other,HAEMONETICS LIMITED,1644182,18,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1644182,66800.16,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,EQUIPMENT MAINTENANCE CONTRACT,Specialist and Customer Services,TERUMO UK,1644429,892.5,Costs of maintenance contracts on equipment
+Department of Health,NHS Blood and Transplant,12/10/2012,EQUIPMENT MAINTENANCE CONTRACT,Blood Supply,TERUMO UK,1644429,25882.5,Costs of maintenance contracts on equipment
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1644491,114048,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,IT HARDWARE MAINTENANCE,Business Transformation Services,SAVANT LIMITED,1644964,29271.75,Maintenance costs of IT hardware
+Department of Health,NHS Blood and Transplant,12/10/2012,IT SOFTWARE MAINTENANCE,Business Transformation Services,SAVANT LIMITED,1644964,220078.76,Maintenance costs of IT software
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1645045,41472,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,POSTAGE,Organ Donation & Transplantation,ROYAL MAIL(PETERBOROUGH),1645118,21002.65,Postage costs
+Department of Health,NHS Blood and Transplant,05/10/2012,ELECTRICITY,Estates & Logistics,OXFORD RADCLIFFE HOSPITALS NHS TRUST,1645124,29074.74,Electricity costs
+Department of Health,NHS Blood and Transplant,12/10/2012,RENT/LEASE,Estates & Logistics,OXFORD RADCLIFFE HOSPITALS NHS TRUST,1645131,38500,Property rent costs
+Department of Health,NHS Blood and Transplant,05/10/2012,AUDIT EXTERNAL FINANCIAL,Finance,NATIONAL AUDIT OFFICE,1645168,90000,Fees for external audit of statutory accounts
+Department of Health,NHS Blood and Transplant,05/10/2012,AVERAGE COST VARIANCE,General and Other,HAEMONETICS LIMITED,1645182,18,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1645182,108620.4,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,PREMISES MAINTENANCE - MINOR WORKS,Blood Supply,INTERSERVE  CONSTRUCTION LTD,1645237,33615.37,Minor works projects costs
+Department of Health,NHS Blood and Transplant,05/10/2012,CAPITAL PURCHASES ACCOUNT,NBS and ODT All Areas,JOHNSON & JOHNSON MEDICAL LTD (THERAKOS),1645333,66300,Purchase of Fixed Assets
+Department of Health,NHS Blood and Transplant,12/10/2012,AVERAGE COST VARIANCE,General and Other,ORTHO CLINICAL DIAGNOSTICS,1645488,0.01,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS TPHA,Blood Supply,ORTHO CLINICAL DIAGNOSTICS,1645488,5621.4,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS HEPB,Blood Supply,ORTHO CLINICAL DIAGNOSTICS,1645488,5710.46,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS HEPC,Blood Supply,ORTHO CLINICAL DIAGNOSTICS,1645488,15932.78,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,05/10/2012,AVERAGE COST VARIANCE,General and Other,CABLE & WIRELESS COMMUNICATIONS MILTON KEYNES,1645899,0.04,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,05/10/2012,PAGERS,Business Transformation Services,CABLE & WIRELESS COMMUNICATIONS MILTON KEYNES,1645899,159.74,Costs incurred relating to use of pagers
+Department of Health,NHS Blood and Transplant,05/10/2012,IT SOFTWARE MAINTENANCE,Business Transformation Services,CABLE & WIRELESS COMMUNICATIONS MILTON KEYNES,1645899,1116.2,Maintenance costs of IT software
+Department of Health,NHS Blood and Transplant,05/10/2012,IT SOFTWARE LICENCE FEES,Business Transformation Services,CABLE & WIRELESS COMMUNICATIONS MILTON KEYNES,1645899,5620.66,Purchase of IT software licences
+Department of Health,NHS Blood and Transplant,05/10/2012,IT HARDWARE MAINTENANCE,Business Transformation Services,CABLE & WIRELESS COMMUNICATIONS MILTON KEYNES,1645899,15184.27,Maintenance costs of IT hardware
+Department of Health,NHS Blood and Transplant,05/10/2012,MOBILE TELEPHONES,Business Transformation Services,CABLE & WIRELESS COMMUNICATIONS MILTON KEYNES,1645899,36409.22,Mobile telephone costs
+Department of Health,NHS Blood and Transplant,05/10/2012,TELEPHONES,Business Transformation Services,CABLE & WIRELESS COMMUNICATIONS MILTON KEYNES,1645899,79467.58,Telephone costs
+Department of Health,NHS Blood and Transplant,05/10/2012,IT COMMUNICATIONS LINKS,Business Transformation Services,CABLE & WIRELESS COMMUNICATIONS MILTON KEYNES,1645899,141729.24,Costs of IT infrastructure communications links
+Department of Health,NHS Blood and Transplant,05/10/2012,POSTAGE,Blood Supply,STRALFORS,1646199,25474.24,Postage costs
+Department of Health,NHS Blood and Transplant,12/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1646323,72576,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1646326,31104,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,VEHICLE FUEL & OILS,Estates & Logistics,HARVEST ENERGY LTD,1646643,30579.26,Charges for vehicle fuel
+Department of Health,NHS Blood and Transplant,05/10/2012,AVERAGE COST VARIANCE,General and Other,NORLAND MANAGED SERVICES,1646667,-0.01,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,05/10/2012,PREMISES MAINTENANCE - PLANNED,Estates & Logistics,NORLAND MANAGED SERVICES,1646667,53166.23,Planned / scheduled premises maintenace costs
+Department of Health,NHS Blood and Transplant,05/10/2012,PREMISES MAINTENANCE - PLANNED,Estates & Logistics,NORLAND MANAGED SERVICES,1646677,52758.76,Planned / scheduled premises maintenace costs
+Department of Health,NHS Blood and Transplant,19/10/2012,EQUIPMENT PURCHASES,Blood Supply,RENFREW GROUP INTERNATIONAL,1646783,46749.84,Purchase of Equipment
+Department of Health,NHS Blood and Transplant,19/10/2012,IT SOFTWARE MAINTENANCE,Business Transformation Services,INSIGHT DIRECT UK LIMITED,1647067,38238.72,Maintenance costs of IT software
+Department of Health,NHS Blood and Transplant,26/10/2012,EQUIPMENT MAINTENANCE CONTRACT,Specialist and Customer Services,PHARMAGRAPH,1647122,63722.5,Costs of maintenance contracts on equipment
+Department of Health,NHS Blood and Transplant,19/10/2012,CARRIAGE INWARDS,Specialist and Customer Services,VH BIO LTD,1647158,66,Carriage charges on stores purchases
+Department of Health,NHS Blood and Transplant,19/10/2012,DIRECT CONSUMABLES,Specialist and Customer Services,VH BIO LTD,1647158,2748,Consumable items used primarily during normal day to day operations
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS OTHER,Specialist and Customer Services,VH BIO LTD,1647158,55020,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,12/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1647169,40384.51,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1647171,46669.73,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1647173,30675.46,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1647192,25724.16,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1647195,47328.77,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,05/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1647212,50480.64,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,VEHICLE FUEL & OILS,Estates & Logistics,EMO OIL LTD,1647243,25266.28,Charges for vehicle fuel
+Department of Health,NHS Blood and Transplant,19/10/2012,OTHER PROFESSIONAL FEES,Business Transformation Services,GARTNER UK LTD,1647897,32400,Other professional fees - Blood Donor portal review
+Department of Health,NHS Blood and Transplant,26/10/2012,IT HARDWARE MAINTENANCE,General and Other,SAVANT LIMITED,1647940,29778.71,Maintenance costs of IT hardware
+Department of Health,NHS Blood and Transplant,05/10/2012,COURIER & DELIVERY CHARGES,Estates & Logistics,TNT EXPRESS UK LTD,1648114,41750.61,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,19/10/2012,PREMISES MAINTENANCE - PLANNED,Estates & Logistics,MITIE TECHNICAL FACILITIES MANAGEMENT,1648565,66155.09,Planned / scheduled premises maintenace costs
+Department of Health,NHS Blood and Transplant,19/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1648580,50480.64,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1648589,25724.16,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,19/10/2012,VEHICLE FUEL & OILS,Organ Donation & Transplantation,ALLSTAR BUSINESS SOLUTIONS LTD,1648712,62.35,Charges for vehicle fuel
+Department of Health,NHS Blood and Transplant,19/10/2012,VEHICLE FUEL & OILS,Blood Supply,ALLSTAR BUSINESS SOLUTIONS LTD,1648712,1933.21,Charges for vehicle fuel
+Department of Health,NHS Blood and Transplant,19/10/2012,VEHICLE FUEL & OILS,Estates & Logistics,ALLSTAR BUSINESS SOLUTIONS LTD,1648712,36903.92,Charges for vehicle fuel
+Department of Health,NHS Blood and Transplant,19/10/2012,STEAM,Estates & Logistics,OXFORD RADCLIFFE HOSPITALS NHS TRUST,1648873,1768.21,Steam power costs
+Department of Health,NHS Blood and Transplant,19/10/2012,WATER & SEWERAGE,Estates & Logistics,OXFORD RADCLIFFE HOSPITALS NHS TRUST,1648873,2265.17,Charges relating to water and sewerage costs
+Department of Health,NHS Blood and Transplant,19/10/2012,ELECTRICITY,Estates & Logistics,OXFORD RADCLIFFE HOSPITALS NHS TRUST,1648873,24376.7,Electricity costs
+Department of Health,NHS Blood and Transplant,05/10/2012,TEST KITS HEPB,Blood Supply,ABBOTT LABORATORIES LTD,1648999,30616.52,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,05/10/2012,TEST KITS HIV,Blood Supply,ABBOTT LABORATORIES LTD,1648999,44904.42,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,05/10/2012,TEST KITS HEPC,Blood Supply,ABBOTT LABORATORIES LTD,1648999,215337.32,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,26/10/2012,TEST KITS HIV,Blood Supply,ABBOTT LABORATORIES LTD,1649008,24493.32,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,26/10/2012,TEST KITS HEPB,Blood Supply,ABBOTT LABORATORIES LTD,1649008,27833.2,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,26/10/2012,TEST KITS HEPC,Blood Supply,ABBOTT LABORATORIES LTD,1649008,156608.96,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,05/10/2012,TEST KITS HEPB,Blood Supply,ABBOTT LABORATORIES LTD,1649011,18091.58,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,05/10/2012,TEST KITS HIV,Blood Supply,ABBOTT LABORATORIES LTD,1649011,22452.21,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,05/10/2012,TEST KITS HEPC,Blood Supply,ABBOTT LABORATORIES LTD,1649011,117456.72,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,19/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1649016,40856.11,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,19/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1649019,38548.22,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1649037,62208,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,19/10/2012,IT HARDWARE MAINTENANCE,Business Transformation Services,SOFTCAT LTD,1649082,42756.05,Maintenance costs of IT hardware
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS HEPB,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1649135,8503.75,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS HTLV,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1649135,28382.34,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS NAT,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1649135,446008.2,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS HTLV,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1649144,30088.8,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS NAT,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1649144,481055.25,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS HEPB,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1649145,10702.5,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS HTLV,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1649145,14440.86,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,19/10/2012,TEST KITS NAT,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1649145,227125.8,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,05/10/2012,VEHICLE REPAIRS & MAINTENANCE,Estates & Logistics,FRAIKIN LTD,1649187,-21404,External contract for fleet vehicle repairs amd maintenance
+Department of Health,NHS Blood and Transplant,19/10/2012,AVERAGE COST VARIANCE,General and Other,HAEMONETICS LIMITED,1649195,18,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,19/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1649195,117679.68,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,19/10/2012,AVERAGE COST VARIANCE,General and Other,HAEMONETICS LIMITED,1649208,18,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,19/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1649208,54270.72,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,AVERAGE COST VARIANCE,General and Other,HAEMONETICS LIMITED,1649213,18,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,HAEMONETICS LIMITED,1649213,60016.32,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1649242,51840,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,19/10/2012,EXTERNAL MARKETING SERVICES,Blood Supply,M4C,1649268,35491.5,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,19/10/2012,IMPORTS FRESH FROZEN PLASMA,Blood Supply,MACO PHARMA UK LTD,1649278,55440,Imports of Fresh Frozen Plasma
+Department of Health,NHS Blood and Transplant,19/10/2012,CAPITAL PURCHASES ACCOUNT,NBS and ODT All Areas,LIFE TECHNOLOGIES LTD APPLIED BIOSYSTEMS,1649311,93000,Purchase of Fixed Assets
+Department of Health,NHS Blood and Transplant,19/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1649356,31104,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,EQUIPMENT MAINTENANCE CONTRACT,Blood Supply,CONTRONICS LTD,1649416,1195.2,Costs of maintenance contracts on equipment
+Department of Health,NHS Blood and Transplant,26/10/2012,EQUIPMENT MAINTENANCE CONTRACT,Clinical,CONTRONICS LTD,1649416,12748.8,Costs of maintenance contracts on equipment
+Department of Health,NHS Blood and Transplant,26/10/2012,EQUIPMENT MAINTENANCE CONTRACT,Specialist and Customer Services,CONTRONICS LTD,1649416,17131.2,Costs of maintenance contracts on equipment
+Department of Health,NHS Blood and Transplant,26/10/2012,EQUIPMENT MAINTENANCE CONTRACT,Blood Supply,CONTRONICS LTD,1649416,365444.8,Costs of maintenance contracts on equipment
+Department of Health,NHS Blood and Transplant,26/10/2012,EQUIPMENT PURCHASES,Blood Supply,RENFREW GROUP INTERNATIONAL,1649427,134900.33,Purchase of Equipment
+Department of Health,NHS Blood and Transplant,05/10/2012,ELECTRICITY,Estates & Logistics,EDF ENERGY,1649467,25091.68,Electricity costs
+Department of Health,NHS Blood and Transplant,05/10/2012,ELECTRICITY,Estates & Logistics,EDF ENERGY,1649473,29877.83,Electricity costs
+Department of Health,NHS Blood and Transplant,05/10/2012,TRAVEL AND HOTEL SUSPENSE ACCOUNT,NBS and ODT All Areas,REDFERN TRAVEL LTD,1649475,202512.97,Travel and hotel costs arising from central booking system used
+Department of Health,NHS Blood and Transplant,19/10/2012,CLEANING CONTRACT,Estates & Logistics,REGENT CLEANING SERVICES,1649505,32460.7,External cleaning contracts
+Department of Health,NHS Blood and Transplant,19/10/2012,AVERAGE COST VARIANCE,General and Other,REGENT CLEANING SERVICES,1649671,-0.01,Difference between Purchase Order and Supplier Invoice price for Stores items
+Department of Health,NHS Blood and Transplant,19/10/2012,TEMPORARY OTHER,Estates & Logistics,REGENT CLEANING SERVICES,1649671,2155.24,Temporary Staff costs
+Department of Health,NHS Blood and Transplant,19/10/2012,CLEANING CONTRACT,Estates & Logistics,REGENT CLEANING SERVICES,1649671,20674.65,External cleaning contracts
+Department of Health,NHS Blood and Transplant,26/10/2012,WATER & SEWERAGE,Estates & Logistics,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,1649852,1280.68,Charges relating to water and sewerage costs
+Department of Health,NHS Blood and Transplant,26/10/2012,ELECTRICITY,Estates & Logistics,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,1649852,25078.41,Electricity costs
+Department of Health,NHS Blood and Transplant,26/10/2012,IT SOFTWARE,Business Transformation Services,SAVANT LIMITED,1650006,94514.73,Purchase of IT software
+Department of Health,NHS Blood and Transplant,19/10/2012,DONOR AWARDS,Communication & Public Affairs,BADGES PLUS LIMITED,1650041,31656.18,Commemorative awards given to donors in recognition of acheiving a variety of donation milestones
+Department of Health,NHS Blood and Transplant,12/10/2012,EXTERNAL MARKETING SERVICES,Blood Supply,TELEPERFORMANCE LIMITED,1650042,227574.4,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,12/10/2012,COURIER & DELIVERY CHARGES,Estates & Logistics,TNT EXPRESS UK LTD,1650110,39672.56,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,12/10/2012,COURIER & DELIVERY CHARGES,Estates & Logistics,TNT EXPRESS UK LTD,1650112,21502.05,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,19/10/2012,EXTERNAL MARKETING SERVICES,Blood Supply,TELEPERFORMANCE LIMITED,1650118,194436.16,"External costs of marketing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,26/10/2012,EXTERNAL MAILING SERVICES,Blood Supply,TELEPERFORMANCE LIMITED,1650119,87020.06,"External costs of mailing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,12/10/2012,RENT/LEASE,Business Transformation Services,BIO PRODUCTS LABORATORY,1650135,34250,Property rent costs
+Department of Health,NHS Blood and Transplant,26/10/2012,OTHER PROFESSIONAL FEES,Estates & Logistics,FRAIKIN LTD,1650141,735,Other professional fees - management fee relating to fleet repair contract
+Department of Health,NHS Blood and Transplant,26/10/2012,VEHICLE REPAIRS & MAINTENANCE,Estates & Logistics,FRAIKIN LTD,1650141,41554.54,External contract for fleet vehicle repairs amd maintenance
+Department of Health,NHS Blood and Transplant,12/10/2012,ELECTRICITY,Estates & Logistics,EDF ENERGY,1650304,59488.92,Electricity costs
+Department of Health,NHS Blood and Transplant,12/10/2012,OTHER PROFESSIONAL FEES,Organ Donation & Transplantation,QUINTILES LIMITED,1650413,25000,Other professional fees - monthly charge for UKT/ODT data collection services
+Department of Health,NHS Blood and Transplant,12/10/2012,EXTERNAL SERVICES OTHER,Clinical,OXFORD RADCLIFFE HOSPITALS NHS TRUST,1650620,33985.87,External costs of providing other services
+Department of Health,NHS Blood and Transplant,12/10/2012,EXTERNAL SERVICES OTHER,Clinical,UNIVERSITY OF OXFORD,1650621,45302,External costs of providing other services
+Department of Health,NHS Blood and Transplant,26/10/2012,TRAVEL AND HOTEL SUSPENSE ACCOUNT,NBS and ODT All Areas,EXPOTEL,1650777,98982.4,Travel and hotel costs arising from central booking system used
+Department of Health,NHS Blood and Transplant,19/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1650848,51840,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,19/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1650852,72576,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,EXTERNAL SERVICES OTHER,Finance,NHS SHARED BUSINESS SERVICES LTD,1650895,27333.33,External costs of providing other services
+Department of Health,NHS Blood and Transplant,19/10/2012,EXTERNAL MAILING SERVICES,Blood Supply,STRALFORS,1650921,55040.59,"External costs of mailing services, primarily relating to communications with donors"
+Department of Health,NHS Blood and Transplant,19/10/2012,POSTAGE,Blood Supply,STRALFORS,1650931,76761.18,Postage costs
+Department of Health,NHS Blood and Transplant,26/10/2012,IMPORTS FRESH FROZEN PLASMA,Blood Supply,MACO PHARMA UK LTD,1650962,49104,Imports of Fresh Frozen Plasma
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1651065,25853.76,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1651101,43948.8,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1651198,103680,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1651237,62208,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS NAT,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1651264,-475206.6,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,12/10/2012,TEST KITS HTLV,Blood Supply,ROCHE DIAGNOSTICS LIMITED,1651264,-30240.42,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1651487,72576,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,TERUMO BCT EUROPE NV/SA,1651489,82944,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,DIRECT CONSUMABLES,Specialist and Customer Services,QUEST BIOMEDICAL LIMITED,1651495,810,Consumable items used primarily during normal day to day operations
+Department of Health,NHS Blood and Transplant,26/10/2012,TEST KITS OTHER,Specialist and Customer Services,QUEST BIOMEDICAL LIMITED,1651495,29694,For testing of donations and samples for specific markers
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1651548,31658.26,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,INVENTORY MATERIALS,NBS and ODT All Areas,MACO PHARMA UK LTD,1651549,40771.59,Items purchased for warehouses (and subsequent issue to operational departments)
+Department of Health,NHS Blood and Transplant,26/10/2012,PREMISES MAINTENANCE - MINOR WORKS,Estates & Logistics,INTERSERVE  CONSTRUCTION LTD,1653178,51758.15,Minor works projects costs
+Department of Health,NHS Blood and Transplant,26/10/2012,CAPITAL PURCHASES ACCOUNT,NBS and ODT All Areas,BMG LABTECHNOLOGIES LTD,1653280,42630,Purchase of Fixed Assets
+Department of Health,NHS Blood and Transplant,26/10/2012,COURIER & DELIVERY CHARGES,Estates & Logistics,TNT EXPRESS UK LTD,1653715,52589.37,External courier and transport company costs
+Department of Health,NHS Blood and Transplant,26/10/2012,DIRECT CONSUMABLES,Organ Donation & Transplantation,BRIDGE TO LIFE LLC,1655612,30240,Consumable items used primarily during normal day to day operations
+Department of Health,NHS Blood and Transplant,26/10/2012,OTHER PROFESSIONAL FEES,Estates & Logistics,AUTOMOTIVE LEASING LTD,1655634,4209.18,Other professional fees - monthly management charge relating to leased fleet vehicle maintenance contract
+Department of Health,NHS Blood and Transplant,26/10/2012,VEHICLE REPAIRS & MAINTENANCE,Estates & Logistics,AUTOMOTIVE LEASING LTD,1655634,57289.6,External contract for fleet vehicle repairs amd maintenance
+Department of Health,NHS Blood and Transplant,15/10/2012,INSURANCE,Finance,NHS Litigation Authority,Direct Debit,53734,Insurance costs
+Department of Health,NHS Blood and Transplant,09/10/2012,CAPITAL CHARGES CONTROL,NBS and ODT All Areas,Department of Health,2215,9010000,Payment to DH for capital charges amounts collected from customers through prices
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Cambridge Univ Hosp NHS Foundation Trust,2219,272154,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Cardiff and Vale University Health Board,2219,140000,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Central Manchester University Hospitals NHS Foundation Trust,2219,344541,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Kings College Hospital NHS Foundation Trust,2219,237000,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ODT DONOR MANAGEMENT REIMBURSEMENT,Organ Donation & Transplantation,Kings College Hospital NHS Foundation Trust,2220,25032,Reimbursement to other NHS bodies for organ donation scheme related costs
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,NHS Lothian,2219,449062,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Oxford Radcliffe Hospital NHS Trust,2219,267024,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Papworth Hospital NHS Foundation Trust,2219,324031,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Royal Brompton And Harefield NHS Foundation Trust,2219,448986,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Royal Free Hampstead NHS Trust,2219,405475,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Leeds Teaching Hospitals NHS Trust,2219,270607,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,Newcastle Upon Tyne Hospitals NHS Foundation Trust,2219,510144,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ODT DONOR MANAGEMENT REIMBURSEMENT,Organ Donation & Transplantation,Newcastle Upon Tyne Hospitals NHS Foundation Trust,2220,25032,Reimbursement to other NHS bodies for organ donation scheme related costs
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,University Hospital Of South Manchester NHS Foundation Trust,2219,251475,Contracts with other NHS bodies for organ retrieval teams
+Department of Health,NHS Blood and Transplant,22/10/2012,ORGAN RETREIVAL CONTRACTS,Organ Donation & Transplantation,University Hospital Birmingham NHS Foundation Trust,2219,609513,Contracts with other NHS bodies for organ retrieval teams

@@ -1,0 +1,176 @@
+﻿REGD14CD,REGD14NM,OBJECTID
+E28000001,Bolton,0
+E28000002,Bury,1
+E28000003,Manchester,2
+E28000004,Oldham,3
+E28000005,Rochdale,4
+E28000006,Salford,5
+E28000007,Stockport,6
+E28000008,Tameside,7
+E28000009,Trafford,8
+E28000010,Wigan and Leigh,9
+E28000011,Knowsley,10
+E28000012,Liverpool,11
+E28000013,St. Helens,12
+E28000215,Sefton,13
+E28000016,Wirral,14
+E28000017,Barnsley,15
+E28000018,Doncaster,16
+E28000019,Rotherham,17
+E28000020,Sheffield,18
+E28000021,Gateshead,19
+E28000022,Newcastle upon Tyne,20
+E28000023,North Tyneside,21
+E28000024,South Tyneside,22
+E28000025,Sunderland,23
+E28000026,Birmingham,24
+E28000027,Coventry,25
+E28000028,Dudley,26
+E28000029,Sandwell,27
+E28000030,Solihull,28
+E28000031,Walsall,29
+E28000032,Wolverhampton,30
+E28000033,Bradford and Keighley,31
+E28000034,Calderdale,32
+E28000218,Kirklees,33
+E28000037,Leeds,34
+E28000208,Wakefield,35
+E28000040,Barking and Dagenham,36
+E28000041,Barnet,37
+E28000042,Bexley,38
+E28000043,Brent,39
+E28000044,Bromley,40
+E28000045,Croydon,41
+E28000046,Ealing,42
+E28000047,Enfield,43
+E28000048,Greenwich,44
+E28000049,Hackney,45
+E28000050,Harrow,46
+E28000051,Haringey,47
+E28000052,Havering,48
+E28000053,Hillingdon,49
+E28000054,Hounslow,50
+E28000055,Islington,51
+E28000056,Kensington and Chelsea,52
+E28000057,Kingston upon Thames,53
+E28000058,Lambeth,54
+E28000059,Lewisham,55
+E28000060,London City,56
+E28000061,Merton,57
+E28000062,Tower Hamlets,58
+E28000063,Redbridge,59
+E28000064,Richmond upon Thames,60
+E28000065,Camden,61
+E28000066,Southwark,62
+E28000067,Sutton,63
+E28000068,Waltham Forest,64
+E28000069,Wandsworth,65
+E28000070,Newham,66
+E28000071,Westminster,67
+E28000072,Hammersmith and Fulham,68
+E28000073,Bath and North East Somerset,69
+E28000074,Bristol,70
+E28000075,South Gloucestershire,71
+E28000076,North Somerset,72
+E28000078,Luton,73
+E28000204,Bedford,74
+E28000205,Central Bedfordshire,75
+E28000079,Bracknell Forest,76
+E28000080,West Berkshire,77
+E28000081,Reading,78
+E28000082,Slough,79
+E28000083,Windsor and Maidenhead,80
+E28000084,Wokingham,81
+E28000085,Milton Keynes,82
+E28000086,Buckinghamshire,83
+E28000087,Peterborough,84
+E28000088,Cambridgeshire,85
+E28000206,Cheshire East,86
+E28000089,Halton,87
+E28000207,Cheshire West and Chester,88
+E28000090,Warrington,89
+E28000092,Middlesbrough,90
+E28000093,Redcar and Cleveland,91
+E28000094,Stockton-on-Tees,92
+E28000095,Hartlepool,93
+E28000096,Isles of Scilly,94
+E28000097,Cornwall,95
+E28000216,Cumbria,96
+E28000111,Derby,97
+E28000219,Derbyshire,98
+E28000115,Plymouth,99
+E28000116,Torbay,100
+E28000117,Devon,101
+E28000118,Bournemouth,102
+E28000119,Dorset,103
+E28000120,Poole,104
+E28000121,Darlington,105
+E28000122,County of Durham,106
+E28000123,Brighton and Hove,107
+E28000124,East Sussex,108
+E28000210,Essex,109
+E28000132,Southend-on-Sea,110
+E28000133,Thurrock,111
+E28000135,Gloucestershire,112
+E28000136,Portsmouth,113
+E28000137,Southampton,114
+E28000138,Hampshire,115
+E28000139,Herefordshire,116
+E28000140,Worcestershire,117
+E28000141,Hertfordshire,118
+E28000142,East Riding of Yorkshire,119
+E28000143,North-East Lincolnshire,120
+E28000144,Hull,121
+E28000145,North Lincolnshire,122
+E28000146,Isle of Wight,123
+E28000147,Medway,124
+E28000148,Kent,125
+E28000149,Blackburn with Darwen,126
+E28000150,Blackpool,127
+E28000151,Lancashire,128
+E28000152,Leicester,129
+E28000153,Rutland,130
+E28000154,Leicestershire,131
+E28000155,Lincolnshire,132
+E28000214,Norfolk,133
+E28000165,North Yorkshire,134
+E28000166,York,135
+E28000212,Northamptonshire,136
+E28000174,Northumberland,137
+E28000179,Nottingham,138
+E28000217,Nottinghamshire,139
+E28000181,Oxfordshire,140
+E28000182,Telford and Wrekin,141
+E28000183,Shropshire,142
+E28000184,Somerset,143
+E28000185,Stoke-on-Trent,144
+E28000186,Staffordshire,145
+E28000213,Suffolk,146
+E28000193,Surrey,147
+E28000209,Warwickshire,148
+E28000211,West Sussex,149
+E28000202,Swindon,150
+E28000203,Wiltshire,151
+W20000001,Flintshire/Sir Y Fflint,152
+W20000002,Denbighshire South/De Sir Ddinbych,153
+W20000003,Denbighshire North/Gogledd Sir Ddinbych,154
+W20000004,Wrexham,155
+W20000008,Pembrokeshire,156
+W20000009,Carmarthenshire/Sir Gaerfyrddin,157
+W20000040,Ceredigion,158
+W20000010,Blaenau Gwent,159
+W20000011,Newport,160
+W20000012,Torfaen,161
+W20000013,Monmouthshire/Sir Fynwy,162
+W20000018,Conwy,163
+W20000039,Gwynedd,164
+W20000021,Ynys Mon (Isle of Anglesey),165
+W20000022,Merthyr Tydfil/Merthyr Tudful,166
+W20000023,Bridgend,167
+W20000024,Caerphilly,168
+W20000025,Rhondda Cynon Taf,169
+W20000038,Powys,170
+W20000034,Cardiff/Caerdydd,171
+W20000035,Vale of Glamorgan/Bro Morgannwg,172
+W20000036,Neath Port Talbot,173
+W20000037,Swansea,174

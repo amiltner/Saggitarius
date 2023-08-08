@@ -1,0 +1,41 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,07/06/2012,Library,Communications,SWETS INTERNATIONAL SERVICES LTD,600072150,42741.78,749957067
+Dept of Health,MHRA,08/06/2012,Out of Hours IT Work,Information Management,ACCENTURE,600072007,125964.00,788629066
+Dept of Health,MHRA,12/06/2012,UK Air,Clinical Practice Research Datalink,FCM TRAVEL SOLUTIONS,600072217,503.43,662428530
+Dept of Health,MHRA,12/06/2012,UK Rail/Tube/Tram,Clinical Practice Research Datalink,FCM TRAVEL SOLUTIONS,600072217,371.60,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,Clinical Practice Research Datalink,FCM TRAVEL SOLUTIONS,600072217,740.28,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Rail/Tram,Clinical Practice Research Datalink,FCM TRAVEL SOLUTIONS,600072217,233.00,662428530
+Dept of Health,MHRA,12/06/2012,UK Rail/Tube/Tram,Communications,FCM TRAVEL SOLUTIONS,600072217,158.10,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,Communications,FCM TRAVEL SOLUTIONS,600072217,702.54,662428530
+Dept of Health,MHRA,12/06/2012,UK Rail/Tube/Tram,Directorate,FCM TRAVEL SOLUTIONS,600072217,33.20,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,Directorate,FCM TRAVEL SOLUTIONS,600072217,138.43,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,Information Management,FCM TRAVEL SOLUTIONS,600072217,5849.72,662428530
+Dept of Health,MHRA,12/06/2012,UK Air,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600072217,1867.10,662428530
+Dept of Health,MHRA,12/06/2012,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600072217,8748.25,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600072217,76358.08,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Hotel/Accommodation,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600072217,896.61,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Rail/Tram,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600072217,915.25,662428530
+Dept of Health,MHRA,12/06/2012,Passport/Visa,"Inspection, Enforcement & Standards",FCM TRAVEL SOLUTIONS,600072217,365.94,662428530
+Dept of Health,MHRA,12/06/2012,UK Rail/Tube/Tram,Licensing,FCM TRAVEL SOLUTIONS,600072217,149.60,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,Licensing,FCM TRAVEL SOLUTIONS,600072217,2277.31,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Rail/Tram,Licensing,FCM TRAVEL SOLUTIONS,600072217,1022.74,662428530
+Dept of Health,MHRA,12/06/2012,UK Air,Medical Devices,FCM TRAVEL SOLUTIONS,600072217,411.58,662428530
+Dept of Health,MHRA,12/06/2012,UK Rail/Tube/Tram,Medical Devices,FCM TRAVEL SOLUTIONS,600072217,1281.90,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,Medical Devices,FCM TRAVEL SOLUTIONS,600072217,12800.58,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Hotel/Accommodation,Medical Devices,FCM TRAVEL SOLUTIONS,600072217,492.00,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Rail/Tram,Medical Devices,FCM TRAVEL SOLUTIONS,600072217,1383.75,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,Policy,FCM TRAVEL SOLUTIONS,600072217,501.44,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Hotel/Accommodation,Policy,FCM TRAVEL SOLUTIONS,600072217,-707.08,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Rail/Tram,Policy,FCM TRAVEL SOLUTIONS,600072217,542.00,662428530
+Dept of Health,MHRA,12/06/2012,UK Rail/Tube/Tram,Vigilance and Risk Management of Medicines,FCM TRAVEL SOLUTIONS,600072217,285.60,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Air,Vigilance and Risk Management of Medicines,FCM TRAVEL SOLUTIONS,600072217,1403.65,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Hotel/Accommodation,Vigilance and Risk Management of Medicines,FCM TRAVEL SOLUTIONS,600072217,108.37,662428530
+Dept of Health,MHRA,12/06/2012,Overseas Rail/Tram,Vigilance and Risk Management of Medicines,FCM TRAVEL SOLUTIONS,600072217,528.00,662428530
+Dept of Health,MHRA,18/06/2012,Computing Operation Costs,Information Management,ACCENTURE,600072282,754006.81,788629066
+Dept of Health,MHRA,20/06/2012,Third Party IT Contracts,Information Management,ACCENTURE,600072438,25946.40,788629066
+Dept of Health,MHRA,20/06/2012,Capital Expenditure,Information Management,ACCENTURE,600072441,40589.30,788629066
+Dept of Health,MHRA,20/06/2012,Third Party IT Contracts,Information Management,ACCENTURE,600072445,57147.77,788629066
+Dept of Health,MHRA,20/06/2012,Third Party IT Contracts,Information Management,ACCENTURE,600072447,74980.80,788629066
+Dept of Health,MHRA,20/06/2012,Third Party IT Contracts,Information Management,ACCENTURE,600072448,50341.20,788629066
+Dept of Health,MHRA,20/06/2012,Third Party IT Contracts,Information Management,ACCENTURE,600072476,74980.80,788629066
+Dept of Health,MHRA,22/06/2012,Internal Audit,Operations & Finance,PRICEWATERHOUSECOOPERS LLP,600072502,25200.00,243823957

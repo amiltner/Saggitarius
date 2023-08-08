@@ -1,0 +1,499 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number, Amount ,VAT Registration Number,Type,Account Code,Cost Centre,Reporting Month,Currency Unit
+BIS,NERC,01-SEP-2010,,,Key Travel,133201," 16,576.06 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,01-SEP-2010,,,Plymouth Hospitals NHS Trust,129989," 71,668.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,01-SEP-2010,,,United Nations Environment Programme,133093," 100,000.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,01-SEP-2010,,,Bbc Security Systems,130587," 34,176.05 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,01-SEP-2010,,,Dionex (UK) Ltd,119538," 69,183.46 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,01-SEP-2010,,,Gardline Environmental Ltd,115110," 29,962.50 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S UK - Subsistence,NERC - BAS HR,Key Travel,133201, 119.00 ,,SUPPLIERS,2302,62530,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S UK - Public Transport,NERC - SO Corporate Human Resources,Key Travel,133201, 32.26 ,,SUPPLIERS,2304,60152,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S UK - Public Transport,NERC - SO Corporate Finance,Key Travel,133201, 61.48 ,,SUPPLIERS,2304,60202,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S UK - Public Transport,NERC - SO PROGS RProject,Key Travel,133201, 129.00 ,,SUPPLIERS,2304,60606,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S UK - Flights,NERC - POL Science General,Key Travel,133201, 518.20 ,,SUPPLIERS,2305,65110,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S Overseas - Subsistence,NERC - BAS Ice Cores-Climate and Develo,Key Travel,133201, 349.98 ,,SUPPLIERS,2402,62301,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S Overseas - Subsistence,NERC - BAS Programme Office,Key Travel,133201," 2,078.60 ",,SUPPLIERS,2402,62509,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S Overseas - Subsistence,NERC - BAS HR,Key Travel,133201, 473.20 ,,SUPPLIERS,2402,62530,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S Overseas - Flights,NERC - SO Strategic Management,Key Travel,133201," 2,433.40 ",,SUPPLIERS,2405,60051,September 2010,GBP
+BIS,NERC,01-SEP-2010,T&S Overseas - Flights,NERC - SO Responsive Mode Control Centr,Key Travel,133201," 2,433.40 ",,SUPPLIERS,2405,60500,September 2010,GBP
+BIS,NERC,02-SEP-2010,,,Orskov Yard A/S,134041," 333,841.51 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,Cardiff University,135852," 25,125.13 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,Codan Uk Ltd,135310," 55,084.57 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,Imperial College London,135769," 30,785.67 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,Imperial College London,136196," 48,644.66 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),135749," 33,423.88 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),135767," 33,805.04 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),136007," 36,898.06 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),136008," 29,710.15 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Aberdeen,135916," 25,500.03 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Aberdeen,136015," 29,920.44 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Aberdeen,136094," 34,661.84 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Birmingham,135797," 36,644.56 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Bristol,135920," 34,907.19 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Bristol,136095," 28,565.05 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Bristol,136152," 29,710.15 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Cambridge,136024," 71,298.87 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Cambridge,136026," 62,803.41 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Cambridge,136103," 87,509.39 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Cambridge,136104," 59,420.30 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of East Anglia,135731," 51,138.94 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of East Anglia,135735," 45,619.93 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of East Anglia,135806," 59,840.89 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of East Anglia,136234," 59,420.30 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Edinburgh,141248," 44,909.37 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Edinburgh,141249," 29,920.44 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Edinburgh,141255," 39,613.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Edinburgh,141256," 49,021.83 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Edinburgh,141258," 39,893.93 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Edinburgh,141259," 26,650.59 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Leeds,135787," 44,880.67 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Leeds,135953," 32,068.95 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Leeds,136214," 39,919.44 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Leeds,136217," 74,275.38 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Manchester,135814," 29,874.43 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Manchester,135892," 34,929.51 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Manchester,135904," 39,613.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Manchester,136157," 39,893.93 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Oxford,135694," 27,422.56 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Oxford,136263," 31,299.70 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Reading,135680," 66,818.57 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Reading,135827," 29,939.58 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Reading,135983," 34,907.19 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Reading,136003," 65,888.30 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Reading,136072," 39,613.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Reading,136155," 53,830.63 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Sheffield,135699," 34,661.84 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Sheffield,135772," 34,929.51 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Sheffield,135775," 39,893.93 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Sheffield,135849," 34,217.97 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Southampton,135701," 49,867.41 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Southampton,135780," 49,516.92 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Southampton,136206," 56,754.30 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of Southampton,136207," 54,288.95 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,University of St Andrews,136112," 34,382.87 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,09-SEP-2010,,,Input/Output Marine Systems Inc,139592," 48,767.54 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,Auto Dynamic Positioning Services Ltd,141285," 38,468.49 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,BAE Systems (Operations) Ltd,135639," 67,711.45 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,Marine Biological Association,134679," 63,609.87 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,Plymouth Marine Laboratory,139713," 92,983.08 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,Plymouth Marine Laboratory,141284," 71,457.32 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,Richardson Marine Refrigeration Ltd,115845," 45,000.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,Royal Bank Structured Asset Finance Ltd,135053," 259,186.86 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,Sea Bunkering Ltd,133663," 132,792.19 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,The Open University,83473," 32,104.77 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of Birmingham,141385," 25,275.93 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of Birmingham,141389," 29,176.41 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of Bristol,130830," 68,227.02 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of Bristol,141429," 51,726.66 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of Bristol,141430," 62,139.90 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of East Anglia,134481," 35,458.73 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of Manchester,141932," 30,007.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of Reading,132886," 29,120.69 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,E.W. Beard Ltd,147984," 115,125.81 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,13-SEP-2010,,,University of St Andrews,142365," 81,192.50 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,20-SEP-2010,,,University of Manchester,153271," 37,249.26 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,20-SEP-2010,Research Grant Expenditure,NERC - SO Research,University of Manchester,153271, -   ,,GRANTS,1001,60102,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Andrew Lusk and Co,134735," 36,006.52 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Plymouth Marine Laboratory,152844," 416,166.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,SAMS  Scottish Association for Marine Science,151554," 499,750.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,University of Birmingham,73975," 25,000.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,University of Southampton,152841," 37,797.10 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,EDF Energy,152769," 26,530.56 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,J H Hallam (Contractors) Ltd,153606," 49,073.32 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Matrix Control Solutions Ltd,98378," 32,421.78 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Objective Corporation Ltd,152653," 45,604.69 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Rocky Mountain Aircraft,129992," 65,535.46 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Rocky Mountain Aircraft,130001," 37,830.29 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Rocky Mountain Aircraft,130002," 57,900.15 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Rocky Mountain Aircraft,133848," 42,289.65 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,,,Romica Engineering Ltd,142066," 52,875.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,21-SEP-2010,Prepayment Control,,Link 51,153765," 67,453.81 ",,SUPPLIERS,6601,0,September 2010,GBP
+BIS,NERC,22-SEP-2010,,,Medical Research Council,81969," 200,000.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,22-SEP-2010,,,Technology Strategy Board,152875," 292,235.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,22-SEP-2010,,,Access Platform Sales Ltd,141761," 25,850.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,22-SEP-2010,,,AEA Technology PLC,153971," 33,738.83 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,22-SEP-2010,,,Security Partnerships,141415," 43,800.48 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,23-SEP-2010,,,Agilent Technologies UK Ltd,151412," 97,920.43 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,24-SEP-2010,,,Astilleros De Santander SA,156955," 532,352.69 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Aberystwyth University,154731," 31,253.31 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Aberystwyth University,155474," 35,824.62 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Bangor University,154441," 32,607.80 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Bangor University,154725," 31,081.71 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Bangor University,154885," 47,571.15 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Bangor University,155472," 33,102.20 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Cardiff University,154497," 25,480.30 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Cardiff University,155257," 32,106.69 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Cardiff University,155258," 28,891.13 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Daphne Jackson Mem Fell Trust,127302," 30,277.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Forest Research,141173," 79,300.31 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,"Fundacion Natura Bolivia		",157493," 29,484.63 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,154408," 25,964.25 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,154707," 32,886.30 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,154709," 25,701.02 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,154867," 25,049.35 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,154868," 26,736.92 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,154870," 27,614.82 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,154871," 31,747.83 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155021," 27,347.74 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155166," 28,054.24 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155312," 40,057.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155324," 28,917.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155418," 65,437.51 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155455," 33,434.05 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155457," 959,379.69 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155462," 32,050.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Imperial College London,155463," 32,475.77 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,International Food Policy Research Institute,157494," 31,258.75 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,King's College London,154386," 36,874.82 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Lancaster University,154347," 25,926.20 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Lancaster University,154348," 29,312.53 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Lancaster University,154510," 26,516.82 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Lancaster University,154656," 28,506.11 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Lancaster University,155112," 25,479.14 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Lancaster University,155389," 28,313.20 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Loughborough University,155014," 35,848.34 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Manchester Metropolitan University,155033," 149,129.91 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Natural History Museum,154592," 25,051.73 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,154427," 36,757.47 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,154549," 26,151.81 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,154684," 30,821.06 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,154834," 572,172.05 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,154836," 29,652.76 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,154837," 37,271.77 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,154842," 30,499.80 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,154991," 37,641.23 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Antartic Survey,155423," 31,142.99 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Geological Survey,154847," 25,106.16 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - British Geological Survey,155001," 26,239.82 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - National Oceanographical Centre Liverpool,154854," 28,795.61 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - National Oceanographical Centre Southampton,154378," 146,456.86 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - National Oceanographical Centre Southampton,154686," 36,472.69 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - National Oceanographical Centre Southampton,154718," 26,835.76 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - National Oceanographical Centre Southampton,154994," 28,847.39 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - National Oceanographical Centre Southampton,155000," 59,808.02 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - National Oceanographical Centre Southampton,155141," 31,933.21 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC - National Oceanographical Centre Southampton,155422," 253,412.45 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),154388," 58,355.18 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),154399," 28,374.97 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),155161," 29,937.18 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),155431," 25,997.44 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,NERC Centre for Ecology and Hydrology (CEH Wallingford),155432," 26,011.95 ",,INTERNAL GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Plymouth Marine Laboratory,154358," 38,080.39 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Plymouth Marine Laboratory,154524," 25,534.52 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Plymouth Marine Laboratory,155119," 36,809.12 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Queen Mary University of London,155040," 28,669.35 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Rolls-Royce Marine Ltd,158164," 112,111.97 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Rolls-Royce Marine Ltd,158166," 37,333.34 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Rothamsted Research GRANT,155476," 30,857.63 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,"Royal Holloway, University of London",154551," 59,322.11 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,"Royal Holloway, University of London",155146," 25,073.37 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,"Royal Holloway, University of London",155158," 25,224.03 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,"Royal Holloway, University of London",155426," 25,500.83 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,SAMS  Scottish Association for Marine Science,154660," 39,538.33 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,SAMS  Scottish Association for Marine Science,154670," 34,983.58 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,SAMS  Scottish Association for Marine Science,154800," 32,118.65 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,SAMS  Scottish Association for Marine Science,155272," 60,527.28 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Science & Technology Facilities Council,154547," 27,753.91 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Science & Technology Facilities Council,154688," 32,381.12 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Sir Alister Hardy Foundation For Ocean Science (Sahfos),156140," 109,250.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Surrc,154587," 25,354.57 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Surrc,154730," 28,545.46 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,The Macaulay Land Use Research Institute,154965," 38,496.71 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,The Open University,154595," 34,579.99 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,The Open University,154734," 40,589.38 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,The Open University,154735," 28,691.44 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,The Royal Society,135455," 50,000.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154363," 33,183.63 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154364," 39,358.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154530," 33,134.01 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154531," 43,516.65 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154668," 25,866.04 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154811," 46,199.64 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154969," 25,268.66 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154970," 35,086.09 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,154971," 39,339.60 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College London,155279," 28,497.66 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College Swansea,154438," 31,889.72 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University College Swansea,155036," 26,428.99 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,154288," 46,080.95 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,154450," 25,885.38 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,154451," 30,903.24 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,154598," 40,556.33 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,154603," 30,178.85 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,154740," 34,099.32 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,154743," 29,536.17 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,154899," 34,914.58 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Aberdeen,155343," 36,841.22 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bath,154809," 30,855.18 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Birmingham,154360," 26,706.21 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Birmingham,154527," 49,234.99 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Birmingham,154665," 37,979.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Birmingham,154666," 36,904.91 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Birmingham,154808," 28,593.87 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Birmingham,155124," 32,540.01 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Birmingham,155276," 32,467.66 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154293," 34,594.78 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154294," 26,601.40 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154296," 29,147.53 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154297," 25,990.56 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154449," 31,332.50 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154457," 35,933.13 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154458," 28,654.52 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154605," 37,768.62 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154608," 29,738.46 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154611," 39,427.97 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154746," 36,056.03 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154751," 32,994.73 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154752," 41,653.94 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,154900," 34,929.61 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,155046," 26,028.44 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,155049," 36,039.03 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,155051," 37,739.99 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,155214," 27,371.07 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Bristol,155344," 39,070.72 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,154373," 27,294.75 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,154418," 25,521.78 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,154829," 34,197.48 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,154872," 36,011.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,155025," 76,368.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,155026," 25,894.07 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,155159," 84,269.94 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,155170," 49,023.61 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,155176," 36,417.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,155318," 43,752.24 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Cambridge,155458," 30,169.75 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Durham,155183," 41,056.31 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Durham,155189," 31,419.92 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Durham,155326," 39,337.55 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Durham,155330," 34,199.81 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,154400," 27,725.57 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,154404," 27,933.97 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,154554," 26,058.36 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,154567," 44,715.78 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,154851," 32,371.19 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,154860," 28,834.61 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,155006," 44,325.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,155015," 34,317.32 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,155037," 32,522.83 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,155314," 25,094.52 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,155428," 30,896.32 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of East Anglia,155450," 28,967.44 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154367," 124,065.97 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154370," 101,005.07 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154371," 25,871.05 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154533," 32,119.16 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154539," 25,490.08 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154671," 103,294.31 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154674," 40,703.71 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154680," 29,419.51 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154813," 26,825.11 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154820," 29,052.17 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154822," 27,820.78 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154979," 38,746.42 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154982," 31,048.62 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,154986," 38,840.50 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,155129," 25,255.67 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,155134," 26,557.65 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,155283," 26,627.36 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,155285," 46,185.32 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,155291," 28,281.60 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Edinburgh,155415," 25,037.48 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Essex,154609," 26,660.49 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Essex,154610," 31,113.30 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Essex,155055," 30,957.86 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Essex,155223," 38,371.41 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Essex,155224," 32,790.17 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,154308," 36,125.63 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,154471," 43,139.22 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,154748," 28,133.61 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,154907," 25,313.13 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,154908," 31,520.59 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,154909," 29,104.83 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,154910," 42,984.51 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,155052," 31,648.26 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,155063," 25,891.37 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,155218," 25,425.72 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,155219," 29,162.59 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,155346," 32,824.50 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,155348," 26,667.83 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Exeter,155353," 104,018.92 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Glasgow,154468," 26,609.19 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Glasgow,154911," 31,626.72 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Glasgow,155356," 27,752.17 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Hertfordshire,155187," 27,434.18 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154341," 70,777.31 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154342," 41,058.92 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154345," 27,719.52 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154346," 67,559.62 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154349," 48,707.88 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154502," 32,033.84 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154503," 27,292.72 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154516," 26,185.84 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154521," 32,508.41 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154649," 49,656.40 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154658," 29,902.08 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154662," 34,537.22 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154793," 26,978.45 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154798," 73,775.73 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154957," 25,298.87 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,154961," 29,711.67 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,155109," 25,903.44 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,155115," 35,849.56 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,155263," 29,241.27 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,155270," 26,806.01 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leeds,155396," 25,477.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leicester,154304," 35,220.81 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leicester,154310," 27,589.43 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leicester,154614," 25,585.72 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Leicester,154754," 28,221.66 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,154473," 55,666.02 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,154617," 42,973.08 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,154761," 30,774.22 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,154762," 30,802.50 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,154764," 27,227.32 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,154915," 34,591.37 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,154916," 38,229.20 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,155230," 28,688.95 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,155232," 43,585.85 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,155233," 38,490.18 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,155361," 25,317.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Liverpool,155362," 36,313.18 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154311," 32,125.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154322," 48,458.71 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154323," 25,535.27 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154325," 33,976.37 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154326," 34,366.49 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154766," 27,240.60 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154923," 40,725.57 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154924," 38,297.04 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,154928," 33,629.00 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,155076," 29,472.24 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,155077," 38,449.39 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,155235," 30,551.61 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,155236," 87,458.47 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,155363," 28,544.46 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Manchester,155364," 33,796.28 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Newcastle Upon Tyne,154316," 27,263.41 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Newcastle Upon Tyne,154475," 29,732.55 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Newcastle Upon Tyne,154477," 52,191.52 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Newcastle Upon Tyne,154919," 35,821.20 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Nottingham,154324," 53,289.55 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Nottingham,154767," 40,812.58 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154385," 26,820.10 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154563," 46,683.60 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154566," 34,349.46 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154691," 30,382.38 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154703," 43,345.87 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154704," 26,062.06 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154843," 83,963.11 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154848," 31,630.85 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154857," 30,573.13 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154862," 30,392.47 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154866," 38,014.96 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154998," 53,175.25 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,154999," 29,858.91 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155011," 27,828.42 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155143," 30,245.50 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155152," 42,717.27 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155162," 28,367.37 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155163," 27,015.73 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155167," 29,964.77 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155168," 115,700.49 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155297," 31,992.68 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155309," 25,220.04 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155419," 25,376.30 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155438," 25,723.80 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155441," 27,235.49 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Oxford,155454," 40,041.48 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Plymouth,155074," 47,154.44 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Plymouth,155240," 97,861.13 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Plymouth,155242," 31,151.26 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Plymouth,155369," 26,618.89 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Portsmouth,154628," 26,440.41 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,154334," 25,439.16 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,154478," 99,541.61 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,154482," 56,491.53 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,154625," 26,292.50 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,154626," 26,555.67 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,154775," 37,448.97 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,154780," 35,579.54 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,154927," 25,263.82 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,155080," 47,101.56 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,155083," 90,723.15 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Reading,155084," 25,095.65 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Salford,154821," 28,709.74 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,73083," 76,848.67 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,154487," 25,759.22 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,154632," 27,021.50 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,154633," 31,285.58 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,154636," 36,393.13 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,154639," 43,512.87 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,154777," 31,379.70 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,155082," 30,981.41 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,155086," 34,477.24 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,155243," 150,818.18 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,155244," 41,970.78 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,155248," 26,598.11 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,155251," 29,698.20 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sheffield,155252," 35,543.19 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,154335," 28,867.65 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,154336," 58,764.81 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,154489," 37,672.64 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,154490," 31,447.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,154641," 30,069.36 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,154646," 39,791.63 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,154942," 31,208.29 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,154952," 33,773.34 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,155099," 26,479.37 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,155255," 38,573.23 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,155377," 31,050.35 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,154340," 32,862.58 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,154494," 36,165.22 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,154500," 26,599.17 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,154501," 26,809.32 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,154650," 41,397.76 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,154947," 37,439.28 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,154954," 29,715.06 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,155103," 26,255.77 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,155262," 37,773.68 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of St Andrews,155384," 49,560.93 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Strathclyde,154988," 28,619.07 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Surrey,154974," 40,180.36 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sussex,154645," 25,302.81 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sussex,154951," 37,189.41 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sussex,155259," 26,094.98 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Sussex,155379," 30,123.87 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Warwick,154580," 79,416.12 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Warwick,154721," 27,258.71 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Warwick,154883," 27,410.60 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Warwick,155469," 26,693.69 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Warwick,155470," 28,361.35 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of York,154413," 131,068.58 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of York,154423," 99,080.16 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of York,154535," 26,760.42 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of York,154818," 25,208.04 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of York,155131," 51,925.97 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of York,155286," 32,788.99 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of York,155322," 33,849.87 ",,GRANTS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Wartsila NSD UK Ltd,117812," 32,898.19 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Brunvoll As,98358," 47,423.82 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,Sea Bird Electronics Inc,82806," 49,069.80 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,,,University of Southampton,152879," 28,594.79 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,27-SEP-2010,Freight Charges,Finance,Brunvoll As,98358," 2,668.12 ",,SUPPLIERS,3251,64042,September 2010,GBP
+BIS,NERC,27-SEP-2010,Other Bought In Services,INVOICING ADJUSTMENTS FROM/TO UNIVERSIT,University of Southampton,157646," 59,473.98 ",,SUPPLIERS,3422,64011,September 2010,GBP
+BIS,NERC,27-SEP-2010,Prepayment Control,,Seamap PTE LTD,156907," 26,692.78 ",,SUPPLIERS,6601,0,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,Astrium Ltd,158447," 250,000.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,Financial Management Shared Service Centre (Fmssc),156740," 156,779.99 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,Osprey Foods International Ltd,158437," 30,250.98 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,Richardson Marine Refrigeration Ltd,149914," 45,000.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,SAMS  Scottish Association for Marine Science,156204," 140,055.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,"Kelway (UK) Limited		",158672," 31,605.88 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,Met Office,156137," 215,318.75 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,Plymouth Marine Laboratory,81443," 62,833.13 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,28-SEP-2010,,,Virtalis Ltd,158524," 58,676.56 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,29-SEP-2010,,,AEA Technology PLC,137773," 30,505.35 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,29-SEP-2010,Expense AP Accrual,,Andrew Lusk and Co,159593," 41,143.11 ",,SUPPLIERS,7512,0,September 2010,GBP
+BIS,NERC,30-SEP-2010,,,University of Leeds,160461," 1,730,750.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,30-SEP-2010,,,University of Reading,160322," 1,740,000.00 ",,SUPPLIERS,,,September 2010,GBP
+BIS,NERC,30-SEP-2010,Other Bought In Services,BGS CONTROL CENTRE,Queen Mary University of London,133861," 29,986.20 ",,SUPPLIERS,3422,61000,September 2010,GBP
+BIS,NERC,30-SEP-2010,GPC Clearing - NERC,,RBS Commercial Cards,136337," 501,885.32 ",,SUPPLIERS,6476,0,September 2010,GBP
+BIS,NERC,30-SEP-2010,GPC Clearing - NERC,,RBS Commercial Cards,136345," 606,129.40 ",,SUPPLIERS,6476,0,September 2010,GBP

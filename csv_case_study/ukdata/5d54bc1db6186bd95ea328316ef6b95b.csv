@@ -1,0 +1,51 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount
+Department of Health,South Warwickshire NHS Foundation Trust,01/08/2017,Drugs,Pharmacy,Alloga Uk Ltd,266750,25200.00 
+Department of Health,South Warwickshire NHS Foundation Trust,01/08/2017,Cap Exp Medical Equipment,Capital,Grafton Optical Company Ltd,772646,29107.20 
+Department of Health,South Warwickshire NHS Foundation Trust,01/08/2017,Cap Exp Computers,Capital,Adaptive It Solutions,773994,44263.20 
+Department of Health,South Warwickshire NHS Foundation Trust,01/08/2017,Non-Pay Reserve,Corporate Division,Bytes Software Services Limited,776346,31271.90 
+Department of Health,South Warwickshire NHS Foundation Trust,01/08/2017,Cap Exp Works Building,Capital,Trios Property Ltd,777322,26044.56 
+Department of Health,South Warwickshire NHS Foundation Trust,01/08/2017,Serv.Recd-Miscellaneous,Emergency Division,Warwick Radiology Limited,780952,27889.55 
+Department of Health,South Warwickshire NHS Foundation Trust,02/08/2017,Serv.Recd-Miscellaneous,Corporate Division,Liaison StaffFlow,FP,41379.04 
+Department of Health,South Warwickshire NHS Foundation Trust,03/08/2017,Drugs-F.P.10'S,Support Services Division,Nhs Business Services Authority,32566,152849.93 
+Department of Health,South Warwickshire NHS Foundation Trust,03/08/2017,M&S-Equip.Maint.Contracts(Ppm),Emergency Division,Nhs Supply Chain,32710,63343.04 
+Department of Health,South Warwickshire NHS Foundation Trust,03/08/2017,Serv.Recd-Miscellaneous,Emergency Division,Warwick Radiology Limited,780969,26756.20 
+Department of Health,South Warwickshire NHS Foundation Trust,07/08/2017,Consumables,Corporate Division,Nhs Supply Chain,32791,85508.84 
+Department of Health,South Warwickshire NHS Foundation Trust,07/08/2017,Cap Exp Computers,Capital,Infonote Datasystems Limited,780357,27000.00 
+Department of Health,South Warwickshire NHS Foundation Trust,09/08/2017,Serv.Recd-Miscellaneous,Corporate Division,Liaison StaffFlow,FP,32359.89 
+Department of Health,South Warwickshire NHS Foundation Trust,10/08/2017,Rent-Payable,Elective Care Division,Swft Clinical Services Ltd,775212,50400.00 
+Department of Health,South Warwickshire NHS Foundation Trust,10/08/2017,Drugs-Other,Support Services Division,Swft Clinical Services Ltd,778798,602994.41 
+Department of Health,South Warwickshire NHS Foundation Trust,11/08/2017,Drugs-Other,Support Services Division,Swft Clinical Services Ltd,FP,285540.84 
+Department of Health,South Warwickshire NHS Foundation Trust,14/08/2017,Drugs-F.P.10'S,Support Services Division,Nhs Business Services Authority,32715,165000.44 
+Department of Health,South Warwickshire NHS Foundation Trust,14/08/2017,Consumables,Corporate Division,Nhs Supply Chain,32821,81595.69 
+Department of Health,South Warwickshire NHS Foundation Trust,14/08/2017,Drugs,Pharmacy,Roche Products Ltd,267475,27131.42 
+Department of Health,South Warwickshire NHS Foundation Trust,14/08/2017,Cap Exp Medical Equipment,Capital,Eschmann Holding Ltd,780273,42534.36 
+Department of Health,South Warwickshire NHS Foundation Trust,14/08/2017,Cap Exp Works Building,Capital,Spellermetcalfe,781081,222273.13 
+Department of Health,South Warwickshire NHS Foundation Trust,14/08/2017,Cap Exp Works Building,Capital,Spellermetcalfe,781082,85482.77 
+Department of Health,South Warwickshire NHS Foundation Trust,15/08/2017,Scheme Contribution,Corporate Division,NHS Litigation Authority,FP,446231.80 
+Department of Health,South Warwickshire NHS Foundation Trust,15/08/2017,Blood/Products-Blood,Support Services Division,Nhs Blood And Transplant,FP,66090.00 
+Department of Health,South Warwickshire NHS Foundation Trust,16/08/2017,Serv.Recd-Miscellaneous,Corporate Division,Liaison StaffFlow,FP,75674.53 
+Department of Health,South Warwickshire NHS Foundation Trust,17/08/2017,Drugs,Pharmacy,Novartis Pharmaceuticals Uk Ltd,267365,32054.40 
+Department of Health,South Warwickshire NHS Foundation Trust,17/08/2017,Contract Services,Out Of Hospital Care Collab,Wcs Care Group Ltd,777363,43680.00 
+Department of Health,South Warwickshire NHS Foundation Trust,21/08/2017,Consumables,Corporate Division,Nhs Supply Chain,32912,90694.51 
+Department of Health,South Warwickshire NHS Foundation Trust,21/08/2017,Phone-Rent:Bt,Emergency Division,Virgin Media Business,776898,40545.07 
+Department of Health,South Warwickshire NHS Foundation Trust,21/08/2017,Cap Exp Furniture & Equipment,Capital,Knightsbridge Furniture Productions Ltd,777627,99738.98 
+Department of Health,South Warwickshire NHS Foundation Trust,21/08/2017,Med-Consultant,Women & Childrens Services,University Of Warwick,779999,45384.84 
+Department of Health,South Warwickshire NHS Foundation Trust,21/08/2017,Serv.Recd-Miscellaneous,Emergency Division,Alliance Medical Ltd,780891,38725.67 
+Department of Health,South Warwickshire NHS Foundation Trust,21/08/2017,Electricity,Support Services Division,Npower,782890,48986.71 
+Department of Health,South Warwickshire NHS Foundation Trust,23/08/2017,Serv.Recd-Miscellaneous,Corporate Division,Liaison StaffFlow,FP,51796.52 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Pay Cost (Recharges In),Corporate Division,St Helen & Knowsley Hospitals Nhs Trust,32777,130000.00 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Bayer Plc,267514,52440.00 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Bayer Plc,267515,31464.00 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Bayer Plc,267516,36708.00 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Biotest (Uk) Ltd,267518,31000.00 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Novartis Pharmaceuticals Uk Ltd,267535,42835.08 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Novartis Pharmaceuticals Uk Ltd,267536,26712.00 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Novartis Pharmaceuticals Uk Ltd,267537,32054.40 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Novartis Pharmaceuticals Uk Ltd,267538,32155.79 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Roche Products Ltd,267541,52258.52 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Roche Products Ltd,267542,34627.44 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Drugs,Pharmacy,Roche Products Ltd,267543,32509.92 
+Department of Health,South Warwickshire NHS Foundation Trust,24/08/2017,Fees-Training Course,Corporate Division,Coventry University,780847,36250.00 
+Department of Health,South Warwickshire NHS Foundation Trust,29/08/2017,Consumables,Corporate Division,Nhs Supply Chain,32969,71233.81 
+Department of Health,South Warwickshire NHS Foundation Trust,29/08/2017,Drugs,Pharmacy,Bayer Plc,267517,41952.00 
+Department of Health,South Warwickshire NHS Foundation Trust,30/08/2017,Serv.Recd-Miscellaneous,Corporate Division,Liaison StaffFlow,FP,36736.38 

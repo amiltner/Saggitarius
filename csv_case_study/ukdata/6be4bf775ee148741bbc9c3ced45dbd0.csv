@@ -1,0 +1,400 @@
+DE ref,Schoolname,Protestant,% Protestant,Catholic,% Catholic,Other Christian / non-Christian / no religion / unknown,% Other Christian / non-Christian / no religion / unknown,Enrolment
+1AA0423,Malone Nursery School,0,0,0,0,50,100,50
+1AB0006,Holy Cross PreSchool Playgroup,0,0,15,100,0,0,15
+1AB0025,Wishing Well Family Centre,9,56.3,7,43.8,0,0,16
+1AB0306,St Colmcille's PreSchool Playgroup,6,12.5,36,75,6,12.5,48
+1AB0321,"First Steps Playgroup, Belfast",0,0,10,71.4,4,28.6,14
+1AB0422,Resurrection Nursery and Playgroup,*,*,#,#,0,0,10
+1AB0425,"Stepping Stones Playgroup, Newtownabbey",0,0,17,70.8,7,29.2,24
+1AB0427,"174, Trust Playgroup",*,*,5,31.3,#,#,16
+1AB0428,Naiscoil Mhic Rheachtain,0,0,16,100,0,0,16
+1AB0477,Little Ducks,#,#,*,*,0,0,16
+1AB0610,Flutterbies Playgroup,0,0,0,0,18,100,18
+1BB0003,St John's PreSchool Playgroup,*,*,18,75,#,#,24
+1BB0012,Our Lady's PreSchool Playgroup,0,0,9,100,0,0,9
+1BB0013,Play and Learn Playgroup,0,0,24,100,0,0,24
+1BB0018,Springhill Playgroup,19,95,0,0,1,5,20
+1BB0024,Benmore Playgroup,#,#,*,*,*,*,24
+1BB0322,St Oliver Plunkett PreSchool Playgroup,0,0,24,100,0,0,24
+1BB0476,Na?scoil an Lonn?in,0,0,0,0,8,100,8
+1BB0491,Forge Integrated Playgroup,16,35.6,9,20,20,44.4,45
+1BB0492,"Sunshine Playgroup, Belfast",17,70.8,*,*,#,#,24
+1BB0494,Belmont Playcare,30,68.2,*,*,#,#,44
+1BB0507,Cranmore Integrated Primary School Playgroup,9,37.5,11,45.8,4,16.7,24
+1BB0531,Springfield Primary School Playgroup,#,#,*,*,*,*,16
+1BB0592,St Vincent de Paul PreSchool Playgroup,0,0,10,83.3,2,16.7,12
+1CA0410,Wee Care Day Nursery,0,0,0,0,24,100,24
+1CA0411,Early Learners Day Nursery,0,0,0,0,32,100,32
+1CA0609,Kids @ BT9 Day Nursery,8,42.1,5,26.3,6,31.6,19
+1CA0622,TLC Playgroup,9,45,11,55,0,0,20
+1CA0633,Hillcrest Pre-School,*,*,*,*,#,#,11
+1CA0635,"Bright Sparks, Belfast",0,0,0,0,14,100,14
+1CA0636,"Child's Play Day Nursery, Belfast",0,0,0,0,16,100,16
+1CA0649,Kids First Daycare,0,0,0,0,22,100,22
+1CA0651,Windsor Womens Centre,#,#,*,*,*,*,8
+2AA0063,Busy Bees Montessori Nursery School,#,#,*,*,0,0,7
+2AA0348,Squirrels Montessori Nursery,12,44.4,9,33.3,6,22.2,27
+2AB0029,"Orchard Community Playgroup, Limavady",21,52.5,16,40,3,7.5,40
+2AB0035,Little Diamonds Community Playgroup,*,*,#,#,0,0,10
+2AB0036,Straidarran Community Playgroup,#,#,*,*,0,0,18
+2AB0040,St Bernadette's Playgroup,0,0,13,92.9,1,7.1,14
+2AB0043,Rainbow Child and Family Centre,0,0,20,100,0,0,20
+2AB0045,St Joseph's Community Playgroup,0,0,20,100,0,0,20
+2AB0046,Na?scoil Neachtain,0,0,0,0,20,100,20
+2AB0047,The Dry Arch Children's Centre,*,*,#,#,0,0,16
+2AB0051,Eglinton Community PreSchool Centre,*,*,#,#,0,0,24
+2AB0055,Little Flower Playgroup,0,0,18,100,0,0,18
+2AB0056,Rascals Community Playgroup,0,0,0,0,16,100,16
+2AB0057,Dungiven Community Playgroup,0,0,23,100,0,0,23
+2AB0060,Greysteel Playgroup,0,0,11,100,0,0,11
+2AB0066,Carebears Community Playgroup,*,*,#,#,0,0,19
+2AB0071,Naiscoil Cholmcille,0,0,8,66.7,4,33.3,12
+2AB0074,Roundabout Playgroup,*,*,#,#,0,0,10
+2AB0078,Roslea Cross Community Playgroup,*,*,#,#,0,0,20
+2AB0079,Irvinestown Playgroup,7,29.2,17,70.8,0,0,24
+2AB0222,Newtownbutler Cross Community Playgroup,8,20.5,31,79.5,0,0,39
+2AB0288,Magilligan Community Playgroup,*,*,#,#,0,0,17
+2AB0290,Puddleducks Playgroup,0,0,0,0,20,100,20
+2AB0291,"Jack and Jill Community Playgroup, Omagh",*,*,#,#,0,0,12
+2AB0292,Dromore Community Playgroup,0,0,0,0,33,100,33
+2AB0293,First Steps Children's Centre,#,#,*,*,0,0,18
+2AB0295,"Little Friends Playgroup, Omagh",*,*,#,#,0,0,9
+2AB0299,Banagher Community Playgroup,0,0,14,93.3,1,6.7,15
+2AB0313,Park Community Playgroup,*,*,#,#,0,0,15
+2AB0315,Green Elves Playgroup,0,0,13,100,0,0,13
+2AB0316,Little Rascals Community Playgroup,0,0,0,0,15,100,15
+2AB0318,Brookeborough & District Community Playgroup,7,43.8,9,56.3,0,0,16
+2AB0319,"Stepping Stones PreSchool Playgroup, belleek",0,0,16,94.1,1,5.9,17
+2AB0320,Belcoo Playgroup,0,0,12,100,0,0,12
+2AB0339,Donagh 'Wee Folk' Playgroup,0,0,15,100,0,0,15
+2AB0340,Little Smarties PreSchool,0,0,11,84.6,2,15.4,13
+2AB0343,Peter Pan Playgroup,0,0,0,0,20,100,20
+2AB0344,"Rainbow Community Playgroup, Omagh",0,0,0,0,19,100,19
+2AB0347,Sugar and Spice Early Years Centre,7,38.9,11,61.1,0,0,18
+2AB0349,Tempo Community PreSchool,8,27.6,21,72.4,0,0,29
+2AB0407,Little Treasures Playgroup,0,0,15,93.8,1,6.3,16
+2AB0408,Kindertee Community Playgroup,6,16.7,30,83.3,0,0,36
+2AB0445,Bunnahone Bunnies Cross Community Playgroup,8,33.3,15,62.5,1,4.2,24
+2AB0446,"Tiny Tots Cross Community Playgroup, Enniskillen",6,27.3,16,72.7,0,0,22
+2AB0451,The Little Castle Playgroup,#,#,*,*,0,0,11
+2AB0457,Smallfry Community Playgroup,19,73.1,7,26.9,0,0,26
+2AB0458,The Magic Roundabout Playgroup,0,0,5,83.3,1,16.7,6
+2AB0528,Bo Peeps Playgroup,*,*,#,#,*,*,15
+2AB0532,Roe Valley Community Playgroup,0,0,0,0,24,100,24
+2AB0569,Naiscoil na Deirge,0,0,9,100,0,0,9
+2AB0620,Tiny Tots Community Playgroup,6,54.5,5,45.5,0,0,11
+2BB0062,Mullanaskea PreSchool,0,0,0,0,26,100,26
+2BB0317,"Woodlands Preschool Centre, Strabane",11,61.1,7,38.9,0,0,18
+2BB0341,Mullabuoy PreSchool,*,*,#,#,*,*,9
+2BB0342,Brambly Hedge Community Playgroup,0,0,0,0,16,100,16
+2BB0345,Na?scoil Cholm Cille an Charraig Mhor,0,0,21,100,0,0,21
+2BB0346,"St Mary's PreSchool Centre, Strabane",0,0,22,100,0,0,22
+2BB0385,Denamona PreSchool,8,57.1,6,42.9,0,0,14
+2BB0444,Ardstraw Community Playgroup,#,#,*,*,*,*,10
+2BB0448,Drumahoe Community Playgroup,0,0,0,0,15,100,15
+2BB0449,"Happy Faces Playgroup, Strabane",0,0,7,100,0,0,7
+2BB0452,McClintock Children's Centre,#,#,*,*,0,0,21
+2BB0454,Nippers Alley Playgroup,0,0,0,0,25,100,25
+2BB0484,Na?scoil an Traonaigh,0,0,9,100,0,0,9
+2BB0511,Na?scoil na Dar?ige,0,0,0,0,15,100,15
+2BB0563,Naiscoil Leim an Mhadaidh,0,0,16,84.2,3,15.8,19
+2BB0565,Chapel Road Community Playgroup,0,0,22,84.6,4,15.4,26
+2BB0589,Holy Trinity Pre School,0,0,14,93.3,1,6.7,15
+2BB0593,St Brigid's PreSchool Centre,0,0,7,87.5,1,12.5,8
+2CA0621,Buddies Childtime Centre Ltd,*,*,#,#,*,*,13
+2CB0294,Playtime Day Nursery & Playgroup,*,*,#,#,*,*,35
+3AA0108,"Early Days Country Playgroup, Ballymoney",20,100,0,0,0,0,20
+3AA0273,The Country Playgroup,28,84.8,*,*,*,*,33
+3AB0082,Rasharkin Community Playgroup,11,64.7,*,*,*,*,17
+3AB0084,Glenview Community Playgroup,*,*,#,#,*,*,33
+3AB0087,Mount St Nicholas Playgroup,*,*,9,50,#,#,18
+3AB0089,St Louis Playgroup,0,0,18,100,0,0,18
+3AB0092,Newtownabbey Methodist Mission Playgroup,21,87.5,0,0,3,12.5,24
+3AB0096,St Malachy's Playgroup,0,0,16,84.2,3,15.8,19
+3AB0097,Randalstown Community Playgroup,13,61.9,8,38.1,0,0,21
+3AB0100,Rainbow Playgroup,11,84.6,0,0,2,15.4,13
+3AB0101,Ballinascreen Early Years,*,*,#,#,0,0,44
+3AB0102,Happitots Playgroup,16,100,0,0,0,0,16
+3AB0104,Kiddies Castle Early Years,17,42.5,22,55,1,2.5,40
+3AB0106,Banana Bunch Playgroup,#,#,*,*,0,0,15
+3AB0111,Gracehill and Galgorm Playgroup,#,#,*,*,0,0,13
+3AB0114,Na?scoil Charn T?chair,0,0,13,100,0,0,13
+3AB0115,Gran Tots Playgroup,0,0,26,100,0,0,26
+3AB0116,Ballycarry Playgroup,8,100,0,0,0,0,8
+3AB0117,Muckamore PreSchool Playgroup,0,0,0,0,26,100,26
+3AB0118,"First Steps Playgroup, Ballymena",0,0,0,0,15,100,15
+3AB0119,Castlerock Community Playgroup,10,62.5,*,*,*,*,16
+3AB0122,Lavey Early Years Group,0,0,34,100,0,0,34
+3AB0123,Harbour Bears PreSchool,13,68.4,*,*,#,#,19
+3AB0124,SeeSaw Playgroup,0,0,0,0,26,100,26
+3AB0125,Naiscoil Mhachaire Ratha,0,0,16,100,0,0,16
+3AB0126,Woodburn Playgroup,6,42.9,0,0,8,57.1,14
+3AB0128,Aghadowey PreSchool Playgroup,10,62.5,6,37.5,0,0,16
+3AB0129,Greenlough Early Years,0,0,44,93.6,3,6.4,47
+3AB0130,Watt Fun Community Playgroup,#,#,*,*,0,0,16
+3AB0132,Taylorstown CC Playgroup,10,38.5,11,42.3,5,19.2,26
+3AB0133,Glenarm Community PreSchool,14,58.3,5,20.8,5,20.8,24
+3AB0135,Macosquin Community Preschool,0,0,0,0,24,100,24
+3AB0138,Slievegallion Community PreSchool,*,*,#,#,0,0,22
+3AB0142,Broughshane Centre of Early Learning,0,0,0,0,26,100,26
+3AB0143,Kilrea Community Playgroup,8,38.1,13,61.9,0,0,21
+3AB0144,Kilroot Playgroup,10,90.9,0,0,1,9.1,11
+3AB0241,Gleno PreSchool,11,68.8,0,0,5,31.3,16
+3AB0245,Jack Horner Community Playgroup,7,58.3,5,41.7,0,0,12
+3AB0248,Millburn Community PreSchool Playgroup,9,36,7,28,9,36,25
+3AB0253,Portglenone Community Playgroup,0,0,0,0,24,100,24
+3AB0258,"St Bernard's PreSchool Playgroup, Newtownabbey",0,0,24,100,0,0,24
+3AB0259,Loughgiel Early Years,0,0,9,100,0,0,9
+3AB0260,Playhouse Activity Centre,16,66.7,6,25,2,8.3,24
+3AB0264,Ballyronan Community Playgroup,0,0,0,0,23,100,23
+3AB0274,Hansel and Gretel PreSchool,#,#,*,*,*,*,12
+3AB0350,Little Hands PreSchool,0,0,0,0,23,100,23
+3AB0351,"St Comgall's Playgroup, Antrim",0,0,24,100,0,0,24
+3AB0353,Alphabet Playgroup,*,*,0,0,#,#,14
+3AB0354,Armoy Cross Community Playgroup,12,50,12,50,0,0,24
+3AB0355,Ballymoney & District Community Playgroup,26,54.2,0,0,22,45.8,48
+3AB0362,Glenravel Community Playgroup,0,0,31,100,0,0,31
+3AB0363,High Kirk Community Playgroup,5,35.7,*,*,#,#,14
+3AB0366,Kilbride Playgroup,5,33.3,0,0,10,66.7,15
+3AB0371,"Tiny Tots PreSchool Centre, Toomebridge",0,0,14,100,0,0,14
+3AB0372,"Tiny Tots Community Playgroup, Ballymena",0,0,0,0,41,100,41
+3AB0414,"Stepping Stones Playgroup, Ballymoney",11,45.8,9,37.5,4,16.7,24
+3AB0481,Na?scoil na Speir?n?,0,0,11,100,0,0,11
+3AB0482,Tober Tinys Community Playgroup,#,#,*,*,0,0,24
+3AB0523,Na?scoil Ghleann Darach,0,0,10,52.6,9,47.4,19
+3AB0525,Little Rainbows Early Years,0,0,0,0,26,100,26
+3AB0534,Little Wombles Cross Community Playgroup,0,0,18,100,0,0,18
+3AB0568,Ballee preSchool Playgroup,0,0,0,0,30,100,30
+3AB0574,Laughterland Early Years,0,0,24,100,0,0,24
+3AB0575,Mallusk Community Playgroup,*,*,*,*,#,#,18
+3AB0576,"Playaway Playgroup, Larne",14,82.4,0,0,3,17.6,17
+3AB0585,"Sunshine Playgroup, Coleraine",#,#,*,*,0,0,12
+3AB0640,Ahoghill & District Community Pre-School Playgr,0,0,0,0,18,100,18
+3AB0642,Naiscoil Ghleann an Iolair,0,0,16,100,0,0,16
+3BB0085,"Stepping Stones Playgroup, Maghera",0,0,12,100,0,0,12
+3BB0086,Greengables Playgroup,12,50,*,*,#,#,24
+3BB0090,Kenbaan Community Playgroup,0,0,26,100,0,0,26
+3BB0094,Glengormley IPS Playgroup,13,31,29,69,0,0,42
+3BB0127,Crow's Nest Community Playgroup,#,#,*,*,0,0,11
+3BB0136,Kirkinriola Early Years,21,100,0,0,0,0,21
+3BB0246,St MacNissis Preschool Playgroup,0,0,19,100,0,0,19
+3BB0247,"St Mary's on the Hill Playgroup, Newtownabbey",0,0,27,93.1,2,6.9,29
+3BB0250,Tirnan?g Playgroup,0,0,0,0,17,100,17
+3BB0266,Garvagh PreSchool Playgroup,8,57.1,6,42.9,0,0,14
+3BB0267,"Humpty Dumpty Playgroup, Carrickfergus",0,0,0,0,13,100,13
+3BB0269,Little Amps Playgroup,#,#,*,*,0,0,26
+3BB0359,"Busy Bee Playgroup, Maghera",#,#,*,*,0,0,18
+3BB0360,Cloughmills Early Years,10,52.6,*,*,#,#,19
+3BB0361,Dervock Community Playgroup,19,100,0,0,0,0,19
+3BB0367,Portrush PreSchool Community Playgroup,17,58.6,6,20.7,6,20.7,29
+3BB0369,St Colum's PreSchool Centre,*,*,#,#,*,*,20
+3BB0488,"Little Acorns, Coleraine",#,#,*,*,*,*,16
+3BB0522,"Stepping Stones Playgroup, Ballymena",7,33.3,5,23.8,9,42.9,21
+3BB0533,Maine Integrated Playgroup,6,25,11,45.8,7,29.2,24
+3BB0535,Na?scoil ?anna,0,0,26,100,0,0,26
+3BB0536,Round Tower Community Playgroup,6,25,9,37.5,9,37.5,24
+3BB0573,Crumlin Integrated Pre School,*,*,7,43.8,#,#,16
+3BB0595,St Columba's PreSchool Group,0,0,12,100,0,0,12
+3BB0606,Kilronan PreSchool,0,0,6,75,2,25,8
+3BB0607,Castletower PreSchool,7,43.8,5,31.3,4,25,16
+3BB0608,Roddensvale PreSchool,#,#,*,*,*,*,9
+3BB0619,Sandalford Special School Playgroup,*,*,8,53.3,*,*,15
+3BB0648,Naiscoil Na Tamhnimoire,0,0,10,83.3,2,16.7,12
+3BB0654,Hollybank Pre-School,0,0,0,0,19,100,19
+3BB0655,Hilcroft Special School (pre-school),9,64.3,*,*,*,*,14
+3BB0658,Riverside Special School (Pre-School),*,*,*,*,*,*,3
+3CA0137,Rainbow Private Day Nursery,#,#,*,*,0,0,8
+3CA0588,Greendale Day Nursery,0,0,0,0,24,100,24
+3CA0631,Causeway Pre-School,*,*,#,#,0,0,15
+3CA0641,Ladybirds Playgroup,#,#,*,*,*,*,26
+3CA0643,Primrose Hill Day Nursery,0,0,0,0,12,100,12
+3CB0352,ABC Day Nursery,5,25,*,*,#,#,20
+3CB0486,"Stepping Stones Creche, Coleraine",#,#,*,*,0,0,10
+3CB0567,Appletree Childcare,*,*,#,#,*,*,12
+4AA0146,Movilla Abbey Playgroup,21,80.8,0,0,5,19.2,26
+4AA0156,Mount Oriel Playgroup,8,42.1,9,47.4,2,10.5,19
+4AA0526,Hundred Acre Wood Playgroup,0,0,0,0,25,100,25
+4AB0145,Grove Community Playgroup,0,0,0,0,13,100,13
+4AB0147,The Playcentre at Manor Court,23,92,0,0,2,8,25
+4AB0151,Ballybeen Women's Centre PreSchool,15,93.8,0,0,1,6.3,16
+4AB0154,Na?scoil na Fuiseoige,0,0,24,100,0,0,24
+4AB0157,Tiny Toons Community Playgroup,*,*,#,#,0,0,10
+4AB0164,Bangor West Nursery Playgroup,12,46.2,*,*,#,#,26
+4AB0165,BoPeep Corner PreSchool Playgroup,14,70,*,*,#,#,20
+4AB0166,"St Comgall's PreSchool Education Centre, Bangor",0,0,22,91.7,2,8.3,24
+4AB0171,Ballycrochan Playgroup,10,40,0,0,15,60,25
+4AB0176,Kids Kabin PreSchool (was Drumaroad CC PG),8,47.1,7,41.2,2,11.8,17
+4AB0181,Newcastle PreSchool Playgroup,*,*,8,50,#,#,16
+4AB0183,Teconnaught CrossCommunity Playgroup,0,0,0,0,17,100,17
+4AB0275,Ballyholme Presbyterian Church Playgroup,11,44,*,*,#,#,25
+4AB0276,Dundrum Cross Community Playgroup,*,*,9,40.9,#,#,22
+4AB0278,Playlinks Playgroup,*,*,14,73.7,*,*,19
+4AB0279,Loughinisland Playgroup,0,0,21,100,0,0,21
+4AB0282,Tiddliwinks Playgroup,5,31.3,*,*,#,#,16
+4AB0283,Chirpy Chicks Playgroup,6,50,0,0,6,50,12
+4AB0374,Ballykinlar Cross Community Preschool,*,*,#,#,0,0,16
+4AB0377,Kilmood Playgroup,18,69.2,*,*,#,#,26
+4AB0381,"St Bernard's PreSchool Education Centre, Belfas",0,0,0,0,45,100,45
+4AB0383,Sunshine Community Playgroup,15,57.7,8,30.8,3,11.5,26
+4AB0409,Na?scoil Dhun Padraig,0,0,21,91.3,2,8.7,23
+4AB0431,Anahilt PreSchool Playgroup,14,63.6,6,27.3,2,9.1,22
+4AB0433,Bees Nees Early Years Centre,8,30.8,*,*,#,#,26
+4AB0435,Castlewellan Community Playgroup,*,*,#,#,*,*,28
+4AB0438,Legacurry Playgroup,20,76.9,*,*,#,#,26
+4AB0439,Little Doves Community Playgroup,0,0,0,0,18,100,18
+4AB0440,"PlayAWay Childcare Centre, Newtownards",16,61.5,*,*,#,#,26
+4AB0441,Rainbow Corner Playgroup,11,47.8,5,21.7,7,30.4,23
+4AB0472,Bangor Abbey PreSchool Centre,0,0,0,0,18,100,18
+4AB0508,"Busy Bees Playgroup, Hillsborough",27,60,0,0,18,40,45
+4AB0509,Crawfordsburn Playgroup,0,0,0,0,17,100,17
+4AB0513,Tiggers Palace Day Nursery,7,35,0,0,13,65,20
+4AB0515,Rhyme Times Playgroups,12,63.2,5,26.3,2,10.5,19
+4AB0537,Groomsport Playgroup,7,53.8,*,*,*,*,13
+4AB0601,Na?scoil Chill Locha,0,0,7,100,0,0,7
+4BA0178,Dromara Playgroup,26,83.9,5,16.1,0,0,31
+4BA0600,Jiminy Crickets PreSchool,9,56.3,0,0,7,43.8,16
+4BA0602,Brownlee Playgroup by Little Rays,17,54.8,*,*,#,#,31
+4BB0150,"Little Acorns PreSchool Playgroup, Bangor",10,32.3,*,*,#,#,31
+4BB0158,Ardglass Community Playgroup,0,0,25,100,0,0,25
+4BB0159,"Little Oaks PreSchool, Lisburn",0,0,24,100,0,0,24
+4BB0162,Cregagh PreSchool Playgroup,#,#,*,*,0,0,22
+4BB0163,Na?scoil Bheanna Boirche,0,0,29,93.5,2,6.5,31
+4BB0167,Ballygowan Community Playgroup,14,58.3,*,*,#,#,24
+4BB0170,Carryduff PreSchool Playgroup,21,51.2,10,24.4,10,24.4,41
+4BB0172,"Early Days Playgroup, Bangor",16,76.2,*,*,*,*,21
+4BB0173,Ballymacward PreSchool Playgroup,0,0,15,88.2,2,11.8,17
+4BB0174,Chuckles Playgroup,11,44,*,*,#,#,25
+4BB0175,Glencraig Integrated Playgroup,14,53.8,6,23.1,6,23.1,26
+4BB0185,Crossgar Community Playgroup,14,66.7,*,*,#,#,21
+4BB0277,Rathkeltair Cross Community Playgroup,0,0,19,90.5,2,9.5,21
+4BB0310,Glasswater Cross Community Playgroup,0,0,0,0,15,100,15
+4BB0375,Carrowdore Early Years Centre,24,100,0,0,0,0,24
+4BB0376,Killyleagh Early Years Playgroup,11,52.4,7,33.3,3,14.3,21
+4BB0384,Toddlein Playgroup,6,30,0,0,14,70,20
+4BB0388,Killough Playgroup,0,0,11,100,0,0,11
+4BB0432,Ballywalter PreSchool Unit,0,0,0,0,31,100,31
+4BB0436,Drumaness CrossCommunity Playgroup,0,0,14,70,6,30,20
+4BB0469,St Finian's Playgroup,0,0,11,47.8,12,52.2,23
+4BB0470,Little Sunbeams' Playgroup,0,0,0,0,18,100,18
+4BB0473,Oakwood Integrated Children's Centre,0,0,8,33.3,16,66.7,24
+4BB0474,Saul Cross Community Playgroup,*,*,#,#,*,*,24
+4BB0495,Seymour Hill PreSchool Playgroup,19,47.5,0,0,21,52.5,40
+4BB0584,"Bright Sparks PreSchool, Bangor",13,65,0,0,7,35,20
+4BB0637,Happy Feet Pre-school,6,50,5,41.7,1,8.3,12
+4CA0442,Rockmount Day Nursery,0,0,0,0,20,100,20
+4CA0530,Right Rascals Day Nursery Unit,15,62.5,8,33.3,1,4.2,24
+4CA0570,Country Kids Day Nursery,18,69.2,8,30.8,0,0,26
+4CA0603,Jolly Rodgers PreSchool,15,62.5,*,*,#,#,24
+4CA0611,Little Gems Day Nursery,23,59,6,15.4,10,25.6,39
+4CA0612,"First Steps Day Nursery, Lisburn",0,0,0,0,9,100,9
+4CA0613,"Little Rays Day Nursery, Lisburn",*,*,*,*,#,#,12
+4CA0614,Peter's Patch Day Nursery,10,62.5,*,*,#,#,16
+4CA0615,Little Bear's Day Nursery,0,0,0,0,15,100,15
+4CA0616,Big Red Balloon Day Nursery,9,64.3,*,*,*,*,14
+4CA0623,"Little Rays Day Nursery, Lambeg",*,*,8,33.3,#,#,24
+4CA0626,Safe ?n? Sound Day Nursery,*,*,5,31.3,#,#,16
+4CA0634,Cabbage Patch Day Nursery,0,0,0,0,9,100,9
+4CA0638,"First Steps Day Nursery, Belfast",*,*,*,*,0,0,7
+4CA0653,"Helping Hands Daycare, Lisburn",0,0,*,*,#,#,12
+4CA0657,Little Ones Day Nursery,0,0,0,0,7,100,7
+5AA0190,Scotwell House Playgroup,0,0,27,87.1,4,12.9,31
+5AA0197,Brockagh Playgroup,0,0,11,100,0,0,11
+5AA0421,Loughbrickland PreSchool,10,38.5,15,57.7,1,3.8,26
+5AB0186,Newmills Playgroup,18,69.2,*,*,#,#,26
+5AB0187,"Happy Days Playgroup, Dungannon",0,0,22,100,0,0,22
+5AB0188,Dara Playgroup,0,0,24,92.3,2,7.7,26
+5AB0191,Strawberry Tree Playgroup,*,*,#,#,0,0,26
+5AB0192,Little People PreSchool Centre,7,33.3,12,57.1,2,9.5,21
+5AB0194,Rainbow Pre-School Playgroup,15,83.3,0,0,3,16.7,18
+5AB0198,Lollipop Playgroup,17,32.7,35,67.3,0,0,52
+5AB0200,Buttonmoon PreSchool Playgroup,0,0,0,0,26,100,26
+5AB0201,"Jack and Jill Playgroup, Cookstown",6,37.5,6,37.5,4,25,16
+5AB0203,Clonduff Playgroup,0,0,50,100,0,0,50
+5AB0204,Panda Cross Community Playgroup,6,12.2,43,87.8,0,0,49
+5AB0205,Ballygawley Early Years,12,27.9,31,72.1,0,0,43
+5AB0206,Pomeroy PreSchool Playgroup,0,0,24,92.3,2,7.7,26
+5AB0208,"Tiny Tots PreSchool Education Centre, Cookstown",0,0,32,100,0,0,32
+5AB0209,Rainbow Stop Playgroup,41,93.2,0,0,3,6.8,44
+5AB0210,Little Villagers Playgroup,#,#,*,*,*,*,16
+5AB0211,Lower Mourne PreSchool Playgroup,0,0,13,100,0,0,13
+5AB0212,Glenn & Barr Playgroup,5,21.7,18,78.3,0,0,23
+5AB0213,Earlybird PreSchool,*,*,9,56.3,#,#,16
+5AB0214,O'Fiaich Playgroup,0,0,18,100,0,0,18
+5AB0216,Lissan CrossCommunity Playgroup,5,21.7,18,78.3,0,0,23
+5AB0217,Ballinderry Playgroup,0,0,37,100,0,0,37
+5AB0227,Rascals 'n' Ruffians,*,*,#,#,0,0,26
+5AB0228,"Busy Bees Playgroup, Burren",0,0,23,95.8,1,4.2,24
+5AB0231,Kingdom Playgroup,0,0,22,91.7,2,8.3,24
+5AB0232,Atticall PreSchool Playgroup,*,*,#,#,0,0,21
+5AB0233,Aughnacloy Playgroup Ltd,21,80.8,5,19.2,0,0,26
+5AB0234,Laurencetown PreSchool Playgroup,*,*,#,#,0,0,26
+5AB0238,Caledon Playgroup,12,60,6,30,2,10,20
+5AB0309,Paddington Playgroup,*,*,#,#,0,0,32
+5AB0329,Meigh Community PreSchool,0,0,25,100,0,0,25
+5AB0330,Poyntzpass Community Playgroup,0,0,0,0,22,100,22
+5AB0331,Clogher Valley Playgroup,12,46.2,0,0,14,53.8,26
+5AB0332,Loughgall Playgroup,10,83.3,0,0,2,16.7,12
+5AB0335,"Rainbow Community Childcare, Dungannon",*,*,#,#,*,*,44
+5AB0336,Little Folk Playgroup,0,0,27,100,0,0,27
+5AB0395,Na?scoil an Chreag?in,0,0,16,100,0,0,16
+5AB0396,Peatlands Playgroup,0,0,0,0,18,100,18
+5AB0397,Forever Friends CrossCommunity Playgroup,0,0,10,66.7,5,33.3,15
+5AB0398,Rathfriland Pre School Playgroup,8,33.3,15,62.5,1,4.2,24
+5AB0399,Clady Tiny Tots Playgroup,0,0,19,100,0,0,19
+5AB0400,Kilkeel Playgroup,#,#,*,*,*,*,14
+5AB0401,Forkhill PreSchool Playgroup,0,0,23,95.8,1,4.2,24
+5AB0404,Dunnaman Childrens Centre,0,0,0,0,19,100,19
+5AB0405,Keady Community Playgroup,6,25,12,50,6,25,24
+5AB0406,Benburb Community Playgroup,*,*,19,73.1,#,#,26
+5AB0415,Kids R Us Cross Community Playgroup,6,46.2,*,*,*,*,13
+5AB0417,Discovering Kids Playgroup,7,21.9,17,53.1,8,25,32
+5AB0418,"Woodland Adventure Playgroup, Augher",0,0,11,91.7,1,8.3,12
+5AB0419,Killyman Community Playgroup,20,95.2,0,0,1,4.8,21
+5AB0420,Leitrim Community Playgroup,*,*,#,#,0,0,20
+5AB0462,"Happy Days Playgroup, Newry",*,*,#,#,*,*,18
+5AB0465,"Tiny Tots Corner Playgroup, Armagh",15,93.8,0,0,1,6.3,16
+5AB0466,"Humpty Dumpty Preschool Playgroup, Banbridge",0,0,0,0,19,100,19
+5AB0497,Kidzone Playgroup,*,*,#,#,0,0,24
+5AB0498,Dominican @ Orana Playgroup,0,0,0,0,22,100,22
+5AB0504,"Little Oaks PreSchool Group, Craigavon",0,0,0,0,26,100,26
+5AB0505,Beacon Playgroup,0,0,0,0,10,100,10
+5AB0506,Windmill Playgroup,0,0,17,100,0,0,17
+5AB0541,Killean Playgroup,0,0,16,100,0,0,16
+5AB0543,"Little Acorns Playgroup, Derrynoose",0,0,20,100,0,0,20
+5AB0561,Naiscoil Shliabh gCuilinn,0,0,18,100,0,0,18
+5AB0630,"Little Acorns Playgroup, Coagh",0,0,0,0,21,100,21
+5AB0646,Richmount Playgroup,#,#,*,*,*,*,12
+5AB0647,"Happy Tots, Portadown",0,0,7,33.3,14,66.7,21
+5AB0656,Naiscoil an Cheide,0,0,7,100,0,0,7
+5BB0199,Twinkle Playgroup,0,0,40,100,0,0,40
+5BB0202,Aghagallon PreSchool,0,0,18,100,0,0,18
+5BB0215,Moy Area Playgroup,*,*,#,#,0,0,26
+5BB0235,Na?scoil an I?ir,0,0,11,84.6,2,15.4,13
+5BB0237,"Little Acorns Playgroup, Killyman",7,31.8,13,59.1,2,9.1,22
+5BB0324,Bosco Community Playgroup,*,*,#,#,0,0,15
+5BB0334,St Peter's Playgroup,0,0,26,100,0,0,26
+5BB0392,Na?scoil Na Banna,0,0,7,70,3,30,10
+5BB0393,Na?scoil Chois Locha,0,0,24,100,0,0,24
+5BB0402,Jolly Tots Playgroup,0,0,0,0,24,100,24
+5BB0403,"Tiny Tots Community Playgroup, Dungannon",8,38.1,11,52.4,2,9.5,21
+5BB0416,Derrytrasna Playgroup,0,0,10,100,0,0,10
+5BB0500,"Orchard Preschool, Loughall",0,0,18,100,0,0,18
+5BB0538,Carrick PreSchool,0,0,0,0,24,100,24
+5BB0542,"Little Acorns Playgroup, Derrymore",0,0,17,77.3,5,22.7,22
+5BB0547,Naiscoil Aodha Rua,0,0,23,95.8,1,4.2,24
+5BB0557,"St Mary's Playgroup, Banbridge",0,0,26,100,0,0,26
+5BB0562,Na?scoil na mBeann,0,0,20,100,0,0,20
+5BB0597,Loughshore Playgroup,0,0,11,100,0,0,11
+5BB0617,Na?scoil na P?irce Glaise,0,0,26,100,0,0,26
+5BB0645,Apple Blossom Playgroup,*,*,#,#,0,0,6
+5CA0195,Jolly Jester's Day Nursery,0,0,0,0,16,100,16
+5CA0501,The Old Station Playgroup,*,*,*,*,#,#,19
+5CA0520,Trinity Park PreSchool,15,65.2,8,34.8,0,0,23
+5CA0549,Giggles Day Care Centre,15,88.2,0,0,2,11.8,17
+5CA0558,Ladybird Lane Day Care,9,56.3,5,31.3,2,12.5,16
+5CA0559,"Little Friends Private Day Care, Banbridge",22,52.4,12,28.6,8,19,42
+5CA0596,"Child's Play Day Nursery, Banbridge",*,*,10,62.5,*,*,16
+5CA0598,Kiddiwinkles PreSchool,*,*,#,#,*,*,14
+5CA0599,"Happy Faces Daycare Nursery, Newry",0,0,26,100,0,0,26
+5CA0618,Washingford Daycare,0,0,10,62.5,6,37.5,16
+5CA0629,Daisy Chain Day Care,0,0,14,100,0,0,14

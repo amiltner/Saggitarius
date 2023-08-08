@@ -1,0 +1,210 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount
+Department of Health,Leeds PCT,14/11/2011,Bldg/Eng Equip Maint/Rep,HQ Estates,MAC ROOFING & CONTRACTING LTD,13929193,114069.77
+Department of Health,Leeds PCT,30/11/2011,Commercial Sector,GP CIC Bed Cover,OWLETT HALL NURSING HOME,14036930,38759.17
+Department of Health,Leeds PCT,14/11/2011,Commercial Sector,GP CIC Beds,CORINTHIAN CARE LTD,13944011,43784.32
+Department of Health,Leeds PCT,14/11/2011,Commercial Sector,GP CIC Beds,WESTWARD CARE LTD,13944023,30014.2
+Department of Health,Leeds PCT,07/11/2011,Computer Software/License,LCH Recharges,BT GLOBAL SERVICES,13891937,31840.68
+Department of Health,Leeds PCT,15/11/2011,Drugs,St Gemmas,LEEDS TEACHING HOSPITALS NHS TRUST,13898592,16569.25
+Department of Health,Leeds PCT,15/11/2011,Drugs,Wheatfields,LEEDS TEACHING HOSPITALS NHS TRUST,13898592,8922
+Department of Health,Leeds PCT,02/11/2011,External Consultancy Fees,Transformational Change,CAPITA BUSINESS SERVICES LTD,13876002,40424.4
+Department of Health,Leeds PCT,07/11/2011,External Consultancy Fees,Transformational Change,CAPITA BUSINESS SERVICES LTD,13904982,26949.6
+Department of Health,Leeds PCT,10/11/2011,External Consultancy Fees,Transformational Change,CAPITA BUSINESS SERVICES LTD,13929172,-40424.4
+Department of Health,Leeds PCT,10/11/2011,External Consultancy Fees,Transformational Change,CAPITA BUSINESS SERVICES LTD,13929177,40424.4
+Department of Health,Leeds PCT,07/11/2011,Grants,Grants & Subs - Children's,LEEDS CITY COUNCIL,13898510,52500
+Department of Health,Leeds PCT,07/11/2011,Grants,Grants & Subs - Children's,MARKET PLACE,13898501,25608.75
+Department of Health,Leeds PCT,21/11/2011,Grants,Healthy Living Centres,HEALTH FOR ALL (LEEDS) LTD,13983427,27500
+Department of Health,Leeds PCT,21/11/2011,Grants,IAPT,LEEDS COUNSELLING,13976312,89041.5
+Department of Health,Leeds PCT,21/11/2011,Grants,IAPT,LEEDS COUNSELLING,13976313,89041.5
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Care Services,LEEDS COMMUNITY HEALTHCARE NHS TRUST,13892015,9916378
+Department of Health,Leeds PCT,01/11/2011,Hcare Srv Rec NHS Trust,Cont Care Children,LEEDS COMMUNITY HEALTHCARE NHS TRUST,13824863,45208
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Cont Care Children,LEEDS COMMUNITY HEALTHCARE NHS TRUST,13891931,83454
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Leeds Teaching NHS Trust,LEEDS TEACHING HOSPITALS NHS TRUST,13891947,34492938
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Mid Yorksh Hosp NHS Trust,MID YORKSHIRE HOSPITALS NHS TRUST,13921002,2201157
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Other NCA,EAST LANCASHIRE HOSPITALS NHS TRUST,13905026,31191.3
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Other NCA,NORFOLK & NORWICH UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,13898533,58694.78
+Department of Health,Leeds PCT,01/11/2011,Hcare Srv Rec NHS Trust,Other NCA,SCARBOROUGH AND NORTH EAST YORKSHIRE HEALTH CARE NHS TRUST,13785222,47296.91
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Other NCA,SCARBOROUGH AND NORTH EAST YORKSHIRE HEALTH CARE NHS TRUST,13929158,32557.38
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Other NCA,UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST,13904987,30211
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Other NCA,UNIVERSITY HOSPITAL OF SOUTH MANCHESTER NHS FOUNDATION TRUST,13905126,-30211
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Patient Transport,YORKSHIRE AMBULANCE SERVICE NHS TRUST,13952764,343878
+Department of Health,Leeds PCT,15/11/2011,Hcare Srv Rec NHS Trust,Yorkshire Ambulance Serv,YORKSHIRE AMBULANCE SERVICE NHS TRUST,13952762,2073512
+Department of Health,Leeds PCT,01/11/2011,Hcare Srv Rec Other NHS,Transformational Change,LEEDS COMMUNITY HEALTHCARE NHS TRUST,13800602,33750
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,LCH CAMHs tier 4,BARNSLEY PCT,13898531,78583.33
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,MH Consortium,BARNSLEY PCT,13876008,1387363.92
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,Neonatal & Critical Care,BARNSLEY PCT,13868160,10808.17
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,SCG Bradford,BARNSLEY PCT,13868165,86193
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,SCG Fees,BARNSLEY PCT,13868160,31190.9
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,SCG Hull,BARNSLEY PCT,13868165,31307.59
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,SCG LTHT - Risk Share,BARNSLEY PCT,13868165,101489.48
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,SCG LTHT Contract,BARNSLEY PCT,13868165,5288892.52
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,SCG Mid Yorkshire,BARNSLEY PCT,13868165,120455
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,SCG National Contracts,BARNSLEY PCT,13868172,181416.67
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,SCG Other,BARNSLEY PCT,13868168,146311.59
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,Sheffield Childrens FT,BARNSLEY PCT,13868168,60979.68
+Department of Health,Leeds PCT,15/11/2011,Healthcare Srv Rec PCTs,Sheffield Teaching Foun T NCA,BARNSLEY PCT,13868169,70547.6
+Department of Health,Leeds PCT,15/11/2011,Hlthcre-Foundation Trsts,Airedale Hosp FT,AIREDALE NHS FOUNDATION TRUST,13898514,104590
+Department of Health,Leeds PCT,01/11/2011,Hlthcre-Foundation Trsts,Bradford Teaching Hosp FT,BRADFORD HOSPITALS NHS TRUST,13856564,43400
+Department of Health,Leeds PCT,15/11/2011,Hlthcre-Foundation Trsts,Bradford Teaching Hosp FT,BRADFORD HOSPITALS NHS TRUST,13905071,488575
+Department of Health,Leeds PCT,15/11/2011,Hlthcre-Foundation Trsts,Calderdale & Hudders FT,CALDERDALE & HUDDERSFIELD NHS FOUNDATION TRUST,13898498,40404
+Department of Health,Leeds PCT,15/11/2011,Hlthcre-Foundation Trsts,Harrogate & District FT,HARROGATE & DISTRICT NHS FOUNDATION NHS TRUST,13898520,1938420
+Department of Health,Leeds PCT,22/11/2011,Hlthcre-Foundation Trsts,LPFT,LEEDS PARTNERSHIPS NHS FOUNDATION TRUST,13991297,8060670
+Department of Health,Leeds PCT,15/11/2011,Hlthcre-Foundation Trsts,POPPS,LEEDS PARTNERSHIPS NHS FOUNDATION TRUST,13892016,36053
+Department of Health,Leeds PCT,15/11/2011,Hlthcre-Foundation Trsts,Sheffield Teaching Hosp FT,SHEFFIELD TEACHING HOSPITALS NHS FOUNDATION TRUST,13905111,47616
+Department of Health,Leeds PCT,01/11/2011,Hlthcre-Foundation Trsts,TEWV,TEES ESK & WEAR VALLEYS NHS FOUNDATION TRUST,13868121,68450
+Department of Health,Leeds PCT,15/11/2011,Hlthcre-Foundation Trsts,TEWV,TEES ESK & WEAR VALLEYS NHS FOUNDATION TRUST,13920944,65703
+Department of Health,Leeds PCT,15/11/2011,Hlthcre-Foundation Trsts,York Hospitals NHS FT,YORK HOSPITALS NHS FOUNDATION TRUST,13904973,181599
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,ABI/Joint Packages,BUPA CARE HOMES,13991268,5253.86
+Department of Health,Leeds PCT,24/11/2011,Independent Sector,ABI/Joint Packages,RAVENSDALE HEALTH CARE LTD,13991264,3976
+Department of Health,Leeds PCT,21/11/2011,Independent Sector,BMI Healthcare,BMI HEALTHCARE COLLECTIONS,13983418,32279.77
+Department of Health,Leeds PCT,14/11/2011,Independent Sector,BPAS,BPAS,13944015,33882.84
+Department of Health,Leeds PCT,07/11/2011,Independent Sector,CAMHS,ST ANDREWS HEALTHCARE,13898479,25282.57
+Department of Health,Leeds PCT,21/11/2011,Independent Sector,Care UK at Eccleshill,CARE UK CLINICAL SERVICES LTD,13983463,230939.67
+Department of Health,Leeds PCT,21/11/2011,Independent Sector,Classic Hospitals,SPIRE HEALTHCARE LTD,13983470,83072
+Department of Health,Leeds PCT,14/11/2011,Independent Sector,Cont Care Older People,CORINTHIAN CARE LTD,13920096,-26939.88
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Care - MH,FAIRBURN HEALTH CARE MEWS LTD,13991257,31637.06
+Department of Health,Leeds PCT,24/11/2011,Independent Sector,Continuing Healthcare,ATKINSON COURT NURSING HOME,13991261,27573.75
+Department of Health,Leeds PCT,24/11/2011,Independent Sector,Continuing Healthcare,BARCHESTER HEALTHCARE HOMES LTD,13991249,25215.86
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,BARNSLEY HEALTH CARE LTD,13991254,27415.84
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,BUPA CARE HOMES,13991251,30614.62
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,BUPA CARE HOMES,13991267,81487.53
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,BUPA CARE HOMES,13991268,49903.07
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,CARE CONCERN LEEDS LTD,13991253,30734.23
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,DONISTHORPE HALL,13991256,74612.35
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,ELDERCARE (HALIFAX) LTD,13991247,36337.38
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,FAIRBURN HEALTH CARE MEWS LTD,13991257,18993.34
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,FAIRBURN HEALTH CARE VALE LTD,13991258,74684.11
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,FOUR SEASONS HEALTHCARE,13991265,30034.88
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,GHYLL ROYD NURSING HOME LTD,13991259,71127.56
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,GROVE COURT NURSING HOME LTD,13991260,25424.32
+Department of Health,Leeds PCT,24/11/2011,Independent Sector,Continuing Healthcare,LEONARD CHESHIRE DISABILITY,13991266,28456.07
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,MARIA MALLABAND CARE GROUP,13991250,31863.09
+Department of Health,Leeds PCT,23/11/2011,Independent Sector,Continuing Healthcare,OWLETT HALL NURSING HOME,13991255,38475.84
+Department of Health,Leeds PCT,24/11/2011,Independent Sector,Continuing Healthcare,RAVENSDALE HEALTH CARE LTD,13991264,32207
+Department of Health,Leeds PCT,24/11/2011,Independent Sector,Continuing Healthcare,STOCKBRIDGE PHARMACY (THE),13991273,33509.96
+Department of Health,Leeds PCT,14/11/2011,Independent Sector,Fountain Diagnostic,FOUNTAIN DIAGNOSTIC,13944009,86500
+Department of Health,Leeds PCT,02/11/2011,Independent Sector,Marie Stopes,MARIE STOPES INTERNATIONAL,13883915,63447.3
+Department of Health,Leeds PCT,21/11/2011,Independent Sector,Marie Stopes,MARIE STOPES INTERNATIONAL,13983534,56943.5
+Department of Health,Leeds PCT,01/11/2011,Independent Sector,MoJ - Substance Misuse,HM PRISON SERVICE,13831806,39124.36
+Department of Health,Leeds PCT,01/11/2011,Independent Sector,MoJ - Substance Misuse,HM PRISON SERVICE,13831812,35053.55
+Department of Health,Leeds PCT,01/11/2011,Independent Sector,MoJ - Substance Misuse,HM PRISON SERVICE,13831818,39944.13
+Department of Health,Leeds PCT,09/11/2011,Independent Sector,Netcare Walk In Centre SLA,NETCARE HEALTHCARE UK LTD,13920942,180038
+Department of Health,Leeds PCT,14/11/2011,Independent Sector,Nuffield,NUFFIELD HEALTH,13929222,836837
+Department of Health,Leeds PCT,21/11/2011,Independent Sector,Private Dental Activity,CLARENDON DENTAL SPA,13983522,43073.04
+Department of Health,Leeds PCT,28/11/2011,Independent Sector,SPIRE,SPIRE HEALTHCARE LTD,13808285,-244225.13
+Department of Health,Leeds PCT,28/11/2011,Independent Sector,SPIRE,SPIRE HEALTHCARE LTD,14013116,252183
+Department of Health,Leeds PCT,30/11/2011,Independent Sector,SPIRE,SPIRE HEALTHCARE LTD,14036882,45191.09
+Department of Health,Leeds PCT,16/11/2011,Independent Sector,Urgent Care GPs,LOCAL CARE DIRECT,13961882,537225
+Department of Health,Leeds PCT,21/11/2011,Independent Sector,Yorkshire Clinic,YORKSHIRE CLINIC,13983526,130000
+Department of Health,Leeds PCT,01/11/2011,Miscellaneous Expenditure,Directorate of Finance,LEEDS PARTNERSHIPS NHS FOUNDATION TRUST,13800500,168849
+Department of Health,Leeds PCT,01/11/2011,Miscellaneous Expenditure,Directorate of Finance,LEEDS PARTNERSHIPS NHS FOUNDATION TRUST,13800591,-168849
+Department of Health,Leeds PCT,01/11/2011,Miscellaneous Expenditure,LCH Services - CIP,HM PRISON SERVICE,13633280,100000
+Department of Health,Leeds PCT,01/11/2011,Miscellaneous Expenditure,LCH Services - CIP,HM PRISON SERVICE,13633290,-100000
+Department of Health,Leeds PCT,21/11/2011,Rent,Armley Estates LIFT,COMMUNITY VENTURES LTD,13968635,78941.09
+Department of Health,Leeds PCT,21/11/2011,Rent,WYCSA ,RYDEN,13983521,59375
+Department of Health,Leeds PCT,21/11/2011,Voluntary Sector,Health Trainers,HEALTH FOR ALL (LEEDS) LTD,13983428,37500
+Department of Health,Leeds PCT,02/11/2011,Voluntary Sector,MH Commissioning,TOUCHSTONE-LEEDS,13883926,180080.06
+Department of Health,Leeds PCT,28/11/2011,Voluntary Sector,NHS Pensions Indexation Voluntary Bodies,ST ANNES COMMUNITY SERVICES,14005853,179494
+Department of Health,Leeds PCT,15/11/2011,Voluntary Sector,PH - Voluntary Sector,KIRKLEES PCT,13898495,42828.48
+Department of Health,Leeds PCT,07/11/2011,Voluntary Sector,Sexual Health,BLACK HEALTH AGENCY,13898486,31120.2
+Department of Health,Leeds PCT,02/11/2011,Voluntary Sector,St Annes Detox Beds,ST ANNES COMMUNITY SERVICES,13884042,60133.55
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,H3+,Nov-11,151273.46
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,NE Leeds PBC Consortium,Nov-11,57240.81
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,LEODIS HEALTHCARE LTD,Nov-11,138510
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,CITY VIEW MEDICAL PRACTICE,Nov-11,90204.38
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR P S LEE &  & PARTNERS,Nov-11,88803.52
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,OAKLEY MEDICAL PRACTICE,Nov-11,40104.97
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,MARSH STREET SURGERY,Nov-11,111655.62
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR SAFFER  & PARTNERS,Nov-11,65715.48
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR LEWIS & PARTNERS,Nov-11,54252.56
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR P J MADDY & PARTNERS,Nov-11,48989.59
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,NORTH LEEDS MEDICAL PRACTICE,Nov-11,89994.06
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,ROBIN LANE PRACTICE,Nov-11,98197.94
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR DARBYSHIRE & PARTNERS,Nov-11,133516.64
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,CRAVEN ROAD MEDICAL PRACTICE,Nov-11,83554.14
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DRS ROSS HALL & PARTNERS,Nov-11,57678.04
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,THE CHAPELOAK PRACTICE,Nov-11,82056.93
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,"DRS BURKILL, FOSTER, SHORT & PARTNERS",Nov-11,86314.88
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,HYDE PARK SURGERY,Nov-11,75364.46
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR HICKS & PARTNERS,Nov-11,26052.87
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,WESTGATE SURGERY,Nov-11,53520.56
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR ALLMAN & PARTNERS,Nov-11,88490.67
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR MATE & PARTNERS,Nov-11,89373.47
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR MCGRATH  & PARTNERS,Nov-11,106783.18
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,CHILVERS MCCREA HEALTHCARE PRACTICE,Nov-11,79949.56
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,"DRS MARSHALL, WRIGHT & PARTNERS",Nov-11,95341.85
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,"DRS IRELAND, WOOD & PARTNERS",Nov-11,196015.53
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,"DRS ALLEN, STANLEY & PARTNERS",Nov-11,61722.35
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DRS SHEARD & MILLS & PARTNERS,Nov-11,60607.32
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR A V LEE & PARTNERS,Nov-11,139257.26
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,THE GARDEN SURGERY,Nov-11,51117.07
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR HOLMES & PARTNERS,Nov-11,55768.88
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR RK POTTS & PARTNERS,Nov-11,57098.77
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,ADAMS RJ & PARTNERS,Nov-11,136789.63
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,SUNFIELD MEDICAL CENTRE,Nov-11,39887.39
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,LEIGH VIEW MEDICAL PRACTICE,Nov-11,118148.43
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR KA WELCH & PARTNERS,Nov-11,35587.03
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,THE DEKEYSER GROUP PRACTICE,Nov-11,159254.89
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DRS KIRKHAM LIU & PARTNERS,Nov-11,43239.73
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,BURLEY PARK DOCTORS,Nov-11,101709.58
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,THE THAKUR PRACTICE,Nov-11,35121.05
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DRS JARVIS ROBINSON & PARTNERS,Nov-11,51104.11
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR HOUGHTON & PARTNERS,Nov-11,105292.09
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,GRANGE MEDICARE LTD,Nov-11,102602.64
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,BELLBROOKE SURGERY,Nov-11,82850.73
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,NOVA SCOTIA MEDICAL CENTRE,Nov-11,47673.53
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,THE GABLES SURGERY,Nov-11,34217.02
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,ST MARTINS PRACTICE,Nov-11,52881.16
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,HIGHFIELD MED CENTRE,Nov-11,39731.33
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DRS PEARSON & PARTNERS,Nov-11,55402.14
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,LEEDS STUDENT MEDICAL PRACTICE,Nov-11,174283.45
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,ROUNDHAY ROAD SURGERY,Nov-11,25589.58
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,OAKWOOD SUGERY ,Nov-11,34355.3
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DRS DAVIS & TAYLOR,Nov-11,40137.43
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,GULREZ KHAN & PARTNERS,Nov-11,29975.35
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR JOHN BERRIDGE & PARTNERS,Nov-11,30283.11
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DR P SHEVLIN & PARTNERS,Nov-11,28848.91
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,DRIGHLINGTON MEDICAL CENTRE,Nov-11,27734.33
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,ST MARTINS HEALTHCARE SERVICES LTD,Nov-11,100923.86
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,ONE MEDICARE LLP,Nov-11,74266.13
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,PMS Other,CARE UK CLINICAL SERVICES LTD,Nov-11,70469.03
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,HIGHFIELD SURGERY,Nov-11,51720.24
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,THE SURGERY AT NURSERY LANE & ADEL,Nov-11,61254.11
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR LIGHTFOOT & PARTNERS,Nov-11,76597.32
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,IWANTSCHAK & PARTNERS,Nov-11,91071.81
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,MANOR PARK SURGERY,Nov-11,96725.47
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR PRITLOVE & PARTNERS,Nov-11,81418.07
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR CLEMENTS AND PARTNERS,Nov-11,62551.74
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR S M FELLERMAN & ASSOCIATES,Nov-11,31528.53
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,CHEVIN MEDICAL PRACTICE,Nov-11,90085
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,ROSE BRADY & PARTNERS,Nov-11,48704.49
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,THE WHITFIELD PRACTICE,Nov-11,46918.34
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,ALLERTON MEDICAL CENTRE,Nov-11,36264.32
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,"DRS GERAGHTY, WHEAT & PARTNERS",Nov-11,40543.17
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,LINGWELL CROFT SURGERY,Nov-11,92857.73
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DRS ADDLESTONE & PARTNERS,Nov-11,54520.68
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR PORTER AND PARTNERS,Nov-11,97571.14
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR KINGHORN & PARTNERS,Nov-11,54788.71
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,"DRS CHU, ROBSON, SHELLY & PARTNERS",Nov-11,43380.16
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR ALEXANDER & PARTNERS,Nov-11,63131.06
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DRS NEWBOUND & PARTNERS,Nov-11,84985.54
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR RI ADDLESTONE & PARTNERS,Nov-11,65796.95
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR S M LAYBOURN & PARTNERS,Nov-11,62692.49
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,THE STREET LANE PRACTICE,Nov-11,88808.38
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,FIELDHEAD SURGERY,Nov-11,29921.1
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,LAUREL BANK SURGERY,Nov-11,47221.76
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,KIPPAX HALL SURGERY,Nov-11,30221.31
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,PARK EDGE PRACTICE,Nov-11,51686.36
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR LV BHANDARY & PARTNERS,Nov-11,36829.03
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DRS MENON & PARTNERS,Nov-11,42973.61
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR JOHN SINGH & PARTNERS,Nov-11,26542.88
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DR S K SRIVASTAVA & PARTNERS,Nov-11,32328.76
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,MOORCROFT SURGERY,Nov-11,37050.23
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,CHAPLETOWN FAMILY SURGERY,Nov-11,35770.87
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,KIRKSTALL LANE MEDICAL CENTRE,Nov-11,53029.12
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,DRS KNIGHT & PARTNERS,Nov-11,37453.96
+Department of Health,Leeds PCT,30/11/2011,Annuals Contracts,GMS Other,THE PARTNERS ,Nov-11,25447.11
+Department of Health,Leeds PCT,30/11/2011,Dispensing Practice Payment,Other,DR LIGHTFOOT & PARTNERS,Nov-11,"78,326.21"
+Department of Health,Leeds PCT,30/11/2011,Dispensing Practice Payment,Other,DR PORTER AND PARTNERS,Nov-11,"42,046.70"
+Department of Health,Leeds PCT,30/11/2011,GP Registrars Training Contracts,Other,DR DARBYSHIRE  & PARTNERS,Nov-11,25870.93
+Department of Health,Leeds PCT,30/11/2011,GP Registrars Training Contracts,Other,DR A V LEE & PARTNERS,Nov-11,29758.26
+Department of Health,Leeds PCT,30/11/2011,GP Registrars Training Contracts,Other,ADAMS RJ & PARTNERS,Nov-11,49141.71

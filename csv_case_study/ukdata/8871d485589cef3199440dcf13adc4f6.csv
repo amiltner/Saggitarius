@@ -1,0 +1,54 @@
+﻿LAD17CD,LAD17NM,CAUTH17CD,CAUTH17NM,FID
+E08000001,Bolton,E47000001,Greater Manchester,1
+E08000002,Bury,E47000001,Greater Manchester,2
+E08000003,Manchester,E47000001,Greater Manchester,3
+E08000004,Oldham,E47000001,Greater Manchester,4
+E08000005,Rochdale,E47000001,Greater Manchester,5
+E08000006,Salford,E47000001,Greater Manchester,6
+E08000007,Stockport,E47000001,Greater Manchester,7
+E08000008,Tameside,E47000001,Greater Manchester,8
+E08000009,Trafford,E47000001,Greater Manchester,9
+E08000010,Wigan,E47000001,Greater Manchester,10
+E08000016,Barnsley,E47000002,Sheffield City Region,11
+E08000017,Doncaster,E47000002,Sheffield City Region,12
+E08000018,Rotherham,E47000002,Sheffield City Region,13
+E08000019,Sheffield,E47000002,Sheffield City Region,14
+E08000032,Bradford,E47000003,West Yorkshire,15
+E08000033,Calderdale,E47000003,West Yorkshire,16
+E08000034,Kirklees,E47000003,West Yorkshire,17
+E08000035,Leeds,E47000003,West Yorkshire,18
+E08000036,Wakefield,E47000003,West Yorkshire,19
+E06000006,Halton,E47000004,Liverpool City Region,20
+E08000011,Knowsley,E47000004,Liverpool City Region,21
+E08000012,Liverpool,E47000004,Liverpool City Region,22
+E08000013,St. Helens,E47000004,Liverpool City Region,23
+E08000014,Sefton,E47000004,Liverpool City Region,24
+E08000015,Wirral,E47000004,Liverpool City Region,25
+E06000047,County Durham,E47000005,North East,26
+E06000057,Northumberland,E47000005,North East,27
+E08000021,Newcastle upon Tyne,E47000005,North East,28
+E08000022,North Tyneside,E47000005,North East,29
+E08000023,South Tyneside,E47000005,North East,30
+E08000024,Sunderland,E47000005,North East,31
+E08000037,Gateshead,E47000005,North East,32
+E06000005,Darlington,E47000006,Tees Valley,33
+E06000001,Hartlepool,E47000006,Tees Valley,34
+E06000002,Middlesbrough,E47000006,Tees Valley,35
+E06000003,Redcar and Cleveland,E47000006,Tees Valley,36
+E06000004,Stockton-on-Tees,E47000006,Tees Valley,37
+E08000025,Birmingham,E47000007,West Midlands,38
+E08000026,Coventry,E47000007,West Midlands,39
+E08000027,Dudley,E47000007,West Midlands,40
+E08000028,Sandwell,E47000007,West Midlands,41
+E08000029,Solihull,E47000007,West Midlands,42
+E08000030,Walsall,E47000007,West Midlands,43
+E08000031,Wolverhampton,E47000007,West Midlands,44
+E07000008,Cambridge,E47000008,Cambridgeshire and Peterborough,45
+E07000009,East Cambridgeshire,E47000008,Cambridgeshire and Peterborough,46
+E07000010,Fenland,E47000008,Cambridgeshire and Peterborough,47
+E07000011,Huntingdonshire,E47000008,Cambridgeshire and Peterborough,48
+E07000012,South Cambridgeshire,E47000008,Cambridgeshire and Peterborough,49
+E06000031,Peterborough,E47000008,Cambridgeshire and Peterborough,50
+E06000022,Bath and North East Somerset,E47000009,West of England,51
+E06000023,"Bristol, City of",E47000009,West of England,52
+E06000025,South Gloucestershire,E47000009,West of England,53

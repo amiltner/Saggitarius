@@ -1,0 +1,58 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction,Amount,Additional Narrative
+HMRC,VOA,16.09.13,Management of Agreement,Corporate,Capgemini UK plc.,5100002956,"£75,646.87",IT support and maintenance
+HMRC,VOA,16.09.13,Business Application,Corporate,Capgemini UK plc.,5100002956,"£158,240.72",IT support and maintenance
+HMRC,VOA,16.09.13,Data Centre Operations,Corporate,Capgemini UK plc.,5100002956,"£257,138.57",IT support and maintenance
+HMRC,VOA,16.09.13,Desktop Services,Corporate,Capgemini UK plc.,5100002956,"£114,523.52",IT support and maintenance
+HMRC,VOA,16.09.13,WAN,Corporate,Capgemini UK plc.,5100002956,"£122,688.99",IT support and maintenance
+HMRC,VOA,16.09.13,Business Continuity & Disaster Recovery,Corporate,Capgemini UK plc.,5100002956,"£42,898.80",IT support and maintenance
+HMRC,VOA,16.09.13,Aspire Other Costs,Corporate,Capgemini UK plc.,5100002956,"£176,997.56",IT support and maintenance
+HMRC,VOA,16.09.13,I.T.-Software & Support,Corporate,Capgemini UK plc.,5100002956,"£81,826.62",IT support and maintenance
+HMRC,VOA,16.09.13,Telephones-Mobile,Corporate,Capgemini UK plc.,5100002956,"£11,719.75",Telephony Charges
+HMRC,VOA,16.09.13,Telephones-Landline,Corporate,Capgemini UK plc.,5100002956,"£183,445.08",Telephony Charges
+HMRC,VOA,16.09.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,5100002956,"£8,673.20",In-house software development costs
+HMRC,VOA,16.09.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,5100002956,"£166,764.87",In-house software development costs
+HMRC,VOA,16.09.13,Input VAT (ST),Corporate,Capgemini UK plc.,5100002956,"£243,590.35",VAT
+HMRC,VOA,16.09.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,1700000818,"(£196,152.97)",Refund of In-house software development costs
+HMRC,VOA,16.09.13,Input VAT (ST),Corporate,Capgemini UK plc.,1700000818,"(£39,230.59)",VAT
+HMRC,VOA,16.09.13,Aspire Other Costs,Corporate,Capgemini UK plc.,1700000819,"(£106,696.22)",Refund of IT support and maintenance
+HMRC,VOA,16.09.13,Input VAT (ST),Corporate,Capgemini UK plc.,1700000819,"(£21,339.24)",VAT
+HMRC,VOA,02.09.13,Rates,Corporate,City of Westminster,5100002813,"£72,013.00",Business Rates
+HMRC,VOA,16.09.13,Software Licence Renewals,Corporate,COMPUTACENTER UK LTD (EDI),5100002959,"£54,326.78",Renewal of Software Licences
+HMRC,VOA,16.09.13,I.T.-Software & Support,Corporate,COMPUTACENTER UK LTD (EDI),5100002959,"£11,471.02",IT support and maintenance
+HMRC,VOA,16.09.13,Input VAT (ST),Corporate,COMPUTACENTER UK LTD (EDI),5100002959,£900.43,VAT
+HMRC,VOA,04.09.13,Subscriptions,Corporate,EGi - Reed Business Information Limited,5100002865,"£29,003.10",Estate Gazette Subscription Fees
+HMRC,VOA,04.09.13,Input VAT (ST),Corporate,EGi - Reed Business Information Limited,5100002865,£396.90,VAT
+HMRC,VOA,16.09.13,Electricity,Corporate,HMRC,5100002914,"£47,892.43",Accommodation Charges
+HMRC,VOA,05.09.13,STEPS PFI Unitary Charges - VAT Recoverable,Corporate,HMRC,5100002879,"£731,261.78",Accommodation Charges
+HMRC,VOA,16.09.13,Accommodation rent,Corporate,HMRC,5100002904,"£472,677.33",Accommodation Charges
+HMRC,VOA,16.09.13,Electricity,Corporate,HMRC,5100002904,"£87,221.44",Accommodation Charges
+HMRC,VOA,16.09.13,Rates,Corporate,HMRC,5100002904,"£465,217.36",Accommodation Charges
+HMRC,VOA,16.09.13,Rates,Corporate,London Borough of Enfield,5100002899,"£25,154.34",Business Rates
+HMRC,VOA,16.09.13,Telephones-Landline,Corporate,MAIN-TEL (NE) LTD,5100002906,"£45,254.41",Telephony Charges
+HMRC,VOA,16.09.13,Input VAT (ST),Corporate,MAIN-TEL (NE) LTD,5100002906,£619.30,VAT
+HMRC,VOA,05.09.13,Major Works VAT Recoverable,Corporate,Mapeley Steps Contractor Ltd,5100002878,"£28,832.71",Accommodation Refurbishment
+HMRC,VOA,05.09.13,Input VAT (ST),Corporate,Mapeley Steps Contractor Ltd,5100002878,£394.57,VAT
+HMRC,VOA,16.09.13,Accommodation rent,Corporate,Planning Inspectorate,5100002905,"£75,399.07",Accommodation Charges
+HMRC,VOA,16.09.13,Electricity,Corporate,Planning Inspectorate,5100002905,"£5,422.18",Accommodation Charges
+HMRC,VOA,16.09.13,Rates,Corporate,Planning Inspectorate,5100002905,"£13,082.97",Accommodation Charges
+HMRC,VOA,16.09.13,Royal mail postage,Corporate,Royal Mail,1900016104,"£56,176.81",Postage Charges
+HMRC,VOA,16.09.13,Subscriptions,Corporate,Specialist Computer Centres,5100003020,"£100,224.06",IT support and maintenance
+HMRC,VOA,16.09.13,Input VAT (ST),Corporate,Specialist Computer Centres,5100003020,"£1,371.54",VAT
+HMRC,VOA,20.09.13,Accommodation rent,Corporate,The Charity Commission For England,5100003083,"£25,904.40",Accommodation Charges
+HMRC,VOA,05.09.13,Postage,Corporate,TNT UK LTD,5100002897,"£37,183.67",Postage Charges
+HMRC,VOA,05.09.13,Input VAT (ST),Corporate,TNT UK LTD,5100002897,"£7,436.73",VAT
+HMRC,VOA,17.09.13,Accommodation rent,Corporate,Turnstone Estates Ltd,5100003035,"£37,865.90",Accommodation Charges
+HMRC,VOA,17.09.13,Input VAT (ST),Corporate,Turnstone Estates Ltd,5100003035,£518.19,VAT
+HMRC,VOA,04.09.13,I.T.-Hardware Maintenance,Corporate,XEROX (UK) LTD,5100002869,"£64,988.71",Hardware Maintenance
+HMRC,VOA,04.09.13,Input VAT (ST),Corporate,XEROX (UK) LTD,5100002869,"£12,997.72",VAT
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,City of Westminster,1900000505,"£33,633.50",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,Royal Borough of Kensington & Chelsea,1900000482,"£59,442.24",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,Royal Borough of Kensington & Chelsea,1900000481,"£87,398.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,City of Westminster,1900000426,"£107,038.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,London Borough of Ealing,1900000506,"£127,485.13",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,City of Westminster,1900000427,"£133,797.50",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,City of Westminster,1900000445,"£267,595.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,City of Westminster,1900000440,"£279,870.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,City of Westminster,1900000442,"£289,975.72",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,City of Westminster,1900000446,"£454,519.86",Payment of business rates for diplomatic properties
+HMRC,POLAR,24.09.13,Non-domestic Rates,Diplomatic Properties,City of Westminster,1900000423,"£461,540.00",Payment of business rates for diplomatic properties

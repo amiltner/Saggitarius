@@ -1,0 +1,289 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Supplier Postcode,Transaction number,Amount
+HMRC,HMRC,01/07/2011,County Court Costs,Solicitors Office,RBSG Central,SE99 1AA,1900053454,40000
+HMRC,HMRC,01/07/2011,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,MK10 1PX,5100027544,134192.74
+HMRC,HMRC,01/07/2011,Dept forms Stock,Commercial Directorate,St Ives Direct,LS14 1NH,5100027552,20715.31
+HMRC,HMRC,01/07/2011,Depart Booklet Stk,Commercial Directorate,St Ives Direct,LS14 1NH,5100027552,13022.48
+HMRC,HMRC,01/07/2011,Dept forms Stock,Commercial Directorate,St Ives Direct,LS14 1NH,5100027552,9600.98
+HMRC,HMRC,01/07/2011,Dept forms Stock,Commercial Directorate,St Ives Direct,LS14 1NH,5100027552,6984.21
+HMRC,HMRC,01/07/2011,Dept forms Stock,Commercial Directorate,St Ives Direct,LS14 1NH,5100027552,2404.92
+HMRC,HMRC,01/07/2011,Samplng & Analytical,Specialist Investigations (SI),L G C Ltd,TW11 0LY,5100027701,46779.6
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Borough of Telford & Wrekin,TF3 4LP,5100027731,61067
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Salford City Council,M27 5AW,5100027749,129034
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Salford City Council,M27 5AW,5100027750,52826
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Birmingham City Council,B4 7AB,5100027770,33099
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Bournemouth Borough Council,BH2 6EB,5100027780,31239
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Bradford Council,BD1 1HX,5100027782,35073
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Bradford Council,BD1 1HX,5100027783,54558
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Nottingham City Council,NG1 4XX,5100027790,131115
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Bristol City Council,BS99 1ZG,5100027797,32908
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Cardiff County Council,CF10 3WD,5100027801,90308
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Sefton Mbc,L20 3FD,5100027831,37022
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Sefton Mbc,L20 3FD,5100027832,38321
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Sheffield City Council,S1 1UY,5100027833,37671
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,City of  Westminster,SW1E 6QY,5100027842,114434
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,City of  Westminster,SW1E 6QY,5100027845,41903
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Coventry City Council,CV1 5RR,5100027848,52826
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Croydon Council,CR9 1BQ,5100027852,58437
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,South Lanarkshire Council,ML3 0XJ,5100027856,93095
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,South Lanarkshire Council,ML3 0XJ,5100027859,29184.2
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Southend Borough Council,SS2 6AN,5100027862,51527
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Sunderland City Council,SR5 9BJ,5100027884,74043
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Dundee City Council,DD1 3YN,5100027892,31306
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Glasgow City Council,G1 1JE,5100027901,36805
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Glasgow City Council,G1 1JE,5100027902,30310
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Ipswich Borough Council,IP1 2DE,5100027918,26630
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Leicester City Council,LE1 6HL,5100027929,25114
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Liverpool City Council,L69 2DX,5100027937,48063
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Liverpool City Council,L69 2DX,5100027938,25547
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Liverpool City Council,L69 2DX,5100027939,33558
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Liverpool City Council,L69 2DX,5100027940,103920
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,London Borough of Camden,WC1H 8NH,5100027947,243677
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,West Lindsey District Council,NG34 4GL,5100027951,28795
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,West Lothian Council,EH48 1TT,5100027956,41525
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Manchester City Council,M60 2JR,5100027972,51094
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Woking Borough  Council,GU21 6YL,5100027974,42846
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Worthing Borough Council,BN11 1JN,5100027982,74972
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Newcastle City Council,NE99 1UP,5100027989,337307
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,North Lanarkshire Council,ML1 1SH,5100028003,194197
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,City Of London,EC2P 2EJ,5100028015,81346
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,City Of London,EC2P 2EJ,5100028016,50727
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Leeds City Council,LS2 8JR,5100028022,37888
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,Council Of The Borough,NE27 9AF,5100028026,29661
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,City Of Edinburgh Council,EH1 1UF,5100028053,27842
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,City Of Edinburgh Council,EH1 1UF,5100028055,34380
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,London Borough of Southwark,BR1 3YE,5100028062,150627
+HMRC,HMRC,01/07/2011,Business Rates,Estates & Support Services,London Borough of Southwark,BR1 3YE,5100028063,70706
+HMRC,HMRC,01/07/2011,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100028067,17079548.3
+HMRC,HMRC,01/07/2011,100 PS Service Charg,Estates & Support Services,Exchequer Partnership Plc,M41 7HG,5100028068,2177077.8
+HMRC,HMRC,01/07/2011,CHURN,Solicitors Office,Mapeley STEPS Contractor Ltd,SE1 0TA,5100028098,29494.57
+HMRC,HMRC,01/07/2011,Crown Sol's Off NI,Debt Management & Banking,Crown Solicitors Office,BT1 3JY,5100028123,27040
+HMRC,HMRC,04/07/2011,Proprietry sys maint,People Function,World Careers Network Plc,SW19 8DR,5100028184,52355.08
+HMRC,HMRC,04/07/2011,Proprietry sys maint,People Function,World Careers Network Plc,SW19 8DR,5100028260,43285.58
+HMRC,HMRC,04/07/2011,Proprietry sys maint,People Function,World Careers Network Plc,SW19 8DR,5100028267,67366.3
+HMRC,HMRC,04/07/2011,Temp clerical/admin,People Function,MacLellan International Limited,B70 1EN,5100028301,9073.64
+HMRC,HMRC,04/07/2011,Temp clerical/admin,Large Business Service,MacLellan International Limited,B70 1EN,5100028301,8766.04
+HMRC,HMRC,04/07/2011,Temp clerical/admin,Charities Assets & Residence,MacLellan International Limited,B70 1EN,5100028301,5259.62
+HMRC,HMRC,04/07/2011,Temp clerical/admin,Specialist Investigations (SI),MacLellan International Limited,B70 1EN,5100028301,5259.62
+HMRC,HMRC,04/07/2011,Temp clerical/admin,Charities Assets & Residence,MacLellan International Limited,B70 1EN,5100028301,4625.99
+HMRC,HMRC,04/07/2011,Temp clerical/admin,Customer Operations PSA & NICEO,MacLellan International Limited,B70 1EN,5100028301,3229.61
+HMRC,HMRC,04/07/2011,Temp clerical/admin,Customer Operations PSA & NICEO,MacLellan International Limited,B70 1EN,5100028301,2985.68
+HMRC,HMRC,04/07/2011,Temp clerical/admin,E&C Central Services,MacLellan International Limited,B70 1EN,5100028301,2922.01
+HMRC,HMRC,04/07/2011,Research conslt serv,PAYE SA & NICs,Holden Pearrmain Research Ltd,KT13 0BG,5100028326,77040
+HMRC,HMRC,04/07/2011,Software coding,Information Management Services,Accenture (UK) Limited,EC3M 3BD,5100028345,17898
+HMRC,HMRC,04/07/2011,Software coding,Information Management Services,Accenture (UK) Limited,EC3M 3BD,5100028345,17898
+HMRC,HMRC,04/07/2011,Software coding,Information Management Services,Accenture (UK) Limited,EC3M 3BD,5100028345,13188
+HMRC,HMRC,04/07/2011,Software coding,Information Management Services,Accenture (UK) Limited,EC3M 3BD,5100028345,12246
+HMRC,HMRC,04/07/2011,Software coding,Information Management Services,Accenture (UK) Limited,EC3M 3BD,5100028345,11742
+HMRC,HMRC,04/07/2011,Translation services,Estates & Support Services,K International,MK14  6PW,5100028370,39897.84
+HMRC,HMRC,04/07/2011,Forensic Services,Criminal Investigations,CCL Forensics Limited,CV37 6NW,5100028371,165347.02
+HMRC,HMRC,04/07/2011,County Court Proceed,Debt Management & Banking,Her Majesty's Court Service,#,5100028460,106815
+HMRC,HMRC,05/07/2011,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,1700027915,-27207.72
+HMRC,HMRC,05/07/2011,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,1700027937,-2172.3
+HMRC,HMRC,05/07/2011,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,1700027937,-62471.29
+HMRC,HMRC,05/07/2011,Min AW non-struc VAT,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100024916,34600.07
+HMRC,HMRC,05/07/2011,Security services,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100024917,79435.5
+HMRC,HMRC,05/07/2011,Maj AW struc non-VAT,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100025518,84476.2
+HMRC,HMRC,05/07/2011,Filtered Mains Drinking Water,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100028338,31822.8
+HMRC,HMRC,05/07/2011,Gov Bank Serv Charge,Finance & Internal Audit,RBS - Natwest,EC2M 4RB,5100028543,113851.91
+HMRC,HMRC,05/07/2011,Storage (non enfmnt),Estates & Support Services,Derwent Facilities Management Ltd,HG2 8QT,5100028943,110061.98
+HMRC,HMRC,05/07/2011,Govt auditing serv,E&C Central Services,Home Office Immigration & Nationali,NP20 9BB,5100029007,60000
+HMRC,HMRC,05/07/2011,Debt collection serv,Debt Management & Banking,iQor holdings Limited,PR1 3EL,5100029042,274866.77
+HMRC,HMRC,05/07/2011,Min AW non-struc VAT,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100029081,49581.94
+HMRC,HMRC,05/07/2011,Photocopiers,Commercial Directorate,Canon (UK) Ltd,RH2 8BF,5100029118,25365.29
+HMRC,HMRC,06/07/2011,Legal Service Sol's,Specialist Investigations (SI),Howes Percival Solicitors,NR3 1DD,5100029138,61073.33
+HMRC,HMRC,06/07/2011,Legal Serv's Credit,Specialist Investigations (SI),Howes Percival Solicitors,NR3 1DD,5100029138,327.44
+HMRC,HMRC,06/07/2011,Security services,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100029308,39521.29
+HMRC,HMRC,06/07/2011,Affinity Data Centre,Information Management Services,DWP,FY5 3TA,5100029345,173405.88
+HMRC,HMRC,06/07/2011,Affinity mgmt charge,Information Management Services,DWP,FY5 3TA,5100029345,32197.82
+HMRC,HMRC,06/07/2011,Affinity mgmt charge,Information Management Services,DWP,FY5 3TA,5100029345,4693.5
+HMRC,HMRC,06/07/2011,Aff/Metro Supp Tel,Information Management Services,DWP,FY5 3TA,5100029345,2054.38
+HMRC,HMRC,06/07/2011,Aff/Metro Supp Tel,Information Management Services,DWP,FY5 3TA,5100029345,375.09
+HMRC,HMRC,06/07/2011,Affinity Data Centre,Information Management Services,DWP,FY5 3TA,5100029345,117.86
+HMRC,HMRC,06/07/2011,Court Fees,Debt Management & Banking,The Insolvency Service,B2 4UP,5100029346,104120
+HMRC,HMRC,06/07/2011,Gasoline or Petrol,Commercial Directorate,Arval BNP Paribas Group,SN5 6PE,5100029347,44524.67
+HMRC,HMRC,06/07/2011,Gasoline or Petrol,Commercial Directorate,Arval BNP Paribas Group,SN5 6PE,5100029349,60111.16
+HMRC,HMRC,06/07/2011,Postal delivery serv,Commercial Directorate,Royal Mail,PE4 5BR,5100029353,838699.1
+HMRC,HMRC,06/07/2011,STEPS VAT Indemnity,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100029446,4052521.68
+HMRC,HMRC,07/07/2011,High Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900057412,40000
+HMRC,HMRC,07/07/2011,Dept forms Stock,Commercial Directorate,St Ives Direct,LS14 1NH,5100029545,83115.1
+HMRC,HMRC,07/07/2011,Gas,Estates & Support Services,Corona Energy,NW4 3RJ,5100029688,25531.87
+HMRC,HMRC,07/07/2011,Sheriff Off Scot War,Debt Management & Banking,RUTHERFORD & MACPHERSON,G2 2EP,5100029811,26135.9
+HMRC,HMRC,07/07/2011,Legal Service Sol's,Specialist Investigations (SI),Howes Percival Solicitors,NR3 1DD,5100029952,269911.77
+HMRC,HMRC,07/07/2011,Legal Serv's Credit,Specialist Investigations (SI),Howes Percival Solicitors,NR3 1DD,5100029952,15742.37
+HMRC,HMRC,07/07/2011,Postal delivery serv,Commercial Directorate,Royal Mail Wholesale,EC4Y 0HQ,5100029990,3419000.17
+HMRC,HMRC,07/07/2011,Postal delivery serv,Commercial Directorate,Royal Mail Wholesale,EC4Y 0HQ,5100029992,-117027.53
+HMRC,HMRC,08/07/2011,Ombudsman services,People Function,Capita Health Solutions Limited,AB25 2ZP,5100029994,26748.32
+HMRC,HMRC,08/07/2011,Ombudsman services,People Function,Capita Health Solutions Limited,AB25 2ZP,5100030026,138319
+HMRC,HMRC,08/07/2011,Prof membership,Customer Contact,CCA,G3 7PY,5100030064,30000
+HMRC,HMRC,08/07/2011,Legal Service Sol's,Solicitors Office,Home Funding Limited,EC3A 8BF,5100030085,26130
+HMRC,HMRC,11/07/2011,Mail and Fulfilment,Business Customer Unit,BSS Scotland Ltd,G73 1DR,5100030331,41737.46
+HMRC,HMRC,11/07/2011,Solicitors Fees,Solicitors Office,Scotland Office,EH3 7HW,5100030388,31324.88
+HMRC,HMRC,11/07/2011,Debt collection serv,Debt Management & Banking,Fairfax Solicitors Limited,LS2 8BX,5100030399,227465.23
+HMRC,HMRC,11/07/2011,Solicitors Fees,Solicitors Office,Howes Percival Solicitors,NR3 1DD,5100030408,26809.14
+HMRC,HMRC,11/07/2011,Solicitors Fees,Solicitors Office,Howes Percival Solicitors,NR3 1DD,5100030418,41607.52
+HMRC,HMRC,11/07/2011,Solicitors Fees,Solicitors Office,Howes Percival Solicitors,NR3 1DD,5100030491,27202.3
+HMRC,HMRC,11/07/2011,Gov Bank Serv Charge,Finance & Internal Audit,RBS - Natwest,EC2M 4RB,5100030493,187153.26
+HMRC,HMRC,11/07/2011,Gov Bank Serv Charge,Finance & Internal Audit,RBS - Natwest,EC2M 4RB,5100030493,763.8
+HMRC,HMRC,11/07/2011,Storage Seized Goods,Specialist Investigations (SI),Veolia Environmental Services Plc,WS8 7BB,5100030495,65998.67
+HMRC,HMRC,11/07/2011,Debt collection serv,Debt Management & Banking,Commercial Collection Services,CR7 6YY,5100030507,299402.39
+HMRC,HMRC,11/07/2011,Crown Sol's Off NI,Debt Management & Banking,Crown Solicitors Office,BT1 3JY,5100030514,29239
+HMRC,HMRC,11/07/2011,Solicitors Fees,Solicitors Office,Howes Percival Solicitors,NR3 1DD,5100030583,44602.26
+HMRC,HMRC,11/07/2011,Solicitors Fees,Solicitors Office,Howes Percival Solicitors,NR3 1DD,5100030583,10
+HMRC,HMRC,11/07/2011,Valuation Services,Risk & Intelligence,Valuation Office Agency,W1D 5BU,5100030762,832508.25
+HMRC,HMRC,12/07/2011,Postal delivery serv,Commercial Directorate,TNT Post UK Ltd,SL7 1HY,5100030737,83343.78
+HMRC,HMRC,12/07/2011,Research (VAT rec),Knowledge Analysis & Intelligence,TNS-BMRB,W5 1UA,5100030752,53310
+HMRC,HMRC,12/07/2011,Mail delivery/pickup,Commercial Directorate,G3 Worldwide (UK) Ltd,UB2 5LF,5100030828,48182.5
+HMRC,HMRC,12/07/2011,Mail delivery/pickup,Commercial Directorate,G3 Worldwide (UK) Ltd,UB2 5LF,5100030828,14319.69
+HMRC,HMRC,12/07/2011,Hardware maintenance,Information Management Services,CapGemini UK Plc - PeoplePoint,W1F 0UU,5100031111,1114019.27
+HMRC,HMRC,12/07/2011,Electricity,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,1234217.33
+HMRC,HMRC,12/07/2011,Gas,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,297456.26
+HMRC,HMRC,12/07/2011,Gas,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,211456.76
+HMRC,HMRC,12/07/2011,Water,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,192478.64
+HMRC,HMRC,12/07/2011,Oil,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,64281.11
+HMRC,HMRC,12/07/2011,Water,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,58494.87
+HMRC,HMRC,12/07/2011,Electricity,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,9608
+HMRC,HMRC,12/07/2011,Electricity,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,2452.6
+HMRC,HMRC,12/07/2011,Oil,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,1342.28
+HMRC,HMRC,12/07/2011,Gas,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031181,80.34
+HMRC,HMRC,13/07/2011,County Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900061972,32320
+HMRC,HMRC,13/07/2011,County Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900061993,32120
+HMRC,HMRC,13/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100000440,-35489.92
+HMRC,HMRC,13/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100010082,68858.53
+HMRC,HMRC,13/07/2011,Media Monitoring,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100015751,31080
+HMRC,HMRC,13/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100022862,103512
+HMRC,HMRC,13/07/2011,Landlord Charges,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031100,30810.7
+HMRC,HMRC,13/07/2011,Rent,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031100,27231.99
+HMRC,HMRC,13/07/2011,Business Consultancy,Estates & Support Services,PricewaterhouseCoopers LLP,WC2N 6RH,5100031104,86272.8
+HMRC,HMRC,13/07/2011,Landlord Charges,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031105,24622.27
+HMRC,HMRC,13/07/2011,Rent,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031105,20126.51
+HMRC,HMRC,13/07/2011,Rent,Estates & Support Services,BTW Shiells,BT1 4NJ,5100031130,70770
+HMRC,HMRC,13/07/2011,Landlord Charges,Estates & Support Services,BTW Shiells,BT1 4NJ,5100031130,14599.2
+HMRC,HMRC,13/07/2011,Postal delivery serv,Commercial Directorate,TNT Post UK Ltd,SL7 1HY,5100031168,124962.83
+HMRC,HMRC,13/07/2011,Grant in Aid Funding,Individuals Customer Directorate,Royal National Inst of Blind People,WC1 9NE,5100031176,25252
+HMRC,HMRC,13/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100031177,355555.6
+HMRC,HMRC,13/07/2011,Gov Bank Serv Charge,Finance & Internal Audit,RBS - Natwest,EC2M 4RB,5100031261,323617.43
+HMRC,HMRC,13/07/2011,Bank Charges PO Card,Finance & Internal Audit,Post Office Limited,PE4 5PG,5100031294,1130413.03
+HMRC,HMRC,13/07/2011,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,MK10 1PX,5100031702,650000
+HMRC,HMRC,13/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100106385,43668
+HMRC,HMRC,13/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100106436,-313498.6
+HMRC,HMRC,13/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100108278,25020
+HMRC,HMRC,14/07/2011,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,1700035651,-757.56
+HMRC,HMRC,14/07/2011,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,1700035651,-59220.88
+HMRC,HMRC,14/07/2011,High Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900062270,40000
+HMRC,HMRC,14/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100023316,36254.82
+HMRC,HMRC,14/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100023316,1609.4
+HMRC,HMRC,14/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100031299,67030.77
+HMRC,HMRC,14/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100031299,7821.93
+HMRC,HMRC,14/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100031299,3117.64
+HMRC,HMRC,14/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100031326,97732.03
+HMRC,HMRC,14/07/2011,Vehicle leasing,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100031339,75026.46
+HMRC,HMRC,14/07/2011,Vehicle leasing,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100031339,269.11
+HMRC,HMRC,14/07/2011,Project admin/plan,BT Enabling,Capita Resourcing Ltd,SL6 1DP,5100031419,25150.51
+HMRC,HMRC,14/07/2011,IT Value for Money Services,Information Management Services,Specialist Computer Ctr,B11 2LE,5100031718,242257.68
+HMRC,HMRC,14/07/2011,Maj AW struc non-VAT,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031745,48267.12
+HMRC,HMRC,14/07/2011,Maj AW struc non-VAT,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031748,145196.23
+HMRC,HMRC,14/07/2011,CHURN,Estates & Support Services,Exchequer Partnership Plc,M41 7HG,5100031752,27160.97
+HMRC,HMRC,14/07/2011,Oth PFI unitary chrg,Estates & Support Services,LR Stockport Ltd,W1U 8EW,5100031756,167228
+HMRC,HMRC,14/07/2011,CHURN,Estates & Support Services,Exchequer Partnership Plc,M41 7HG,5100031758,27160.97
+HMRC,HMRC,14/07/2011,Oth PFI unitary chrg,Estates & Support Services,LR (Manchester) Limited,W1U 8EW,5100031761,845381.3
+HMRC,HMRC,14/07/2011,Oth PFI unitary chrg,Estates & Support Services,Cochrane Square S P V LTD,W1U 8EW,5100031765,173935.52
+HMRC,HMRC,14/07/2011,Oth PFI unitary chrg,Estates & Support Services,Haymarket SPV Ltd,W1U 8EW,5100031766,170308.67
+HMRC,HMRC,14/07/2011,CHURN,Estates & Support Services,Exchequer Partnership Plc,M41 7HG,5100031771,27160.97
+HMRC,HMRC,14/07/2011,Filtered Mains Drinking Water,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031776,30213.6
+HMRC,HMRC,14/07/2011,Filtered Mains Drinking Water,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100031790,31155
+HMRC,HMRC,14/07/2011,Dept forms Stock,Commercial Directorate,Paragon UK (Print) Ltd,WF10 5QS,5100031791,28308.96
+HMRC,HMRC,14/07/2011,Interpretation,Customer Contact,Thebigword Interpreting,LS12 6AB,5100031826,69069.67
+HMRC,HMRC,14/07/2011,Interpretation,Customer Contact,Thebigword Interpreting,LS12 6AB,5100031830,65352.8
+HMRC,HMRC,14/07/2011,Vehicle leasing,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100031832,53504.6
+HMRC,HMRC,14/07/2011,Interpretation,Customer Contact,Thebigword Interpreting,LS12 6AB,5100031855,36258.28
+HMRC,HMRC,14/07/2011,Interpretation,Customer Contact,Thebigword Interpreting,LS12 6AB,5100031856,46950.05
+HMRC,HMRC,14/07/2011,Ombudsman services,People Function,Right Corecare,PO15 7AL,5100031902,119224.27
+HMRC,HMRC,14/07/2011,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,MK10 1PX,5100031908,99831.58
+HMRC,HMRC,14/07/2011,TNT Documented Servi,Commercial Directorate,TNT UK Limited,BL8 9AR,5100032110,829180.98
+HMRC,HMRC,14/07/2011,Oth PFI unitary chrg,Estates & Support Services,Newcastle Estate Partnership,BA2 3RH,5100032112,3641819.04
+HMRC,HMRC,15/07/2011,County Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900062300,34275
+HMRC,HMRC,15/07/2011,County Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900062343,33100
+HMRC,HMRC,15/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100032103,25684.52
+HMRC,HMRC,15/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100032103,11580.1
+HMRC,HMRC,15/07/2011,Vehicle servicing ma,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100032103,411.65
+HMRC,HMRC,15/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100032129,36905.58
+HMRC,HMRC,15/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100032129,27.29
+HMRC,HMRC,15/07/2011,Bank Charges CSH/CHQ,Finance & Internal Audit,Alliance and Leicester,G1R 0AA,5100032180,96255.35
+HMRC,HMRC,15/07/2011,Bank Charges CSH/CHQ,Finance & Internal Audit,Alliance and Leicester,G1R 0AA,5100032181,42016.43
+HMRC,HMRC,15/07/2011,Local delivery serv,Commercial Directorate,DX Network Services Ltd,NN3 6YG,5100032190,26707.06
+HMRC,HMRC,18/07/2011,Forensic Services,Criminal Investigations,Forensic Science Service,B37 7YN,5100032270,65912.76
+HMRC,HMRC,18/07/2011,Reference books,Local Compliance,Glass's Information Services Ltd,KT13 9TU,5100032335,56166.51
+HMRC,HMRC,18/07/2011,Reference books,Local Compliance,Glass's Information Services Ltd,KT13 9TU,5100032335,1507.84
+HMRC,HMRC,18/07/2011,Maintenance fees,Information Management Services,Accenture (UK) Limited,EC3M 3BD,5100032482,252698.89
+HMRC,HMRC,18/07/2011,Gas,Estates & Support Services,Corona Energy,NW4 3RJ,5100032516,25197.79
+HMRC,HMRC,18/07/2011,Landlord Charges,Estates & Support Services,Fasset Business & Property,PO9 1SA,5100032540,123170.41
+HMRC,HMRC,19/07/2011,Crown Sol's Off NI,Debt Management & Banking,Crown Solicitors Office,BT1 3JY,5100032627,44554.4
+HMRC,HMRC,19/07/2011,Affinity Data Centre,Information Management Services,DWP,FY5 3TA,5100033015,102149.21
+HMRC,HMRC,19/07/2011,Affinity mgmt charge,Information Management Services,DWP,FY5 3TA,5100033015,24303.96
+HMRC,HMRC,19/07/2011,Affinity Data Centre,Information Management Services,DWP,FY5 3TA,5100033015,138.97
+HMRC,HMRC,19/07/2011,Grant in Aid Funding,Individuals Customer Directorate,Citizens Advice Bureau,N1 9LZ,5100033048,43050
+HMRC,HMRC,19/07/2011,Grant in Aid Funding,Individuals Customer Directorate,Citizens Advice Bureau,N1 9LZ,5100033049,82500
+HMRC,HMRC,19/07/2011,Forensic Services,Criminal Investigations,Forensic Science Service,B37 7YN,5100033074,42235.55
+HMRC,HMRC,19/07/2011,Disposal Seized Gds,Specialist Investigations (SI),Thamesdown Recycling,SN6 6JR,5100033085,53782.33
+HMRC,HMRC,19/07/2011,Vehicle leasing,Commercial Directorate,Inchcape Fleet Solutions,P06 4RP,5100033092,31923.98
+HMRC,HMRC,20/07/2011,High Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900066446,40000
+HMRC,HMRC,20/07/2011,Research (VAT rec),Knowledge Analysis & Intelligence,ESRC,SN2 1UJ,5100033204,72000
+HMRC,HMRC,20/07/2011,Research (VAT rec),Knowledge Analysis & Intelligence,ESRC,SN2 1UJ,5100033204,3600
+HMRC,HMRC,20/07/2011,Dept forms Stock,Commercial Directorate,St Ives Direct,LS14 1NH,5100033240,96425.47
+HMRC,HMRC,20/07/2011,Disposal Seized Gds,Specialist Investigations (SI),TNT UK Limited,BL8 9AR,5100033249,165790.56
+HMRC,HMRC,20/07/2011,Document destruction,Estates & Support Services,Banner Business Services Ltd,NR3 1PD,5100033443,152119.94
+HMRC,HMRC,20/07/2011,Document destruction,Estates & Support Services,Banner Business Services Ltd,NR3 1PD,5100033444,35330.76
+HMRC,HMRC,20/07/2011,Government Secure Intranet,Information Management Services,Cable & Wireless,MK3 5JP,5100033464,143062.66
+HMRC,HMRC,21/07/2011,Forensic Services,Criminal Investigations,Forensic Science Service,B37 7YN,5100033739,74580.02
+HMRC,HMRC,21/07/2011,Rent,Estates & Support Services,Somerset House Trust,WC2R 1LA,5100033984,1980000
+HMRC,HMRC,21/07/2011,Rent,Estates & Support Services,Somerset House Trust,WC2R 1LA,5100033985,750000
+HMRC,HMRC,21/07/2011,Rent,Estates & Support Services,Somerset House Trust,WC2R 1LA,5100033988,-535915.85
+HMRC,HMRC,22/07/2011,Gasoline or Petrol,Commercial Directorate,Arval BNP Paribas Group,SN5 6PE,5100034207,42082.37
+HMRC,HMRC,22/07/2011,Gasoline or Petrol,Commercial Directorate,Arval BNP Paribas Group,SN5 6PE,5100034214,53984.15
+HMRC,HMRC,22/07/2011,Specialty envelopes,Commercial Directorate,Banner Business Services Ltd,NR3 1PD,5100034324,85260
+HMRC,HMRC,25/07/2011,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,1700038038,-33833.59
+HMRC,HMRC,25/07/2011,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,1700038072,-43113.73
+HMRC,HMRC,25/07/2011,Travel agencies ,Commercial Directorate,Carlson Wagonlit Travel,EN6 5RF,5100033741,-52192.61
+HMRC,HMRC,25/07/2011,Electricity,Estates & Support Services,EDF Energy,EX1 3UT,5100034489,276113.01
+HMRC,HMRC,25/07/2011,Electricity,Estates & Support Services,EDF Energy,EX1 3UT,5100034489,183.33
+HMRC,HMRC,25/07/2011,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100034750,465900.52
+HMRC,HMRC,25/07/2011,Security services,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100034750,214166.6
+HMRC,HMRC,25/07/2011,STEPS FUP VAT recvbl,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100034751,465900.52
+HMRC,HMRC,25/07/2011,Security services,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100034751,214166.6
+HMRC,HMRC,25/07/2011,PRIME costs,Estates & Support Services,DWP,FY5 3TA,5100035233,915545
+HMRC,HMRC,26/07/2011,Prof bodies subs,Information Management Services,The Corporate IT Forum Limited,HP4 1AS,5100033740,31532.4
+HMRC,HMRC,26/07/2011,Storage (non enfmnt),Estates & Support Services,Derwent Facilities Management Ltd,HG2 8QT,5100035234,163535.99
+HMRC,HMRC,26/07/2011,Debt collection serv,Debt Management & Banking,Credit Solutions,CR8 2PG,5100035252,141153.89
+HMRC,HMRC,26/07/2011,Counsel fees other,Specialist Investigations (SI),Grant Thornton UK LLP,NW1 2EP,5100035340,54000
+HMRC,HMRC,27/07/2011,High Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900070708,40000
+HMRC,HMRC,27/07/2011,High Court Costs,Debt Management & Banking,RBSG Central,SE99 1AA,1900070709,40000
+HMRC,HMRC,27/07/2011,Research (VAT rec),Knowledge Analysis & Intelligence,IFF Research Ltd,N1 6DD,5100035397,42188.4
+HMRC,HMRC,27/07/2011,Court Fees,Debt Management & Banking,The Insolvency Service,B2 4UP,5100035424,268400
+HMRC,HMRC,27/07/2011,Non PFI serv VAT,Estates & Support Services,MacLellan International Limited,B70 1EN,5100035518,397985.53
+HMRC,HMRC,27/07/2011,CHURN,Estates & Support Services,Exchequer Partnership Plc,M41 7HG,5100035538,27160.97
+HMRC,HMRC,27/07/2011,Prof bodies subs,Knowledge Analysis & Intelligence,HM Treasury,NR7 0HS,5100035786,31155.6
+HMRC,HMRC,27/07/2011,Government Secure Intranet,Information Management Services,Cable & Wireless,MK3 5JP,5100035792,79970.4
+HMRC,HMRC,27/07/2011,Website Development,Business Customer Unit,Serco Assurance,RG27 9XA,5100035828,3010991.75
+HMRC,HMRC,27/07/2011,Website Development,Business Customer Unit,Serco Assurance,RG27 9XA,5100035829,1379454.77
+HMRC,HMRC,27/07/2011,OGD costs,Estates & Support Services,Department of Finance & Personnel,BT1 4NN,5100035833,145397.1
+HMRC,HMRC,27/07/2011,Dilapidations,Estates & Support Services,JGW CO 178 LTD,LS29 OAQ,5100035834,98821.33
+HMRC,HMRC,27/07/2011,Business Rates,Estates & Support Services,GVA Grimley LLP,B11 3EA,5100035836,31620
+HMRC,HMRC,27/07/2011,Business Rates,Estates & Support Services,GVA Grimley LLP,B11 3EA,5100035837,148894.13
+HMRC,HMRC,27/07/2011,Rent,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100035840,86635.31
+HMRC,HMRC,27/07/2011,Rent,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100035841,56000
+HMRC,HMRC,27/07/2011,Landlord Charges,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100035841,30499.76
+HMRC,HMRC,27/07/2011,Rent,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100035849,56000
+HMRC,HMRC,27/07/2011,Landlord Charges,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100035849,30499.76
+HMRC,HMRC,27/07/2011,Rent,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100035852,40094.47
+HMRC,HMRC,27/07/2011,Rent,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100035857,40094.47
+HMRC,HMRC,27/07/2011,Solicitors Fees,Solicitors Office,The Scotland Office,EH3 7HW,5100035874,104253.63
+HMRC,HMRC,27/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100036181,796471.3
+HMRC,HMRC,28/07/2011,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,1700040346,-499203.43
+HMRC,HMRC,28/07/2011,Dept forms Stock,Commercial Directorate,St Ives Direct,LS14 1NH,5100009696,70464
+HMRC,HMRC,28/07/2011,Dept forms Stock,Commercial Directorate,St Ives Direct,LS14 1NH,5100033798,88080
+HMRC,HMRC,28/07/2011,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100036145,187789.57
+HMRC,HMRC,28/07/2011,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100036146,187789.57
+HMRC,HMRC,28/07/2011,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100036147,187789.57
+HMRC,HMRC,28/07/2011,STEPS FUP,Estates & Support Services,Mapeley Steps Limited,SE1 0TA,5100036148,187789.57
+HMRC,HMRC,29/07/2011,Govt dept services,Risk & Intelligence,Foreign and Commonwealth Office,MK10 1PX,5100036587,45863.18
+HMRC,HMRC,29/07/2011,Marketing Promotion,Communications & Marketing,COI - COI Trading Fund/GNN,SE1 7DU,5100036594,82063.88

@@ -1,0 +1,20 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,5-Apr-11,1000024,GOVERNMENT CAR & DESPATCH AGENCY,904.6,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,6-Apr-11,1000028,GOVERNMENT CAR & DESPATCH AGENCY,1006.7,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,8-Apr-11,1000035,GOVERNMENT CAR & DESPATCH AGENCY,1071,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,15-Apr-11,1000052,GOVERNMENT CAR & DESPATCH AGENCY,1006.7,221410-Official Cars - Hire Charges,Ministerial car hire charges
+Wales Office,Wales Office,7-Apr-11,1000030,CARDIFF COUNTY COUNCIL,4091,222111-Rates,Rates for Cardiff office
+Wales Office,Wales Office,7-Apr-11,1000033,WESTMINSTER CITY COUNCIL,8020.96,222111-Rates,Rates for London office
+Wales Office,Wales Office,15-Apr-11,1000051,BRITISH GAS BUSINESS,1953.36,222142-Utility - Electricity,Electricity supplied to London office
+Wales Office,Wales Office,27-Apr-11,1000078,BUYING SOLUTIONS,2859.17,222143-Utility - Gas,Centralised government heating charges for London office
+Wales Office,Wales Office,8-Apr-11,1000034,CARLISLE SECURITY SERVICES LTD,10665,222151-Security,24 hour Security for London office
+Wales Office,Wales Office,27-Apr-11,1000079,CABINET OFFICE,20000,222151-Security,Annual contribution to service costs for Government Secure Zone
+Wales Office,Wales Office,20-Apr-11,1000070,CIVIC MAINTENANCE SERVICES LTD,712.22,222152-Cleaning (excl Waste Collctn),Cleaning services for Cardiff office
+Wales Office,Wales Office,11-Apr-11,1000040,MONITOR CYMRU WALES LTD ,620.13,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,Wales Office,11-Apr-11,1000040,MONITOR CYMRU WALES LTD ,620.13,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,Wales Office,11-Apr-11,1000040,MONITOR CYMRU WALES LTD ,977.5,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,Wales Office,18-Apr-11,1000062,PRESS DATA CYMRU,960,223513-Design/Print/Reprographic Services,Media monitoring
+Wales Office,Wales Office,20-Apr-11,1000072,GOVERNMENT CAR & DESPATCH AGENCY,964.8,223517-IDS,Government internal mail service
+Wales Office,Wales Office,1-Apr-11,1000002,CENTRAL OFFICE OF INFORMATION (COI),936,223534- Non-Contracted,Ministerial function
+Wales Office,Wales Office,1-Apr-11,1000003,EDUSERV TECHNOLOGIES LTD,693.6,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites
+Wales Office,Wales Office,27-Apr-11,1000080,EDUSERV TECHNOLOGIES LTD,693.6,223536-IT Services incl Web Hosting,Web hosting for Wales Office websites

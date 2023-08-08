@@ -1,0 +1,29 @@
+PeriodStart,PeriodEnd,NumberOfInstances,ReasonForSuspension/Revocation,ReferredToCPS
+2013-01-01,2013-12-31,1,Bleeding not carried out in accordance with Legislation,Yes
+2014-01-01,2014-12-31,1,Handling and Restraint not carried out in accordance with Legislation,Yes
+2014-01-01,2014-12-31,1,Stunning not carried out in accordance with Legislation,Yes
+2014-01-01,2014-12-31,1,Stunning and Bleeding not carried out in accordance with Legislation,Yes
+2014-01-01,2014-12-31,1,Animals caused avoidable pain and sufferering in contravention of Legislation,Yes
+2015-01-01,2015-12-31,4,Handling and Restraint not carried out in accordance with Legislation,Yes
+2015-01-01,2015-12-31,4,Animals caused avoidable pain and sufferering in contravention of Legislation,Yes
+2015-01-01,2015-12-31,5,Bleeding not carried out in accordance with Legislation,Yes
+2015-01-01,2015-12-31,1,Animals caused avoidable pain and sufferering in contravention of Legislation,No
+2015-01-01,2015-12-31,1,Bleeding not carried out in accordance with Legislation,No Information Available
+2015-01-01,2015-12-31,1,Handling and Restraint not carried out in accordance with Legislation,No Information Available
+2015-01-01,2015-12-31,1,Stunning not carried out in accordance with Legislation,No
+2015-01-01,2015-12-31,1,Handling and Restraint not carried out in accordance with Legislation,No
+2015-01-01,2015-12-31,1,Stunning not carried out in accordance with Legislation,Yes
+2015-01-01,2015-12-31,1,Lairaging of animals not carried out in accordance with Legislation,Yes
+2016-01-01,2016-12-31,1,Handling and Restraint not carried out in accordance with Legislation,Yes
+2016-01-01,2016-12-31,1,Handling and Restraint not carried out in accordance with Legislation,Yes
+2016-01-01,2016-12-31,3,Bleeding not carried out in accordance with Legislation,Yes
+2016-01-01,2016-12-31,6,Stunning not carried out in accordance with Legislation,Yes
+2016-01-01,2016-12-31,1,Handling not carried out in accordance with Legislation,Yes
+2016-01-01,2016-12-31,2,Restraint not carried out in accordance with Legislation,Yes
+2016-01-01,2016-12-31,6,Bleeding not carried out in accordance with Legislation,Yes
+2016-01-01,2016-12-31,1,Stunning not carried out in accordance with Legislation,No
+2016-01-01,2016-12-31,1,Handling and Restraint not carried out in accordance with Legislation,No
+2016-01-01,2016-12-31,1,Stunning not carried out in accordance with Legislation,No Information Available
+2016-01-01,2016-12-31,2,Bleeding not carried out in accordance with Legislation,No
+2016-01-01,2016-12-31,1,Restraint and Bleeding not carried out in accordance with Legislation,No Information Available
+2016-01-01,2016-12-31,1,Stunning and Bleeding not carried out in accordance with Legislation,Yes

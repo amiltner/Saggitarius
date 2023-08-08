@@ -1,0 +1,944 @@
+METADATA FOR DATA FIELDS,,,,,,,,,,,,,,
+"This worksheet lists the fields of the ""Quarterly Data Summary"" sheet and provides explanation of the metrics (metdata).",,,,,,,,,,Organisations in-scope,[Please specify],,,
+,,,ALL INFORMATION SHOULD RELATE TO THE LATEST AVAILABLE DATA,,,,,,,Organisations out-of-scope,[Please specify],,,
+,,,,,,,,,,Actual Department metadata - where differs from requested,,,,
+GROUP,SUB-GROUP,,FIELD NAME,TECHNICAL DEFINITION (REQUESTED),PERIOD OF DATA REPORTED IN QDS (REQUESTED),PERIOD FOR DATA IN July QDS (REQUESTED),DEPARTMENTAL COVERAGE OF DATA (REQUESTED),DATA SOURCE,"TYPE OF DATA (eg MI, Official Stats or National Stats)",TECHNICAL DEFINITION (ACTUAL),DEPARTMENTAL COVERAGE OF DATA (ACTUAL),"FURTHER NOTES, CAVEATS AND LIMITATIONS",EXPLANATIONS RELATING TO CHANGES IN DATA FROM PREVIOUS QDS PUBLICATIONS,
+Spending,Budget,,"Total Departmental Expenditure Limit (DEL)
+",(Resource DEL excluding depreciation) + (Capital DEL),Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q4 2010-11 (Jan-Mar)",Full,COINS,Management information,Home Office COINS database.,"Current = Home Office Headquarters, Executive Agencies and Executive Non-Departmental Public Bodies.
+
+Previous = As above. ","Home Office COINS data submitted to Treasury 11 May 2012
+
+For both RDEL and CDEL we have selected the five ‘largest areas of spending as defined by the department’  (quoting HM Treasury guidance.) We have chosen the five biggest operating segments of the department, and this approach accords with International Finance Reporting Standards 8 Operating Segments.",,
+,,,"of which Resource DEL (excl. Depreciation)
+","(Resource DEL excluding depreciation) 
+",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Full,COINS,Management information,,,,,
+,,,"Top 5 contributory elements
+","5 largest areas of spending, as defined by the department, to cover a substantial proportion of DEL.",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Determined by top 5 programmes chosen,COINS,Management information,The top 5 contributory elements reflects the main Business Areas of the Home Office.,,,,
+,,,A: Crime and Policing,,,,,,,,,,,
+,,,B: UK Border Agency,,,,,,,,,,,
+,,,C: Security & Counter Terrorism,,,,,,,,,,,
+,,,D: Identity & Passports,,,,,,,,,,,
+,,,E: Central Home Office,,,,,,,,,,,
+,,,Purchase of goods & services within Resource DEL,"RDEL, Purchase of Goods and services. Procurement spending should be recorded as a gross rather than net expenditure. This should be current procurement which falls within resource DEL, therefore excluding all Capital procurement.  Should include entries against NAC Codes: ""B3501"" + ""E20""; Expenditure should be recorded in £m.  ",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Full,COINS,Management information,Home Office COINS database.,,,,
+,,,Payroll within Resource DEL,"Pay includes salaries, employers’ National Insurance Contributions, and accruing pension costs in RDEL. NAC Codes – all codes under ""A15"". Expenditure should be recorded in £million and in real terms, with no normalisation applied.  ",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Full,COINS,Management information,,,,,
+,,,Grants within Resource DEL,"Grant payments or subsidies to individuals or bodies inside or outside the public sector within Resource DEL. The figure should not include any ""capital"" grants or subsidies. The NAC Code definition is:
+
+- Current grants to local government spending NAC= “M10”, “M15”, “M20”, “M30”, “M40”
+- Current grants to persons and not for profit bodies NAC= ""D10""
+- Current grants abroad NAC= ""D20""
+- Subsidies to private sector companies NAC= ""C10, C50""
+- Subsidies to public corporations NAC=""C20, C35""
+",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Full,COINS,Management information,,,,,
+,,,of which Capital DEL,"(Capital DEL), taken from COINS.",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Full,COINS,Management information,,,,,
+,,,Top 5 contributory elements,"5 largest areas of spending, as defined by the department, to cover a substantial proportion of Capital DEL.",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Determined by top 5 programmes chosen,COINS,Management information,,,,,
+,,,A: Crime and Policing,,,,,,,,,"Home Office COINS data submitted to Treasury 11 May 2012
+
+For both RDEL and CDEL we have selected the five ‘largest areas of spending as defined by the department’  (quoting HM Treasury guidance.) We have chosen the five biggest operating segments of the department, and this approach accords with International Finance Reporting Standards 8 Operating Segments.",,
+,,,B: UK Border Agency,,,,,,,,,,,
+,,,C: Security & Counter Terrorism,,,,,,,,,,,
+,,,D: Identity & Passports,,,,,,,,,,,
+,,,E: Central Home Office,,,,,,,,,,,
+,,,Total Annually Managed Expenditure (AME),"(Resource AME excluding depreciation) + (Capital AME), taken from COINS",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Full,COINS,Management information,,"Home Office COINS data submitted to Treasury 11 May 2012
+
+
+For both RDEL and CDEL we have selected the five ‘largest areas of spending as defined by the department’  (quoting HM Treasury guidance.) We have chosen the five biggest operating segments of the department, and this approach accords with International Finance Reporting Standards 8 Operating Segments. 
+","
+AME is Annually Managed Expenditure, that is expenditure which cannot be accurately forecast and is demand led.",,
+,,,Top 5 contributory elements,"5 largest areas of spending, as defined by the department, to cover a substantial proportion of Total AME.",Quarterly COINS data,"Current = Q4 2011-12 (Jan-Mar) 
+Previous = Q4 2010-11 (Jan-Mar)",Determined by top 5 programmes chosen,COINS,Management information,The top 5 contributory elements reflects the main Business Areas of the Home Office.,,,,
+,,,A: Crime and Policing,,,,,,,,,,,
+,,,B: UK Border Agency,,,,,,,,,,,
+,,,C: Security & Counter Terrorism,,,,,,,,,,,
+,,,D: Identity & Passports,,,,,,,,,,,
+,,,E: Central Home Office,,,,,,,,,,,
+,Common Areas of Spend,Estates Costs,Office Estate Area,"The sum of Building Net Internal Area (NIA) for the buildings occupied by departments. NIA should only cover those buildings used as office space and for buildings over 500m2. As defined in the Common Areas of Spend Estates Standards: www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions
+",Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,ePIMS,Management information,The sum of Building Net Internal Area (NIA) for office buildings occupied by the Home Office over 500 sq. m. (with the exception of the London and Bristol Property Vehicle (LBPV) areas where there is no lower limit). This is in line with the Cabinet Office Common Areas of Spend Estates Standard and Government Property Unit direction. ,"Current = Home Office Headquarters, Executive Agencies and Executive Non-Departmental Public Bodies but excludes the Serious Organised Crime Agency. It also excludes operational sites at ports and airports. 
+
+Previous = as above
+ ","The size of the office estate is based on office properties that were benchmarked in the annual 2011 Government exercise plus the Equalities and Human Rights Commission properties over 500 sq. m. and The Capital building (new UK Border Agency Headquarters in the North West).
+
+The total office estate figure has reduced by about 12,000 sq. m. since Quarter 3. primarily due to building vacations on the UK Border Agenacy and Criminal Records Bureau estates.  ",,
+,,,Office Estate Costs,"This should cover the cost for the NIA reported, for office buildings over 500m2.  As defined in the Common Areas of Spend Estates Standards: www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions.",Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Office Accomodation over 500m2 for entire family,ePIMS,Management information,"This is the sum of the following items: service charges, Internal repair and maintenance costs, security costs, cleaning costs, water and sewerage costs, total energy costs, net rent, rates, unitary charges / facilities price.  As defined by the Common Areas of Spend Estates Standard. This should be provided as £m and cover the cost for the NIA of office properties (with the exception of the LBPV areas where there is no lower limit). This is in line with the Cabinet Office Common Areas of Spend Estates Standard and Government Property Unit direction.  ","Current = Home Office Headquarters, Executive Agencies and Executive Non-Departmental Public Bodies but excludes the Serious Organised Crime Agency. It also excludes operational sites at ports and airports. 
+
+Previous = data not provided","Quarterly data return provided for the first time.The cost of the office estate is based on office properties that were benchmarked in the annual 2011 Government exercise plus the Equalities and Human Rights Commission properties over 500 sq. m. and The Capital building (new UK Border Agency Headquarters in the North West).
+
+  ",,
+,,,Cost of the Office Estate per M2,As defined in the Common Areas of Spend Estates Standards: www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions,Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Office Accomodation over 500m2 for entire family,ePIMS,Management information,This is derived from the cost and total m² of office buildings over 500 sq. m (with the exception of the LBPV areas where there is no lower limit) . In line with the Common Areas of Spend Estates Standard and Government Property Unit direction.,"Current = Home Office Headquarters, Executive Agencies and Executive Non-Departmental Public Bodies but excludes the Serious Organised Crime Agency. It also excludes operational sites at ports and airports. 
+
+Previous = data not provided
+ ",Quarterly data return provided for the first time. The cost of the office estate per m² is based on properties benchmarked in the annual 2011 Government exercise plus the Equalities & Human Rights Commission properties over 500 sq. m. and The Capital building  ,,
+,,,Cost of the Office Estate per full-time equivalent (FTE),As defined in the Common Areas of Spend Estates Standards: www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions,Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Office Accomodation over 500m2 for entire family,ePIMS,Management information,"This is derived from the cost of office space and full-time equivalents (FTE) in office buildings over 500 sq. m. (with the exception of the LBVP areas where there is no lower limit). Office based staff (FTE), permanent and temporary employees and contractors utilising the facilities they need to undertake their job such as  IT workstations. In line with the Common Areas of Spend Estates  Standard and Government  Property Unit direction.  ","Current = Home Office Headquarters, Executive Agencies and Executive Non-Departmental Public Bodies but excludes the Serious Organised Crime Agency. It also excludes operational sites at ports and airports. 
+
+Previous = data not provided
+ ",Quarterly data return provided for the first time. The cost of the office estate per FTE is based on properties benchmarked in the annual 2011 Government exercise plus the Equalities & Human Rights Commission properties over 500 sq. m. and The Capital building.,,
+,,Procurement Spend,Procurement spend,"The total value of payments made to third party suppliers, excluding VAT.  This excludes payroll, non-cash expenditure (e.g. depreciation), grants and benefit payments, but should include capital, resource and programme spend on goods and services. For further guidance see the Common Areas of Spend Procurement Standards - www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions",Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,Commercial Function,Management information,,"Current = Home Office Headquarters, Executive Agencies but excludes National Fraud Agency and Executive Non-Departmental Public Bodies.
+
+Previous = As above","It has not been possible to remove VAT from the cost.
+
+Due to the way we report our figures in the Home Office it is not possible to obtain the figure for Net of VAT.  Our figures are reported as Gross.",,
+,,,Price of standard commodity items,"Price of a box of standard A4 white copier plain paper (typically 80 gsm) in £ units per 2,500 sheets of paper.
+
+",Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,Commercial Function,Management information,,Data is extracted from the Home Office Adelphi database which covers Home Office Headquarters.(but excludes Government Equalities Office) and UK Border Agency.,"It has not been possible to remove VAT from the cost.
+
+Due to the way we report our figures in the Home Office it is not possible to obtain the figure for Net of VAT.  Our figures are reported as Gross.
+
+Paper is purchased under the framework agreement and prices are negotiate by Ministry of Defence as contract owners.  This is consistent with all those that sit under the Contract / Framework.",,
+,,,,Average price paid per KWH of energy in £ units.,Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,Commercial Function,Management information,,"Current = The data covers energy spend (electricity, gas and oil) at the Home Office Headquarters and the UK Border Agency at those sites where the department has a responsibility for supply.
+
+Previous = as above. ","It has not been possible to remove VAT from the cost.
+
+Due to the way we report our figures in the Home Office it is not possible to obtain the figure for Net of VAT.  Our figures are reported as Gross.
+
+The average price varies due to seasonal changes in energy consumption, mix of fuel types and other fixed charges.",,
+,,IT,Total 3rd party ICT cost,"As defined in the Common Areas of Spend ICT Standards - www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions
+",Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,Commercial Function,Management information,"Common Area of Spend definition:
+www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions 
+","Current = Home Office Headquarters, Executive Agencies, including National Fraud Authority (from 10-11) and the Schengen Project at National Policing Improvement Agency.
+
+Previous = as above",,,
+,,,Desktop Cost per full-time equivalent,"As defined in the Common Areas of Spend ICT Standards - www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions
+",Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,Commercial Function,Management information,"Average cost for Home Office POISE Desktops assuming a 1:1 usage ratio per full-time equivalent. This is based upon the Home Office IT contract with Fujitsu.
+
+Common Area of Spend definition:
+www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions ","Current = Home Office Headquarters, Executive Agencies, including National Fraud Authority (from 10-11) and the Schengen Project at National Policing Improvement Agency.
+
+Previous =  as above","Calculated using the Common Areas of Spend ICT definition the cost of a provision of a desktop service.                                                                                      
+                                              
+",,
+,,Corporate Service Costs, HR,"As defined in the Common Areas of Spend Corporate Service Standards - www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions
+
+",Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,Finance Function,Management information,"Common Area of Spend definition:
+www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions 
+","
+
+Current = Home Office Headquarters, Executive Agencies (but excludes National Fraud Authority) and Executive Non-Departmental Public Bodies (but excludes Equalities and Human Rights Commission, Independent Safeguarding Authority, Security Industry Authority and Office of the Immigration Services Commission).
+
+Previous = As above.
+
+",Data is taken from the Home Office finance system Adelphi and adjusted for legal and communications costs.  It includes Departmental specific training and professional skills training.  Going forward we will be putting a process in place that allows us to produce the data to exclude these elements in line with QDS definitions.  ,,
+,,,Finance,,,,,,,,,Internal audit has been included in Finance costs.  The figure has been taken from a report that requires no manual intervention.  Going forward we will be putting a process in place that allows us to produce the data closely in line with QDS definitions. ,,
+,,,Procurement,,,,,,,,,"Data is taken from the Home Office finance system Adelphi and adjusted for legal , communications, printing and special payments. 
+
+",,
+,,,Legal,,,,,,,,,"Data is taken from the Home Office finance system Adelphi and adjusted for legal , communications, printing and special payments. 
+
+",,
+,,,Communications,,,,,,,,,"Data is taken from the Home Office finance system Adelphi and adjusted for legal , communications, printing and special payments. 
+
+",,
+,,"Fraud, Error, Debt","Total Identified Fraud (£million)
+
+","As defined in the Common Areas of Spend Fraud, Error and Debt Standards - www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions.  
+Fraud and Error should be calculated for all areas defined in the Standards - Procurement, Payroll, Grants, Tax and Other
+Debt and debtor days should be those arising from Fraud and Error, but cover all areas of debt - Debt Type, Tax, Benefits, Fines and penalties, Loans, Sales of goods and services, Other/sundry.
+",Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,Finance Function,Management information,"Derived from quarterly fraud and theft returns
+
+Home Office figures refer to detected fraud only as we do not have the capability to calculate prevented and estimated fraud.  However, we have recently undertaken an extensive review of our counter-fraud capability across the Home Office Group.  This has led to an extensive report which contains a number of recommendations which senior management are currently considering.  If the recommendations in the report are accepted, we would expect to be able to report more in line with the CAS definition, although at this stage we cannot confirm when this will be.","Current =  Home Office Headquarters, Executive Agencies and Executive Non-Departmental Public Bodies.
+
+Previous = as above","Current: £25,063, relating to 4 frauds
+
+Previous: £1949, relating to 14 frauds",,
+,,,Total Known Errors (£million),,,,,,,"As per Common Areas of Spend definition (www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions):
+
+Error occurs where inaccurate or incomplete information is provided, or incorrect processing of information is made that has a material outcome, such as the incorrect amount is paid, but where there is no suggestion of fraudulent intent.
+
+Error can be made by an official or any third party outside of government with whom there is a financial relationship of any kind.  
+","Current = Home Office Headquarters and Executive Agencies - identified payroll overpayments and identified incorrect payments
+
+Previous =Home Office Headquarters and Executive Agencies - identified payroll overpayments and identified incorrect payments","Detected error only.
+
+Figures are for payroll overpayments indentified in the period for Home Office Headquarters and Executive Agencies and for incorrect payments identified in the period for core Home Office and Executive Agencies
+",,
+,,,Total Debt (£million),,,,,,,"As per Common Areas of Spend definition, debt owing to government which is overdue ""The definition of debt used is deliberately different from that used for accounting purposes"" (www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions):
+
+• Debts reported should be overdue, whereby money that should have been repaid has not. This covers both where an agreed payment date has passed or a payment schedule has not been followed and payments have lapsed. 
+
+Debt due to error is automatically deemed overdue,.","Current = overdue debt in Home Office Headquarters and Executive Agencies and outstanding debt due to payroll errors or incorrect payments (which is automatically deemed overdue).
+
+Previous = overdue debt in Home Office Headquarters and Executive Agencies and outstanding debt due to payroll errors or incorrect payments (which is automatically deemed overdue).
+
+","Using confirmed Common Areas of Spend definitions of overdue debt. 
+
+Figures are for overdue debt in Home Office Headquarters and Executive Agencies and debt due to identified error (which is automatically deemed overdue). Current identified error  includes payroll error in Core Home Office and Executive Agencies and incorrect payments for Home Office Headquarters and Executive Agencies.","A further area of overdue debt has been included, legacy payroll overpayments pre 2009. Work is underway to increase scope to collect data regarding other types of errors and to further include NDPBs in the Home Office family.
+
+Current = overdue debt in Home Office Headquarters and Executive Agencies and debt due to identified error (which is automatically deemed overdue). Overdue debt now includes legacy payrolll overpayments pre 2009, the overwhelming majority of which have a payment plan in place. Current identified error includes payroll error in  Home Office Headquarters and Executive Agencies and identified incorrect payments for Core Home Office and Executive Agencies.
+
+Previous =overdue debt in Home Office Headquarters and Executive Agencies and debt due to identified error (which is automatically deemed overdue). Current identified error includes payroll error in Core Home Office and Executive Agencies and identified incorrect payments for Core Home Office and Executive Agencies.
+
+",
+,,,Total Debtor Days,,,,,,,"As per CAS definition (www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions), this records the average amount of time taken for money to be paid by debtors. This should be calculated using the following equation:
+
+    Overdue Debt total (£m) / New debt raised (£m)
+    X number of days in period (e.g. 365 for a year or 90 days for 3 mths)  ","Current =Overdue debt in Home Office Headquarters and Executive Agencies and outstanding debt due to identified error (which is automatically deemed overdue). The current identified error includes payroll error in Core Home Office and Executive Agencies and incorrect payments for Core Home Office and Executive Agencies. New debt raised is COINS data for income for Core Home Office and Executive Agencies
+
+Previous = Overdue debt in Home Office Headquarters and Executive Agencies and outstanding debt due to identified error (which is automatically deemed overdue). The current identified error includes payroll error in Core Home Office and Executive Agencies and incorrect payments for Core Home Office and Executive Agencies. New debt raised is COINS data for income for Core Home Office and Executive Agencies.","Using confirmed Common Areas of Spend definitions of overdue debt and income figures from COINS
+
+Figures are as disclosed for overdue debt and COINS data for income.
+
+Formula to calculate days is provided in CAS definitions
+","
+Current =  Derived by formula provided in Common Areas of Spend definition to include identified overdue debt in Home Office Headquarters and Executive Agencies. Work is underway to increase scope of data.
+
+Previous = Derived by formula provided in Common Areas of Spend definition to include identified overdue debt in Home Office Headquarters and Executive Agencies. Work is underway to increase scope of data.",
+,,Voluntary and community sector (VCS)/Small and medium enterprises (SME),"Procurement spend with SME (£)
+
+",As defined in the Common Areas of Spend Procurement Standards - www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions,Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",Full,Finance Function,Management information,"As per CAS definition (www.cabinetoffice.gov.uk/resource-library/common-areas-spend-data-definitions), Small and Medium-Sized Enterprises (SMEs)
+Enterprises qualify as, small and medium-sized enterprises (SMEs) if they fulfil the criteria laid down by the European Commission and outlined below. In addition to the staff headcount ceiling, an enterprise qualifies as an SME if it meets either the turnover ceiling or the balance sheet ceiling, but not necessarily both.
+
+<250 Employees,  Turnover < or = to 50m Euros or Balance sheet < or = to 43m Euros
+","Current = Home Office Headquarters but excludes Government Equalities Office, Executive Agencies but excludes National Fraud Authority and Executive Non-Departmental Public Bodies but excludes Office of the Immigration Services Commission and Equalities and Human Rights Commission.
+
+Previous = As above.
+
+",Procurement Spend with SMEs represents DIRECT spend only. This is consistent with the figures submitted in the Key Performance Metrics and previous QDS.,,
+,,,Procurement spend with VCS (£),,,,,,,"The VCSE sector comprises of “Non-governmental organisations that are value-driven and which principally reinvest their surpluses to further social, environmental or cultural objectives”
+
+This includes a diverse range of organisations, however these can broadly be categorised as:
+Charities - organisations which are established for exclusively charitable purposes in accordance with the law of England and Wales. 
+Independent organisations, which are established for purposes that add value to the community as a whole, or a significant section of the community, and which are not permitted by their constitution to make a profit for private distribution. Voluntary organisations do not include local government or other statutory authorities.
+Social Enterprises – businesses with primarily social objectives whose surpluses are principally reinvested for that purpose in the business or community, rather than being driven by the need to maximise profit for shareholders and owners.
+
+Please note that there is some overlap between these categories – some voluntary and community organisations are also charities, and some organisations are classified as both a charity and a social enterprise.","Current = Home Office Headquarters but excludes Government Equalities Office, Executive Agencies but excludes National Fraud Authority and Executive Non-Departmental Public Bodies but excludes Office of the Immigration Services Commission and Equalities and Human Rights Commission.
+
+
+Previous: not previously available
+","The VCS figure is still developing. The Home Office are in the process of identifying our VCS suppliers and thus our overall spend. As the standard definition of VCS is still developing, there is the risk that the figure may be inconsistent to that provided by OGDs.",,
+,,,Grants to VCS (£),,,,,,,"Data is taken from the Home Office finance system Adelphi.
+
+","Current = Home Office Headquarters and UK Border Agency only.
+
+Previous =as above","This figure has been calculated using the Home Office Adelphi finance system, which extracts the costs for the relevant grant account codes. 
+
+",,
+,Financial Indicators,,"Accuracy of Cash Forecasting
+
+",Cashflow Management Scheme: Departments with a gross cashflow of over £3bn p.a. provide daily and monthly forecasts of their gross cash payments and receipts up to six weeks ahead. Smaller departments provide monthly forecasts only.The scheme monitors the difference between the forecast and outturn and expresses the difference as a percentage variance on forecast.. Target is for the outturn to be within 5% of the forecast.”,Quarter,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)",All departments,Departmental Cashflow Management outturns,Management information,,"Current = Home Office Headquarters and Executive Agencies only.
+
+Previous = As above",,,
+,,,"Working Capital Forecast
+[% variance of Actual v Forecast]","The percentage variance of forecast to actual working capital. 
+
+Working capital is calculated as : Total current assets less total current liabilities
+
+o Current Assets
+- Inventories
+- Current trade and other receivables
+- Cash and cash equivalents
+- Other current financial assets
+- Assets classified as held for sale
+o Current Liabilities
+- Current trade and other payables
+- Gilt edged stock
+- Other current liabilities                                                                                                                                                                                                                                                                             ",Quarterly,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)
+
+* where possible",Full,Management Information and Annual Accounts ,Management information,Completed as per QDS - Net Book Value Working Capital template,"Current = Home Office Headquarters, Executive Agencies and Executive Non-Departmental Public Bodies
+
+Previous = As above.","This return assumes that the quarter one actuals are the quarter two forecast. 
+
+Home Office do not currently forecast quarterly balance sheets. Forecast balance sheets are to the year end position.",,
+,,,Net Book Value (%) [% variance of Actual v Forecast],"The percentage variance of forecast to actual Net Book Value(NBV) of Fixed Assets. 
+
+NBV of fixed assets is calculated  as the historic cost or valuation (of the assets included) less accumulated depreciation (i.e. depreciation to date) of the assets. 
+
+Note that in WGA, Fixed Assets are referred to as ""Non-current assets"" and include the following:
+- property, plant and equipment
+- investment property
+- intangible assets
+- non-current trade and other receivables
+- Other non-current financial assets                                                                                                   ",Quarterly,"Current = Q4 2011-12 (Jan-Mar)
+Previous = Q3 2011-12 (Oct-Dec)
+
+* where possible",Full,Management Information and Annual Accounts ,Management information,Completed as per QDS - Net Book Value Working Capital template,"Current = Home Office Headquarters, Executive Agencies and Executive Non-Departmental Public Bodies
+
+Previous= As above","The number is calculated as the % difference between budgeted depreciation and impairment as per COINS, compared to outturn of depreciation and impairment as per COINS. ",,
+,Major Projects (Top 5),,A: Compass - Ongoing contract provision for UKBA accommodation and related services,Whole life department cost as defined in the Major Projects Authority (MPA) guidelines.,Full life,Most recent forecast,Full,Departmental internal reporting systems,Management information,As per definition requested,,,,
+,,,Project B: e-Borders,,,,,,,As per definition requested,,,,
+,,,Project C: Cyclamen,,,,,,,As per definition requested,,,,
+,,,Project D: Disclosure and Barring Programme,,,,,,,As per definition requested,,,,
+,,,Project E: New Passport Programme,,,,,,,As per definition requested,,,,
+Results,Input Indicators,,1 Cost per head of population of total police force cost,"As per Business Plan and Business Plan Measurement Annex
+More information is available at http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/
+",,,,,,,,"Cost per head of population of total police force cost excludes Metropolitan police service and the City of London police figures.  These are estimated figures.
+
+http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/fight-crime-effectively-data?view=Html",,
+,,,2 Cost per case of managing a drug misusing offender into treatment and recovery,,,,,,,,,"Drug misuse is often a chronic, relapsing condition, and so individuals may have multiple contacts with the Criminal Justice System / Drug Interventions Programme (DIP) during any 12 month period, thus the annual cost per contact with an individual is likely to be considerably lower.
+
+http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/integrated-criminal-justice-data?view=Html
+ ",,
+,,,3 Cost per passenger processed at the UK border,,,,,,,,,"Figures are based on internal management information.  The numbers may differ from figures published as National Statistics in the Home Office Control of Immigration statistical publications, which are drawn from different snapshots of UK Border Agency databases.
+
+http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html",,
+,,,4 Cost per decision for all permanent and temporary migration applications,,,,,,,,,"Figures are based on internal management information.  The numbers may differ from figures published as National Statistics in the Home Office Control of Immigration statistical publications, which are drawn from different snapshots of UK Border Agency databases.
+
+http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html",,
+,,,5 Cost of producing and issuing a passport ,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/other-general-indicators?view=Html,,
+,"Impact Indicators
+",,1. Crime rates,"As per Business Plan and Business Plan Measurement Annex
+More information is available at http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-input-indicators/input-indicator-measures
+",,,,,,,,"http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/fight-crime-effectively-data?view=Html
+
+Current: There were 3,448,334 crimes recorded by the police in the 12 months to the end of December 2011.  This is a rate of 63 recorded offences per 1,000 population.
+ 
+Previous: There were 3,533,597 crimes recorded by the police in the 12 months to the end of December 2010.  This is a rate of 64 recorded offences per 1,000 population.
+
+Rates are derived using population estimates from Office for National Statistics. ",,
+,,,2a. Number of known organised criminals,,,,,,,Size of market - number of known organised criminals and the number of organised crime groups ,"Current: Association of Chief Police Officers, Serious Organised Crime Agency, HM Revenue and Customs, UK Border Agency","http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/fight-crime-effectively-data?view=Html
+",,
+,,,2b. Number of known organised crime groups,,,,,,,,,"http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/fight-crime-effectively-data?view=Html
+",,
+,,,3. Net Migration to the UK,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html,,
+,,,4. Annual level of tax revenue that is protected through detecting goods where excise duty has not been declared,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html,,
+,,,5. Clearance of passengers at the border within published standards,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html,,
+,,,6. Percentage of migration applications decided within published standards,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html,,
+,,,7. Percentage of asylum applications concluded in one year,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html,,
+,,,8. Passport applications processed within target,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/other-general-indicators?view=Html,,
+,,,9 a. Number of private and voluntary sector organisations that voluntarily report on gender diversity - by size of the workforce,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-impact-indicators/?view=Standard&pubID=958277,,
+,,,9 b. Number of private and voluntary sector organisations that voluntarily report on their gender pay gap - by size of the workforce,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-impact-indicators/?view=Standard&pubID=958277,,
+,Other Data,,1. Non-asylum passengers initially refused entry,"As per Business Plan and Business Plan Measurement Annex
+More information is available at http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/",,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html,,
+,,,2. Total removals and voluntary departures,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html,,
+,,,3. Number of asylum applications received,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/borders-and-immigration-data?view=Html,,
+,,,4.  Number of hits that the Police.uk has received,,,,,,,,,http://www.homeoffice.gov.uk/publications/about-us/corporate-publications/business-plan/business-plan-2012-15-data/hold-police-to-account-data?view=Html,,
+,"Structural Reform Plan Actions
+",,Total number of actions completed since April 2011,The number of actions completed as agreed alongside the Number 10 Business Plan monitoring process.,Quarter,"Current = Q1 2012-13 (Apr-May)
+Previous = Q4 2011-12 (Jan-Mar)",Full,Departmental internal reporting systems,Management information,,"Current: April - May 2012. The Home Office published a refreshed Business Plan (2012-15) on 31 May 2012, where SRP actions were updated. These figures are based on the previous business plan. 
+
+Previous: Q4 2011-12 (Jan-Mar)",,,
+,,,Total number of actions overdue,The number of actions overdue over the period as agreed alongside the Number 10 Business Plan monitoring process.,Quarter,"Current = Q1 2012-13 (Apr-May)
+Previous = Q4 2011-12 (Jan-Mar)",Full,Departmental internal reporting systems,Management information,,"Current: April - May 2012. The Home Office published a refreshed Business Plan (2012-15) on 31 May 2012, where SRP actions were updated. These figures are based on the previous business plan. 
+
+Previous: Q4 2011-12 (Jan-Mar)",,,
+,,,Number of overdue actions that are attributable to external factors,The number of actions overdue over the period as agreed alongside the Number 10 Business Plan monitoring process that are due to external factors.,Quarter,"Current = Q1 2012-13 (Apr-May)
+Previous = Q4 2011-12 (Jan-Mar)",Full,Departmental internal reporting systems,Management information,,"Current: April - May 2012. The Home Office published a refreshed Business Plan (2012-15) on 31 May 2012, where SRP actions were updated. These figures are based on the previous business plan. 
+
+Previous: Q4 2011-12 (Jan-Mar)",,,
+,,,Total number of actions ongoing,The number of actions ongoing over the period as agreed alongside the Number 10 Business Plan monitoring process.,Quarter,"Current = Q1 2012-13 (Apr-May)
+Previous = Q4 2011-12 (Jan-Mar)",Full,Departmental internal reporting systems,Management information,,"Current: April - May 2012. The Home Office published a refreshed Business Plan (2012-15) on 31 May 2012, where SRP actions were updated. These figures are based on the previous business plan. 
+
+Previous: Q4 2011-12 (Jan-Mar)",,,
+,,,Total number of actions in the business plan that have yet to start,The number of actions yet to start over the period as agreed alongside the Number 10 Business Plan monitoring process.,Quarter,"Current = Q1 2012-13 (Apr-May)
+Previous = Q4 2011-12 (Jan-Mar)",Full,Departmental internal reporting systems,Management information,,"Current: April - May 2012. The Home Office published a refreshed Business Plan (2012-15) on 31 May 2012, where SRP actions were updated. These figures are based on the previous business plan. 
+
+Previous: Q4 2011-12 (Jan-Mar)",,,
+People,Whole Department Family; Workforce Size,Payroll Staff,Department and Agencies,"The number of payroll FTE staff in post in the organisations in scope as at the specified reference date. 
+
+Methodology as per ONS QPSES/CO monthly MI collection.
+
+The figures reported should align with those that organisations have reported to ONS QPSES and CO monthly workforce MI collection as appropriate.
+Any differences should be noted.
+Civil Service organisations includes the three crown NDPBs: HSE, ACAS and CMEC where appropriate.",Quarter,"Current =  position as at 31st March 2012
+Previous = position as at 31st December 2011",All departmental Civil Service organisations,Organisations HR Systems,Management information,"Source: 
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Office of National Statistics (ONS) - paid, current civil servants (Full Time Equivalent, FTE)
+
+Calculation: FTE = Total number of hours worked / hours worked in location
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Home Office Headquarters and Executive Agencies. 
+
+Previous = as above
+
+",,,
+,,,"Non-departmental public bodies
+","The number of payroll FTE staff in post in the organisations in scope as at the specified reference date. 
+
+Methodology as per ONS QPSES/CO monthly MI collection.
+
+To ensure consistency with the future planned publication of CO monthly workforce MI returns, departments should report FTE employment in eNDPBs consistent with the organisations in scope for the CO monthly exercise. Any differences between the organisations included for the QDS and those included by the department in their monthly workforce returns should be noted as appropriate.
+NB: Due to a minimum employment requirement applying to ONS QPSES, total executive NDPB employment numbers may not align with summary departmental eNDPB employment levels published in QPSES
+",,,"All department's Executive NDPBs as reported for CO monthly workforce MI collection.
+
+NB: where there are additions or ommisions in the organisations included in the figure for FTE employment, then this should be mentioned in the final column.",,,"Source: 
+Current: Work Force Management Information (WFMI) Monthly return 31/03/12
+Previous: WFMI Monthly return 31/12/11
+Standard: ONS - paid, current civil servants (FTE)
+
+Calculation: Non Departmental Public Bodies (NDPBs)  Total number of hours worked / hours worked in location
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Executive Non-Departmental Public Bodies.
+
+Previous =  as above",,,
+,,,"Department Family (Total)
+",Total of the two rows above,,,All organisations within ministerial responsibility,,,"Source:
+Current: Data View 31/03/12 for staff numbers + WFMI Monthly return  31/03/12  for NDPBs staff numbers
+Previous: Data View 31/12/11 for staff numbers + WFMI Monthly return 31/12/11 for NDPBs staff numbers
+
+Standard: ONS - paid, current civil servants (FTE)
+
+Calculation:  Department and Agencies Total number of hours worked / hours worked in location + NDPBs Total number of hours worked / hours worked in location
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Home Office Headquarters, Executive Agencies, and Executive Non-Departmental Public Bodies.
+
+Previous =  as above
+
+",,,
+,,Average Staff Cost,"Average Staff Cost
+","Please supply paybill per head – as defined in HMT’s Civil Service Pay Guidance. This is the total paybill cost divided by staff in post (FTE).  
+
+The paybill costs should include:
+o Staff salaries;
+o Allowances;
+o Overtime payments;
+o Non-consolidated pot;
+o ERNIC;
+o Employers’ pensions contributions.
+
+Figure presented should be a rolling annual average i.e. Current period will show total paybill costs for the year ending the reference period, divided by the average FTE staff in post over the year (where the average staff in post should be a simple average i.e. (the FTE staff in post at start of period plus FTE staff in post at end of period) divided by 2. The previous period will present a figure for the year ending the previous quarter.
+
+Departments should present a figure as defined, but given that organisations are supplying paybill costs each month to CO for the monthly workforce MI collection, they should look to ensure that, where appropriate, information is consistent across both the monthly MI returns and their QDS.",Quarter,"Current =  year ending 30th June 2012
+Previous = year ending 31st March 2012","Main department, executive agencies, crown NDPBs (where applicable) and executive NDPBs",HR and Payroll/Finance systems.,Management information,"Source: 
+Current: Home Office Database 31/03/12 and 31/03/11 for staff numbers (Department and Agencies);
+Workforce Management Information returns 31/03/12 and 31/03/11 (NDPBs);
+Adelphi Report for finance costs
+Previous: Home Office Database 31/12/11 and 31/12/10 for staff numbers (Department and Agencies);
+Adelphi Report for finance costs
+
+Standard: All current paid and unpaid civil servants (FTE) (Department and Agencies)
+All payroll employees (FTE) (NDPBs)
+
+Calculations: Average staff cost = total cost of programme and admin spend/average staff in post at reference point
+
+Methodology: Average Staff in post = (All employees (as detailed in “Standard”) in post at  31/03/12  + All employees (as detailed in “Standard” in post at  31/03/11) /2
+","Current = Staff numbers and costs for the Department, Agencies and NDPBs.
+
+Previous = Staff numbers and costs for the Department and agencies.  Staff numbers and costs for Non-Departmental Public Bodies (NDPBs) for the start of the previous period were unavailable (31/12/2011), therefore they have not been included when calculating the average staff costs until 31/3/2012. 
+
+",Increase in average staff cost is as a result of more complete finance data for the Department and Agencies than previous QDS.,,
+,,Contingent Labour,Department and Agencies,"The number of agency staff, specialist contractors, interim managers or consultants engaged – these non-payroll staff being commonly referred to as ‘contingent labour’.
+
+Organisations should ensure consistency with the information supplied for the Cabinet Office monthly workforce MI collection.",Quarter,"Current =  position as at 30th September 2011
+Previous = position as at 30th June 2011","Main department and its agencies, and where applicable, crown NDPBs i.e. CMEC, HSE and ACAS. In effect all the department's Civil Service organisations",Organisations HR Systems,Management information,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standards: All Agency and Contractor employees
+
+Calculations: Any Non Civil Servant working within the Department, substituting in a 'civil servant role'.
+
+Methodology: Agency and Contractor appointments, excluding any Contractors and Consultants who provide services via a ""project type"" or ""managed services"" contract at ""man day"" rates.","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,,Non-departmental public bodies,,,,Executive NDPBs as reported for CO monthly workforce MI collection,,,"Source:
+Current: Work Force Management Information (WFMI) Monthly return 31/03/12
+Previous: WFMI Monthly return 31/12/11
+
+Standards: All Agency and Contractor employees
+
+Calculations: Any Non Civil Servant working within the Department, substituting in a 'civil servant role'.
+
+Methodology: Agency and Contractor appointments, excluding any Contractors and Consultants who provide services via a ""project type"" or ""managed services"" contract at ""man day"" rates.","Current = Executive Non-Departmental Public Bodies.
+
+Previous =  as above",,,
+,,,Department Family,,,,All organisations within ministerial responsibility,,,"Source:
+Current: Home Office Database 31/03/12 for department and agency figures and Work Force Management Information (WFMI) Monthly return 31/03/12 for NDPB figures.
+Previous: Home Office Database 31/12/11 for department and agency figures and WFMI Monthly return 31/12/11 for NDPB figures.
+
+Standards: All Agency and Contractor employees
+
+Calculations: Any Non Civil Servant working within the Department, substituting in a 'civil servant role'.
+
+Methodology: Agency and Contractor appointments, excluding any Contractors and Consultants who provide services via a ""project type"" or ""managed services"" contract at ""man day"" rates.","Current = Home Office Headquarters, Executive Agencies, and Executive Non-Departmental Public Bodies.
+
+Previous =  as above",,,
+,Department & Agencies only; ,Workforce Shape,"Administrative Assistants and
+
+
+","The proportion of staff mapped across to the standard Civil Service grades.
+SCS staff should be those at SCS level.
+
+All Civil Service organisations should be able to map to the standard Civil Service grades - this is the same as the process that occur each year as part of the annual civil service employmnent survey.
+Where organisations do not operate the standard Civil Service grades, they should supply their best estimate, mapping across to the broad responsibility levels as appropriate.
+Unknown grades should be apportioned across the grades as necessary so that underlying numbers align with the number of FTE payroll staff supplied above. Where underlying numbers are not consistent, departments should provide an explanatory note in their meta-data sheet.
+
+Departments have now been asked to supply proportions in each grade rather than raw numbers. This is because this is easier to interpret and is consistent with the measures for diversity.
+
+Organisations should ensure consistency with the information supplied for the Cabinet Office monthly workforce MI collection.
+Underlying numbers used to calculate proportions should align with the number of FTE staff papyroll staff supplied above.
+At the appropriate reference point i.e. end of March, figures should align with the ONS Annual Civil Service Employment Survey (ACSES), where approporiate. Any discrepancies should be noted as necessary in the final column.",Quarter,"Current =  position as at 31st March 2012
+Previous = position as at 31st December 2011 ","Main department and its agencies, and where applicable, crown NDPBs i.e. CMEC, HSE and ACAS. 
+In effect all the department's Civil Service organisations",,Management information,"Source:
+Current: Home Office Database 31/03/12 
+Previous: Home Office Database 31/12/11
+
+Standard: Paid, current civil servants FTE
+
+Calculations: {staff in grades (AA + AO) FTE / payroll staff for department and agencies FTE } x100
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,, Executive Officers,,,,,,,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Paid, current civil servants FTE
+
+Calculations: {staff in grades EO FTE / payroll staff for department and agencies FTE } x100
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,,Higher and Senior Executive Officers,,,,,,,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Paid, current civil servants FTE
+
+Calculations: {staff in grades (HEO + SEO) FTE / payroll staff for department and agencies FTE } x100
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Home Office Headquarters and Executive Agencies
+
+Previous = as above",,,
+,,,Grade 7/6,,,,,,,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Paid, current civil servants FTE
+
+Calculations: {staff in grades (G6 + G7) FTE / payroll staff for department and agencies FTE } x100
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Home Office Headquarters and Executive Agencies
+
+Previous = as above",,,
+,,,Senior Civil Servants,,,,,,,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Paid, current civil servants FTE
+
+Calculations: {staff in grades SCS FTE / payroll staff for department and agencies FTE } x100
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,,"Part Time
+","The number of staff working less than standard hours divided by all staff (headcount basis - expressed as a percentage).
+
+Organisations should ensure that figures align with those supplied to ONS for their quarterly public sector employment statistics (QPSES)",,,,,,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Cabinet Office - paid, permanent, current civil servants headcount
+
+Calculations: {staff working less than agreed full time hours for a particular location (headcount) / payroll staff for department and agencies headcount } x100
+
+Methodology: ONS - employees paid in the month for working during the month.  Civil Servants only.","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,Workforce Dynamics,"Recruitment Exceptions
+","The number of recruitment exceptions that have been approved during the quarter.
+
+Where appropriate, organisations should ensure that figures align with those supplied to Cabinet Office for their quarterly exceptions reporting collection in 2010/11. For 2011/12, organisations need only report their exceptions on their QDS - at this stage they do not need to also report separately each quarter to the Cabinet Office.
+
+Organisations should report the number of exceptions for each discrete quarter rather than a cumulative annual position.",Quarter,"Current = Q4 2011-12 (Apr-Jun)
+Previous = Q3 2011-12  (Jan-Mar)",,Organisations internal monitoring,Management information,"Source:
+Current: Manual Return from recruitment team Q4 (January, February and March)
+Previous: Manual Return from recruitment team Q3 (October, November and December) 2011-12
+
+Standard: All employees recruited in the last quarter
+
+Calculations: All recruits who are new to the Civil Service in the last 3 months
+
+Methodology: The figures contain the number of exceptions for each discrete quarter, rather than a cumulative annual position.  ","Current = Home Office Headquarters,  CRB, IPS and UKBA. 
+
+Previous = Home Office Headquarters and CRB and IPS.
+",,,
+,,,"Annual Turnover Rate
+","Annual turnover rate (Headcount basis): The number of staff exiting the organisation during the year ending the reference period, divided by the average staff in post over the year ending the reference period (where the average staff in post is calculated as the number of staff in post at the start and end of the relevant period divided by 2, and leavers are ALL leavers exiting the organisation during the period). Each quarter’s figure will show an annual turnover rate for the year ending that quarter.
+
+The definition used here is one of many interpretations of 'turnover'. Whilst we appreciate that organisations may use different measures for their own internal monitoring, we have opted for the described measure to ensure consistency across departments. Where organisations wish to make other measures available, they are free to do so in accompanying commentary or their meta-data sheet as appropriate.
+
+Figures used in the calculation of the denominator should be consistent with those used elsewhere.
+",Quarter,"Current =  year ending 31st  March 2012
+Previous = year ending 31st December 2011",,Organisations HR Systems,Management information,"Source:
+Current: Home Office Database 31/03/12 and 31/03/12. 
+Previous: Home Office Database 31/12/11 and 31/12/11.
+
+Standard: All civil servant leavers and all civil servants in post at the reference points.
+
+Calculations: Turnover = all paid and unpaid civil servant leavers / average staff in post headcount.
+
+Methodology:
+Current: Turnover = [all paid and unpaid civil servant leavers, headcount, at 31st March 2012/ {(the number of staff in post, headcount, at 31st March 2012 + the number of staff in post, headcount, at 31st March 2011) / 2}] * 100
+Previous: Turnover = [all paid and unpaid civil servant leavers, headcount, at 31st December 2011/ {(the number of staff in post, headcount, at 31st December 2011 + the number of staff in post, headcount, at 30th September 2010) / 2}] * 100","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,Workforce Diversity [Total],BME,"Number of staff recorded as BME/ Total number of staff with a recorded ethnicity (headcount basis - expressed as a percentage).
+NB: Unknown and undeclared ethnicity status staff should be excluded from the denominator.
+
+At the appropriate reference date (end of March) figures should align with those supplied for ONS ACSES.
+",Quarter,"Current =  position as at 30th March 2012
+Previous = position as at 31st December 2012",,,Management information,"Source:
+Current: Home Office Database  31/03/12 
+Previous: Home Office Database 31/12/11
+
+Standard: Cabinet Office - paid, permanent, current civil servants headcount
+
+Calculations: {staff declaring to be minority ethnic headcount / payroll staff for department and agencies headcount who have made a positive declaration } x100
+
+Methodology: Using Cabinet Office definition for diversity and equality reporting using paid, permanent Civil servants only","Current = Home Office Headquarters and Executive Agencies
+
+Previous = as above",,,
+,,,Women,"Number of female/ Total number of staff (headcount basis - expressed as a percentage).
+
+Each quarter figures should align with those supplied for ONS QPSES and for ACSES (as at end of March).",Quarter,,,,Management information,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Cabinet Office - paid, permanent, current civil servants headcount
+
+Calculations: {female staff headcount / payroll staff for department and agencies headcount } x100
+
+Methodology: Using Cabinet Office definition for diversity and equality reporting using paid, permanent Civil servants only","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,,"
+Disabled
+","Number of disabled people/ Total number of staff with a recorded disabled status (headcount basis - expressed as a percentage)
+NB: Unknown and undeclared disabled status staff should be excluded from the denominator.
+
+At the appropriate reference date (end of March) figures should align with those supplied for ONS ACSES.",Quarter,,,,Management information,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Cabinet Office - paid, permanent, current civil servants headcount
+
+Calculations: {staff declaring to be disabled headcount / payroll staff for department and agencies headcount who have made a positive declaration } x100
+
+Methodology: Using Cabinet Office definition for diversity and equality reporting using paid, permanent Civil servants only","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,Workforce Diversity [Senior Civil Servants only],BME,"as BME staff above but for SCS level staff only.
+
+There was an error in the detailed definition supplied for the first QDS - the denominator was incorrectly described as all SCS staff.
+The denominator definition has now been amended.
+
+Organisations were previously (for QDS1) requested to report figures in line with that supplied for the Cabinet Office bi-annual SCS database collection. Given that we wish to ensure more timely access to the most recent available data, organisations should in future supply SCS diversity figures as at the specified reference date as appropriate, sourcing these from their internal HR systems. This will mean that figures are in line with diversity figures supplied for delegated grades.
+Where appropriate, organisations may still wish to satisfy themselves that numbers supplied for the CO SCS database (as at 31 March and 30 September each year) are consistent with those supplied for their QDS for the relevant reference periods. NB: Numbers may not always align since the SCS database collects information on core SCS staff and therefore excludes some senior staff who may be working at an equivalent level to SCS staff but who are not considered part of the SCS proper.",Biannual,,,,Management information,"Source:
+Current: Home Office Database  31/03/12 
+Previous: Home Office Database 31/12/11
+
+Standard: Cabinet Office - paid, permanent, current civil servants headcount
+
+Calculations: {SCS staff declaring to be minority ethnic headcount / SCS payroll staff for department and agencies headcount who have made a positive declaration } x100
+
+Methodology: Using Cabinet Office definition for diversity and equality reporting using paid, permanent Civil servants only","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,,Women,"as Female staff above but for SCS level staff only.
+
+There was an error in the detailed definition supplied for the first QDS - the denominator was incorrectly described as all SCS staff.
+The denominator definition has now been amended.
+
+Organisations were previously (for QDS1) requested to report figures in line with that supplied for the Cabinet Office bi-annual SCS database collection. Given that we wish to ensure more timely access to the most recent available data, organisations should in future supply SCS diversity figures as at the specified reference date as appropriate, sourcing these from their internal HR systems. This will mean that figures are in line with diversity figures supplied for delegated grades.
+Where appropriate, organisations may still wish to satisfy themselves that numbers supplied for the CO SCS database (as at 31 March and 30 September each year) are consistent with those supplied for their QDS for the relevant reference periods. NB: Numbers may not always align since the SCS database collects information on core SCS staff and therefore excludes some senior staff who may be working at an equivalent level to SCS staff but who are not considered part of the SCS proper.",Biannual,,,,Management information,"Source:
+Current: Home Office Database  31/03/12
+Previous: Home Office Database 31/12/11 
+
+Standard: Cabinet Office - paid, permanent, current civil servants headcount
+
+Calculations: {female SCS staff headcount / SCS payroll staff for department and agencies headcount } x100
+
+Methodology: Using Cabinet Office definition for diversity and equality reporting using paid, permanent Civil servants only","Current = Home Office Headquarters and Executive Agencies
+
+Previous = as above",,,
+,,,Women in Top Management Posts’,"Number of female SCS level staff at payband 2 (Director) or above/ Total number of SCS level staff at Director level or above (headcount basis - expressed as a percentage).
+
+There was an error in the detailed definition supplied for the first QDS - the denominator was incorrectly described as all SCS staff.
+The denominator definition has now been amended.
+
+Organisations were previously (for QDS1) requested to report figures in line with that supplied for the Cabinet Office bi-annual SCS database collection. Given that we wish to ensure more timely access to the most recent available data, organisations should in future supply SCS diversity figures as at the specified reference date as appropriate, sourcing these from their internal HR systems. This will mean that figures are in line with diversity figures supplied for delegated grades.
+Where appropriate, organisations may still wish to satisfy themselves that numbers supplied for the CO SCS database (as at 31 March and 30 September each year) are consistent with those supplied for their QDS for the relevant reference periods. NB: Numbers may not always align since the SCS database collects information on core SCS staff and therefore excludes some senior staff who may be working at an equivalent level to SCS staff but who are not considered part of the SCS proper.",Biannual,,,,Management information,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11 
+
+Standard: Cabinet Office - paid, permanent, current civil servants headcount
+
+Calculations: {female SCS PB 2+ staff headcount / SCS PB2+ payroll staff for department and agencies headcount } x100
+
+Methodology: Using Cabinet Office definition for diversity and equality reporting using paid, permanent Civil servants only","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,,"
+Disabled
+","as disabled people above but for SCS level staff only.
+
+There was an error in the detailed definition supplied for the first QDS - the denominator was incorrectly described as all SCS staff.
+The denominator definition has now been amended.
+
+Organisations were previously (for QDS1) requested to report figures in line with that supplied for the Cabinet Office bi-annual SCS database collection. Given that we wish to ensure more timely access to the most recent available data, organisations should in future supply SCS diversity figures as at the specified reference date as appropriate, sourcing these from their internal HR systems. This will mean that figures are in line with diversity figures supplied for delegated grades.
+Where appropriate, organisations may still wish to satisfy themselves that numbers supplied for the CO SCS database (as at 31 March and 30 September each year) are consistent with those supplied for their QDS for the relevant reference periods. NB: Numbers may not always align since the SCS database collects information on core SCS staff and therefore excludes some senior staff who may be working at an equivalent level to SCS staff but who are not considered part of the SCS proper.",Biannual,,,,Management information,"Source:
+Current: Home Office Database 31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Cabinet Office - paid, permanent, current civil servants headcount
+
+Calculations: {SCS staff declaring to be disabled headcount / SCS payroll staff for department and agencies headcount who have made a positive declaration } x100
+
+Methodology: Using Cabinet Office definition for diversity and equality reporting using paid, permanent Civil servants only","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,Attendance,Average Working Days Lost (AWDL) Actual,"Definition and potential source: Cabinet Office Sickness Absence quarterly reports. See attached guidance.
+
+Information should align with that supplied for the Cabinet Office quarterly sickness absence reporting.",Quarter (data provide a rolling annual position each quarter),"Current =  position as at 31st March 2012
+Previous = position as at 31st December 2011",,,Management information,"Source:
+Current: Home Office Database  31/03/12
+Previous: Home Office Database 31/12/11
+
+Standard: Cabinet Office - paid civil servants FTE
+
+Calculations: (WDL FTE / WDA FTE ) x 225
+
+Methodology: (All current paid civil servants plus 12 months worth of leavers WDL FTE / All current paid civil servants plus 12 months worth of leavers WDA FTE) x 225","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above",,,
+,,,"
+Average Working Days Lost (AWDL) Standardised
+
+","Definition and potential source: Cabinet Office Sickness Absence quarterly reports.
+
+The AWDL standardised figure is only available from Cabinet Office. Cabinet Office/HMT officials will arrange for departments to be sent the standardised AWDL figure in plenty of time for inclusion in the relevant quarter's QDS",Quarter (data provide a rolling annual position each quarter),"Current =  position as at 31st December 2011
+Previous = position as at 30th September 2011",,Cabinet Office Sickness Absence quarterly reports,Management information,"Source:
+Current:  Cabinet Office at December 2011
+Previous: Cabinet Office at September 2011
+
+Standard: Cabinet Office - paid civil servants FTE
+
+Calculations: A standardised sick absence figure calculated by Cabinet Office at least one or two quarters in arrears using total working days lost and total working days available for each grade across the entirety of the civil service and calculating a Department's variance to that standard.  
+
+Methodology: The Home Office currently attracts a negative weighting as its grade structure is slightly different to the civil service average reflecting the strategic nature of the Department's role within the UK - the standardised figure is normally either -0.2 or -0.3.","Current = Home Office Headquarters and Executive Agencies
+
+Previous =  as above","Standardised figures for March 2012 have not yet been circulated by Cabinet Office.
+
+An updated figure was not available in time for publication.",,
+,"Department & Agencies only; People Survey Metrics
+
+",,Engagement Index,The organisation's engagement index from the most recent annual Civil Service People Survey,Annual,"Current =  2011 survey
+Previous = 2010 survey",Scope limited to main department only,Civil Service People Survey,Census survey,"Source:
+Current: Data taken from the 2011 Staff Survey
+Previous: Data taken from the 2010 Staff Survey
+
+Standard: The Home Office Headquarters survey results as published on the Home Office website from
+Calculation: The three elements of engagement and their component questions are:
+Say: speaks positively of the organisation
+B50. I am proud when I tell others I am part of the Home Office
+B51. I would recommend the Home Office as a great place to work
+Stay: emotionally attached and committed to the organisation...
+B52. I feel a strong personal attachment to the Home Office
+Strive: motivated to do the best for the organisation...
+B53. The Home Office inspires me to do the best in my job
+B54. The Home Office motivates me to help it achieve its objectives",,,,
+,,,"Theme Scores
+
+Leadership & Managing Change
+","The organisation's theme score for the leadership and manging change"" theme from the most recent annual Civil Service People Survey .
+Figure as published in survey reports",,,,,,"Source:
+Current: Data taken from the 2011 Staff Survey
+Previous: Data taken from the 2010 Staff Survey
+
+Standard: The Home Office Headquarters survey results as published on the Home Office website from
+
+Calculation: The Leadership & Managing Change comes from the following questions on the staff survey:
+B47. The Home Office keeps me informed about matters that affect me
+B41. Senior managers in the Home Office are sufficiently visible
+B42. I believe the actions of senior managers are consistent with Home Office values
+B44. Overall, I have confidence in the decisions made by Home Office senior managers
+B40. I feel that the Home Office as a whole is managed well
+B48. I have the opportunity to contribute my views before decisions are made that affect me
+B49. I think it is safe to challenge the way things are done in the Home Office
+B46. When changes are made in the Home Office they are usually for the better
+B45. I feel that change is managed well in the Home Office
+B43. I believe that the Executive Management Board has a clear vision for the future of the Home Office",,,,
+,,,My Work,"The organisation's theme score for the ""my work"" theme from the most recent annual Civil Service People Survey",,,,,,"Source:
+Current: Data taken from the 2011 Staff Survey
+Previous: Data taken from the 2010 Staff Survey
+
+Standard: The Home Office Headquarters survey results as published on the Home Office website from
+
+Calculation: My Work comes from the following questions on the staff survey:
+B04. I feel involved in the decisions that affect my work
+B05. I have a choice in deciding how I do my work
+B02. I am sufficiently challenged by my work
+B01. I am interested in my work
+B03. My work gives me a sense of personal accomplishment",,,,
+,,,"My Line Manager
+","The organisation's theme score for the ""my line manager"" theme from the most recent annual Civil Service People Survey",,,,,,"Source:
+Current: Data taken from the 2011 Staff Survey
+Previous: Data taken from the 2010 Staff Survey
+
+Standard: The Home Office Headquarters survey results as published on the Home Office website from
+Calculation: My Line Manager comes from the following questions on the staff survey:
+B09. My manager motivates me to be more effective in my job
+B10. My manager is considerate of my life outside work
+B11. My manager is open to my ideas
+B12. My manager helps me to understand how I contribute to Home Office objectives
+B13. Overall, I have confidence in the decisions made by my manager
+B14. My manager recognises when I have done my job well
+B15. I receive regular feedback on my performance
+B16. The feedback I receive helps me to improve my performance
+B17. I think that my performance is evaluated fairly
+B18. Poor performance is dealt with effectively in my team",,,,
+,,,Organisational Objectives & Purpose,"The organisation's theme score for the ""organisational objectives and purpose"" theme from the most recent annual Civil Service People Survey",,,,,,"Source:
+Current: Data taken from the 2011 Staff Survey
+Previous: Data taken from the 2010 Staff Survey
+
+Standard: The Home Office Headquarters survey results as published on the Home Office website (http://www.homeoffice.gov.uk/publications/about-us/staff-survey-2011/) 
+
+Calculation: Organisational Objectives & Purpose comes from the following questions on the staff survey:
+B06. I have a clear understanding of Home Office purpose
+B07. I have a clear understanding of Home Office objectives
+B08. I understand how my work contributes to Home Office objectives ",,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

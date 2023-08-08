@@ -1,0 +1,3 @@
+"KpiId","KpiName","Value","DataType","Period","StartDate","EndDate","CollectionFrequency"
+"OPC12","Corporate Waste - Cost (£)","71099.21 £","Financial","2014/2015","2014-04-01","2015-03-31","Annual"
+"OPC12","Corporate Waste - Cost (£)","76456.36 £","Financial","2015/2016","2015-04-01","2016-03-31","Annual"

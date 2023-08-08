@@ -1,0 +1,97 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT registration number
+Dept of Health,MHRA,06/04/2016,Shared Services,Finance & Procurement,PUBLIC HEALTH ENGLAND,600102472,183000.00,888849628
+Dept of Health,MHRA,06/04/2016,Capital Expenditure,Information Management,REDROCK CONSULTING LTD,600102440,43544.21,862247715
+Dept of Health,MHRA,06/04/2016,Capital Expenditure,Information Management,INFORMATION MANAGEMENT GROUP LTD,600102442,72000.00,805613449
+Dept of Health,MHRA,06/04/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600102482,304455.22,788629066
+Dept of Health,MHRA,06/04/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102678,42737.18,862247715
+Dept of Health,MHRA,06/04/2016,"Service, Integration & Management",Information Management,REDROCK CONSULTING LTD,600102687,53728.92,862247715
+Dept of Health,MHRA,06/04/2016,Help desk and end user support,Information Management,SELECTION SERVICES LTD,600102796,35835.19,123385037
+Dept of Health,MHRA,06/04/2016,Help desk and end user support,Information Management,SELECTION SERVICES LTD,600102797,39650.00,123385037
+Dept of Health,MHRA,06/04/2016,Application Services and Maintenance,Information Management,ACCENTURE,600102836,27772.00,788629066
+Dept of Health,MHRA,06/04/2016,"Service, Integration & Management",Information Management,REDROCK CONSULTING LTD,600102910,35930.11,862247715
+Dept of Health,MHRA,06/04/2016,File Storage,Policy,IRON MOUNTAIN (UK) LTD,600102821,108532.51,607937516
+Dept of Health,MHRA,06/04/2016,Research,Vigilance and Risk Management of Medicines,UMCG-SECTOR O&O,600102757,45018.11,
+Dept of Health,MHRA,08/04/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102441,77263.78,862247715
+Dept of Health,MHRA,08/04/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102446,49500.40,862247715
+Dept of Health,MHRA,08/04/2016,Capital Expenditure,Information Management,REDROCK CONSULTING LTD,600102808,34666.94,862247715
+Dept of Health,MHRA,08/04/2016,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102811,143833.18,862247715
+Dept of Health,MHRA,08/04/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102818,74474.76,862247715
+Dept of Health,MHRA,08/04/2016,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102820,91215.98,862247715
+Dept of Health,MHRA,08/04/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102827,43649.47,862247715
+Dept of Health,MHRA,08/04/2016,"Service, Integration & Management",Information Management,REDROCK CONSULTING LTD,600102830,65711.24,862247715
+Dept of Health,MHRA,08/04/2016,Application Services and Maintenance,Information Management,ACCENTURE,600102835,218150.90,788629066
+Dept of Health,MHRA,14/04/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102726,-42737.18,862247715
+Dept of Health,MHRA,14/04/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102727,63719.81,862247715
+Dept of Health,MHRA,14/04/2016,IT Security,Information Management,REDROCK CONSULTING LTD,600102824,44911.17,862247715
+Dept of Health,MHRA,14/04/2016,Help desk and end user support,Information Management,SELECTION SERVICES LTD,600102967,35835.19,123385037
+Dept of Health,MHRA,14/04/2016,Third Party IT Contracts,Information Management,ORACLE CORPORATION UK LIMITED,600103014,70976.44,391313073
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Clinical Practice Research Datalink,CLARITY TRAVEL MANAGEMENT,600102944,1217.30,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,Clinical Practice Research Datalink,CLARITY TRAVEL MANAGEMENT,600102944,3335.64,197694731
+Dept of Health,MHRA,14/04/2016,UK Hotel/Accommodation,Communications,CLARITY TRAVEL MANAGEMENT,600102944,54.20,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Communications,CLARITY TRAVEL MANAGEMENT,600102944,671.90,197694731
+Dept of Health,MHRA,14/04/2016,UK Air,Directorate,CLARITY TRAVEL MANAGEMENT,600102944,307.79,197694731
+Dept of Health,MHRA,14/04/2016,UK Hotel/Accommodation,Directorate,CLARITY TRAVEL MANAGEMENT,600102944,128.40,197694731
+Dept of Health,MHRA,14/04/2016,Committee T&S,Directorate,CLARITY TRAVEL MANAGEMENT,600102944,198.30,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,Directorate,CLARITY TRAVEL MANAGEMENT,600102944,114.93,197694731
+Dept of Health,MHRA,14/04/2016,UK Hotel/Accommodation,Human Resources,CLARITY TRAVEL MANAGEMENT,600102944,799.94,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Human Resources,CLARITY TRAVEL MANAGEMENT,600102944,79.00,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Information Management,CLARITY TRAVEL MANAGEMENT,600102944,98.90,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,Information Management,CLARITY TRAVEL MANAGEMENT,600102944,403.14,197694731
+Dept of Health,MHRA,14/04/2016,UK Air,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,3770.04,197694731
+Dept of Health,MHRA,14/04/2016,UK Bus/Coach,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,47.10,197694731
+Dept of Health,MHRA,14/04/2016,UK Hotel/Accommodation,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,21003.50,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,11696.85,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Air,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,37671.64,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Hotel/Accommodation,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,2742.36,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Rail/Tram,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,768.00,197694731
+Dept of Health,MHRA,14/04/2016,Committee T&S,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,220.10,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,"Inspection, Enforcement & Standards",CLARITY TRAVEL MANAGEMENT,600102944,5711.97,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Licensing,CLARITY TRAVEL MANAGEMENT,600102944,176.30,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Air,Licensing,CLARITY TRAVEL MANAGEMENT,600102944,202.34,197694731
+Dept of Health,MHRA,14/04/2016,Committee T&S,Licensing,CLARITY TRAVEL MANAGEMENT,600102944,2572.56,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,Licensing,CLARITY TRAVEL MANAGEMENT,600102944,4470.94,197694731
+Dept of Health,MHRA,14/04/2016,UK Hotel/Accommodation,Medical Devices,CLARITY TRAVEL MANAGEMENT,600102944,535.84,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Medical Devices,CLARITY TRAVEL MANAGEMENT,600102944,905.60,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Air,Medical Devices,CLARITY TRAVEL MANAGEMENT,600102944,255.01,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Hotel/Accommodation,Medical Devices,CLARITY TRAVEL MANAGEMENT,600102944,642.89,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Rail/Tram,Medical Devices,CLARITY TRAVEL MANAGEMENT,600102944,355.50,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,Medical Devices,CLARITY TRAVEL MANAGEMENT,600102944,13276.58,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Finance & Procurement,CLARITY TRAVEL MANAGEMENT,600102944,192.70,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,Finance & Procurement,CLARITY TRAVEL MANAGEMENT,600102944,31.90,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Policy,CLARITY TRAVEL MANAGEMENT,600102944,19.40,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Air,Policy,CLARITY TRAVEL MANAGEMENT,600102944,2430.15,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Hotel/Accommodation,Policy,CLARITY TRAVEL MANAGEMENT,600102944,232.00,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Rail/Tram,Policy,CLARITY TRAVEL MANAGEMENT,600102944,365.50,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,Policy,CLARITY TRAVEL MANAGEMENT,600102944,827.54,197694731
+Dept of Health,MHRA,14/04/2016,UK Rail/Tube/Tram,Vigilance and Risk Management of Medicines,CLARITY TRAVEL MANAGEMENT,600102944,285.70,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Air,Vigilance and Risk Management of Medicines,CLARITY TRAVEL MANAGEMENT,600102944,1921.19,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Hotel/Accommodation,Vigilance and Risk Management of Medicines,CLARITY TRAVEL MANAGEMENT,600102944,980.24,197694731
+Dept of Health,MHRA,14/04/2016,Overseas Rail/Tram,Vigilance and Risk Management of Medicines,CLARITY TRAVEL MANAGEMENT,600102944,245.00,197694731
+Dept of Health,MHRA,14/04/2016,Training inc T&S,Vigilance and Risk Management of Medicines,CLARITY TRAVEL MANAGEMENT,600102944,638.52,197694731
+Dept of Health,MHRA,15/04/2016,Shared Services,Finance & Procurement,PUBLIC HEALTH ENGLAND,600103106,183000.00,888849628
+Dept of Health,MHRA,15/04/2016,Solicitors,Human Resources,GOVERNMENT LEGAL DEPARTMENT,600102783,51506.64,888823066
+Dept of Health,MHRA,15/04/2016,Infrastructure Services and Maintenance,Information Management,SOFTCAT LTD,600098525,43585.27,491848503
+Dept of Health,MHRA,15/04/2016,Software & Licenses,Information Management,SOFTCAT LTD,600102913,25438.18,491848503
+Dept of Health,MHRA,15/04/2016,Infrastructure Services and Maintenance,Information Management,SOFTCAT LTD,600102949,-31705.27,491848503
+Dept of Health,MHRA,18/04/2016,Cost of Seminars,Vigilance and Risk Management of Medicines,PRESENICA BY MA,600103018,37079.36,
+Dept of Health,MHRA,21/04/2016,Recruitment advertising,Human Resources,LINKED IN,600103146,48400.00,888849726
+Dept of Health,MHRA,21/04/2016,Software & Licenses,Information Management,GB GROUP PLC,600102759,27000.00,539716218
+Dept of Health,MHRA,21/04/2016,Application Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102829,30737.09,862247715
+Dept of Health,MHRA,21/04/2016,IT Purchases,Information Management,ACCENTURE,600103085,39023.03,788629066
+Dept of Health,MHRA,21/04/2016,Application Services and Maintenance,Information Management,HITACHI CONSULTING,600103145,26788.97,887129187
+Dept of Health,MHRA,21/04/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600103172,37302.00,788629066
+Dept of Health,MHRA,22/04/2016,Facilities Management,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600102951,44454.00,888825550
+Dept of Health,MHRA,22/04/2016,Premises Rental,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600102951,715866.00,888825550
+Dept of Health,MHRA,22/04/2016,Service Charge,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600102951,174388.00,888825550
+Dept of Health,MHRA,22/04/2016,Rates,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600102951,430311.00,888825550
+Dept of Health,MHRA,22/04/2016,Building Maintenance & Utilities,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600102951,62535.58,888825550
+Dept of Health,MHRA,22/04/2016,Security,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600102951,31879.00,888825550
+Dept of Health,MHRA,22/04/2016,Cleaning,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600102951,18464.42,888825550
+Dept of Health,MHRA,22/04/2016,Staff Restaurant,Facilities & Estates,DEPARTMENT FOR BUSINESS INNOVATION AND SKILLS,600102951,27807.00,888825550
+Dept of Health,MHRA,22/04/2016,Infrastructure Services and Maintenance,Information Management,REDROCK CONSULTING LTD,600102807,69816.43,862247715
+Dept of Health,MHRA,22/04/2016,"Service, Integration & Management",Information Management,REDROCK CONSULTING LTD,600102813,37754.68,862247715
+Dept of Health,MHRA,22/04/2016,"Service, Integration & Management",Information Management,REDROCK CONSULTING LTD,600102828,28000.23,862247715
+Dept of Health,MHRA,22/04/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600103083,261186.00,788629066
+Dept of Health,MHRA,22/04/2016,Application Services and Maintenance,Information Management,ACCENTURE,600103174,27772.00,788629066
+Dept of Health,MHRA,27/04/2016,Infrastructure Services and Maintenance,Information Management,ACCENTURE,600103084,78462.00,788629066
+Dept of Health,MHRA,27/04/2016,IT Purchases,Information Management,ACCENTURE,600103087,312651.46,788629066

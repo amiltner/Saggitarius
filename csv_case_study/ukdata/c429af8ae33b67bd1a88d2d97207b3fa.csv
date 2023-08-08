@@ -1,0 +1,3 @@
+"KpiId","KpiName","Value","DataType","Period","StartDate","EndDate","CollectionFrequency"
+"OPC05A","Schools Natural Gas - Activity (kWh)","N/A","Number","2014/2015","2014-04-01","2015-03-31","Annual"
+"OPC05A","Schools Natural Gas - Activity (kWh)","NC","Number","2015/2016","2015-04-01","2016-03-31","Annual"

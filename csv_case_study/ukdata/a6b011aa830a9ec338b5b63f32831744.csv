@@ -1,0 +1,95 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Invoice Number
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Blood Products,BLOOD TRANSFUSION SERVICE,NHS BLOOD & TRANSPLANT,11292403,213301.39,796193
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,CAPD Fluids,RENAL PD UNIT,BAXTER HEALTHCARE LTD,11451339,91397.74,1245415
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Capital Non Pay Costs,Balance Sheet,ENVAIR UK LTD,11404310,35810,2732
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Capital Non Pay Costs,Balance Sheet,HAPTICA LTD,11387888,94950,0315INV
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,Commercial Sector,B`STOKE DIALYSIS,FRESENIUS MEDICALCARE RENAL SERVICES LTD,11309017,39730.59,1060014400
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,Commercial Sector,CHANDLERS FORD DIALYSIS,FRESENIUS MEDICALCARE RENAL SERVICES LTD,11309011,41758.74,1160001509
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,Commercial Sector,CHANDLERS FORD DIALYSIS,FRESENIUS MEDICALCARE RENAL SERVICES LTD,11309012,70019,1060014405
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,Commercial Sector,HAVANT DIALYSIS,RENAL SERVICES OPERATIONS LTD,11451346,113201.72,436
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,Commercial Sector,SALISBURY DIALYSIS,RENAL SERVICES OPERATIONS LTD,11451345,47964.24,58
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Computer Maintenance,EPR DEVELOPMENT PHT,COMPUTACENTER UK LTD,11250450,85048.93,7175410
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Computer Maintenance,EPR DEVELOPMENT PHT,COMPUTACENTER UK LTD,11250459,1005.32,7175409
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,Computer Maintenance,ICT SERVICES DISTRICT,TAYLOR MADE COMPUTER SOLUTIONS LTD,11368564,18051.22,SIN024437
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Computer Maintenance,ICT SERVICES DISTRICT,TAYLOR MADE COMPUTER SOLUTIONS LTD,11368566,18635.05,SIN024438
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,Computer Maintenance,ICT SERVICES PHT,TAYLOR MADE COMPUTER SOLUTIONS LTD,11368564,18051.22,SIN024437
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Computer Maintenance,ICT SERVICES PHT,TAYLOR MADE COMPUTER SOLUTIONS LTD,11368566,18635.05,SIN024438
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Computer Software/License,EPR DEVELOPMENT PHT,COMPUTACENTER UK LTD,11250459,86270,7175409
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,Drugs,Renal senior team,POLAR SPEED DISTRIBUTION LTD,11483803,70360,106106
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Electricity,UTILITIES SMH,SOUTHERN ELECTRIC PLC,11368560,25128.42,9.31304E+12
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,Electricity,UTILITIES SMH,SOUTHERN ELECTRIC PLC,11483798,25675.58,9.31304E+12
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,Equip Maint Contracts,QAH MAIN X-RAY,FUJI PHOTO FILM UK LTD,11411654,36251.56,CM135
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,Equip Maint Contracts,RADIOTHERAPY,NHS SUPPLY CHAIN,11316168,38076,SMI217025
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,External Consultancy Fees,CHIEF EXECS TEAM,PORTSMOUTH CITY TEACHING PCT,11419162,37043.65,9576669
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,FM Computer Contracts,EDM IMPLEMENTATION,IBM UK LTD,11483782,49024.21,7306100443
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,FM Computer Contracts,EDM IMPLEMENTATION,IBM UK LTD,11483791,334135.69,7307100369
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,Lab Equip Maint Contracts,HISTOPATHOLOGY,NHS SUPPLY CHAIN,11258740,23080.82,SMI216859
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,Laboratory External Tests,TRANSPLANT DRUGS,NHS BLOOD & TRANSPLANT,11291016,42000.29,442761
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,Laboratory Test Kits,MICROBIOLOGY,BECTON DICKINSON UK LTD,11333504,38135.8,100050876
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,Laboratory Test Kits,MICROBIOLOGY,ROCHE DIAGNOSTICS LTD,11400937,58182.17,3570930974
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Med & Surg Equip General,CARDIOLOGY DAY UNIT,NHS SUPPLY CHAIN,11205352,68118.92,SMI216832
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Med & Surg Maint Contract,RADIOTHERAPY,VARIAN LTD,11400939,27700,602088998
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,NHS payables - Current,Balance Sheet,NHS PROFESSIONALS LTD,11235313,72799.43,13942892
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,NHS payables - Current,Balance Sheet,NHS PROFESSIONALS LTD,11280775,60911.05,13943160
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,NHS payables - Current,Balance Sheet,NHS PROFESSIONALS LTD,11280781,22376.15,13943192
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,NHS payables - Current,Balance Sheet,NHS PROFESSIONALS LTD,11308976,66169.6,13943251
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,NHS payables - Current,Balance Sheet,NHS PROFESSIONALS LTD,11385645,66559.27,13943460
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,NHS payables - Current,Balance Sheet,NHS SUPPLY CHAIN,11315605,131822.88,WSWI785717
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,NHS payables - Current,Balance Sheet,NHS SUPPLY CHAIN,11351584,164630.19,WSWI788046
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,NHS payables - Current,Balance Sheet,NHS SUPPLY CHAIN,11385754,166601.36,WSWI795574
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,NHS payables - Current,Balance Sheet,NHS SUPPLY CHAIN,11410090,183110.06,WSWI793372
+Department of Health,Portsmouth Hospitals Trust,18-Aug-10,NonNHS Trade Pybls Curr,Balance Sheet,DEFENCE BILLS AGENCY,11451571,792924,7142358
+Department of Health,Portsmouth Hospitals Trust,18-Aug-10,NonNHS Trade Pybls Curr,Balance Sheet,DEFENCE BILLS AGENCY,11451576,-792924,7147040
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,NonNHS Trade Pybls Curr,Balance Sheet,HAAG STREIT UK LTD,11501200,33654.5,I4041403
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,NonNHS Trade Pybls Curr,Balance Sheet,HAAG STREIT UK LTD,11501206,-33654.5,C4001160
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,Other Transport Costs,PTS BASINGSTOKE AREA,PTS SOUTHERN LTD,11291022,26324.55,197
+Department of Health,Portsmouth Hospitals Trust,31-Aug-10,Other Transport Costs,PTS BASINGSTOKE AREA,PTS SOUTHERN LTD,11451370,26324.55,204
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,Other Transport Costs,PTS CHANDLERS FORD AREA,PTS SOUTHERN LTD,11308956,32911.67,196
+Department of Health,Portsmouth Hospitals Trust,31-Aug-10,Other Transport Costs,PTS CHANDLERS FORD AREA,PTS SOUTHERN LTD,11451369,32911.67,203
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Other Transport Costs,PTS MAU Contract,E-ZEC MEDICAL TRANSPORT SERVICES LTD,11385727,6379,110067
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Other Transport Costs,PTS PORTSMOUTH AREA,E-ZEC MEDICAL TRANSPORT SERVICES LTD,11385727,185748.13,110067
+Department of Health,Portsmouth Hospitals Trust,31-Aug-10,Other Transport Costs,PTS PORTSMOUTH AREA,E-ZEC MEDICAL TRANSPORT SERVICES LTD,11522239,65197.62,110081
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,Other Transport Costs,PTS PORTSMOUTH RENAL,PTS SOUTHERN LTD,11308960,23788.72,193
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Other Transport Costs,PTS PORTSMOUTH RENAL,PTS SOUTHERN LTD,11392917,32649.84,198
+Department of Health,Portsmouth Hospitals Trust,31-Aug-10,Other Transport Costs,PTS PORTSMOUTH RENAL,PTS SOUTHERN LTD,11451366,23788.72,200
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,Other Transport Costs,PTS SUSSEX AREA,SOUTH EAST COAST AMBULANCE SERVICES NHS TRUST,11308936,34210.83,7867532
+Department of Health,Portsmouth Hospitals Trust,26-Aug-10,Pacemakers,CARDIAC MED. STAFF,MEDTRONIC LTD,11501447,28609.61,1050501803
+Department of Health,Portsmouth Hospitals Trust,24-Aug-10,Pacemakers,Cardiac Cath Lab,MEDTRONIC LTD,11377319,146875,1050518063
+Department of Health,Portsmouth Hospitals Trust,17-Aug-10,Payroll Ded'ns N/S Curr,Balance Sheet,CHILDCARE VOUCHERS LTD,11451684,46339.66,110981-13-AUG-2010
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Payroll Ded'ns N/S Curr,Balance Sheet,FIRST HAMPSHIRE LTD,11428748,41498.29,110943-10-AUG-2010
+Department of Health,Portsmouth Hospitals Trust,05-Aug-10,Prepayments - Current,Balance Sheet,THE HOSPITAL COMPANY (QAH PORTSMOUTH) LTD,11387898,4459224.23,PPQAH106
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,Rent,PTS PORTSMOUTH AREA,E-ZEC MEDICAL TRANSPORT SERVICES LTD,11385727,2812.5,110067
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,AAH PHARMACEUTICALS LTD,11353135,56859.66,95551863W
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,SYS Inventory,Balance Sheet,AAH PHARMACEUTICALS LTD,11402371,61233.48,95630076R
+Department of Health,Portsmouth Hospitals Trust,10-Aug-10,SYS Inventory,Balance Sheet,ABBOTT LABORATORIES LTD,11317635,82332.25,4256335
+Department of Health,Portsmouth Hospitals Trust,10-Aug-10,SYS Inventory,Balance Sheet,ABBOTT LABORATORIES LTD,11317637,28804.75,4256337
+Department of Health,Portsmouth Hospitals Trust,31-Aug-10,SYS Inventory,Balance Sheet,AMO UK LTD,11429867,29271.6,1057765840
+Department of Health,Portsmouth Hospitals Trust,17-Aug-10,SYS Inventory,Balance Sheet,BAXTER HEALTHCARE LTD,11421334,29711.63,1242123
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,SYS Inventory,Balance Sheet,BIO PRODUCTS LABORATORY,11283966,31515,1240692
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,SYS Inventory,Balance Sheet,BIO PRODUCTS LABORATORY,11394452,25040,1241057
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,SYS Inventory,Balance Sheet,BIOTEST UK LTD,11283969,49580,3138736
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,SYS Inventory,Balance Sheet,BOEHRINGER INGELHEIM LTD,11310487,89916.88,80349664
+Department of Health,Portsmouth Hospitals Trust,17-Aug-10,SYS Inventory,Balance Sheet,BRISTOL MYERS SQUIBB PHARMACY LTD,11370280,28973.74,100454020
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,SYS Inventory,Balance Sheet,ELI LILLY & CO LTD,11265714,32024.04,8011312763
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,GILEAD SCIENCES LTD,11370276,199295.19,10082434
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,GILEAD SCIENCES LTD,11370279,116709.23,10082435
+Department of Health,Portsmouth Hospitals Trust,17-Aug-10,SYS Inventory,Balance Sheet,HEALTHCARE PRODUCT SERVICES LTD,11353161,30794.4,9770016780
+Department of Health,Portsmouth Hospitals Trust,10-Aug-10,SYS Inventory,Balance Sheet,JANSSEN CILAG LTD,11334752,53789.97,91622397
+Department of Health,Portsmouth Hospitals Trust,31-Aug-10,SYS Inventory,Balance Sheet,JANSSEN CILAG LTD,11437773,35831.86,91629355
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,MARTINDALE PHARMACEUTICALS,11429845,26814.23,3393031
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,NOVARTIS PHARMACEUTICALS UK LTD,11421268,68250.65,90688962
+Department of Health,Portsmouth Hospitals Trust,27-Aug-10,SYS Inventory,Balance Sheet,NOVARTIS PHARMACEUTICALS UK LTD,11509599,90894.88,90582024
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,SYS Inventory,Balance Sheet,PHOENIX HEALTHCARE DISTRIBUTION LTD,11421229,29241.29,64679299
+Department of Health,Portsmouth Hospitals Trust,04-Aug-10,SYS Inventory,Balance Sheet,RATIOPHARM UK LTD,11273457,27529.37,5430023579
+Department of Health,Portsmouth Hospitals Trust,03-Aug-10,SYS Inventory,Balance Sheet,ROCHE PRODUCTS LTD,11273433,57861.52,1321253957
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,ROCHE PRODUCTS LTD,11402284,192978.77,1321261753
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,TEVA UK LTD,10893449,-62989.74,2318037335
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,TEVA UK LTD,10893451,-55229.28,2318037336
+Department of Health,Portsmouth Hospitals Trust,23-Aug-10,SYS Inventory,Balance Sheet,TEVA UK LTD,11334736,28808.12,2310167032
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Services Received - NHSTs,IOW DIALYSIS,ISLE OF WIGHT PCT,11400223,29745.34,18559347
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,Services Received - PCTs,COMMUNITY HOSPITALS,PORTSMOUTH CITY TEACHING PCT,11257894,65532.45,9576645
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Services Received - PCTs,COMMUNITY HOSPITALS,PORTSMOUTH CITY TEACHING PCT,11258001,118605,9576673
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,Services Received - PCTs,COMMUNITY HOSPITALS,PORTSMOUTH CITY TEACHING PCT,11428337,118605,9576675
+Department of Health,Portsmouth Hospitals Trust,02-Aug-10,Services Received - PCTs,PHCT/PHT RECHARGES,PORTSMOUTH CITY TEACHING PCT,11324331,50457,9576623
+Department of Health,Portsmouth Hospitals Trust,06-Aug-10,SrvcsRecd-Other NHS,SBS,NHS SHARED BUSINESS SERVICES LTD,11258000,67432.23,100001276
+Department of Health,Portsmouth Hospitals Trust,13-Aug-10,X-Ray Equip Maint/Repair,RADIOTHERAPY,VARIAN LTD,11419168,44747.53,602087874

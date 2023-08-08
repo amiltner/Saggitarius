@@ -1,0 +1,146 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction,Amount,Additional Narrative
+HMRC,VOA,27.04.12,Landlord's Service Charge,Corporate,Business Environment,5100000490,"£11,806.10",Accommodation Charges
+HMRC,VOA,27.04.12,Accommodation rent,Corporate,Business Environment,5100000490,"£34,780.63",Accommodation Charges
+HMRC,VOA,27.04.12,Input VAT (ST),Corporate,Business Environment,5100000490,£637.53,VAT Recovery
+HMRC,VOA,02.04.12,Capital ,Corporate,Cable-Talk Comms Ltd,5100007526,"£88,755.05",Telephone Cabling
+HMRC,VOA,02.04.12,Input VAT (ST),Corporate,Cable-Talk Comms Ltd,5100007526,"£1,214.59",VAT Recovery
+HMRC,VOA,16.04.12,Capital ,Corporate,Capgemini UK plc.,5100000253,"(£339,583.46)",Refund of In-house Software development costs
+HMRC,VOA,16.04.12,Management of Agreement,Corporate,Capgemini UK plc.,5100000253,"£44,877.42",IT support and maintenance
+HMRC,VOA,16.04.12,Business Application,Corporate,Capgemini UK plc.,5100000253,"£171,654.64",IT support and maintenance
+HMRC,VOA,16.04.12,Input Services,Corporate,Capgemini UK plc.,5100000253,"£42,720.41",VAT Recovery
+HMRC,VOA,16.04.12,Data Centre Operations,Corporate,Capgemini UK plc.,5100000253,"£322,503.35",IT support and maintenance
+HMRC,VOA,16.04.12,Desktop Services,Corporate,Capgemini UK plc.,5100000253,"£74,693.27",IT support and maintenance
+HMRC,VOA,16.04.12,WAN,Corporate,Capgemini UK plc.,5100000253,"£127,683.54",IT support and maintenance
+HMRC,VOA,16.04.12,Business Continuity & Disaster Recovery,Corporate,Capgemini UK plc.,5100000253,"£42,511.88",IT support and maintenance
+HMRC,VOA,16.04.12,Aspire Other Costs,Corporate,Capgemini UK plc.,5100000253,"£352,086.26",IT support and maintenance
+HMRC,VOA,16.04.12,I.T.-Software & Support,Corporate,Capgemini UK plc.,5100000253,"£47,360.12",IT support and maintenance
+HMRC,VOA,16.04.12,Input VAT (ST),Corporate,Capgemini UK plc.,5100000253,"£163,307.09",VAT Recovery
+HMRC,VOA,16.04.12,Telephones-Landline,Corporate,Capgemini UK plc.,5100000253,"£38,223.48",Telephony charges
+HMRC,VOA,16.04.12,Telephones-Mobile,Corporate,Capgemini UK plc.,5100000253,"£12,494.89",Telephony charges
+HMRC,VOA,16.04.12,Telephones-Other,Corporate,Capgemini UK plc.,5100000253,"£22,765.19",Telephony charges
+HMRC,VOA,16.04.12,Settlement Discounts,Corporate,Capgemini UK plc.,5100000253,"(£75,000.00)",Early Payment Settlement Discount
+HMRC,VOA,02.04.12,Rates,Corporate,City of Westminster,5100000045,"£62,618.00",Business Rates
+HMRC,VOA,04.04.12,Rates,Corporate,Communities and Local Government,5100000089,"£26,558.55",Accommodation Charges
+HMRC,VOA,04.04.12,Landlord's Service Charge,Corporate,Communities and Local Government,5100000089,"£51,299.35",Accommodation Charges
+HMRC,VOA,04.04.12,Accommodation rent,Corporate,Communities and Local Government,5100000089,"£76,291.99",Accommodation Charges
+HMRC,VOA,04.04.12,Car Parking,Corporate,Communities and Local Government,5100000089,"£13,500.00",Accommodation Charges
+HMRC,VOA,02.04.12,Accommodation rent,Corporate,DTZ,5100000000,"£57,137.12",Accommodation Charges
+HMRC,VOA,02.04.12,Rates,Corporate,DTZ,5100000000,"£16,876.46",Accommodation Charges
+HMRC,VOA,02.04.12,Electricity,Corporate,DTZ,5100000000,"£2,528.37",Accommodation Charges
+HMRC,VOA,02.04.12,Gas,Corporate,DTZ,5100000000,£408.17,Accommodation Charges
+HMRC,VOA,02.04.12,Accommodation rent,Corporate,DTZ,5100000001,"£55,746.28",Accommodation Charges
+HMRC,VOA,02.04.12,Rates,Corporate,DTZ,5100000001,"£5,625.49",Accommodation Charges
+HMRC,VOA,02.04.12,Electricity,Corporate,DTZ,5100000001,"£1,462.80",Accommodation Charges
+HMRC,VOA,02.04.12,Gas,Corporate,DTZ,5100000001,"£1,358.55",Accommodation Charges
+HMRC,VOA,04.04.12,Car Hire,Corporate,Enterprise Rent-a-Car,1900012192,"£21,380.23",Car Hire
+HMRC,VOA,04.04.12,Input VAT (ST),Corporate,Enterprise Rent-a-Car,1900012192,"£4,277.39",VAT Recovery
+HMRC,VOA,11.04.12,Contracted out services,Corporate,HMRC,1900000340,"£187,900.00",HR Recharged Costs
+HMRC,VOA,16.04.12,I.T.-Software & Support,Corporate,Landesk International Ltd,5100007400,"£58,609.98",IT support and maintenance
+HMRC,VOA,12.04.12,Telephones-Landline,Corporate,Main-Tel (NE) LTD,5100000195,"£68,143.08",Telephony charges
+HMRC,VOA,12.04.12,Input VAT (ST),Corporate,Main-Tel (NE) LTD,5100000195,£932.52,VAT Recovery
+HMRC,VOA,12.04.12,Telephones-Landline,Corporate,Main-Tel (NE) LTD,5100000196,"£67,268.25",Telephony charges
+HMRC,VOA,12.04.12,Input VAT (ST),Corporate,Main-Tel (NE) LTD,5100000196,£920.55,VAT Recovery
+HMRC,VOA,12.04.12,Major Works VAT Recoverable,Corporate,Mapeley Steps Contractor Limited,5100000198,"£76,483.86",Accommodation Refurbishment
+HMRC,VOA,12.04.12,Input VAT (ST),Corporate,Mapeley Steps Contractor Limited,5100000198,"£1,046.66",VAT Recovery
+HMRC,VOA,02.04.12,Minor Works VAT Recoverable,Corporate,Mapeley Steps Contractor Limited,5100000054,"£37,940.73",Accommodation Refurbishment
+HMRC,VOA,02.04.12,Input VAT (ST),Corporate,Mapeley Steps Contractor Limited,5100000054,£519.21,VAT Recovery
+HMRC,VOA,11.04.12,Minor Works VAT Recoverable,Corporate,Mapeley Steps Contractor Limited,5100000178,"£25,047.62",Accommodation Refurbishment
+HMRC,VOA,11.04.12,Input VAT (ST),Corporate,Mapeley Steps Contractor Limited,5100000178,£342.77,VAT Recovery
+HMRC,VOA,27.04.12,Capital ,Corporate,Misco UK,5100000459,"£160,916.30",Laptop Purchase
+HMRC,VOA,27.04.12,Input VAT (ST),Corporate,Misco UK,5100000459,"£2,202.10",VAT Recovery
+HMRC,VOA,18.04.12,Royal mail postage,Corporate,Royal Mail,1900000542,"£41,996.97",Postage Charges
+HMRC,VOA,30.04.12,Capital ,Corporate,Specialist Computer Centres (EDI),5100000541,"£565,198.28",Server Virtualisation
+HMRC,VOA,30.04.12,Input VAT (ST),Corporate,Specialist Computer Centres (EDI),5100000541,"£7,509.31",VAT Recovery
+HMRC,VOA,30.04.12,Capital ,Corporate,Specialist Computer Centres (EDI),5100000537,"£95,997.89",Printers
+HMRC,VOA,30.04.12,Input VAT (ST),Corporate,Specialist Computer Centres (EDI),5100000537,"£1,313.71",VAT Recovery
+HMRC,VOA,30.04.12,Capital ,Corporate,Specialist Computer Centres (EDI),5100000538,"£38,674.75",Printers
+HMRC,VOA,30.04.12,Input VAT (ST),Corporate,Specialist Computer Centres (EDI),5100000538,£529.25,VAT Recovery
+HMRC,VOA,27.04.12,Postage,Corporate,TNT UK Limited,5100000529,"£30,934.85",Postage Charges
+HMRC,VOA,27.04.12,Input VAT (ST),Corporate,TNT UK Limited,5100000529,"£6,186.97",VAT Recovery
+HMRC,VOA,12.04.12,Accommodation rent,Corporate,Turnstone Estates Limited,5100000223,"£42,137.36",Accommodation Charges
+HMRC,VOA,12.04.12,Input VAT (ST),Corporate,Turnstone Estates Limited,5100000223,£576.64,VAT Recovery
+HMRC,VOA,17.04.12,Capital ,Corporate,Xerox (UK) Limited,5100000301,"£385,027.40",Printers
+HMRC,VOA,17.04.12,Asset Requisition Clearing Account,Corporate,Xerox (UK) Limited,5100000301,"£5,269.00",VAT Recovery
+HMRC,POLAR,17.04.12,Non-domestic Rates,Diplomatic Properties,City of London,1700000000,"(£34,381.66)",Refund of paid business rates for diplomatic properties
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

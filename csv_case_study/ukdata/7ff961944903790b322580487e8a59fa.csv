@@ -1,0 +1,55 @@
+,,,General Information,,,,,,,,,Availability Information,,,,,,Further Information,,,,,
+ID,Category,Sub-Category,Title / Full Data Name,Description of Data,Method of Data Collection,Method of Data Storage,Published,Disclosive,Disposal,Date of Review,Mandate,Data Publisher,Licence,Resources,Date Released,Update Frequency,Charging,Geographical Coverage,Geographical Granularity,Geographic Bounding Box,Temporal Extent Begin,Temporal Extent End,Secondary Owner
+,,,The title of the data item,Description of the data item,"Source of the data item, how the data is collected","Location of the data item, how the data is stored",Whether the data item is already published and available in the public domain,"For unpublished items, whether it contains information that can be disclosed (No) subject to undertaking the appropriate impact assessments","For unpublished items, when it will be destroyed (or if selected for permanent preservation).","For unpublished items, when the item will next be reviewed for disposal, updating or publication.",The enabling legislation that mandates the collection or creation of this data item,Location of published data e.g. LR or data.gov or both ,The licence under which the information can be re-used.,The details of each available file or API,When the data item was initially released,How frequently the item is updated,A URL to the charging policy for the data item. Charging can be for access or re-use,The spatial extent described by the item,The most specific level of geographic granularity offered in the item,,,,Another organisation credited with or associated with the item
+GI-001,Geographical Information,HM Land Registry Property Gazetteer,HM Land Registry Property Gazetteer,"An address database that links title registrations to an address. The address can then be used as an easy way to search for title registrations. Addresses are captured from registration documents provided by customers at the time of registration and validated against third part data (Ordnance Survey Address Layer 2). Database also contains addresses from Ordnance Survey Address Layer 2 that have yet to be registered. 
+Index polygons are captured against Ordnance Survey Mastermap between the scales of 1:1,250 (urban), 1:2,500 (rural) and 1:10,000 (mountain and moorland).  Index Polygon extents are indicative of the title registration, the Title Plan and register should be consulted for full details. 
+
+
+
+",HM Land Registry Registration process,"On-premise
+Mainframe
+Casework systems",No,Yes,Held under departmental schedules,April 2017,Land Registration Act 2002,Not published,Not licenced,Not available,Not released,Not available,Not available,England and Wales,1.2m meters through to 10 meters,"NE 55.811741, 1.768960                                         SW 49.871159, -6.379880",1862,Current, 
+GI-002,Geographical Information,Index Map,Index Map,"An index of all registered title extents in England and Wales  in electronic format.
+Index polygons are captured against Ordnance Survey Mastermap between the scales of 1:1,250 (urban), 1:2,500 (rural) and 1:10,000 (mountain and moorland).  Index Polygon extents are indicative of the title registration, the Title Plan and register should be consulted for full details. ",HM Land Registry Registration process,"Off premise
+Public cloud
+National Polygon Service
+Storage Made Easy",No,No,retained in accordance with the provisions of Instruments of Retention granted by The National Archives,April 2017,Land Registration Act 2002,Not published,Not licenced,Not available,Not released,Not available,Not available,England and Wales,1.2m meters through to 10 meters,"NE 55.811741, 1.768960                                         SW 49.871159, -6.379880",1862,Current, 
+GI-003,Geographical Information,INSPIRE,INSPIRE Index Polygons ,"A dataset of spatial data which is a subset of HM Land Registry index map containing freehold registrations and structured to meet the requirements of the INSPIRE directive.
+
+Index polygons are captured against Ordnance Survey Mastermap between the scales of 1:1,250 (urban), 1:2,500 (rural) and 1:10,000 (mountain and moorland).  Index Polygon extents are indicative of the title registration, the Title Plan and register should be consulted for full details. 
+
+
+",HM Land Registry Registration process,"Off-premise
+Public cloud
+GOV.UK
+Amazon Web Services S3",Yes,Published,Held under departmental schedules,April 2017,INSPIRE Directive 2007, http://data.gov.uk/dataset/hm-land-registry-inspire-index-polygons,No licence restrictions,"OGC Web Mapping Service
+http://inspire.landregistry.gov.uk/inspire/ows?Service=WMS&Request=Getcapabilities",November 2011,Weekly,Free to view,England and Wales,1.2m meters through to 10 meters,"NE 55.811741, 1.768960                                         SW 49.871159, -6.379880", ,Current, 
+GI-004,Geographical Information,Organisational Unit Areas,Organisational Unit Areas,Electronically held representations of HM Land Registry's business units created by HM Land Registry for administration purposes.,Derived from Ordnance Survey Boundary Line data,"On-premise
+Mainframe
+Casework systems",No,Yes,Held under departmental schedules,April 2017,Not mandated,Not published,Not licenced,Not available,Not released,Not available,Not available,England and Wales,1.2m meters through to 10 meters,"NE 55.811741, 1.768960                                         SW 49.871159, -6.379880", ,Current, 
+GI-005,Geographical Information,Survey extents,Survey extents,"Electronically held representations relating to the extents surveyed by HM Land Registry surveyors.
+",Site surveys,"On-premise
+Mainframe
+Mapping systems",No,Yes,Held under departmental schedules,April 2017,Not mandated,Not published,Not licenced,Not available,Not released,Not available,Not available,England and Wales,1.2m meters through to 10 meters,"NE 55.811741, 1.768960                                         SW 49.871159, -6.379880", ,Current, 
+GI-006,Geographical Information,Survey Reports,Survey Reports,"Reports relating to the extents surveyed by HM Land Registry surveyors and can include a range of site information e.g. ground measurements, age and nature of boundary features, land use and occupation, any new topographic detail and photographs.
+",HM Land Registry Survey process,"On-premise
+Mainframe
+Mapping systems",No,Yes,Held under departmental schedules,April 2017,Land Registration Act 2002,Not published,Not licenced,Not available,Not released,Not available,Not available,England and Wales,1.2m meters through to 10 meters,"NE 55.811741, 1.768960                                         SW 49.871159, -6.379880", ,Current, 
+GI-007,Geographical Information,Administrative Areas,Administrative Areas,"Electronically held representations of administrative areas  which may be either a highest level local administrative area, which may be either a county, a metropolitan district or a unitary authority,  a conurbation or an island or island group.
+", ,"On-premise
+Mainframe
+Mapping systems",No,No,Held under departmental schedules,April 2017,Not mandated,Not published,Not licenced,Not available,Not released,Not available,Not available,England and Wales,10 meters,"NE 55.811741, 1.768960                                         SW 49.871159, -6.379880", ,Current, 
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,

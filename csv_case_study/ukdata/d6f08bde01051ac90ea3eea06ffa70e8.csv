@@ -1,0 +1,100 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction,Amount,Additional Narrative
+HMRC,VOA,17.07.14,Asset Requisition Clearing Account,Corporate,Capgemini Uk Plc,5100001844,"£304,306.78",In-house software development costs
+HMRC,VOA,17.07.14,Management of Agreement,Corporate,Capgemini Uk Plc,5100001844,"£113,836.13",IT support and maintenance
+HMRC,VOA,17.07.14,Business Application,Corporate,Capgemini Uk Plc,5100001844,"£159,786.99",IT support and maintenance
+HMRC,VOA,17.07.14,Data Centre Operations,Corporate,Capgemini Uk Plc,5100001844,"£238,390.12",IT support and maintenance
+HMRC,VOA,17.07.14,Desktop Services,Corporate,Capgemini Uk Plc,5100001844,"£58,422.97",IT support and maintenance
+HMRC,VOA,17.07.14,WAN,Corporate,Capgemini Uk Plc,5100001844,"£153,385.30",IT support and maintenance
+HMRC,VOA,17.07.14,Business Continuity & Disaster Recovery,Corporate,Capgemini Uk Plc,5100001844,"£16,362.95",IT support and maintenance
+HMRC,VOA,17.07.14,Aspire Other Costs,Corporate,Capgemini Uk Plc,5100001844,"£4,470.50",IT support and maintenance
+HMRC,VOA,17.07.14,I.T.-Software & Support,Corporate,Capgemini Uk Plc,5100001844,"£164,991.91",IT support and maintenance
+HMRC,VOA,17.07.14,Asset Requisition Clearing Account,Corporate,Capgemini Uk Plc,5100001844,"£382,053.10",In-house software development costs
+HMRC,VOA,17.07.14,Telephones-Mobile,Corporate,Capgemini Uk Plc,5100001844,"£17,093.52",Telephony Charges
+HMRC,VOA,17.07.14,Telephones-Landline,Corporate,Capgemini Uk Plc,5100001844,"£66,327.70",Telephony Charges
+HMRC,VOA,17.07.14,Input VAT (ST),Corporate,Capgemini Uk Plc,5100001844,"£320,342.94",VAT
+HMRC,VOA,17.07.14,Asset Requisition Clearing Account,Corporate,Capgemini Uk Plc,1700000349,"(£281,727.81)",Refund of In-house software development costs
+HMRC,VOA,17.07.14,Input VAT (ST),Corporate,Capgemini Uk Plc,1700000349,"(£56,345.56)",VAT
+HMRC,VOA,01.07.14,Rates,Corporate,City of Westminster,5100001623,"£66,264.00",Accommodation Charges
+HMRC,VOA,18.07.14,Rates,Corporate,Communities and Local Government,5100001919,"£7,732.48",Accommodation Charges
+HMRC,VOA,18.07.14,Accommodation rent,Corporate,Communities and Local Government,5100001919,"£24,215.55",Accommodation Charges
+HMRC,VOA,18.07.14,Car Parking,Corporate,Communities and Local Government,5100001919,"£2,625.00",Accommodation Charges
+HMRC,VOA,18.07.14,Electricity,Corporate,Communities and Local Government,5100001919,"£19,837.41",Accommodation Charges
+HMRC,VOA,04.07.14,STEPS PFI Unitary Charges - VAT Recoverable,Corporate,HMRC,5100001676,"£579,713.93",Accommodation Charges
+HMRC,VOA,10.07.14,VAT Indemnity,Corporate,HMRC,5100001758,"£274,645.46",Accommodation Charges
+HMRC,VOA,09.07.14,VOA Other Legal Costs,Corporate,HMRC,1900006911,"£27,184.99",Legal Costs
+HMRC,VOA,18.07.14,Minor Works VAT Recoverable,Corporate,Mapeley Steps Contractor Ltd,5100001903,"£30,547.32",Tannoy System purchase and installation
+HMRC,VOA,18.07.14,Input VAT (ST),Corporate,Mapeley Steps Contractor Ltd,5100001903,£418.03,VAT
+HMRC,VOA,23.07.14,Minor Works VAT Recoverable,Corporate,Mapeley Steps Contractor Ltd,5100002014,"£112,646.86",Accommodation Refurbishment
+HMRC,VOA,23.07.14,Input VAT (ST),Corporate,Mapeley Steps Contractor Ltd,5100002014,"£1,541.54",VAT
+HMRC,VOA,25.07.14,Major Works VAT Recoverable,Corporate,Mapeley Steps Contractor Ltd,5100002033,"£84,275.93",Accommodation Refurbishment
+HMRC,VOA,25.07.14,Input VAT (ST),Corporate,Mapeley Steps Contractor Ltd,5100002033,"£1,153.29",VAT
+HMRC,VOA,03.07.14,Other Accommodation Costs,Corporate,Mapeley Steps Contractor Ltd,5100001661,"£25,056.30",Accommodation Charges
+HMRC,VOA,03.07.14,Input VAT (ST),Corporate,Mapeley Steps Contractor Ltd,5100001661,£342.89,VAT
+HMRC,VOA,15.07.14,Royal mail postage,Corporate,Royal Mail,1900006917,"£73,327.14",Postage Charges
+HMRC,VOA,03.07.14,I.T.-Hardware Maintenance,Corporate,Specialist Computer Centres,5100001660,"£33,272.99",IT support and maintenance
+HMRC,VOA,03.07.14,Input VAT (ST),Corporate,Specialist Computer Centres,5100001660,"£6,654.61",VAT
+HMRC,VOA,18.07.14,Postage,Corporate,TNT UK LTD,5100001902,"£42,597.29",Postage Charges
+HMRC,VOA,18.07.14,Input VAT (ST),Corporate,TNT UK LTD,5100001902,"£8,519.46",VAT
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000355,"£562,996.35",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000360,"£296,180.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000351,"£286,140.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000358,"£273,590.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000359,"£243,470.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000361,"£237,195.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000356,"£213,350.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000357,"£200,800.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000301,"£199,545.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000285,"£192,015.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000342,"£192,015.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000376,"£190,760.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000286,"£188,250.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000344,"£183,230.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000375,"£180,720.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000282,"£178,210.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000343,"£165,660.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000283,"£150,600.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000377,"£150,600.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000378,"£148,090.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000289,"£146,835.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000284,"£145,580.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000370,"£136,795.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000363,"£136,795.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000280,"£133,030.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000313,"£125,500.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000369,"£124,998.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000319,"£120,480.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000341,"£108,934.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000350,"£107,930.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000291,"£100,400.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000389,"£95,882.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000383,"£87,850.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000322,"£84,336.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000379,"£82,830.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000299,"£81,324.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000372,"£80,320.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000381,"£74,296.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000336,"£67,770.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000340,"£65,762.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000330,"£65,762.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000325,"£61,746.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,London Borough Of Camden,1900000435,"£60,393.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000306,"£57,730.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000333,"£55,722.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000346,"£54,216.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000385,"£52,208.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000312,"£51,204.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000331,"£48,694.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000309,"£47,188.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000320,"£45,682.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000384,"£45,682.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000380,"£41,164.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000314,"£35,391.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000368,"£33,634.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000373,"£31,375.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000287,"£30,873.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000302,"£29,869.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000388,"£29,367.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000326,"£25,305.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000386,"£25,064.00",Payment of business rates for diplomatic properties
+HMRC,POLAR,16.07.14,Non-domestic Rates,Diplomatic Properties,City Of Westminster,1900000398,"£25,000.00",Payment of business rates for diplomatic properties
+,,,,,,,,

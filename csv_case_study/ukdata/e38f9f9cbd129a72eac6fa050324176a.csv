@@ -1,0 +1,41 @@
+Parameter,Percentage of farm businesses carrying out major changes to the whole business England 2013/14, Percentage of cropping businesses (%) Major change,Percentage of cropping businesses (%) No change,95% Confidence Interval (±) (%) Major change,95% Confidence Interval (±) (%) No change
+Farm Type,Cereals,55,45,8,8
+Farm Type,General cropping,58,42,11,11
+Farm Type,Mixed,55,45,11,11
+Farm Type,Horticulture,47,53,11,11
+Farm Type,All farms,54,46,5,5
+Farm Size,Small,57,43,8,8
+Farm Size,Medium,50,50,14,14
+Farm Size,Large,52,48,8,8
+Farm Size,All farms,54,46,5,5
+Region,North East Yorkshire & Humber,33,67,13,13
+Region,North West,81,19,15,15
+Region,East Midlands,55,45,12,12
+Region,West Midlands,50,50,18,18
+Region,East of England,47,53,11,11
+Region,South East,63,37,12,12
+Region,South West,59,41,13,13
+Region,All farms,54,46,5,5
+Farm net worth,up to £250000,64,36,14,14
+Farm net worth,£250000-<£500000,64,36,16,16
+Farm net worth,£500000-<£750000,50,50,15,15
+Farm net worth,£750000-<£1000000,35,65,18,18
+Farm net worth,£1000000-<£150000,33,67,13,13
+Farm net worth,£1500000-<£2000000,46,54,15,15
+Farm net worth,£2000000+,63,37,8,8
+Farm net worth,All farms,54,46,5,5
+Farm economic performance,Low,59,41,10,10
+Farm economic performance,Medium,54,46,7,7
+Farm economic performance,High,49,51,10,10
+Farm economic performance,All farms,54,46,5,5
+Farmer age,Under 40,56,44,24,24
+Farmer age,40 to 54,57,43,9,9
+Farmer age,55 to 64,54,46,8,8
+Farmer age,65 and over,50,50,10,10
+Farmer age,All farms,54,46,5,5
+Farm tenancy,Owner occupied,52,48,9,9
+Farm tenancy,Mixed - mainly owner occupied,51,49,9,9
+Farm tenancy,Mixed - mainly tenanted,55,45,12,12
+Farm tenancy,Tenanted,64,36,13,13
+Farm tenancy,All farms,54,46,5,5
+##Based on responses from 363 cropping businesses##,,,,,

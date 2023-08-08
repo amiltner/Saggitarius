@@ -1,0 +1,349 @@
+Type,Activity,Sub-Activity,Source Level Value,Source Level Units (Metric),Bandwith/Frequency Range (Hz),Major Amplitude/Main Energy/Peak Frequency (Hz),Vessel Length (m),Vessel Speed (Knots),Engine (Type/Size),Additional Information,Data Limitations/Constraints,Confidence (H/M/L),Original reference,Cited in
+Anthropogenic,Dredging,Backhoe dredger,163,dB re 1µPa2m2,"20-20,000",35-45,,,,Excavation of material,Not peer-reviewed,M,"Nedwell, J. R., Parvin, S. J., Brooker, A. G. & Lambert, D. R. 2008. Modelling and measurement of underwater noise associated with the proposed Port of Southampton capital dredge and redevelopment of berths 201/202 and assessment of the disturbance to salmon. 05 December 2008. Subacoustech Report No. 805R0444. Subacoustech.","World Organisation of Dredging Associations (WODA) (2013) Technical Guidance on: Underwater Sound in Relation to Dredging
+June 2013"
+Anthropogenic,Dredging,Backhoe dredger,179,dB re 1µPa2m2,"3-20,000",315,,,,Removing fractured rock,Not peer-reviewed,M,"Reine, K. J., D. G. Clarke, and C. Dickerson. 2012. Characterization of underwater sounds produced by a hydraulic cutter head dredge fracturing limestone rock. DOER Technical Notes Collection ERDC TN-DOER-E34, U.S. Army Engineer Research and Development Centre, Vicksburg, Mississippi, USA","World Organisation of Dredging Associations (WODA) (2013) Technical Guidance on: Underwater Sound in Relation to Dredging
+June 2013"
+Anthropogenic,Dredging,Backhoe dredger,168-186,dB re 1µPa m (RMS),"30 ->20,000",100-500,,,,"Omnidirectional
+Continuous",Not peer-reviewed,M,"Thomsen, F., McCully, S.R., Wood, D., White, P. and Page, F., 2009. A generic investigation into noise profiles of marine dredging in relation to the acoustic sensitivity of the marine fauna in UK waters: PHASE 1 Scoping and review of key issues, Aggregates Levy Sustainability Fund / Marine Environmental Protection Fund (ALSF/MEPF), Lowestoft, UK.","UK Marine Monitoring and Assessment Strategy Community (UKMMAS) (2010). Charting Progress 2 Feeder report: Clean and Safe Seas. (Eds. Law, R. and Maes, T.). Published by Department for Environment Food and Rural Affairs on behalf of UKMMAS. 366pp."
+Anthropogenic,Dredging,Clamshell dredger,150-162,dB re 1µPa m (SPL),"10-1,000",,,,,,,H,"Miles et al 1987 cited in Richardson, W.J., Green Jr, C.R., Malme, C.I. & Thomson, D.H. (1995). Marine Mammals and Noise. Academic Press, New York","ABPmer, 2004. Underwater noise during maintenance dredging and the potential effects on the migration of Atlantic Salmon in Southampton Water. R.1108. ABP Southampton"
+Anthropogenic,Dredging,Cutter Suction Dredger,175,dB re 1µPa2m2,,"<2,500",,,,"Fracturing rock.
+The intensity of sounds varied
+depending on the amount or hardness of the material removed.","No documented frequency information
+Not peer-reviewed",L,"Reine, K. J., D. G. Clarke, and C. Dickerson. 2012. Characterization of underwater sounds produced by a hydraulic cutter head dredge fracturing limestone rock. DOER Technical Notes Collection ERDC TN-DOER-E34, U.S. Army Engineer Research and Development Centre, Vicksburg, Mississippi, USA","WODA, 2013. Techincal guidance on: Underwater sound in realtion to dredging. "
+Anthropogenic,Dredging,Cutter Suction Dredger,160-180 ,dB re 1µPa m (SPL),10-1000,,,,,,Not peer-reviewed,M,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp. [Available from http://www.mms.gov].
+","ABPmer, 2004. Underwater noise during maintenance dredging and the potential effects on the migration of Atlantic Salmon in Southampton Water. R.1108. ABP Southampton"
+Anthropogenic,Dredging,Cutter Suction Dredger,172-185,dB re 1µPa m (RMS),"30->20,000",100-500,,,,"Continuous 
+Omnidirectional",Not peer-reviewed,M,"Thomsen F, McCully SR, Wood D, White P, Page F, 2009. A generic investigation into noise profiles of marine dredging in relation to the acoustic sensitivity of the marine fauna in UK waters: PHASE 1 Scoping and review of key issues, Aggregates Levy Sustainability Fund / Marine Environmental Protection Fund (ALSF/MEPF), Lowestoft, UK;
+Robinson SP, Theobald PD, Hayman G, Wang LS, Lepper PA, Humphrey V, Mumford S (2011) – Measurement of underwater noise arising from marine aggregate dredging operations-MEPF report 09/P108, Marine Aggregate Levy Sustainability Fund",Central Dredging Association (CEDA) (2011) Underwater Sound in Relation to Dredging. CEDA Position Paper - 1 November 2011
+Anthropogenic,Dredging,Suction dredger,160,dB re 1µPa m,,380,,,,,,H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Dredging,Trailer Suction Hopper Dredger,187,dB re 1µPa2m2,"30-63,000",40-500,,,,Sand extraction,Not peer-reviewed,M,"de Jong, C. A. F., Ainslie, M. A., Dreschler, J., Jansen, E., Heemskerk, E. & Groen, W. 2010. Underwater noise of Trailing Suction Hopper Dredgers at Maasvlakte 2: Analysis of source levels and background noise – TNO-DV 2010 C335.",World Organisation of Dredging Associations (WODA) (2013) Technical Guidance on: Underwater Sound in Relation to Dredging June 2013
+Anthropogenic,Dredging,Trailer Suction Hopper Dredger,150-170,dB re 1µPa m (SPL),,,,,,UKD Bluefin,"A linear rather than a log function was used to derive the source level (thus underestimating actual source level)
+No documented frequency information
+Not peer-reviewed",L,"Nedwell, J., Turnpenny. A., Langworthy, J. and Edwards, B. 2003 Measurement of underwater noise during piling at the Red Funnel terminal, Southampton and observation of its affect on caged fish. Report to Redfunnel No. 558 R0207","ABPmer, 2004. Underwater noise during maintenance dredging and the potential effects on the migration of Atlantic Salmon in Southampton Water. R.1108. ABP Southampton"
+Anthropogenic,Dredging,Trailer Suction Hopper Dredger,184-188,dB re 1µPa2m2,,100-500,,,,Sand extraction,Not peer-reviewed,M,Itap. 2007. Messung des Unterwassergeräusches des Hopperbaggers Thor-R bei Sandaufspülungen an der Westküste der Insel Sylt. Husum: ITAP– Institut für technische und angewandte Physik GmbH for Amt für ländliche Räume Husum.,World Organisation of Dredging Associations (WODA) (2013) Technical Guidance on: Underwater Sound in Relation to Dredging June 2013
+Anthropogenic,Dredging,Trailer Suction Hopper Dredger,186-188,dB re 1µPa m (RMS),"30->20,000",100-500,,,,"Continuous 
+Omnidirectional",Not peer-reviewed,M,"Thomsen F, McCully SR, Wood D, White P, Page F. 2009. A generic investigation into noise profiles of marine dredging in relation to the acoustic sensitivity of the marine fauna in UK waters: PHASE 1 Scoping and review of key issues, Aggregates Levy Sustainability Fund / Marine Environmental Protection Fund (ALSF/MEPF), Lowestoft, UK;
+Robinson SP, Theobald PD, Hayman G, Wang LS, Lepper PA, Humphrey V, Mumford S (2011) – Measurement of underwater noise arising from marine aggregate dredging operations-MEPF report 09/P108, Marine Aggregate Levy Sustainability Fund",Central Dredging Association (CEDA) (2011) Underwater Sound in Relation to Dredging. CEDA Position Paper - 1 November 2011
+Anthropogenic,Drilling Exploration,Drilling production,163,dB re 1µPa m,,250,,,,,,H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Drilling Exploration,Jack-up,59,dB re 1µPa m,"45-7,070",16,,,,Sedco J jack-up rig,Not peer-reviewed,M,"Richardson, WJ, Greene, CR, Malme, CI, Thompson, DH (1991) Effects of noise on marine mammals. OCS Study MMS90-0093. LGL Rep. TA834-1. Report from LGL Ecol. Res. Assoc., Inc., Bran, Texas, for US Minerals Management Service, Atlantic Outer Continental Shelf Region, Herndon, VA. NTIS PB91-168914. 462pp;
+Evans, P.G.H. and Nice, H. 1996. Review of the effects of underwater sound generated by seismic surveys in cetaceans.
+Seawatch Foundation, Oxford, UK.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Drilling Exploration,Jack-up,85-127,dB re 1µPa m,"5-1,200",,,,,,,H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N.
+Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Drilling Exploration,Semi-submersible,167-171,dB re 1µPa m,16-200,,,,,,,H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N.
+Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Fishing,Trawler trawling,147,dB re 1µPa m,"40-1,000",100,,5,,,Not peer-reviewed,M,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp.
+[Available from http://www.mms.gov].
+","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Military,Low-frequency sonar,215,dB re 1µPa m (0-pk),100-500,,,,,"Duration (600-1,000ms)
+Horizontally focussed",Not peer-reviewed,M,"OSPAR, 2009. Overview of the Impacts of Anthropogenic Underwater Sound in the Marine Environment, OSPAR Commission. Publication no. 441;
+ICES-AGISC, 2005. Report of the Ad-hoc Group on the Impact of Sonar on Cetaceans and Fish, International Council for the Exploration of the Sea
+","UK Marine Monitoring and Assessment Strategy Community (UKMMAS) (2010). Charting Progress 2 Feeder report: Clean and Safe Seas. (Eds. Law, R. and Maes, T.). Published by Department for Environment Food and Rural Affairs on behalf of UKMMAS. 366pp."
+Anthropogenic,Military,Low-frequency sonar,235,dB re 1µPa m (0-pk),100-500,,,,,"Duration (6s-100s)
+Horizontally focussed",,H,"Hildebrand J (2009). Anthropogenic and natural sources of ambient
+noise in the ocean. Marine Ecology Progess Series 395:5-20.",
+Anthropogenic,Military,Low-frequency sonar,240,dB re 1µPa m (0-pk),100-500,,,,,"Duration (6s-100s)
+Horizontally focussed",Not peer-reviewed,M,"Zimmer, W.M.X., 2004. Sonar systems and stranding of beaked whales. In: Proceedings of the workshop on active sonar and cetaceans. ECS Newsletter Special Issue No 42. European Cetacean Society pp. 8-13.",Central Dredging Association (CEDA) (2011) Underwater Sound in Relation to Dredging. CEDA Position Paper - 1 November 2011
+Anthropogenic,Military,Mid- frequency sonar,235,dB re 1µPa m,"2,000-8,000",,,,,"Duration (2s)
+Horizontally focussed",,H,"Hildebrand J (2009). Anthropogenic and natural sources of ambient
+noise in the ocean. Marine Ecology Progess Series 395:5-20.",
+Anthropogenic,Military,Mid- frequency sonar,223-235,dB re 1µPa m (0-pk),"2,800-8,200",3500,,,,"Duration (500-2,000ms)
+Horizontally focussed",Not peer-reviewed,M,"OSPAR, 2009. Overview of the Impacts of Anthropogenic Underwater Sound in the Marine Environment, OSPAR Commission. Publication no. 441.","UK Marine Monitoring and Assessment Strategy Community (UKMMAS) (2010). Charting Progress 2 Feeder report: Clean and Safe Seas. (Eds. Law, R. and Maes, T.). Published by Department for Environment Food and Rural Affairs on behalf of UKMMAS. 366pp."
+Anthropogenic,Offshore wind,Operational turbine,142,dB re 1µPa m (RMS),"16-20,000",30-200,,,,"Continuous
+Omnidirectional ",Not peer-reviewed,M,"Thomsen, F., Lüdemann, K., Kafemann, R. and Piper, W., 2006. Effects of offshore wind farm noise on marine mammals and fish, biola, Hamburg, Germany on behalf of COWRIE Ltd, Newbury, UK.","UK Marine Monitoring and Assessment Strategy Community (UKMMAS) (2010). Charting Progress 2 Feeder report: Clean and Safe Seas. (Eds. Law, R. and Maes, T.). Published by Department for Environment Food and Rural Affairs on behalf of UKMMAS. 366pp."
+Anthropogenic,Offshore wind,Operational turbine,151,dB re 1µPa m,,,,,,"Utgrunden in Swedish Baltic Sea
+Wind speed 13ms-1","No documented frequency information
+Not peer-reviewed",L,"Ingemansson (2003) Utgrunden offshore wind farm- measurements of underwater noise. Rep 11-00329-03012700. Ingemansson Technology A/S, Goteborg","Wahlberg, M, Westerberg, H (2005) Hearing in fish and their reactions to sounds from offshore wind farms. Mar Ecol Prog Ser 288: 295-309"
+Anthropogenic,Offshore wind,Operational turbine,151,dB re 1µPa m,60-300,,,,,,,H,"Hildebrand J (2009). Anthropogenic and natural sources of ambient
+noise in the ocean. Marine Ecology Progess Series 395:5-20.",
+Anthropogenic,Offshore wind,Operational turbine,153,dB re 1µPa m,,16,,,,"Individual turbines of relatively
+low power (<1 MW).",Not peer-reviewed,M,"Nedwell J, Howell D (2004) A review of offshore windfarm related underwater noise sources. Report No. 544 R 0308. Report commissioned by COWRIE",
+Anthropogenic,Offshore wind,Operational turbine,73-99,dB re 1µPa m,"30-1,600",400,,,,,Not peer-reviewed,M,"Celtic Offshore Wind Ltd (2002) Environmental Statement. Volume II, Section 8.",
+Anthropogenic,Oil and gas,Operational platform and support vessel,196,dB re 1µPa m,"10-100,000",100-300,,,,"Measurement taken at 5m depth
+Support vessel the Grampian Supporter in close proximity to the platform",Not peer-reviewed,M,"Nedwell, DJ, Langworth, J, Howell, D. 2003. Assessment of sub-sea acoustic noise and vibration from offshore wind turbines and its impact on marine wildlife; initial  easurements of underwater noise during construction of offshore windfarms, and comparison with background noise. Report No. 544 R 0424",
+Anthropogenic,Oil and gas,Operational platform and support vessel,226,dB re 1µPa m,"10-100,000",100-300,,,,"Measurement taken at 10m depth
+Support vessel the Grampian Supporter in close proximity to the platform",Not peer-reviewed,M,"Nedwell, DJ, Langworth, J, Howell, D. 2003. Assessment of sub-sea acoustic noise and vibration from offshore wind turbines and its impact on marine wildlife; initial  easurements of underwater noise during construction of offshore windfarms, and comparison with background noise. Report No. 544 R 0424",
+Anthropogenic,Recreation,Boat,150,dB re 1µPa m,,,,5,18hp outboard,,Not peer-reviewed,L,"Evans, W.E. 1982. Preliminary Evaluation of Perception and Detection of Man-made Noise (LNG Source) by Selected Marine Animals. Hubbs-Sea World Research Institute Technical Report No. 82-142.
+","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Recreation,Boat,152,dB re 1µPa m,,,4,20,25hp outboard,,"No documented frequency information
+Not peer-reviewed",L,"Malme, C.I., Miles, P.R., and McElroy, P.T. 1982. The acoustic environment of humpback whales in Glacier Bay and Frederick Sound/Stephens Passage, Alaska. Unpublished report for National Oceanic and Atmospheric Administration, National Marine Fisheries Service, National Marine Mammal Laboratory, Seattle, Washington, under Contract 81-ABC-00115 (BBN Job No. 08637-39). Bolt, Beranek and Newman Inc. Report No. 4848.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Recreation,Boat,156,dB re 1µPa m,,,7,20,2 x 80hp outdrive,,"Not peer-reviewed
+No documented frequency information",L,"Malme, C.I., Miles, P.R., and McElroy, P.T. 1982. The acoustic environment of humpback whales in Glacier Bay and Frederick Sound/Stephens Passage, Alaska. Unpublished report for National Oceanic and Atmospheric Administration, National Marine Fisheries Service, National Marine Mammal Laboratory, Seattle, Washington, under Contract 81-ABC-00115 (BBN Job No. 08637-39). Bolt, Beranek and Newman Inc. Report No. 4848.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Recreation,Boat,156,dB re 1µPa m,,,8,10,260hp outdrive,,"Not peer-reviewed
+No documented frequency information",L,"Malme, C.I., Miles, P.R., and McElroy, P.T. 1982. The acoustic environment of humpback whales in Glacier Bay and Frederick Sound/Stephens Passage, Alaska. Unpublished report for National Oceanic and Atmospheric Administration, National Marine Fisheries Service, National Marine Mammal Laboratory, Seattle, Washington, under Contract 81-ABC-00115 (BBN Job No. 08637-39). Bolt, Beranek and Newman Inc. Report No. 4848.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Recreation,Boats, >175,dB re 1µPa,,,,,Large outboard,Small boats,"Broadband (no single source)
+Not peer-reviewed
+Source level units not properly documented
+No documented frequency information",L,"Greene, C.R. and S.E. Moore. Man-made noise. In: Richardson, W.J., C.R. Greene, C.I. Malme, and D.H. Thomson (eds.), Marine mammals and noise. Academic Press, New York, 1995, pp. 101-158.","Scholik, A.R. and Yan, H.Y. 2001. The effects of underwater noise on auditory sensitivity of fish. Proc.I.O.A Vol 23 Part 4. pp 27 - 36"
+Anthropogenic,Recreation,Inflatable,152,dB re 1µPa m,,6300,,,,,"Not peer-reviewed
+No information on vessel speed
+No information on engine size",M,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp. [Available from http://www.mms.gov].
+",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Recreation,Inflatable,156,dB re 1µPa m,,6300,5,,,Zodiac,"Not peer-reviewed
+No information on vessel speed
+No information on engine size/type",M,"Richardson, WJ, Greene, CR, Malme, CI, Thompson, DH (1991) Effects of noise on marine mammals. OCS Study MMS90-0093. LGL Rep. TA834-1. Report from LGL Ecol. Res. Assoc., Inc., Bran, Texas, for US Minerals Management Service, Atlantic Outer Continental Shelf Region, Herndon, VA. NTIS PB91-168914. 462pp;
+Evans, P.G.H. and Nice, H. 1996. Review of the effects of underwater sound generated by seismic surveys in cetaceans.
+Seawatch Foundation, Oxford, UK.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Recreation,Inflatable,105-130,dB re 1µPa m,"800-20,000",,,,6hp outboard,,No information on vessel speed,H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance to cetaceans in the ASCOBANS region. ASCOBANS 4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1 Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Recreation,Jet ski,75-125,dB re 1µPa m,"800-20,000",,,,650cc,,No information on vessel speed,H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance to cetaceans in the ASCOBANS region. ASCOBANS 4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1 Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Recreation,Jet ski,75-125,dB re 1µPa m,"800-50,000",,,,650cc,,No information on vessel speed,H,"Evans, P.G.H. and Nice, H. 1996. Review of the effects of underwater sound generated by seismic surveys in cetaceans. Seawatch Foundation, Oxford, UK.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Recreation,Speedboat,156,dB re 1µPa m,,630,7,,,,"Not peer-reviewed
+No information on vessel speed
+No information on engine size/type",M,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp. [Available from http://www.mms.gov].
+",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Recreation,Speedboat,110-130,dB re 1µPa m,"800-20,000",,,,90hp outdrive,,"No information on vessel length
+No information on vessel speed",H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS 4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1 Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Recreation,Tour boat,150,dB re 1µPa m,,,20,10,,,"No documented frequency information
+Not peer-reviewed
+No information on engine size",L,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp. [Available from http://www.mms.gov].
+","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Recreation,Whaler,153,dB re 1µPa m,,,4,20,20hp outboard,Boston whaler,"No documented frequency information
+Not peer-reviewed",L,"Malme, C.I., Miles, P.R., and McElroy, P.T. 1982. The acoustic environment of humpback whales in Glacier Bay and Frederick Sound/Stephens Passage, Alaska. Unpublished report for National Oceanic and Atmospheric Administration, National Marine Fisheries Service, National Marine Mammal Laboratory, Seattle, Washington, under Contract 81-ABC-00115 (BBN Job No. 08637-39). Bolt, Beranek and Newman Inc. Report No. 4848.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Recreation,Zodiac,152,dB re 1µPa m,,,5,20,20hp outboard,,"Not peer-reviewed
+No documented frequency information",L,"Malme, C.I., Miles, P.R., and McElroy, P.T. 1982. The acoustic environment of humpback whales in Glacier Bay and Frederick Sound/Stephens Passage, Alaska. Unpublished report for National Oceanic and Atmospheric Administration, National Marine Fisheries Service, National Marine Mammal Laboratory, Seattle, Washington, under Contract 81-ABC-00115 (BBN Job No. 08637-39). Bolt, Beranek and Newman Inc. Report No. 4848.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Boat,157,dB re 1µPa m (SPL),"10->10,000",60-500,18.6,9.1,,Modeled source depth 1.25m,Modelled data,M,"Erbe, C, MacGillivray, A, Williams, R (2012) Mapping cumulative noise from shipping to inform marine spatial planning. J. Acoust. Soc. Am. 132 (5), November 2012. [http://dx.doi.org/10.1121/1.4758779]
+Erbe C, Williams R, Sandilands D, Ashe E (2014) Identifying Modeled Ship Noise Hotspots for Marine Mammals of Canada’s Pacific Region. PLoS ONE 9(3): e89820. doi:10.1371/journal.pone.0089820",
+Anthropogenic,Shipping,Boat,160,dB re 1µPa m,"1,000-5,000",,,20,,"Small boat, outboard engine",No information on engine size/type,H,"Hildebrand J (2009). Anthropogenic and natural sources of ambient
+noise in the ocean. Marine Ecology Progess Series 395:5-20.",
+Anthropogenic,Shipping,Boat,164,dB re 1µPa m (SPL),"10->10,000",60-500,7.8,15.6,,Modeled source depth 0.5m,Modelled data,M,"Erbe, C, MacGillivray, A, Williams, R (2012) Mapping cumulative noise from shipping to inform marine spatial planning. J. Acoust. Soc. Am. 132 (5), November 2012. [http://dx.doi.org/10.1121/1.4758779]
+Erbe C, Williams R, Sandilands D, Ashe E (2014) Identifying Modeled Ship Noise Hotspots for Marine Mammals of Canada’s Pacific Region. PLoS ONE 9(3): e89820. doi:10.1371/journal.pone.0089820",
+Anthropogenic,Shipping,Boats and ships,160-180,dB re 1µPa m (RMS),"20->10,000",">1,000",,,,"Omnidirectional
+Continuous
+Small and medium sized boats and ships","Broadband (no single source)
+Not peer-reviewed",L,"OSPAR, 2009. Overview of the Impacts of Anthropogenic Underwater Sound in the Marine Environment, OSPAR Commission. Publication no. 441.","UK Marine Monitoring and Assessment Strategy Community (UKMMAS) (2010). Charting Progress 2 Feeder report: Clean and Safe Seas. (Eds. Law, R. and Maes, T.). Published by Department for Environment Food and Rural Affairs on behalf of UKMMAS. 366pp."
+Anthropogenic,Shipping,Bulk cargo ship,178-192,dB re 1µPa m (SPL),,<500,,,,,"No information on vessel length
+No information on vessel speed
+No information on engine size/type",H,"Arveson, P & Vendittis, D.  2000 Radiated Noise characteristics of a modern cargo ship. Journal of the Acoustical Society of America, 107 (1), 118 -129","ABPmer, 2004. Underwater noise during maintenance dredging and the potential effects on the migration of Atlantic Salmon in Southampton Water. R.1108. ABP Southampton"
+Anthropogenic,Shipping,Bulk carrier,175,dB re 1µPa m,"10-40,000",25,173,,Direct drive low-speed diesel engine,Propeller rotation rate 68rpm,No information on vessel speed,H,"Arveson P, Vendittis D (2000) 'Radiated noise characteristics of a modern cargo ship'. J. Acoust. Soc. Am., 107(1), pp118-129. ",http://underwaternoise.org.uk/noise_sources/arveson.shtml
+Anthropogenic,Shipping,Bulk carrier,185,dB re 1µPa m,"10-40,000",25-200,173,,Direct drive low-speed diesel engine,Propeller rotation rate 140rpm,No information on vessel speed,H,"Arveson P, Vendittis D (2000) 'Radiated noise characteristics of a modern cargo ship'. J. Acoust. Soc. Am., 107(1), pp118-129. ",http://underwaternoise.org.uk/noise_sources/arveson.shtml
+Anthropogenic,Shipping,Bulk carriers,184-187,dB re 1µPa m,,"20-1,000",167-229,14,,,No information on engine size/type,H,"McKenna, MF, Ros, D, Wiggins, SM, Hildebrand, JA (2012) Underwater radiated noise from modern commercial ships. J. Acoust. Soc. Am. 131 (1)",
+Anthropogenic,Shipping,Car carrier,162,dB re 1µPa m,,,190,16,,,"Original reference is unknown
+No documented frequency information",L,Jennette et al. 1987. Reference not included in reference list,"Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Cargo vessel,192,dB re 1µPa m,40-100,,173,16,,,No information on engine size/type,H,"Hildebrand J (2009). Anthropogenic and natural sources of ambient
+noise in the ocean. Marine Ecology Progess Series 395:5-20.",
+Anthropogenic,Shipping,Chemical product tankers,177-185,dB re 1µPa m,,"20-1,000",148-182,10-16,,,No information on engine size/type,H,"McKenna, MF, Ros, D, Wiggins, SM, Hildebrand, JA (2012) Underwater radiated noise from modern commercial ships. J. Acoust. Soc. Am. 131 (1)",
+Anthropogenic,Shipping,Container ship,169,dB re 1µPa m,,,210,19,,,"Original reference is unknown
+No documented frequency information",L,Jennette et al. 1987 (not included in reference list),"Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Container ship,171,dB re 1µPa m,"1-120,000",,300,,,"Transiting at low speed in Southampton Water
+Vessel CMA CGM Verlaine
+Weather conditions were clear and calm with minimal wind speeds","Not peer-reviewed
+No information on engine size/type",M,"Nedwell, JR, S J Parvin, A G Brooker and D R Lambert, 2008. Modelling and measurement of underwater noise associated with the proposed Port of Southampton capital dredge and redevelopment of berths 201/202 and assessment of the disturbance to salmon. Subacoustech Report No. 805R0444",
+Anthropogenic,Shipping,Container ship,181,dB re 1µPa m,,33,219,,,,"Not peer-reviewed
+No information on vessel speed
+No information on engine size/type",M,"Buck, B.M. and Chalfant, D.A. 1972. Deep water narrowband radiated noise measurement of merchant ships. Delco R72-28. Santa Barbara, California: Delco Electronics. 30pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Container ship,181,dB re 1µPa m,,8,274,,,,"No information on vessel speed
+No information on engine size/type",H,"Ross, D. 1976. Mechanics of underwater noise. New York: Pergamon Press. 375pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Container ship,186,dB re 1µPa m,"1-120,000",,129,,,"Transiting at low speed in Southampton Water
+Vessel Vega Stockholm
+Weather conditions were flat calm with minimal wind speeds
+Variation in source level depending upon whether the vessel was approaching, or moving away from the measurement position","Not peer-reviewed
+No information on engine size/type",M,"Nedwell, JR, S J Parvin, A G Brooker and D R Lambert, 2008. Modelling and measurement of underwater noise associated with the proposed Port of Southampton capital dredge and redevelopment of berths 201/202 and assessment of the disturbance to salmon. Subacoustech Report No. 805R0444",
+Anthropogenic,Shipping,Container ship,198,dB re 1µPa m,,23,274,,,,"Not peer-reviewed
+No information on vessel speed
+No information on engine size/type",M,"Richardson, WJ, Greene, CR, Malme, CI, Thompson, DH (1991) Effects of noise on marine mammals. OCS Study MMS90-0093. LGL Rep. TA834-1. Report from LGL Ecol. Res. Assoc., Inc., Bran, Texas, for US Minerals Management Service, Atlantic Outer Continental Shelf Region, Herndon, VA. NTIS PB91-168914. 462pp","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Container ship,169-173,dB re 1µPa m,"1-120,000",,335,,,"Transiting at low speed in Southampton Water
+Vessel Kyoto Express
+Weather conditions were very calm with minimal wind speeds
+Variation in source level depending upon whether the vessel was approaching, or moving away from the measurement position","Not peer-reviewed
+No information on engine size/type",M,"Nedwell, JR, S J Parvin, A G Brooker and D R Lambert, 2008. Modelling and measurement of underwater noise associated with the proposed Port of Southampton capital dredge and redevelopment of berths 201/202 and assessment of the disturbance to salmon. Subacoustech Report No. 805R0444",
+Anthropogenic,Shipping,Container ship,184-188,dB re 1µPa m,"20-1,000",,294-298,21,,,No information on engine size/type,H,"McKenna, MF, Ros, D, Wiggins, SM, Hildebrand, JA (2012) Underwater radiated noise from modern commercial ships. J. Acoust. Soc. Am. 131 (1)",
+Anthropogenic,Shipping,Crew boat,156,dB re 1µPa m,,,16,,,,"Not peer-reviewed
+No documented frequency information
+No information on vessel speed
+No information on engine size/type",L,"Greene, C.R. 1985. Characteristics of waterborne industrial noise. In: Behaviour, Disturbance Responses and Distribution of Bowhead Whales, Balaena mysticetus, in the Eastern Beaufort Sea, 1980-84 (ed. W.J. Richardson), pp. 197-253. Report to U.S. MineralsManagement Service, Reston, VA (Available from NTIS, Springfield, VA; PB87-
+124376). 306pp.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Crude oil tanker,179-182,dB re 1µPa m,,"20-1,000",229-243,14-16,,,No information on engine size/type,H,"McKenna, MF, Ros, D, Wiggins, SM, Hildebrand, JA (2012) Underwater radiated noise from modern commercial ships. J. Acoust. Soc. Am. 131 (1)",
+Anthropogenic,Shipping,Cruise ship,168,dB re 1µPa m,,,,19,,,"Not peer-reviewed
+No documented frequency information
+No information on vessel length
+No information on engine size/type",L,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp. [Available from http://www.mms.gov].
+","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Dynamic positioning,177,dB re 1µPa m,,,,,,,"Not peer-reviewed
+No documented frequency information",L,"Talisman Energy (UK) (2006), Beatrice Windfarm Demonstrator Project. Available at: http://www.beatricewind.co.uk/Uploads/Downloads/BEATRICE_WINDFARM.pdf [Accessed Nov 2013]","National Grid (2014) NSN Link Limited Norway-UK Interconnector UK Marine Environmental Statement
+March 2014"
+Anthropogenic,Shipping,Dynamic positioning,121-197,dB re 1µPa m,"50-3,200",,,,,,"Original reference is unknown
+No documented frequency information",L,AT&T (2008) Reference is not provided.,"National Grid (2014) NSN Link Limited Norway-UK Interconnector UK Marine Environmental Statement
+March 2014"
+Anthropogenic,Shipping,Dynamic positioning,162-180,dB re 1µPa m,,,,,,,"Not peer-reviewed
+No documented frequency information",L,"Lawson, J.W., Malme, C.I. and Richardson, W.J. (2001), Assessment of noise issues relevant to marine mammals near the BP clair development. Report to BP from LGL Ltd.","National Grid (2014) NSN Link Limited Norway-UK Interconnector UK Marine Environmental Statement
+March 2014"
+Anthropogenic,Shipping,Fishing boat,151,dB re 1µPa m,"250-1,000",,,,,,"Not peer-reviewed
+No information on vessel length
+No information on vessel speed
+No information on engine type/speed",M,"Greene, C.R. 1985. Characteristics of waterborne industrial noise. In: Behaviour, Disturbance Responses and Distribution of Bowhead Whales, Balaena mysticetus, in the Eastern Beaufort Sea, 1980-84 (ed. W.J. Richardson), pp. 197-253. Report to U.S. Minerals Management Service, Reston, VA (Available from NTIS, Springfield, VA; PB87-
+124376). 306pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Fishing boat,110-135,dB re 1µPa m,"100-20,000",,,,240hp outboard,,"No information on vessel length
+No information on vessel speed",H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS 4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1 Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Shipping,Fishing trawler,158,dB re 1µPa m,100-250,,30,,,,"No information on vessel speed
+No information on engine size/type",H,"Richardson, W.J., Green Jr, C.R., Malme, C.I. & Thomson, D.H. (1995). Marine Mammals and Noise. Academic Press, New York","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS 4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1 Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Shipping,Fishing trawler ,158,dB re 1µPa m,,,,10,,In transit,"Not peer-reviewed
+No documented frequency information
+No information on vessel length
+No information on engine size/type",L,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp. [Available from http://www.mms.gov].
+","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Freighter,172,dB re 1µPa m,,41,135,,,,"Not peer-reviewed
+No information on vessel speed
+No information on engine type/speed",M,"Thiele, L. and Ødengaard, J. 1983. Underwater noise from the propellers of a triple screw container ship. Rep. 82.54. Copenhagen: Ødengaard and Danneskiold-Samsøe K/S. 51pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Icebreaker,174,dB re 1µPa m,,,,10,,,"Not peer-reviewed
+No documented frequency information
+No information on vessel length
+No information on engine type/size",L,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp. [Available from http://www.mms.gov].
+","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Large ferry,171,dB re 1µPa m,,,,16,,,"Not peer-reviewed
+No documented frequency information
+No information on vessel length
+No information on engine type/size",L,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp.
+[Available from http://www.mms.gov].
+","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Large merchant vessel,160-190,dB re 1µPa m,50-900,,,,,,"No information on vessel length
+No information on vessel speed
+No information on engine type/size",H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Shipping,Large vessel movements,180-190,dB re 1µPa m (RMS),"6->30,000",<200,,,,"Omnidirectional
+Continuous","Broadband (no single source)
+Not peer-reviewed",L,"OSPAR, 2009. Overview of the Impacts of Anthropogenic Underwater Sound in the Marine Environment, OSPAR Commission. Publication no. 441.",Central Dredging Association (CEDA) (2011) Underwater Sound in Relation to Dredging. CEDA Position Paper - 1 November 2011
+Anthropogenic,Shipping,Military vessel,190-203,dB re 1µPa m,,,,,,,"No documented frequency information
+No information on vessel length
+No information on vessel speed
+No information on engine type/size",L,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Shipping,Oceanographic vessel,170-230,dB re 1µPa m,<100,,,,,,"No information on vessel length
+No information on vessel speed
+No information on engine size/type",H,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Shipping,Offshore oil production vessels,174-183,dB re 1µPa m,"20-2,500",,209-340,,,Water depth 75-350m,"No information on vessel speed
+No information on engine type/size",H,"Erbe, C, McCauley, R, McPherson C, Gavrilov A (2013) Underwater noise from offshore oil production vessels. J. Acoust. Soc. Am. 133 (6), June 2013. [http://dx.doi.org/10.1121/1.4802183]",
+Anthropogenic,Shipping,Oil tanker,203,dB re 1µPa m,,,>250,16,,,No documented frequency information,L,"Cybulski, J. 1977. Probable origin of measured supertanker radiated noise spectra. In: Oceans '77 Conference Record. Institute of Electrical and Electronic Engineering, New York, 15C-1-8.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Open hatch cargo ships,179-184,dB re 1µPa m,,"20-1,000",190-213,14,,,No information on engine type/size,H,"McKenna, MF, Ros, D, Wiggins, SM, Hildebrand, JA (2012) Underwater radiated noise from modern commercial ships. J. Acoust. Soc. Am. 131 (1)",
+Anthropogenic,Shipping,Passenger,154-155,dB re 1µPa m,"1-120,000",,,>10,,"Red Jet Ferry (jet hydrofoil ferry) during transit through Southampton Water
+Weather conditions were clear and sunny with a moderate South-westerly breeze and slight chop on the water.","Not peer-reviewed
+No information on vessel length
+No information on engine size/type",M,"Nedwell, JR, S J Parvin, A G Brooker and D R Lambert, 2008. Modelling and measurement of underwater noise associated with the proposed Port of Southampton capital dredge and redevelopment of berths 201/202 and assessment of the disturbance to salmon. Subacoustech Report No. 805R0444",
+Anthropogenic,Shipping,Product tankers,179-183,dB re 1µPa m,,"20-1,000",180-228,14-16,,,No information on engine type/size,H,"McKenna, MF, Ros, D, Wiggins, SM, Hildebrand, JA (2012) Underwater radiated noise from modern commercial ships. J. Acoust. Soc. Am. 131 (1)",
+Anthropogenic,Shipping,Roll on/off,165,dB re 1µPa m,,,200,15,,,"Original reference is unknown
+No documented frequency information",L,Jennette et al. 1987 (not included in reference list),"Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Ship,176,dB re 1µPa m (SPL),"10->10,000",60-120,38.9,14.6,,Modeled source depth 3m,Modelled data,M,"Erbe, C, MacGillivray, A, Williams, R (2012) Mapping cumulative noise from shipping to inform marine spatial planning. J. Acoust. Soc. Am. 132 (5), November 2012. [http://dx.doi.org/10.1121/1.4758779];
+Erbe C, Williams R, Sandilands D, Ashe E (2014) Identifying Modeled Ship Noise Hotspots for Marine Mammals of Canada’s Pacific Region. PLoS ONE 9(3): e89820. doi:10.1371/journal.pone.0089820",
+Anthropogenic,Shipping,Ship,181,dB re 1µPa m (SPL),"10->10,000",60-100,77.8,13.6,,Modeled source depth 6m,Modelled data,M,"Erbe, C, MacGillivray, A, Williams, R (2012) Mapping cumulative noise from shipping to inform marine spatial planning. J. Acoust. Soc. Am. 132 (5), November 2012. [http://dx.doi.org/10.1121/1.4758779]
+Erbe C, Williams R, Sandilands D, Ashe E (2014) Identifying Modeled Ship Noise Hotspots for Marine Mammals of Canada’s Pacific Region. PLoS ONE 9(3): e89820. doi:10.1371/journal.pone.0089820",
+Anthropogenic,Shipping,Ship,191,dB re 1µPa m (SPL),"10->10,000",60-100,155.6,15,,Modeled source depth 6m,Modelled data,M,"Erbe, C, MacGillivray, A, Williams, R (2012) Mapping cumulative noise from shipping to inform marine spatial planning. J. Acoust. Soc. Am. 132 (5), November 2012. [http://dx.doi.org/10.1121/1.4758779]
+Erbe C, Williams R, Sandilands D, Ashe E (2014) Identifying Modeled Ship Noise Hotspots for Marine Mammals of Canada’s Pacific Region. PLoS ONE 9(3): e89820. doi:10.1371/journal.pone.0089820",
+Anthropogenic,Shipping,Ships,180-190,dB re 1µPa (RMS),"6->30,000",<200,,,,"Continuous
+Omnidirectional ","Broadband (not a single source)
+Source level units are not properly documented
+Not peer-reviewed",L,"OSPAR, 2009. Overview of the Impacts of Anthropogenic Underwater Sound in the Marine Environment, OSPAR Commission. Publication no. 441","CEDA, 2011. Underwater Sound in Relation to Dredging . CEDA position paper 7 November 2011"
+Anthropogenic,Shipping,Small sea going vessels,170-180,dB re 1µPa m,,,,,,,"No documented frequency information
+No information on vessel length
+No information on vessel speed
+No information on engine type/size
+",L,"Richardson, W.J., Green Jr, C.R., Malme, C.I. & Thomson, D.H. (1995). Marine Mammals and Noise. Academic Press, New York.","Parvin,, S.J., Nedwell, J.R., Kynoch, J., Lovell, J. and Brooker, A.G. 2008. Assessment of underwater noise from dredging operations on the Hastings Shingle Bank. Subacoustech Report No. 758R0137"
+Anthropogenic,Shipping,Smaller tanker or freighter,170,dB re 1µPa m,,40-400,135,,,,"No information on vessel speed
+No information on engine type/size",H,"Richardson, W.J., Green Jr, C.R., Malme, C.I. & Thomson, D.H. (1995). Marine Mammals and Noise. Academic Press, New York","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Shipping,Supertanker,185,dB re 1µPa m,,7,337,,,,"Not peer-reviewed
+No information on vessel speed
+No information on engine type/speed",M,"Thiele, L. and Ødengaard, J. 1983. Underwater noise from the propellers of a triple screw container ship. Rep. 82.54.
+Copenhagen: Ødengaard and Danneskiold-Samsøe K/S. 51pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Supertanker,187,dB re 1µPa m,,8,266,,,,"Not peer-reviewed
+No information on vessel speed
+No information on engine type/speed",M,"Thiele, L. and Ødengaard, J. 1983. Underwater noise from the propellers of a triple screw container ship. Rep. 82.54.
+Copenhagen: Ødengaard and Danneskiold-Samsøe K/S. 51pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Supertanker,190,dB re 1µPa m,,,340,20,,,"Not peer-reviewed
+No documented frequency information",M,"Buck, B.M. and Chalfant, D.A. 1972. Deep water narrowband radiated noise measurement of merchant ships. Delco
+TR72-28. Santa Barbara, California: Delco Electronics. 30pp.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Supertanker,190,dB re 1µPa m,,7,340,,,,"Not peer-reviewed
+No information on vessel speed
+No information on engine type/speed",M,"Thiele, L. and Ødengaard, J. 1983. Underwater noise from the propellers of a triple screw container ship. Rep. 82.54.
+Copenhagen: Ødengaard and Danneskiold-Samsøe K/S. 51pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Supertanker,198,dB re 1µPa m,,,,,,,"No documented frequency information
+Not peer-reviewed
+No information on vessel length
+No information on vessel speed
+No information on engine type/size
+",L,"Hildebrand J (2004). Impacts of anthropometric sound on cetaceans. International Whaling Commission. IWC/SC/56/E13 report, Sorrento, Italy. Available at http://cetus.ucsd.edu/projects/pub/SC-56-E13Hilde.pdf.","Parvin,, S.J., Nedwell, J.R., Kynoch, J., Lovell, J. and Brooker, A.G. 2008. Assessment of underwater noise from dredging operations on the Hastings Shingle Bank. Subacoustech Report No. 758R0137"
+Anthropogenic,Shipping,Supertanker,187-232,dB re 1µPa m,20-100,,,,,,"No information on vessel length
+No information on vessel speed
+No information on engine type/size
+Questionable upper source level",L,"Evans, P.G.H. 1996. Human disturbance of cetaceans. Pp. 279-299. In: Exploitation of Mammals (eds. N. Dunstone and V. Taylor). Cambridge University Press, London.","Evans, PGH (2003) Shipping as a possible source of disturbance
+to cetaceans in the ASCOBANS region. ASCOBANS
+4th Meeting of the Parties Document MOP4/Doc. 17(S) Rev.1
+Esbjerg, Denmark, 19-22 August 2003 Dist.: 1 August 2003"
+Anthropogenic,Shipping,Supertanker/Container ship ,180-190,dB re 1µPa m (SPL),<500,,,,,,"No information on vessel length
+No information on vessel speed
+No information on engine type/size",H,"Richardson, W.J., Green Jr, C.R., Malme, C.I. & Thomson, D.H. (1995). Marine Mammals and Noise. Academic Press, New York","ABPmer, 2004. Underwater noise during maintenance dredging and the potential effects on the migration of Atlantic Salmon in Southampton Water. R.1108. ABP Southampton"
+Anthropogenic,Shipping,Tanker,169,dB re 1µPa m,,430,135,,,,"Not peer reviewed
+No information on vessel speed
+No information on engine type/size",M,"Buck, B.M. and Chalfant, D.A. 1972. Deep water narrowband radiated noise measurement of merchant ships. Delco
+TR72-28. Santa Barbara, California: Delco Electronics. 30pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Tanker,177,dB re 1µPa m,,,337,16,,,"No documented frequency information
+Not peer-reviewed
+No information on engine type/size",L,"Cybulski, J. 1977. Probable origin of measured supertanker radiated
+noise spectra. In: Oceans '77 Conference Record. Institute of
+Electrical and Electronic Engineering, New York, 15C-1-8.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Tanker,180,dB re 1µPa m,,60,179,,,,"No information on vessel speed
+No information on engine type/size",H,"Ross, D. 1976. Mechanics of underwater noise. New York: Pergamon Press. 375pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Tug and barge,161,dB re 1µPa m,,5000,,,,Loaded barge,"Not peer-reviewed
+No information on vessel length
+No information on vessel speed
+No information on engine type/speed",M,"Miles, P.R., Malme, C.I. and Richardson, W.J. 1987. Prediction of drilling site-specific interaction of industrial
+acoustic stimuli and endangered whales in the Alaskan Beaufort Sea. OCS Study MMS 87-0084. BBN Report No.
+6509. BBN Inc., Cambridge, Massachusetts. 341pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Tug and barge,162,dB re 1µPa m,,,,10,,,"Not peer-reviewed
+No documented frequency information
+No information on vessel length
+No information on engine type/size",L,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp.
+[Available from http://www.mms.gov].
+","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."
+Anthropogenic,Shipping,Tug and barge,164,dB re 1µPa m,,1000,,,,Empty barge,"Not peer-reviewed
+No information on vessel length
+No information on vessel speed
+No information on engine type/speed",M,"Miles, P.R., Malme, C.I. and Richardson, W.J. 1987. Prediction of drilling site-specific interaction of industrial
+acoustic stimuli and endangered whales in the Alaskan Beaufort Sea. OCS Study MMS 87-0084. BBN Report No.
+6509. BBN Inc., Cambridge, Massachusetts. 341pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Tug and barge,166,dB re 1µPa m,,37,20,,,Empty barge,"Not peer-reviewed
+No information on vessel speed
+No information on engine type/speed",M,"Buck, B.M. and Chalfant, D.A. 1972. Deep water narrowband radiated noise measurement of merchant ships. Delco
+TR72-28. Santa Barbara, California: Delco Electronics. 30pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Tug and barge,170,dB re 1µPa m,,1000,,,,Loaded barge,"Not peer-reviewed
+No information on vessel length
+No information on vessel speed
+No information on engine type/speed",M,"Miles, P.R., Malme, C.I. and Richardson, W.J. 1987. Prediction of drilling site-specific interaction of industrial
+acoustic stimuli and endangered whales in the Alaskan Beaufort Sea. OCS Study MMS 87-0084. BBN Report No.
+6509. BBN Inc., Cambridge, Massachusetts. 341pp.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Tug and barge,171,dB re 1µPa m,"45-7,070",630,,,,,"Not peer-reviewed
+No information on vessel length
+No information on vessel speed
+No information on engine type/speed",M,"Richardson, WJ, Greene, CR, Malme, CI, Thompson, DH (1991) Effects of noise on marine mammals. OCS Study MMS90-0093. LGL Rep. TA834-1. Report from LGL Ecol. Res. Assoc., Inc., Bran, Texas, for US Minerals Management Service, Atlantic Outer Continental Shelf Region, Herndon, VA. NTIS PB91-168914. 462pp;
+Evans, P.G.H. and Nice, H. 1996. Review of the effects of underwater sound generated by seismic surveys in cetaceans.
+Seawatch Foundation, Oxford, UK.",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,Vehicle carriers,178-182,dB re 1µPa m,,"20-1,000",173-199,16-17,,,No information on engine type/size,H,"McKenna, MF, Ros, D, Wiggins, SM, Hildebrand, JA (2012) Underwater radiated noise from modern commercial ships. J. Acoust. Soc. Am. 131 (1)",
+Anthropogenic,Shipping,Workboat,159,dB re 1µPa m,,630,34,,Twin diesel engine,,"Not peer-reviewed
+No information on vessel speed",M,"Malme, C.I., Miles, P.R., Miller, G.W., Richardson, W.J., Roseneau, D.G., Thomson, D.H. and Greene, C.R. 1989. Analysis and ranking of the acoustic disturbance potential of petroleum industry activities and other sources of noise in the environment of marine mammals in Alaska. Final Report No. 6945 to the US Minerals Management Service, Anchorage, AK. BBN Systems and Technologies Corp. [Available from http://www.mms.gov].
+",WDCS. 2003. Oceans of noise. A WDCS Science report. 
+Anthropogenic,Shipping,WWII Battleship,183,dB re 1µPa m,,,,20,,,"Not peer-reviewed
+No documented frequency information
+No information on vessel length
+No information on engine type/size",L,"Urick, RJ (1984) Ambient noise in the sea. The Catholic Universit of America, Washington DC 20046.","Battele, 2004. Pinniped Assessment for the Cape Wind Project. Nantucket Sound. Prepared for the US Army Corps of Engineers."

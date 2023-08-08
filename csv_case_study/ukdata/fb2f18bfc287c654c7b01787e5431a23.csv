@@ -1,0 +1,23 @@
+Category,Farm by size and region and type,Solid manure stored in heaps on solid base,Solid manure stored in temporary heaps in fields,Slurry stored in a tank,Slurry stored in a lagoon without strainer,Slurry stored with strainer facility(a),Slurry in another type of store,Solid manure stored in heaps on solid base Number of responses used ,Solid manure stored in temporary heaps in fields Number of responses used ,Slurry stored in a tank Number of responses used ,Slurry stored in a lagoon without strainer Number of responses used ,Slurry stored with strainer facility Number of responses used ,Slurry in another type of store Number of responses used 
+Farm size,Small,16%,2%,28%,4%,0%,0%, 309, 368, 58, 42, 19, 31
+Farm size,Medium,14%,0%,30%,0%,10%,0%, 178, 216, 63, 39, 20, 20
+Farm size,Large,14%,1%,27%,2%,3%,2%, 452, 607, 239, 170, 77, 114
+Region,North East,2%,0%,37%,,,0%, 52, 92, 12,,, 9
+Region,North West & Merseyside,25%,0%,31%,5%,10%,1%, 190, 111, 131, 52, 11, 52
+Region,Yorkshire & The Humber,7%,4%,32%,5%,0%,2%, 133, 193, 67, 20, 9, 34
+Region,East Midlands,9%,0%,32%,0%,0%,0%, 76, 157, 23, 18, 13, 9
+Region,West Midlands,16%,2%,6%,2%,0%,2%, 118, 142, 28, 46, 11, 23
+Region,East of England,15%,1%,20%,,,, 50, 107, 5,,,
+Region,South East,11%,1%,10%,6%,10%,, 63, 116, 11, 14, 10,
+Region,South West,16%,1%,26%,1%,3%,0%, 257, 273, 83, 86, 52, 28
+Farm type,Cereals,12%,2%,20%,0%,0%,, 79, 212, 12, 7, 5,
+Farm type,Other crops,14%,2%,13%,0%,,, 51, 109, 9, 8,,
+Farm type,Pigs & poultry,17%,4%,61%,5%,,0%, 63, 77, 32, 18,, 23
+Farm type,Dairy,8%,1%,25%,2%,3%,0%, 275, 259, 185, 161, 68, 69
+Farm type,Grazing livestock (LFA),16%,0%,29%,12%,13%,3%, 172, 111, 58, 17, 12, 25
+Farm type,Grazing livestock (Lowland),19%,1%,24%,0%,0%,0%, 181, 218, 43, 24, 17, 21
+Farm type,Mixed,18%,1%,23%,0%,0%,0%, 118, 205, 21, 16, 9, 16
+####For livestock holdings that have the storage facility type####,,,,,,,,,,,,,
+####Blank cell - indicates that data has been suppressed to prevent disclosure of information about individual holdings####,,,,,,,,,,,,,
+####(a) This was a new option added to the survey in 2015 so some other categories may not be directly comparable with previous years####,,,,,,,,,,,,,
+###Results relate only to holdings with livestock####,,,,,,,,,,,,,

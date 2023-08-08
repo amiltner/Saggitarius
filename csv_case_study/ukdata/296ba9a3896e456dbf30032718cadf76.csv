@@ -1,0 +1,21 @@
+ENTITY,EXPENSE_AREA_1,PAYMENT DATE,PAYMENT NUMBER,SUPPLIER NAME,INVOICE AMOUNT,NAC DESCRIPTION,SERVICE SUPPLIED
+Wales Office,Wales Office,8-Feb-12,1000849,HMCTS,780,223001-Printing Postage and Office expenditure,Royal Mail charges 
+Wales Office,Wales Office,21-Feb-12,1000891,MINISTRY OF JUSTICE,10704.35,222002-Other Property Costs,Cleaning services for London office paid by Ministry of Justice in error
+Wales Office,Wales Office,1-Feb-12,1000826,MINISTRY OF JUSTICE,4698.24,262000-SCA Costs,Quarterly payment for accounting services with shared service provider
+Wales Office,Wales Office,15-Feb-12,1000875,THE STATIONERY OFFICE LTD,1168.36,223000-Other Expenditure,Official publications
+Wales Office,Wales Office,8-Feb-12,1000850,LANCASTER CLEANING AND SUPPORT SERVICES,2117.96,222002-Other Property Costs,Cleaning services for London office
+Wales Office,Wales Office,14-Feb-12,1000868,GOVERNMENT CAR & DESPATCH AGENCY,6730.34,223000-Other Expenditure,Ministerial car hire charges
+Wales Office,Wales Office,13-Feb-12,1000860,BROOK STREET (UK) LTD,537.24,212001-Agency staff,Agency staff costs
+Wales Office,Wales Office,20-Feb-12,1000880,BROOK STREET (UK) LTD,518.93,212001-Agency staff,Agency staff costs
+Wales Office,Wales Office,21-Feb-12,1000888,BROOK STREET (UK) LTD,518.93,212001-Agency staff,Agency staff costs
+Wales Office,Wales Office,8-Feb-12,1000847,CARLISLE SECURITY SERVICES LTD,8630.4,222002-Other Property Costs,24 hour Security for London office
+Wales Office,Wales Office,20-Feb-12,1000884,GOVERNMENT CAR & DESPATCH AGENCY,804,223001-Printing Postage and Office expenditure,Government internal mail service
+Wales Office,Wales Office,8-Feb-12,1000853,PHS GROUP PLC,1638.78,222002-Other Property Costs,Waste collection at Cardiff office
+Wales Office,Wales Office,20-Feb-12,1000886,PHS GROUP PLC,790.98,222002-Other Property Costs,Office equipment
+Wales Office,Wales Office,15-Feb-12,1000873,CUSTOM SECURITY SOLUTIONS LTD,619.8,222002-Other Property Costs,Repair and maintenance of security equipment
+Wales Office,Wales Office,27-Feb-12,1000902,CUSTOM SECURITY SOLUTIONS LTD,504,222002-Other Property Costs,Repair and maintenance of security equipment
+Wales Office,Wales Office,13-Feb-12,1000863,CIVIC MAINTENANCE SERVICES LTD,595.48,222002-Other Property Costs,Cleaning services for Cardiff office
+Wales Office,Wales Office,20-Feb-12,1000883,EDUSERV TECHNOLOGIES LTD,578,265000-IT & Telecommunications,Web hosting for Wales Office websites
+Wales Office,Wales Office,9-Feb-12,1000856,M J FERGUSON LTD,3948.72,222001-Maintenance,Monthly maintenance charge for London office
+Wales Office,Wales Office,20-Feb-12,1000885,M J FERGUSON LTD,880,222002-Other Property Costs,Reactive maintenance costs
+Wales Office,Wales Office,13-Feb-12,1000864,GOVERNMENT PROCUREMENT SERVICE,1575.36,261000-Fuel and Utilities,Centralised government heating charges for London office

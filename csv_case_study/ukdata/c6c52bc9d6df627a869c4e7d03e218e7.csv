@@ -1,0 +1,140 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Vat Registration Number
+Department of Health,Knowsley PCT,31/05/2011,Healthcare Srv Rec PCTs,PCT Commissioning,LIVERPOOL COMMUNITY HEALTH NHS TRUST,13053441,"111,976.00",NULL
+Department of Health,Knowsley PCT,24/05/2011,Healthcare Srv Rec PCTs,PCT Commissioning,LIVERPOOL COMMUNITY HEALTH NHS TRUST,13008394,"111,976.00",NULL
+Department of Health,Knowsley PCT,24/05/2011,Healthcare Srv Rec PCTs,PCT Commissioning,LIVERPOOL COMMUNITY HEALTH NHS TRUST,13008395,"111,976.00",NULL
+Department of Health,Knowsley PCT,05/05/2011,External Consultancy Fees,Health Promotion,LIVERPOOL JOHN MOORES UNIVSERITY,12897533,"29,233.00",482838018
+Department of Health,Knowsley PCT,24/05/2011,Healthcare Srv Rec PCTs,PCT Commissioning,WIRRAL PCT,13008097,"112,000.00",654418627
+Department of Health,Knowsley PCT,24/05/2011,Services Received - PCTs,NHS Levies,WIRRAL PCT,13008097,"177,000.00",654418627
+Department of Health,Knowsley PCT,24/05/2011,Services Received - PCTs,Public Health,WIRRAL PCT,13008097,"33,000.00",654418627
+Department of Health,Knowsley PCT,05/05/2011,Voluntary Sector,Grants to Hospices,WILLOWBROOK HOSPICE,12913319,"62,614.50",NULL
+Department of Health,Knowsley PCT,17/05/2011,Hlthcre-Foundation Trsts,NHS Community Contracts,LIVERPOOL HEART & CHEST HOSPITAL NHS TRUST,12982214,"292,061.33",654914712
+Department of Health,Knowsley PCT,10/05/2011,Hlthcre-Foundation Trsts,Acute NHS Trusts,WARRINGTON & HALTON HOSPITALS NHS FOUNDATION TRUST,12832241,"76,780.00",NULL
+Department of Health,Knowsley PCT,10/05/2011,Hlthcre-Foundation Trsts,Acute NHS Trusts,WARRINGTON & HALTON HOSPITALS NHS FOUNDATION TRUST,12928035,"76,780.00",NULL
+Department of Health,Knowsley PCT,03/05/2011,Hlthcre-Foundation Trsts,NHS Trusts Mh.LD,5 BOROUGHS PARTNERSHIP NHS FOUNDATION TRUST,12889861,"54,540.00",654949292
+Department of Health,Knowsley PCT,13/05/2011,Hlthcre-Foundation Trsts,NHS Trusts Mh.LD,5 BOROUGHS PARTNERSHIP NHS FOUNDATION TRUST,12951278,"1,215,636.00",654949292
+Department of Health,Knowsley PCT,17/05/2011,Services Received - NHSTs,Finance,ST HELENS AND KNOWSLEY HOSPITALS NHS TRUST,12974554,"224,500.00",654943996
+Department of Health,Knowsley PCT,17/05/2011,Services Received - NHSTs,Finance,ST HELENS AND KNOWSLEY HOSPITALS NHS TRUST,12974558,"123,250.00",654943996
+Department of Health,Knowsley PCT,10/05/2011,Hcare Srv Rec NHS Trust,Acute NHS Trusts,ST HELENS AND KNOWSLEY HOSPITALS NHS TRUST,12928037,"4,122,413.00",654943996
+Department of Health,Knowsley PCT,24/05/2011,Hcare Srv Rec NHS Trust,NHS Community Contracts,ST HELENS AND KNOWSLEY HOSPITALS NHS TRUST,13008214,"188,572.22",654943996
+Department of Health,Knowsley PCT,31/05/2011,Hcare Srv Rec NHS Trust,Acute NHS Trusts,ST HELENS AND KNOWSLEY HOSPITALS NHS TRUST,13053448,"317,000.00",654943996
+Department of Health,Knowsley PCT,10/05/2011,Services Received - PCTs,Medicines Mgt,LIVERPOOL PCT,12913303,"18,211.00",654424145
+Department of Health,Knowsley PCT,10/05/2011,Services Received - PCTs,NHS Levies,LIVERPOOL PCT,12913303,"6,153.00",654424145
+Department of Health,Knowsley PCT,10/05/2011,Services Received - PCTs,Public Health,LIVERPOOL PCT,12913303,"9,655.00",654424145
+Department of Health,Knowsley PCT,12/05/2011,Independent Sector,Smoking Commissioning,ROY CASTLE CLEAN AIR LTD,12943974,"26,807.00",881175020
+Department of Health,Knowsley PCT,10/05/2011,Hlthcre-Foundation Trsts,Acute NHS Trusts,AINTREE UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,12927936,"2,371,034.00",654910626
+Department of Health,Knowsley PCT,09/05/2011,Hlthcre-Foundation Trsts,KIPS contract,KIPS@5 BOROUGHS,12943395,"2,729,782.00",NULL
+Department of Health,Knowsley PCT,09/05/2011,Hlthcre-Foundation Trsts,KIPS contract,KIPS@5 BOROUGHS,12935807,"2,729,531.00",NULL
+Department of Health,Knowsley PCT,12/05/2011,Cap Addns GPs Rel of Resp,Primary Care Mgt,UC24,12889915,"85,308.00",NULL
+Department of Health,Knowsley PCT,26/05/2011,Cap Addns GPs Rel of Resp,Primary Care Mgt,UC24,13008193,"85,308.00",NULL
+Department of Health,Knowsley PCT,12/05/2011,Voluntary Sector,Grants to Hospices,WOODLANDS HOSPICE CHARITABLE TRUST,12951277,"60,776.94",NULL
+Department of Health,Knowsley PCT,12/05/2011,Voluntary Sector,Grants to Hospices,WOODLANDS HOSPICE CHARITABLE TRUST,12943964,"25,075.00",NULL
+Department of Health,Knowsley PCT,19/05/2011,Voluntary Sector,Grants to Hospices,WOODLANDS HOSPICE CHARITABLE TRUST,12982153,"25,075.00",NULL
+Department of Health,Knowsley PCT,10/05/2011,Hcare Srv Rec NHS Trust,Acute NHS Trusts,SOUTHPORT AND ORMSKIRK HOSPITAL NHS TRUST,12928033,"145,961.00",654970308
+Department of Health,Knowsley PCT,12/05/2011,Rates,Site Overheads,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12913324,"39,734.38",165597522
+Department of Health,Knowsley PCT,12/05/2011,Rates,Site Overheads,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12913323,"48,496.00",165597522
+Department of Health,Knowsley PCT,12/05/2011,GMS Notional Rents,GMS Dr Bevan,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12889927,"6,473.45",165597522
+Department of Health,Knowsley PCT,12/05/2011,Premises PMS,PMS Colby Med Cent,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12889927,"5,754.18",165597522
+Department of Health,Knowsley PCT,12/05/2011,Rates,Site Overheads,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12889927,"59,699.62",165597522
+Department of Health,Knowsley PCT,10/05/2011,Hlthcre-Foundation Trsts,Acute NHS Trusts,CLATTERBRIDGE CENTRE FOR ONCOLOGY NHS FOUNDATION TRUST,12928003,"321,126.00",654916412
+Department of Health,Knowsley PCT,31/05/2011,Hlthcre-Foundation Trsts,Acute NHS Trusts,CLATTERBRIDGE CENTRE FOR ONCOLOGY NHS FOUNDATION TRUST,13053455,"321,126.00",654916412
+Department of Health,Knowsley PCT,10/05/2011,Hlthcre-Foundation Trsts,NHS Trusts Children,ALDER HEY CHILDRENS NHS FOUNDATION TRUST,12928026,"519,007.00",654938985
+Department of Health,Knowsley PCT,03/05/2011,Healthcare Srv Rec PCTs,Acute Spec. Commission.,NORTH WEST SPECIALISED SERVICES COMMISSIONING TEAM,12889907,"2,308,333.00",NULL
+Department of Health,Knowsley PCT,24/05/2011,Hcare Srv Rec NHS Trust,NHS Ambulance Trusts,BLACKPOOL PCT,13008172,"137,924.00",654416535
+Department of Health,Knowsley PCT,24/05/2011,Hcare Srv Rec NHS Trust,NHS Ambulance Trusts,BLACKPOOL PCT,13008175,"352,593.00",654416535
+Department of Health,Knowsley PCT,26/05/2011,Voluntary Sector,Grants to Vol.Orgs,STROKE ASSOCIATION,13008196,"33,469.00",233806669
+Department of Health,Knowsley PCT,26/05/2011,Voluntary Sector,Grants to Vol.Orgs,STROKE ASSOCIATION,13008204,"51,948.00",233806669
+Department of Health,Knowsley PCT,05/05/2011,Legal / Prof Fees,Finance,HILL DICKINSON LLP,12909509,"28,200.71",866946168
+Department of Health,Knowsley PCT,13/05/2011,Hcare Srv Rec NHS Trust,NHS Trusts Mh.LD,MERSEY CARE NHS TRUST,12951276,"383,811.00",654412841
+Department of Health,Knowsley PCT,31/05/2011,Hcare Srv Rec NHS Trust,NHS Trusts Mh.LD,MERSEY CARE NHS TRUST,13053470,"396,073.00",654412841
+Department of Health,Knowsley PCT,26/05/2011,Premises PMS,PMS Dr Winterburn,PARTNERS 4 LIFT,12982122,"3,334.10",NULL
+Department of Health,Knowsley PCT,26/05/2011,Premises PMS,PMS Maasarani Medical,PARTNERS 4 LIFT,12982122,"3,334.10",NULL
+Department of Health,Knowsley PCT,26/05/2011,Rates,Site Overheads,PARTNERS 4 LIFT,12982122,"26,672.80",NULL
+Department of Health,Knowsley PCT,19/05/2011,Finance Charge,Capital Charges,PARTNERS 4 LIFT,12982193,"32,333.33",NULL
+Department of Health,Knowsley PCT,19/05/2011,Finance Lease & HP NCurr,Balance Sheet,PARTNERS 4 LIFT,12982193,"16,500.00",NULL
+Department of Health,Knowsley PCT,19/05/2011,Lease Rents,Site Overheads,PARTNERS 4 LIFT,12982193,"12,313.26",NULL
+Department of Health,Knowsley PCT,19/05/2011,Other Operatg Rev Non NHS,Income Other,PARTNERS 4 LIFT,12982193,"-12,229.32",NULL
+Department of Health,Knowsley PCT,19/05/2011,Premises PMS,PMS Dr Winterburn,PARTNERS 4 LIFT,12982193,"6,114.66",NULL
+Department of Health,Knowsley PCT,19/05/2011,Premises PMS,PMS Maasarani Medical,PARTNERS 4 LIFT,12982193,"6,114.66",NULL
+Department of Health,Knowsley PCT,26/05/2011,GMS Notional Rents,GMS Dr Aung,PARTNERS 4 LIFT,12982139,"8,634.02",NULL
+Department of Health,Knowsley PCT,26/05/2011,GMS Notional Rents,GMS Dr Rahmann,PARTNERS 4 LIFT,12982139,"10,073.02",NULL
+Department of Health,Knowsley PCT,26/05/2011,Other Operatg Rev Non NHS,Income Other,PARTNERS 4 LIFT,12982139,"12,951.03",NULL
+Department of Health,Knowsley PCT,26/05/2011,Rates,Site Overheads,PARTNERS 4 LIFT,12982139,"112,242.24",NULL
+Department of Health,Knowsley PCT,26/05/2011,Premises PMS,PMS Dr Heath,PARTNERS 4 LIFT,12982143,"23,341.29",NULL
+Department of Health,Knowsley PCT,26/05/2011,Premises PMS,PMS St Johns Surgery,PARTNERS 4 LIFT,12982143,"7,181.94",NULL
+Department of Health,Knowsley PCT,26/05/2011,Rates,Site Overheads,PARTNERS 4 LIFT,12982143,"59,250.97",NULL
+Department of Health,Knowsley PCT,26/05/2011,Finance Charge,Capital Charges,PARTNERS 4 LIFT,12982191,"18,333.34",NULL
+Department of Health,Knowsley PCT,26/05/2011,Finance Lease & HP NCurr,Balance Sheet,PARTNERS 4 LIFT,12982191,"3,750.00",NULL
+Department of Health,Knowsley PCT,26/05/2011,Lease Rents,Site Overheads,PARTNERS 4 LIFT,12982191,"6,287.44",NULL
+Department of Health,Knowsley PCT,26/05/2011,Other Operatg Rev Non NHS,Income Other,PARTNERS 4 LIFT,12982191,"-6,241.57",NULL
+Department of Health,Knowsley PCT,26/05/2011,Premises PMS,PMS Dr Alexander,PARTNERS 4 LIFT,12982191,"6,241.57",NULL
+Department of Health,Knowsley PCT,19/05/2011,Finance Charge,Capital Charges,PARTNERS 4 LIFT,12982188,"43,916.67",NULL
+Department of Health,Knowsley PCT,19/05/2011,Finance Lease & HP NCurr,Balance Sheet,PARTNERS 4 LIFT,12982188,"9,000.00",NULL
+Department of Health,Knowsley PCT,19/05/2011,Lease Rents,Site Overheads,PARTNERS 4 LIFT,12982188,"12,231.04",NULL
+Department of Health,Knowsley PCT,19/05/2011,Other Operatg Rev Non NHS,Income Other,PARTNERS 4 LIFT,12982188,"-22,150.22",NULL
+Department of Health,Knowsley PCT,19/05/2011,Premises PMS,PMS Dr Heath,PARTNERS 4 LIFT,12982188,"16,938.41",NULL
+Department of Health,Knowsley PCT,19/05/2011,Premises PMS,PMS St Johns Surgery,PARTNERS 4 LIFT,12982188,"5,211.82",NULL
+Department of Health,Knowsley PCT,26/05/2011,Finance Charge,Capital Charges,PARTNERS 4 LIFT,12982187,"62,583.33",NULL
+Department of Health,Knowsley PCT,26/05/2011,Finance Lease & HP NCurr,Balance Sheet,PARTNERS 4 LIFT,12982187,"15,416.67",NULL
+Department of Health,Knowsley PCT,26/05/2011,GMS Notional Rents,GMS Dr Aung,PARTNERS 4 LIFT,12982187,"5,625.30",NULL
+Department of Health,Knowsley PCT,26/05/2011,GMS Notional Rents,GMS Dr Rahmann,PARTNERS 4 LIFT,12982187,"6,562.85",NULL
+Department of Health,Knowsley PCT,26/05/2011,Lease Rents,Site Overheads,PARTNERS 4 LIFT,12982187,"15,754.92",NULL
+Department of Health,Knowsley PCT,26/05/2011,Other Operatg Rev Non NHS,Income Other,PARTNERS 4 LIFT,12982187,"-20,626.08",NULL
+Department of Health,Knowsley PCT,26/05/2011,Premises PMS,PMS Dr Heath,PARTNERS 4 LIFT,12982187,"8,437.94",NULL
+Department of Health,Knowsley PCT,26/05/2011,GMS Notional Rents,GMS Dr Verma,PARTNERS 4 LIFT,12982128,"3,572.25",NULL
+Department of Health,Knowsley PCT,26/05/2011,Premises PMS,PMS Dr Heath,PARTNERS 4 LIFT,12982128,"2,598.00",NULL
+Department of Health,Knowsley PCT,26/05/2011,Rates,Site Overheads,PARTNERS 4 LIFT,12982128,"26,304.75",NULL
+Department of Health,Knowsley PCT,26/05/2011,Finance Charge,Capital Charges,PARTNERS 4 LIFT,12982183,"15,250.00",NULL
+Department of Health,Knowsley PCT,26/05/2011,Finance Lease & HP NCurr,Balance Sheet,PARTNERS 4 LIFT,12982183,"12,166.67",NULL
+Department of Health,Knowsley PCT,26/05/2011,GMS Notional Rents,GMS Dr Verma,PARTNERS 4 LIFT,12982183,"3,730.35",NULL
+Department of Health,Knowsley PCT,26/05/2011,Lease Rents,Site Overheads,PARTNERS 4 LIFT,12982183,"6,495.61",NULL
+Department of Health,Knowsley PCT,26/05/2011,Other Operatg Rev Non NHS,Income Other,PARTNERS 4 LIFT,12982183,"-6,443.33",NULL
+Department of Health,Knowsley PCT,26/05/2011,Premises PMS,PMS Dr Heath,PARTNERS 4 LIFT,12982183,"2,712.98",NULL
+Department of Health,Knowsley PCT,19/05/2011,Finance Charge,Capital Charges,PARTNERS 4 LIFT,12982178,"47,666.67",NULL
+Department of Health,Knowsley PCT,19/05/2011,Finance Lease & HP NCurr,Balance Sheet,PARTNERS 4 LIFT,12982178,"7,250.00",NULL
+Department of Health,Knowsley PCT,19/05/2011,GMS Notional Rents,GMS DR Kinloch,PARTNERS 4 LIFT,12982178,"5,045.55",NULL
+Department of Health,Knowsley PCT,19/05/2011,GMS Notional Rents,GMS Dr Maassarani Rose.,PARTNERS 4 LIFT,12982178,"4,414.86",NULL
+Department of Health,Knowsley PCT,19/05/2011,Lease Rents,Site Overheads,PARTNERS 4 LIFT,12982178,"8,152.73",NULL
+Department of Health,Knowsley PCT,19/05/2011,Other Operatg Rev Non NHS,Income Other,PARTNERS 4 LIFT,12982178,"-13,244.57",NULL
+Department of Health,Knowsley PCT,19/05/2011,Premises PMS,PMS Dr Heath,PARTNERS 4 LIFT,12982178,"3,784.16",NULL
+Department of Health,Knowsley PCT,19/05/2011,Finance Charge,Capital Charges,PARTNERS 4 LIFT (F5) LTD,12982169,"40,750.00",937444794
+Department of Health,Knowsley PCT,19/05/2011,Finance Lease & HP NCurr,Balance Sheet,PARTNERS 4 LIFT (F5) LTD,12982169,"10,500.00",937444794
+Department of Health,Knowsley PCT,19/05/2011,GMS Notional Rents,GMS Dr Bevan,PARTNERS 4 LIFT (F5) LTD,12982169,"6,066.35",937444794
+Department of Health,Knowsley PCT,19/05/2011,GMS Notional Rents,GMS Dr Sadiq,PARTNERS 4 LIFT (F5) LTD,12982169,"6,066.35",937444794
+Department of Health,Knowsley PCT,19/05/2011,Lease Rents,Site Overheads,PARTNERS 4 LIFT (F5) LTD,12982169,"10,087.52",937444794
+Department of Health,Knowsley PCT,19/05/2011,Other Operatg Rev Non NHS,Income Other,PARTNERS 4 LIFT (F5) LTD,12982169,"-11,458.66",937444794
+Department of Health,Knowsley PCT,19/05/2011,Premises PMS,PMS Colby Med Cent,PARTNERS 4 LIFT (F5) LTD,12982169,"5,392.31",937444794
+Department of Health,Knowsley PCT,12/05/2011,Rent,Site Overheads,ASCON INVESTMENTS LTD,12951275,"44,250.00",NULL
+Department of Health,Knowsley PCT,04/05/2011,Prepayments - Current,Balance Sheet,KIPS@5 BOROUGHS,12920726,"2,729,782.00",NULL
+Department of Health,Knowsley PCT,12/05/2011,Local Authority Staff,Chief Executive,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12935825,"37,582.16",165597522
+Department of Health,Knowsley PCT,12/05/2011,Local Authority Revenue,Income Local Authorities,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12889898,-840,165597522
+Department of Health,Knowsley PCT,12/05/2011,NonNHS Trade Pybls Curr,Balance Sheet,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12889898,"97,409.10",165597522
+Department of Health,Knowsley PCT,19/05/2011,Other Liabilities - Curr,Balance Sheet,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12982062,"308,491.19",165597522
+Department of Health,Knowsley PCT,12/05/2011,Local Authority Revenue,Income Local Authorities,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12865856,"608,815.86",165597522
+Department of Health,Knowsley PCT,19/05/2011,Services from Local Auth,Vacancy Provision - AOWA,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12966927,"42,000.00",165597522
+Department of Health,Knowsley PCT,12/05/2011,Rent,Clinical Education Centre,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12951250,"42,650.40",165597522
+Department of Health,Knowsley PCT,05/05/2011,Rent,Site Overheads,KNOWSLEY METROPOLITAN BOROUGH COUNCIL,12913302,"91,052.24",165597522
+Department of Health,Knowsley PCT,05/05/2011,Exp on Drugs Action Team,Substance Misuse,ADDACTION,12889896,"123,041.66",735842515
+Department of Health,Knowsley PCT,26/05/2011,Exp on Drugs Action Team,Substance Misuse,ADDACTION,13008198,"123,041.66",735842515
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR PRYCE,MAY 11 FUNDING,"86,089.98",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR SUARES,MAY 11 FUNDING,"41,298.10",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR WINTERBURN,MAY 11 FUNDING,"81,785.32",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR KING,MAY 11 FUNDING,"63,278.21",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR ALEXANDER,MAY 11 FUNDING,"32,119.72",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR TEWARI,MAY 11 FUNDING,"51,506.96",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR MESSING,MAY 11 FUNDING,"27,597.19",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR HEATH DM,MAY 11 FUNDING,"41,680.37",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR SWINHOE,MAY 11 FUNDING,"26,059.61",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR MAASSARANI F,MAY 11 FUNDING,"60,515.19",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR MAASSARANI F (ST JOHN'S),MAY 11 FUNDING,"27,357.69",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR JAYARAM,MAY 11 FUNDING,"34,285.23",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR FORD,MAY 11 FUNDING,"88,138.12",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR KINLOCH,MAY 11 FUNDING,"32,533.63",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR BEVAN,MAY 11 FUNDING,"28,636.17",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR JONES,MAY 11 FUNDING,"74,517.77",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR AHAMED,MAY 11 FUNDING,"57,326.14",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR VERMA,MAY 11 FUNDING,"36,020.05",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR ASTON HEALTHCARE (HEATH),MAY 11 FUNDING,"197,033.22",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR SINGH S,MAY 11 FUNDING,"26,922.79",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR WYCHERLEY,MAY 11 FUNDING,"33,501.71",NULL
+Department of Health,Knowsley PCT,31/05/2011,GP Practice Payments,Payments to GP's,DOCTOR SADIQ,MAY 11 FUNDING,"32,518.06",NULL
+Department of Health,Knowsley PCT,31/05/2011,EAtPMC Practice Payments,Payments to GP's,LIVERPOOL PCT PROVIDER,MAY 11 FUNDING,"175,994.00",NULL

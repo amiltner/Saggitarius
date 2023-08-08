@@ -1,0 +1,239 @@
+Species,InspectionType,Condition,YearMonth,Country,NumberOfConditions,Throughput,NumberOfThroughputPlants,PercentageOfThroughput
+Pigs,AnteMortem,Abnormal Respiratory Signs,2017-07,England,705,367198,103,0.192
+Pigs,AnteMortem,Abnormal Respiratory Signs,2017-08,England,429,345370,103,0.124
+Pigs,AnteMortem,Abnormal Respiratory Signs,2017-09,England,425,336838,104,0.126
+Pigs,AnteMortem,Abnormal Respiratory Signs,2017-07,Wales,9,2422,11,0.372
+Pigs,AnteMortem,Abnormal Respiratory Signs,2017-08,Wales,8,2495,12,0.321
+Pigs,AnteMortem,Abnormal Respiratory Signs,2017-09,Wales,10,2248,12,0.445
+Pigs,AnteMortem,Dead in Lairage ,2017-07,England,16,367198,103,0.004
+Pigs,AnteMortem,Dead in Lairage ,2017-08,England,20,345370,103,0.006
+Pigs,AnteMortem,Dead in Lairage ,2017-09,England,12,336838,104,0.004
+Pigs,AnteMortem,Dead on Arrival,2017-07,England,37,367198,103,0.01
+Pigs,AnteMortem,Dead on Arrival,2017-08,England,46,345370,103,0.013
+Pigs,AnteMortem,Dead on Arrival,2017-09,England,41,336838,104,0.012
+Pigs,AnteMortem,Distress,2017-07,England,19,367198,103,0.005
+Pigs,AnteMortem,Distress,2017-08,England,15,345370,103,0.004
+Pigs,AnteMortem,Distress,2017-09,England,5,336838,104,0.001
+Pigs,AnteMortem,Fight/Bite Wounds,2017-07,England,526,367198,103,0.143
+Pigs,AnteMortem,Fight/Bite Wounds,2017-08,England,319,345370,103,0.092
+Pigs,AnteMortem,Fight/Bite Wounds,2017-09,England,251,336838,104,0.075
+Pigs,AnteMortem,Hernia/Rupture,2017-07,England,1296,367198,103,0.353
+Pigs,AnteMortem,Hernia/Rupture,2017-08,England,854,345370,103,0.247
+Pigs,AnteMortem,Hernia/Rupture,2017-09,England,824,336838,104,0.245
+Pigs,AnteMortem,Hernia/Rupture,2017-07,Wales,1,2422,11,0.041
+Pigs,AnteMortem,Hernia/Rupture,2017-09,Wales,4,2248,12,0.178
+Pigs,AnteMortem,Lameness ??? Foot Lesion(s),2017-07,England,178,367198,103,0.048
+Pigs,AnteMortem,Lameness ??? Foot Lesion(s),2017-08,England,81,345370,103,0.023
+Pigs,AnteMortem,Lameness ??? Foot Lesion(s),2017-09,England,80,336838,104,0.024
+Pigs,AnteMortem,Lameness ??? Joint/Leg Lesion(s),2017-07,England,117,367198,103,0.032
+Pigs,AnteMortem,Lameness ??? Joint/Leg Lesion(s),2017-08,England,119,345370,103,0.034
+Pigs,AnteMortem,Lameness ??? Joint/Leg Lesion(s),2017-09,England,142,336838,104,0.042
+Pigs,AnteMortem,Lameness ??? Joint/Leg Lesion(s),2017-07,Wales,4,2422,11,0.165
+Pigs,AnteMortem,Lameness ??? Joint/Leg Lesion(s),2017-08,Wales,2,2495,12,0.08
+Pigs,AnteMortem,Lameness ??? Joint/Leg Lesion(s),2017-09,Wales,7,2248,12,0.311
+Pigs,AnteMortem,Lameness ??? Not Defined,2017-07,England,618,367198,103,0.168
+Pigs,AnteMortem,Lameness ??? Not Defined,2017-08,England,392,345370,103,0.114
+Pigs,AnteMortem,Lameness ??? Not Defined,2017-09,England,456,336838,104,0.135
+Pigs,AnteMortem,Lameness ??? Not Defined,2017-07,Wales,3,2422,11,0.124
+Pigs,AnteMortem,Lameness ??? Not Defined,2017-08,Wales,1,2495,12,0.04
+Pigs,AnteMortem,Localised Swelling/Lumps,2017-07,England,782,367198,103,0.213
+Pigs,AnteMortem,Localised Swelling/Lumps,2017-08,England,379,345370,103,0.11
+Pigs,AnteMortem,Localised Swelling/Lumps,2017-09,England,356,336838,104,0.106
+Pigs,AnteMortem,Localised Swelling/Lumps,2017-07,Wales,1,2422,11,0.041
+Pigs,AnteMortem,Localised Swelling/Lumps,2017-08,Wales,1,2495,12,0.04
+Pigs,AnteMortem,Localised Swelling/Lumps,2017-09,Wales,4,2248,12,0.178
+Pigs,AnteMortem,Mastitis,2017-07,England,25,367198,103,0.007
+Pigs,AnteMortem,Mastitis,2017-08,England,51,345370,103,0.015
+Pigs,AnteMortem,Mastitis,2017-09,England,25,336838,104,0.007
+Pigs,AnteMortem,Moribund/Recumbent,2017-07,England,2,367198,103,0.001
+Pigs,AnteMortem,Moribund/Recumbent,2017-08,England,4,345370,103,0.001
+Pigs,AnteMortem,Moribund/Recumbent,2017-09,England,1,336838,104,0
+Pigs,AnteMortem,Open Wound,2017-07,England,23,367198,103,0.006
+Pigs,AnteMortem,Open Wound,2017-08,England,9,345370,103,0.003
+Pigs,AnteMortem,Open Wound,2017-09,England,12,336838,104,0.004
+Pigs,AnteMortem,Orchitis,2017-07,England,61,367198,103,0.017
+Pigs,AnteMortem,Orchitis,2017-08,England,21,345370,103,0.006
+Pigs,AnteMortem,Orchitis,2017-09,England,8,336838,104,0.002
+Pigs,AnteMortem,Other ,2017-07,England,158,367198,103,0.043
+Pigs,AnteMortem,Other ,2017-08,England,91,345370,103,0.026
+Pigs,AnteMortem,Other ,2017-09,England,115,336838,104,0.034
+Pigs,AnteMortem,Rectal Prolapse,2017-07,England,62,367198,103,0.017
+Pigs,AnteMortem,Rectal Prolapse,2017-08,England,52,345370,103,0.015
+Pigs,AnteMortem,Rectal Prolapse,2017-09,England,35,336838,104,0.01
+Pigs,AnteMortem,Skin Condition,2017-07,England,170,367198,103,0.046
+Pigs,AnteMortem,Skin Condition,2017-08,England,127,345370,103,0.037
+Pigs,AnteMortem,Skin Condition,2017-09,England,91,336838,104,0.027
+Pigs,AnteMortem,Skin Condition,2017-08,Wales,2,2495,12,0.08
+Pigs,AnteMortem,Slaughtered in Lairage ??? Intended for HC,2017-07,England,100,367198,103,0.027
+Pigs,AnteMortem,Slaughtered in Lairage ??? Intended for HC,2017-08,England,57,345370,103,0.017
+Pigs,AnteMortem,Slaughtered in Lairage ??? Intended for HC,2017-09,England,52,336838,104,0.015
+Pigs,AnteMortem,Suspect Emaciation/Poor Condition,2017-07,England,71,367198,103,0.019
+Pigs,AnteMortem,Suspect Emaciation/Poor Condition,2017-08,England,72,345370,103,0.021
+Pigs,AnteMortem,Suspect Emaciation/Poor Condition,2017-09,England,50,336838,104,0.015
+Pigs,AnteMortem,Suspect Fever,2017-07,England,1,367198,103,0
+Pigs,AnteMortem,Suspect Fever,2017-09,England,2,336838,104,0.001
+Pigs,AnteMortem,Tail Bite (AM),2017-07,England,1361,367198,103,0.371
+Pigs,AnteMortem,Tail Bite (AM),2017-08,England,1121,345370,103,0.325
+Pigs,AnteMortem,Tail Bite (AM),2017-09,England,1058,336838,104,0.314
+Pigs,AnteMortem,Tail Bite (AM),2017-07,Wales,2,2422,11,0.083
+Pigs,AnteMortem,Tail Bite (AM),2017-08,Wales,1,2495,12,0.04
+Pigs,AnteMortem,Tail Bite (AM),2017-09,Wales,1,2248,12,0.044
+Pigs,Carcases,Abscess - Multiple,2017-07,England,179,367198,103,0.049
+Pigs,Carcases,Abscess - Multiple,2017-08,England,129,345370,103,0.037
+Pigs,Carcases,Abscess - Multiple,2017-09,England,146,336838,104,0.043
+Pigs,Carcases,Abscess - Single,2017-07,England,3659,367198,103,0.996
+Pigs,Carcases,Abscess - Single,2017-08,England,2802,345370,103,0.811
+Pigs,Carcases,Abscess - Single,2017-09,England,2998,336838,104,0.89
+Pigs,Carcases,Abscess - Single,2017-07,Wales,3,2422,11,0.124
+Pigs,Carcases,Abscess - Single,2017-08,Wales,2,2495,12,0.08
+Pigs,Carcases,Abscess - Single,2017-09,Wales,2,2248,12,0.089
+Pigs,Carcases,Contamination,2017-07,England,7795,367198,103,2.123
+Pigs,Carcases,Contamination,2017-08,England,7226,345370,103,2.092
+Pigs,Carcases,Contamination,2017-09,England,8217,336838,104,2.439
+Pigs,Carcases,Contamination,2017-08,Wales,2,2495,12,0.08
+Pigs,Carcases,Contamination,2017-09,Wales,3,2248,12,0.133
+Pigs,Carcases,Erysipelas Skin Like,2017-07,England,282,367198,103,0.077
+Pigs,Carcases,Erysipelas Skin Like,2017-08,England,142,345370,103,0.041
+Pigs,Carcases,Erysipelas Skin Like,2017-09,England,166,336838,104,0.049
+Pigs,Carcases,Erysipelas Skin Like,2017-08,Wales,1,2495,12,0.04
+Pigs,Carcases,Fight Marks,2017-07,England,502,367198,103,0.137
+Pigs,Carcases,Fight Marks,2017-08,England,374,345370,103,0.108
+Pigs,Carcases,Fight Marks,2017-09,England,303,336838,104,0.09
+Pigs,Carcases,Fight Marks,2017-08,Wales,1,2495,12,0.04
+Pigs,Carcases,Joint Lesion - Mulitple,2017-07,England,302,367198,103,0.082
+Pigs,Carcases,Joint Lesion - Mulitple,2017-08,England,220,345370,103,0.064
+Pigs,Carcases,Joint Lesion - Mulitple,2017-09,England,274,336838,104,0.081
+Pigs,Carcases,Joint Lesion - Single,2017-07,England,1622,367198,103,0.442
+Pigs,Carcases,Joint Lesion - Single,2017-08,England,1358,345370,103,0.393
+Pigs,Carcases,Joint Lesion - Single,2017-09,England,1332,336838,104,0.395
+Pigs,Carcases,Joint Lesion - Single,2017-07,Wales,8,2422,11,0.33
+Pigs,Carcases,Joint Lesion - Single,2017-08,Wales,2,2495,12,0.08
+Pigs,Carcases,Joint Lesion - Single,2017-09,Wales,3,2248,12,0.133
+Pigs,Carcases,Other,2017-07,England,2280,367198,103,0.621
+Pigs,Carcases,Other,2017-08,England,1623,345370,103,0.47
+Pigs,Carcases,Other,2017-09,England,1807,336838,104,0.536
+Pigs,Carcases,Other,2017-07,Wales,4,2422,11,0.165
+Pigs,Carcases,Papular Dermatitis Like,2017-07,England,639,367198,103,0.174
+Pigs,Carcases,Papular Dermatitis Like,2017-08,England,446,345370,103,0.129
+Pigs,Carcases,Papular Dermatitis Like,2017-09,England,410,336838,104,0.122
+Pigs,Carcases,Papular Dermatitis Like,2017-09,Wales,1,2248,12,0.044
+Pigs,Carcases,Pleurisy Parietal,2017-07,England,16122,367198,103,4.391
+Pigs,Carcases,Pleurisy Parietal,2017-08,England,13694,345370,103,3.965
+Pigs,Carcases,Pleurisy Parietal,2017-09,England,12549,336838,104,3.726
+Pigs,Carcases,Pleurisy Parietal,2017-07,Wales,1,2422,11,0.041
+Pigs,Carcases,Pleurisy Parietal,2017-08,Wales,3,2495,12,0.12
+Pigs,Carcases,Pleurisy Visceral,2017-07,England,2590,367198,103,0.705
+Pigs,Carcases,Pleurisy Visceral,2017-08,England,1202,345370,103,0.348
+Pigs,Carcases,Pleurisy Visceral,2017-09,England,1180,336838,104,0.35
+Pigs,Carcases,Tail Bite (PM),2017-07,England,1211,367198,103,0.33
+Pigs,Carcases,Tail Bite (PM),2017-08,England,840,345370,103,0.243
+Pigs,Carcases,Tail Bite (PM),2017-09,England,1355,336838,104,0.402
+Pigs,Offal,Abscess - Multiple,2017-07,England,221,367198,103,0.06
+Pigs,Offal,Abscess - Multiple,2017-08,England,220,345370,103,0.064
+Pigs,Offal,Abscess - Multiple,2017-09,England,232,336838,104,0.069
+Pigs,Offal,Abscess - Single,2017-07,England,1605,367198,103,0.437
+Pigs,Offal,Abscess - Single,2017-08,England,1229,345370,103,0.356
+Pigs,Offal,Abscess - Single,2017-09,England,1143,336838,104,0.339
+Pigs,Offal,Abscess - Single,2017-07,Wales,1,2422,11,0.041
+Pigs,Offal,Abscess - Single,2017-09,Wales,3,2248,12,0.133
+Pigs,Offal,Contamination,2017-07,England,5689,367198,103,1.549
+Pigs,Offal,Contamination,2017-08,England,3834,345370,103,1.11
+Pigs,Offal,Contamination,2017-09,England,4574,336838,104,1.358
+Pigs,Offal,Contamination,2017-07,Wales,1,2422,11,0.041
+Pigs,Offal,Contamination,2017-08,Wales,3,2495,12,0.12
+Pigs,Offal,Contamination,2017-09,Wales,1,2248,12,0.044
+Pigs,Offal,Endocarditis,2017-07,England,30,367198,103,0.008
+Pigs,Offal,Endocarditis,2017-08,England,38,345370,103,0.011
+Pigs,Offal,Endocarditis,2017-09,England,33,336838,104,0.01
+Pigs,Offal,Kidney Lesions ,2017-07,England,8470,367198,103,2.307
+Pigs,Offal,Kidney Lesions ,2017-08,England,8750,345370,103,2.534
+Pigs,Offal,Kidney Lesions ,2017-09,England,8476,336838,104,2.516
+Pigs,Offal,Kidney Lesions ,2017-07,Wales,51,2422,11,2.106
+Pigs,Offal,Kidney Lesions ,2017-08,Wales,56,2495,12,2.244
+Pigs,Offal,Kidney Lesions ,2017-09,Wales,52,2248,12,2.313
+Pigs,Offal,Milk Spot,2017-07,England,14800,367198,103,4.031
+Pigs,Offal,Milk Spot,2017-08,England,12624,345370,103,3.655
+Pigs,Offal,Milk Spot,2017-09,England,12741,336838,104,3.783
+Pigs,Offal,Milk Spot,2017-07,Wales,451,2422,11,18.621
+Pigs,Offal,Milk Spot,2017-08,Wales,577,2495,12,23.126
+Pigs,Offal,Milk Spot,2017-09,Wales,490,2248,12,21.797
+Pigs,Offal,Other,2017-07,England,1070,367198,103,0.291
+Pigs,Offal,Other,2017-08,England,836,345370,103,0.242
+Pigs,Offal,Other,2017-09,England,763,336838,104,0.227
+Pigs,Offal,Other,2017-07,Wales,11,2422,11,0.454
+Pigs,Offal,Other,2017-08,Wales,34,2495,12,1.363
+Pigs,Offal,Other,2017-09,Wales,24,2248,12,1.068
+Pigs,Offal,Pericarditis,2017-07,England,14315,367198,103,3.898
+Pigs,Offal,Pericarditis,2017-08,England,10345,345370,103,2.995
+Pigs,Offal,Pericarditis,2017-09,England,9943,336838,104,2.952
+Pigs,Offal,Pericarditis,2017-07,Wales,40,2422,11,1.652
+Pigs,Offal,Pericarditis,2017-08,Wales,57,2495,12,2.285
+Pigs,Offal,Pericarditis,2017-09,Wales,29,2248,12,1.29
+Pigs,Offal,Peritonitis,2017-07,England,6355,367198,103,1.731
+Pigs,Offal,Peritonitis,2017-08,England,5949,345370,103,1.723
+Pigs,Offal,Peritonitis,2017-09,England,5909,336838,104,1.754
+Pigs,Offal,Peritonitis,2017-08,Wales,3,2495,12,0.12
+Pigs,Offal,Peritonitis,2017-09,Wales,1,2248,12,0.044
+Pigs,Offal,Pleurisy visceral,2017-07,England,11662,367198,103,3.176
+Pigs,Offal,Pleurisy visceral,2017-08,England,12583,345370,103,3.643
+Pigs,Offal,Pleurisy visceral,2017-09,England,11574,336838,104,3.436
+Pigs,Offal,Pleurisy visceral,2017-07,Wales,18,2422,11,0.743
+Pigs,Offal,Pleurisy visceral,2017-08,Wales,5,2495,12,0.2
+Pigs,Offal,Pleurisy visceral,2017-09,Wales,27,2248,12,1.201
+Pigs,Offal,Pneumonia ??? Mild,2017-07,England,20939,367198,103,5.702
+Pigs,Offal,Pneumonia ??? Mild,2017-08,England,19518,345370,103,5.651
+Pigs,Offal,Pneumonia ??? Mild,2017-09,England,20478,336838,104,6.079
+Pigs,Offal,Pneumonia ??? Mild,2017-07,Wales,273,2422,11,11.272
+Pigs,Offal,Pneumonia ??? Mild,2017-08,Wales,213,2495,12,8.537
+Pigs,Offal,Pneumonia ??? Mild,2017-09,Wales,240,2248,12,10.676
+Pigs,Offal,Pneumonia ??? Severe,2017-07,England,7465,367198,103,2.033
+Pigs,Offal,Pneumonia ??? Severe,2017-08,England,7618,345370,103,2.206
+Pigs,Offal,Pneumonia ??? Severe,2017-09,England,6645,336838,104,1.973
+Pigs,Offal,Pneumonia ??? Severe,2017-07,Wales,4,2422,11,0.165
+Pigs,Offal,Pneumonia ??? Severe,2017-08,Wales,33,2495,12,1.323
+Pigs,Offal,Pneumonia ??? Severe,2017-09,Wales,13,2248,12,0.578
+Pigs,Total Rejection,Anaemia,2017-07,England,17,367198,103,0.005
+Pigs,Total Rejection,Anaemia,2017-08,England,28,345370,103,0.008
+Pigs,Total Rejection,Anaemia,2017-09,England,7,336838,104,0.002
+Pigs,Total Rejection,Badly Bled,2017-07,England,2,367198,103,0.001
+Pigs,Total Rejection,Badly Bled,2017-08,England,3,345370,103,0.001
+Pigs,Total Rejection,Badly Bled,2017-09,England,1,336838,104,0
+Pigs,Total Rejection,Contamination,2017-07,England,41,367198,103,0.011
+Pigs,Total Rejection,Contamination,2017-08,England,16,345370,103,0.005
+Pigs,Total Rejection,Contamination,2017-09,England,10,336838,104,0.003
+Pigs,Total Rejection,Emaciation/Generalised Oedema,2017-07,England,53,367198,103,0.014
+Pigs,Total Rejection,Emaciation/Generalised Oedema,2017-08,England,53,345370,103,0.015
+Pigs,Total Rejection,Emaciation/Generalised Oedema,2017-09,England,56,336838,104,0.017
+Pigs,Total Rejection,Emaciation/Generalised Oedema,2017-08,Wales,1,2495,12,0.04
+Pigs,Total Rejection,Fever/Septicaemia/Toxaemia,2017-07,England,24,367198,103,0.007
+Pigs,Total Rejection,Fever/Septicaemia/Toxaemia,2017-08,England,26,345370,103,0.008
+Pigs,Total Rejection,Fever/Septicaemia/Toxaemia,2017-09,England,28,336838,104,0.008
+Pigs,Total Rejection,Fever/Septicaemia/Toxaemia,2017-07,Wales,1,2422,11,0.041
+Pigs,Total Rejection,Jaundice,2017-07,England,6,367198,103,0.002
+Pigs,Total Rejection,Jaundice,2017-08,England,11,345370,103,0.003
+Pigs,Total Rejection,Jaundice,2017-09,England,6,336838,104,0.002
+Pigs,Total Rejection,Other,2017-07,England,23,367198,103,0.006
+Pigs,Total Rejection,Other,2017-08,England,11,345370,103,0.003
+Pigs,Total Rejection,Other,2017-09,England,17,336838,104,0.005
+Pigs,Total Rejection,Polyarthritis,2017-07,England,52,367198,103,0.014
+Pigs,Total Rejection,Polyarthritis,2017-08,England,63,345370,103,0.018
+Pigs,Total Rejection,Polyarthritis,2017-09,England,75,336838,104,0.022
+Pigs,Total Rejection,Polyarthritis,2017-09,Wales,2,2248,12,0.089
+Pigs,Total Rejection,Processing Fault,2017-07,England,55,367198,103,0.015
+Pigs,Total Rejection,Processing Fault,2017-08,England,54,345370,103,0.016
+Pigs,Total Rejection,Processing Fault,2017-09,England,120,336838,104,0.036
+Pigs,Total Rejection,Pyaemia/Multiple Abscess,2017-07,England,301,367198,103,0.082
+Pigs,Total Rejection,Pyaemia/Multiple Abscess,2017-08,England,294,345370,103,0.085
+Pigs,Total Rejection,Pyaemia/Multiple Abscess,2017-09,England,212,336838,104,0.063
+Pigs,Total Rejection,Pyaemia/Multiple Abscess,2017-07,Wales,3,2422,11,0.124
+Pigs,Total Rejection,Pyaemia/Multiple Abscess,2017-09,Wales,1,2248,12,0.044
+Pigs,Total Rejection,Pyaemia/Multiple Abscess - Tail Bite,2017-07,England,125,367198,103,0.034
+Pigs,Total Rejection,Pyaemia/Multiple Abscess - Tail Bite,2017-08,England,129,345370,103,0.037
+Pigs,Total Rejection,Pyaemia/Multiple Abscess - Tail Bite,2017-09,England,116,336838,104,0.034
+Pigs,Total Rejection,Pyaemia/Multiple Abscess - Tail Bite,2017-08,Wales,1,2495,12,0.04
+Pigs,Total Rejection,Septic Peritonitis & Pleurisy,2017-07,England,112,367198,103,0.031
+Pigs,Total Rejection,Septic Peritonitis & Pleurisy,2017-08,England,86,345370,103,0.025
+Pigs,Total Rejection,Septic Peritonitis & Pleurisy,2017-09,England,75,336838,104,0.022
+Pigs,Total Rejection,Septic Pleurisy,2017-07,England,17,367198,103,0.005
+Pigs,Total Rejection,Septic Pleurisy,2017-08,England,24,345370,103,0.007
+Pigs,Total Rejection,Septic Pleurisy,2017-09,England,24,336838,104,0.007

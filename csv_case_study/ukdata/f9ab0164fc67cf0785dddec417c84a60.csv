@@ -1,0 +1,541 @@
+Department Family ,Entity, Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,Distribution Line Number
+DCMS,ODA,01-Jun-2011,Tier 1 Contractors,Stratford City Development,Stratford City Developments Limited,57836,1388579.00,1
+DCMS,ODA,01-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Stratford City Developments Limited,57836,277715.80,2
+DCMS,ODA,01-Jun-2011,Tier 1 Contractors,Stratford City Development,Stratford City Developments Limited,57836,-1388579.00,3
+DCMS,ODA,01-Jun-2011,Tier 1 Contractors,Stratford City Development,Stratford City Developments Limited,57836,1388579.00,4
+DCMS,ODA,01-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Stratford City Developments Limited,57836,-277715.80,6
+DCMS,ODA,06-Jun-2011,Consultants,Enabling Works ATKINS work streams close out,Atkins Limited,56924,45411.30,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,56924,9082.26,2
+DCMS,ODA,06-Jun-2011,Other Professional Fees,Travel Demand Management,M&C SAATCHI (UK) Limited,57039,59350.00,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,M&C SAATCHI (UK) Limited,57039,11870.00,2
+DCMS,ODA,06-Jun-2011,Supervisor,Aquatics - Supervisor,ME Engineering Ltd,57388,21005.00,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,ME Engineering Ltd,57388,4201.00,2
+DCMS,ODA,06-Jun-2011,Supervisor,Aquatics - Supervisor,Sport Concepts Design Ltd,57497,36260.00,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Sport Concepts Design Ltd,57497,7252.00,2
+DCMS,ODA,06-Jun-2011,Consultants,SBH SP CDM Co-Ordinator South Park post 01/04/07,Ove Arup & Partners Limited,57579,21548.61,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,57579,4309.72,2
+DCMS,ODA,06-Jun-2011,Consultants,South Park Landscape Engineer,Ove Arup & Partners Limited,57591,7701.20,1
+DCMS,ODA,06-Jun-2011,Consultants,South Park Landscape Engineer,Ove Arup & Partners Limited,57591,6584.00,2
+DCMS,ODA,06-Jun-2011,Consultants,South Park Landscape Engineer,Ove Arup & Partners Limited,57591,7355.55,3
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,57591,4328.15,4
+DCMS,ODA,06-Jun-2011,Consultants,South Park Landscape Engineer,Ove Arup & Partners Limited,57670,23675.13,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,57670,4735.03,2
+DCMS,ODA,06-Jun-2011,Consultants,South Park Landscape Engineer,Ove Arup & Partners Limited,57671,885.09,1
+DCMS,ODA,06-Jun-2011,Consultants,South Park Landscape Engineer,Ove Arup & Partners Limited,57671,31353.00,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,57671,6447.62,3
+DCMS,ODA,06-Jun-2011,Project Manager,Angel Lane Freight Loop & Plat 10A,Fitzpatrick Contractors Ltd,57694,49939.45,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Fitzpatrick Contractors Ltd,57694,9987.89,2
+DCMS,ODA,06-Jun-2011,Grant Payable,Europa Gymnastics,London Borough of Bexley,57695,171730.74,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57745,66439.67,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57745,4771.12,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57745,954.22,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57746,66439.67,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57746,4771.12,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57746,954.22,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57748,423300.23,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57748,30397.77,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57748,6079.55,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57749,106501.47,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57749,7648.02,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57749,1529.60,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57751,49185.32,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57751,3532.06,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57751,706.41,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57754,300711.04,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57754,6136.96,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57754,1227.39,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57756,300711.04,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57756,6136.96,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57756,1227.39,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57757,367688.65,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57757,7503.85,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57757,1500.77,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57759,367688.65,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57759,7503.85,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57759,1500.77,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57761,2251069.80,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57761,45940.20,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57761,9188.04,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57763,463606.60,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,57763,9461.36,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57763,1892.27,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Academy Building,Lend Lease Europe Ltd,57767,37674.22,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57767,7534.84,2
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Academy Building,Lend Lease Europe Ltd,57768,37674.22,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57768,7534.84,2
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Academy Building,Lend Lease Europe Ltd,57769,22462.50,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57769,4492.50,2
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Academy Building,Lend Lease Europe Ltd,57770,112652.00,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57770,22530.40,2
+DCMS,ODA,06-Jun-2011,Construction contractor,BAM Nuttall Prelims North Park,BAM Nuttall Ltd,57799,3658288.00,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,BAM Nuttall Ltd,57799,731657.60,2
+DCMS,ODA,06-Jun-2011,Holding Cost Payments,Triathlon Holding Costs Payment,Triathlon Homes LLP,57811,1256829.56,1
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Lightweight Event Structures,Nussli (Switzerland) Ltd,57835,180869.00,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Nussli (Switzerland) Ltd,57835,36173.80,2
+DCMS,ODA,06-Jun-2011,Legal - Other,ODA Sales and Marketing Costs,Ernst & Young LLP,57870,18244.00,1
+DCMS,ODA,06-Jun-2011,Consultants,Olympic Village Sales and Marketing,Ernst & Young LLP,57870,24560.00,2
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ernst & Young LLP,57870,8560.80,3
+DCMS,ODA,06-Jun-2011,Consultants,Olympic Village Sales and Marketing,Ernst & Young LLP,57871,79655.00,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ernst & Young LLP,57871,15931.00,2
+DCMS,ODA,06-Jun-2011,Construction contractor,Aquatics Legacy Work,Balfour Beatty Construction Ltd,57889,200000.00,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Balfour Beatty Construction Ltd,57889,40000.00,2
+DCMS,ODA,06-Jun-2011,Construction contractor,Aquatics Legacy Work,Balfour Beatty Construction Ltd,57889,-200000.00,3
+DCMS,ODA,06-Jun-2011,Construction contractor,Aquatics Other Costs,Balfour Beatty Construction Ltd,57889,200000.00,4
+DCMS,ODA,06-Jun-2011,Tier 1 Contractors,Water Polo Building Services,Byrne Group plc,57950,819460.46,1
+DCMS,ODA,06-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Byrne Group plc,57950,163892.09,2
+DCMS,ODA,08-Jun-2011,Construction contractor,Electrical Network Own&Operate - Construction,Lea Valley Utilities Limited,57259,113337.00,1
+DCMS,ODA,08-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lea Valley Utilities Limited,57259,22667.40,2
+DCMS,ODA,08-Jun-2011,Construction contractor,Electrical Network Own&Operate - Construction,Lea Valley Utilities Limited,57260,408488.00,1
+DCMS,ODA,08-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lea Valley Utilities Limited,57260,81697.60,2
+DCMS,ODA,10-Jun-2011,Consultants,Venue and Park Transformation,London Borough Of Hackney,58307,2000000.00,1
+DCMS,ODA,13-Jun-2011,Consultants,PGTD - Lead Engineer South,Ove Arup & Partners Limited,56464,142533.33,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,56464,28506.67,2
+DCMS,ODA,13-Jun-2011,Consultants,PGTD - Lead Engineer North,Atkins Limited,56900,192941.92,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,56900,38588.38,2
+DCMS,ODA,13-Jun-2011,Consultants,Utilities Design Co-Ordination,Atkins Limited,56911,44823.13,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,56911,8964.63,2
+DCMS,ODA,13-Jun-2011,Consultants,Common Domain LV Network - Construction,Atkins Limited,56913,27559.16,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,56913,5511.83,2
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Archaeology,Wessex Archaeology Ltd,57230,35690.45,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Wessex Archaeology Ltd,57230,7138.09,2
+DCMS,ODA,13-Jun-2011,IT Consultancy,HMG Accreditation,Atos Origin IT Services UK Ltd,57453,71591.48,1
+DCMS,ODA,13-Jun-2011,IT Consultancy,HMG Accreditation,Atos Origin IT Services UK Ltd,57453,48937.35,2
+DCMS,ODA,13-Jun-2011,IT Consultancy,HMG Accreditation,Atos Origin IT Services UK Ltd,57453,23059.61,3
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos Origin IT Services UK Ltd,57453,28717.69,4
+DCMS,ODA,13-Jun-2011,IT Consultancy,Desktop Roll out and SCCM,Atos Origin IT Services UK Ltd,57458,34748.82,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos Origin IT Services UK Ltd,57458,6949.76,2
+DCMS,ODA,13-Jun-2011,IT Consultancy,Desktop Roll out and SCCM,Atos Origin IT Services UK Ltd,57483,43084.80,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos Origin IT Services UK Ltd,57483,8616.96,2
+DCMS,ODA,13-Jun-2011,IT Consultancy,Desktop Roll out and SCCM,Atos Origin IT Services UK Ltd,57484,58839.00,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos Origin IT Services UK Ltd,57484,11767.80,2
+DCMS,ODA,13-Jun-2011,Other Professional Fees,Information Knowledge Management OPEX,Atos Origin IT Services UK Ltd,57485,97776.00,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos Origin IT Services UK Ltd,57485,19555.20,2
+DCMS,ODA,13-Jun-2011,Site occupational health,Village Vertical Build OH Delivery Transfer,Health Management Ltd,57503,52959.00,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Health Management Ltd,57503,10591.80,2
+DCMS,ODA,13-Jun-2011,Site occupational health,OC - Park Health,Health Management Ltd,57504,54315.00,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Health Management Ltd,57504,10863.00,2
+DCMS,ODA,13-Jun-2011,Legal - Tenders,Utilities ODA Costs,Berwin Leighton Paisner LLP,57612,29976.85,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Berwin Leighton Paisner LLP,57612,5995.37,2
+DCMS,ODA,13-Jun-2011,Consultants,PGTD - Architectural Consultant,EDAW Limited,57660,54299.01,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,EDAW Limited,57660,10859.80,2
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Powerlines undergrounding,National Grid Electricity Transmission Plc,57662,245014.94,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,National Grid Electricity Transmission Plc,57662,49002.99,2
+DCMS,ODA,13-Jun-2011,Construction contractor,Broxbourne Construction,Morrison Construction Ltd,57713,124821.59,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Morrison Construction Ltd,57713,24964.32,2
+DCMS,ODA,13-Jun-2011,Consultants,Stanton Williams,Stanton Williams,57773,53859.36,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Stanton Williams,57773,10771.87,2
+DCMS,ODA,13-Jun-2011,Construction contractor,West Ham Station,Barhale Construction Plc,57819,41388.09,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Barhale Construction Plc,57819,8277.62,2
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57820,3400448.42,1
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,57820,244190.83,2
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,57820,48838.17,4
+DCMS,ODA,13-Jun-2011,Project Manager,Angel Lane Freight Loop & Plat 10A,Fitzpatrick Contractors Ltd,57837,58998.57,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Fitzpatrick Contractors Ltd,57837,11799.71,2
+DCMS,ODA,13-Jun-2011,Consultants,Construction Tech Support - SBH North Park,Atkins Limited,57838,39328.76,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,57838,7865.75,2
+DCMS,ODA,13-Jun-2011,Consultants,SBH Legacy Atkins,Atkins Limited,57844,29386.66,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,57844,5877.33,2
+DCMS,ODA,13-Jun-2011,Consultants,SBH NP - Engineering Mgt  NP ( post 01/04/07),Atkins Limited,57851,63242.48,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,57851,12648.50,2
+DCMS,ODA,13-Jun-2011,Delivery partner CLM,Programme Management & Integration,CLM Delivery Partner Ltd,57925,3268681.72,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,57925,653736.35,2
+DCMS,ODA,13-Jun-2011,Delivery partner CLM,Programme Management & Integration,CLM Delivery Partner Ltd,57925,-3268681.72,3
+DCMS,ODA,13-Jun-2011,Delivery partner CLM,Programme Management & Integration,CLM Delivery Partner Ltd,57925,3028681.59,4
+DCMS,ODA,13-Jun-2011,Delivery partner CLM,Programme Management & Integration,CLM Delivery Partner Ltd,57925,240000.13,5
+DCMS,ODA,13-Jun-2011,Consultants,CLM Fees,CLM Delivery Partner Ltd,57926,29203.68,1
+DCMS,ODA,13-Jun-2011,Consultants,CLM Fees,CLM Delivery Partner Ltd,57926,161404.40,2
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,57926,38121.61,3
+DCMS,ODA,13-Jun-2011,Consultants,CLM Fees,CLM Delivery Partner Ltd,57926,-161404.40,4
+DCMS,ODA,13-Jun-2011,Consultants,CLM Fees,CLM Delivery Partner Ltd,57926,161404.20,5
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,57926,-0.04,6
+DCMS,ODA,13-Jun-2011,Consultants,CLM Delivery Partner,CLM Delivery Partner Ltd,57927,65274.67,1
+DCMS,ODA,13-Jun-2011,Consultants,CLM Delivery Partner,CLM Delivery Partner Ltd,57927,58042.33,2
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,57927,24663.40,3
+DCMS,ODA,13-Jun-2011,Delivery partner CLM,Programme Management & Integration,CLM Delivery Partner Ltd,57928,54520.35,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,57928,10904.07,2
+DCMS,ODA,13-Jun-2011,Delivery partner CLM,Programme Management & Integration,CLM Delivery Partner Ltd,57929,96666.88,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,57929,19333.37,2
+DCMS,ODA,13-Jun-2011,Framework consultancy,Commercial Close-out Costs,Turner & Townsend Ltd,57943,31375.00,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Turner & Townsend Ltd,57943,6275.00,2
+DCMS,ODA,13-Jun-2011,Site security,Nth Retail L/L north CAPEX - CPSS,Fitzpatrick Contractors Ltd,58003,97991.50,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Fitzpatrick Contractors Ltd,58003,19598.30,2
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,BELC - Bow East Logistics Facility,Wingate Electrical Plc,58004,393.92,1
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Mechanical services,Wingate Electrical Plc,58004,2974.28,2
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Village Access Control Costs,Wingate Electrical Plc,58004,18460.08,3
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Aquatics Other Costs,Wingate Electrical Plc,58004,41769.29,4
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,ICT - Data cabling civils - cable installation & maintenance,Wingate Electrical Plc,58004,87121.10,5
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,SHM - Surface water,Wingate Electrical Plc,58004,1590.53,6
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,TU MC - Wingate,Wingate Electrical Plc,58004,233612.51,7
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,TU MC - Wingate,Wingate Electrical Plc,58004,-2893.72,8
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Site Preliminaries,Wingate Electrical Plc,58004,17469.59,9
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Wingate Electrical Plc,58004,80099.52,10
+DCMS,ODA,13-Jun-2011,Other Professional Fees,Heavy Rail Timetable Changes,ATOC Ltd,58063,169138.00,1
+DCMS,ODA,13-Jun-2011,Grant Payable,Redbridge Sport & Leisure,Redbridge Sports Centre Trust Ltd,58084,113654.00,1
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Stratford City Development,Stratford City Developments Limited,58092,1225297.00,1
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58177,1990163.42,1
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58177,40615.58,2
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58177,8123.12,4
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Academy Building,Lend Lease Europe Ltd,58178,119103.00,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58178,23820.60,2
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Olympic Village Sales and Marketing,Lend Lease Europe Ltd,58179,42107.66,1
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,Olympic Village Sales and Marketing,Lend Lease Europe Ltd,58179,859.34,2
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58179,171.87,4
+DCMS,ODA,13-Jun-2011,Construction contractor,South Park Construction Packages,Skanska Construction UK Ltd t/a Skanska Infrastructure Services,58214,2043325.08,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Skanska Construction UK Ltd t/a Skanska Infrastructure Services,58214,408665.02,2
+DCMS,ODA,13-Jun-2011,Site security,Guarding - G4S,G4S Security Services (UK) Limited,58215,347867.51,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,G4S Security Services (UK) Limited,58215,69573.50,2
+DCMS,ODA,13-Jun-2011,Site security,Village Access Control Costs,G4S Security Services (UK) Limited,58217,23377.51,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,G4S Security Services (UK) Limited,58217,4675.50,2
+DCMS,ODA,13-Jun-2011,Site security,Guarding - G4S,G4S Security Services (UK) Limited,58218,1287758.28,1
+DCMS,ODA,13-Jun-2011,Site security,Non-Potable Network - Construction,G4S Security Services (UK) Limited,58218,6293.02,2
+DCMS,ODA,13-Jun-2011,Site security,Guarding - G4S,G4S Security Services (UK) Limited,58218,133070.38,3
+DCMS,ODA,13-Jun-2011,Site security,Water Polo Guarding,G4S Security Services (UK) Limited,58218,13902.62,4
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,G4S Security Services (UK) Limited,58218,288204.86,5
+DCMS,ODA,13-Jun-2011,Construction contractor,Stadium,Sir Robert McAlpine Ltd,58267,93516.01,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Sir Robert McAlpine Ltd,58267,18703.20,2
+DCMS,ODA,13-Jun-2011,Tier 1 Contractors,MPC / IBC,Carillion Building,58279,9289457.16,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Carillion Building,58279,1857891.43,2
+DCMS,ODA,13-Jun-2011,Civil engineer,SPWUT South,Jackson Civil Engineering Group Limited,58281,108163.19,1
+DCMS,ODA,13-Jun-2011,Civil engineer,SPWUT South,Jackson Civil Engineering Group Limited,58281,61876.74,2
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Jackson Civil Engineering Group Limited,58281,34007.99,3
+DCMS,ODA,13-Jun-2011,Construction contractor,Village Vertical Development,Lend Lease Europe Ltd,58309,9475451.34,1
+DCMS,ODA,13-Jun-2011,Construction contractor,Village Vertical Development,Lend Lease Europe Ltd,58309,193376.56,2
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58309,38675.31,4
+DCMS,ODA,13-Jun-2011,Construction contractor,Academy Building,Lend Lease Europe Ltd,58310,1708625.00,1
+DCMS,ODA,13-Jun-2011,Construction contractor,Academy Building,Lend Lease Europe Ltd,58310,775637.00,2
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58310,496852.40,3
+DCMS,ODA,13-Jun-2011,Internal Building Maintenance,Handball,Buckingham Group Contracting Ltd,58403,145913.00,1
+DCMS,ODA,13-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Buckingham Group Contracting Ltd,58403,29182.60,2
+DCMS,ODA,20-Jun-2011,Compulsory Purchase Orders,Stratford City Negotiations,London Development Agency,1898,-67757.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,London Development Agency,1898,-10163.55,2
+DCMS,ODA,20-Jun-2011,Consultants,Risk & Audit,Ernst & Young LLP,2105,-68728.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ernst & Young LLP,2105,-13745.60,2
+DCMS,ODA,20-Jun-2011,Delivery partner CLM,Programme Management & Integration,CLM Delivery Partner Ltd,2123,-240000.13,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,2123,-42000.02,2
+DCMS,ODA,20-Jun-2011,Consultants,Lot 6 Energy Centre - Construction,Cofely East London Energy Ltd,56054,100128.19,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Cofely East London Energy Ltd,56054,20025.64,2
+DCMS,ODA,20-Jun-2011,Consultants,SBH SP - Engineering Mgt South Park (post 01/04/07),Ove Arup & Partners Limited,56420,61319.83,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,56420,12263.97,2
+DCMS,ODA,20-Jun-2011,Consultants,Human Resources,Ernst & Young LLP,57034,21982.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ernst & Young LLP,57034,4396.40,2
+DCMS,ODA,20-Jun-2011,Consultants,Lot 6 Energy Centre - Construction,Cofely East London Energy Ltd,57258,294804.80,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Cofely East London Energy Ltd,57258,58960.96,2
+DCMS,ODA,20-Jun-2011,Other Professional Fees,Staffing and General Management Opex,Booz Allen Hamilton Ltd,57702,24000.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Booz Allen Hamilton Ltd,57702,4800.00,2
+DCMS,ODA,20-Jun-2011,Other Professional Fees,Travel Demand Management,M&C SAATCHI (UK) Limited,57750,87518.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,M&C SAATCHI (UK) Limited,57750,17503.60,2
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,SHM - Surface water,Veolia Environmental Services,57764,22480.98,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Veolia Environmental Services,57764,4496.20,2
+DCMS,ODA,20-Jun-2011,Construction contractor,Lot 6 Energy Centre - IBC MPC Connections,Cofely East London Energy Ltd,57796,300420.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Cofely East London Energy Ltd,57796,60084.00,2
+DCMS,ODA,20-Jun-2011,Supervisor,North Park Project Supervisor - Capita Symonds,Capita Symonds Limited,57825,33993.44,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Capita Symonds Limited,57825,6798.69,2
+DCMS,ODA,20-Jun-2011,Consultants,Olympic Village Sales and Marketing,Ernst & Young LLP,57872,68266.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ernst & Young LLP,57872,13653.20,2
+DCMS,ODA,20-Jun-2011,Consultants,Risk & Audit,Ernst & Young LLP,57877,36667.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ernst & Young LLP,57877,7333.40,2
+DCMS,ODA,20-Jun-2011,Consultants,Risk & Audit,Ernst & Young LLP,57878,70965.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ernst & Young LLP,57878,14193.00,2
+DCMS,ODA,20-Jun-2011,Consultants,Risk & Audit,Ernst & Young LLP,57879,106987.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ernst & Young LLP,57879,21397.40,2
+DCMS,ODA,20-Jun-2011,Construction contractor,Lot 6 Energy Centre - IBC MPC Connections,Cofely East London Energy Ltd,57895,45996.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Cofely East London Energy Ltd,57895,9199.20,2
+DCMS,ODA,20-Jun-2011,Project Manager,Olympic Village Z2-7 ODA Assurance Costs,URS Scott Wilson Ltd.,57973,26081.25,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,URS Scott Wilson Ltd.,57973,5216.25,2
+DCMS,ODA,20-Jun-2011,Delivery Partner Performance Payments,Delivery Partner Performance Payments,CLM Delivery Partner Ltd,58020,250893.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,58020,50178.60,2
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,TTW Mis - Miscellaneous,Taylor Woodrow Construction,58056,10784.09,1
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Site Preliminaries,Taylor Woodrow Construction,58056,457.07,2
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,TTW Mis - Miscellaneous,Taylor Woodrow Construction,58056,1482.87,3
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,IT works for enrolment and passes,Taylor Woodrow Construction,58056,63426.22,4
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Maintenance - Logistics,Taylor Woodrow Construction,58056,60873.03,5
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Taylor Woodrow Construction,58056,27404.66,6
+DCMS,ODA,20-Jun-2011,Compulsory Purchase Orders,Stratford City Negotiations,London Development Agency,58057,422212.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,London Development Agency,58057,84442.40,2
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,58180,467135.37,1
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,58180,33545.63,2
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58180,6709.13,4
+DCMS,ODA,20-Jun-2011,Delivery Partner Performance Payments,Delivery Partner Performance Payments,CLM Delivery Partner Ltd,58182,63642.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,58182,12728.40,2
+DCMS,ODA,20-Jun-2011,Delivery Partner Performance Payments,Delivery Partner Performance Payments,CLM Delivery Partner Ltd,58183,44060.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,58183,8812.00,2
+DCMS,ODA,20-Jun-2011,Construction contractor,SBH NP - North Loop Road - Bridges & Civil Work,Skanska Construction UK Ltd,58210,1463517.75,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Skanska Construction UK Ltd,58210,292703.55,2
+DCMS,ODA,20-Jun-2011,Construction contractor,Civils Works,Morrison Construction Ltd,58212,300000.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Morrison Construction Ltd,58212,60000.00,2
+DCMS,ODA,20-Jun-2011,Construction contractor,BMX Construction,ISG Interior Service Group UK Plc,58213,515562.77,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,ISG Interior Service Group UK Plc,58213,103112.56,2
+DCMS,ODA,20-Jun-2011,Construction contractor,Logistics DT for South Park,British Waterways Board,58244,195000.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,British Waterways Board,58244,39000.00,2
+DCMS,ODA,20-Jun-2011,Construction contractor,CWOA - Works by SBH,BAM Nuttall Ltd,58268,121570.40,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,BAM Nuttall Ltd,58268,24314.08,2
+DCMS,ODA,20-Jun-2011,Construction contractor,SBH SP -South Loop road & Civil Works,BAM Nuttall Ltd,58269,1811705.63,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,BAM Nuttall Ltd,58269,362341.13,2
+DCMS,ODA,20-Jun-2011,Construction contractor,General Builder,Fitzpatrick Contractors Ltd,58271,241584.85,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Fitzpatrick Contractors Ltd,58271,48316.97,2
+DCMS,ODA,20-Jun-2011,Other Professional Fees,DLR Games Time Operations - CAPEX,Ove Arup & Partners Limited,58301,26794.85,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,58301,5358.97,2
+DCMS,ODA,20-Jun-2011,Construction contractor,Academy Building,Lend Lease Europe Ltd,58308,90427.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58308,18085.40,2
+DCMS,ODA,20-Jun-2011,Consultants,Stage K Construction Support - Atkins,Atkins Limited,58372,25192.48,1
+DCMS,ODA,20-Jun-2011,Consultants,Stage K Construction Support - Atkins,Atkins Limited,58372,6581.97,2
+DCMS,ODA,20-Jun-2011,Consultants,Stage K Construction Support - Atkins,Atkins Limited,58372,59007.50,3
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,58372,18156.39,4
+DCMS,ODA,20-Jun-2011,Delivery partner CLM,Programme Management & Integration,CLM Delivery Partner Ltd,58388,364264.95,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,CLM Delivery Partner Ltd,58388,54639.74,2
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58558,7737016.22,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58558,1547403.24,2
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58558,-7737016.22,3
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58558,7582275.90,4
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58558,154740.32,5
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58558,-1516455.18,7
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58563,276105.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58563,55221.00,2
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,187173.27,1
+DCMS,ODA,20-Jun-2011,Site security,CPSS Preliminaries - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,289509.82,2
+DCMS,ODA,20-Jun-2011,Site security,Nth Retail L/L north CAPEX - CPSS,Honeywell Control Systems Limited,58575,420934.82,3
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,20680.27,4
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,30243.46,5
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,18384.28,6
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,6751.02,7
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,31332.84,8
+DCMS,ODA,20-Jun-2011,Site security,CPSS Testing & Commissioning - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,93.35,9
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,802.29,10
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,129.32,11
+DCMS,ODA,20-Jun-2011,Site security,CPSS Testing & Commissioning - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,40.83,12
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,26543.30,13
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,101861.78,14
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,25103.23,15
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,9588.35,16
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,62954.88,17
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,339.73,18
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,78.27,19
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,22131.64,20
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,569.36,21
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,11605.17,22
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,44699.41,23
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,1918.60,24
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,6911.60,25
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,17141.76,26
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,19167.93,27
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,19653.54,28
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,5555.50,29
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,6487.94,30
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,25673.99,31
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,4173.92,32
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,246.30,33
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,140.12,34
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,88.22,35
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,149.70,36
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,183.53,37
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,891.47,38
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,221.95,39
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,247.45,40
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,189.40,41
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,549.77,42
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,78.72,43
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,1986.01,44
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,1921.12,45
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,633.42,46
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,214.31,47
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,133.32,48
+DCMS,ODA,20-Jun-2011,Site security,CPSS Testing & Commissioning - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,380.91,49
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,1614.31,50
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,3708.17,51
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,1897.47,52
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,1049.07,53
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,2054.64,54
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,1051.34,55
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,149.85,56
+DCMS,ODA,20-Jun-2011,Site security,CPSS Maintenance - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,71.11,57
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,141.78,58
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,138.89,59
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,531.55,60
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,28849.81,61
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,70.63,62
+DCMS,ODA,20-Jun-2011,Site security,CPSS Maintenance - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,22762.58,63
+DCMS,ODA,20-Jun-2011,Site security,CPSS Preliminaries - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,31883.33,64
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,142142.19,65
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,0.31,66
+DCMS,ODA,20-Jun-2011,Site security,CPSS Maintenance - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,88.92,67
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Honeywell Control Systems Limited,58575,332939.51,68
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,0.30,69
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Honeywell Control Systems Limited,58575,0.06,70
+DCMS,ODA,20-Jun-2011,Site security,CPSS Supply & Installation - Honeywell Control Systems Ltd,Honeywell Control Systems Limited,58575,0.05,71
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Honeywell Control Systems Limited,58575,0.01,72
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Honeywell Control Systems Limited,58575,-0.03,73
+DCMS,ODA,20-Jun-2011,Site security,SS Maintenance - Rapiscan,Rapiscan Systems Ltd,58591,7825.67,1
+DCMS,ODA,20-Jun-2011,Site security,SS Production Design / Construction / Commissioning - Rapiscan,Rapiscan Systems Ltd,58591,97268.87,2
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Rapiscan Systems Ltd,58591,21018.91,3
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,Water Polo Seating,Alto Seating Systems Ltd,58599,29275.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Alto Seating Systems Ltd,58599,5855.00,2
+DCMS,ODA,20-Jun-2011,Site security,Park Operations Security,Rapiscan Systems Ltd,58601,1207.67,1
+DCMS,ODA,20-Jun-2011,Site security,Pedestrian and Vehicle Screening Olympic Park OPEX,Rapiscan Systems Ltd,58601,65257.62,2
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Rapiscan Systems Ltd,58601,13293.05,3
+DCMS,ODA,20-Jun-2011,Site security,Pedestrian and Vehicle Screening Olympic Park OPEX,Rapiscan Systems Ltd,58601,0.04,4
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Rapiscan Systems Ltd,58601,0.01,5
+DCMS,ODA,20-Jun-2011,Site security,Pedestrian and Vehicle Screening Olympic Park OPEX,Rapiscan Systems Ltd,58601,-0.04,6
+DCMS,ODA,20-Jun-2011,Site security,Pedestrian and Vehicle Screening Olympic Park OPEX,Rapiscan Systems Ltd,58601,0.03,7
+DCMS,ODA,20-Jun-2011,Construction contractor,F10 Balfour Beatty Construction Prelims & Staff Costs,Balfour Beatty Construction Ltd,58620,760813.00,1
+DCMS,ODA,20-Jun-2011,Construction contractor,Aquatic Centre Balfour Beatty M&E works,Balfour Beatty Construction Ltd,58620,1436319.00,2
+DCMS,ODA,20-Jun-2011,Construction contractor,Aquatics Venue Overlay Balfour Beatty Construction,Balfour Beatty Construction Ltd,58620,509304.00,3
+DCMS,ODA,20-Jun-2011,Construction contractor,Aquatics related LPR works,Balfour Beatty Construction Ltd,58620,235482.00,4
+DCMS,ODA,20-Jun-2011,Construction contractor,Earthworks,Balfour Beatty Construction Ltd,58620,97177.00,5
+DCMS,ODA,20-Jun-2011,Construction contractor,SBH - Aquatics,Balfour Beatty Construction Ltd,58620,126761.00,6
+DCMS,ODA,20-Jun-2011,Construction contractor,F10 Balfour Beatty Abutments & Central Piers works,Balfour Beatty Construction Ltd,58620,45543.00,7
+DCMS,ODA,20-Jun-2011,Construction contractor,F10 Balfour Beatty Temp Deck & abutment Central Pier works,Balfour Beatty Construction Ltd,58620,175465.00,8
+DCMS,ODA,20-Jun-2011,Construction contractor,F10 Balfour Beatty Plaza Work,Balfour Beatty Construction Ltd,58620,211850.00,9
+DCMS,ODA,20-Jun-2011,Construction contractor,Aquatic Centre Balfour Beatty Construction Prelims & General Expenditure works,Balfour Beatty Construction Ltd,58620,184722.00,10
+DCMS,ODA,20-Jun-2011,Construction contractor,Aquatic Centre Balfour Beatty Building works,Balfour Beatty Construction Ltd,58620,3926819.00,11
+DCMS,ODA,20-Jun-2011,Construction contractor,Aquatics Environmental Conditions Balfour Beatty scope,Balfour Beatty Construction Ltd,58620,2097902.00,12
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Balfour Beatty Construction Ltd,58620,1961631.40,13
+DCMS,ODA,20-Jun-2011,Construction contractor,Aquatic Centre Balfour Beatty Building works,Balfour Beatty Construction Ltd,58621,792502.00,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Balfour Beatty Construction Ltd,58621,158500.40,2
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,20.85,1
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,20.85,2
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,10.50,3
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,1080.00,4
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,30.00,5
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,236.00,6
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,238.00,7
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,200.00,8
+DCMS,ODA,20-Jun-2011,Security planning,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,813.54,9
+DCMS,ODA,20-Jun-2011,Site security,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,6024.14,10
+DCMS,ODA,20-Jun-2011,Site security,AC Production Design / Construction / Commissioning - Reliance High-Tech,Reliance High-Tech Ltd,58622,6931.48,11
+DCMS,ODA,20-Jun-2011,Site security,Pedestrian and Vehicle Screening Olympic Park OPEX,Reliance High-Tech Ltd,58622,93483.63,12
+DCMS,ODA,20-Jun-2011,Site security,AC Maintenance - Reliance High-Tech,Reliance High-Tech Ltd,58622,24534.13,13
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Reliance High-Tech Ltd,58622,26724.62,14
+DCMS,ODA,20-Jun-2011,Tier 1 Contractors,MPC / IBC,Carillion Building,58625,427101.89,1
+DCMS,ODA,20-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Carillion Building,58625,85420.38,2
+DCMS,ODA,20-Jun-2011,Construction contractor,Bridge F06 Construction,Lagan Construction Ltd,58659,29427.66,1
+DCMS,ODA,20-Jun-2011,VAT - Control,Current Liabilities under 1 Year - VAT Control,Lagan Construction Ltd,58659,5885.53,2
+DCMS,ODA,21-Jun-2011,Rates,Village Vertical Development,London Borough of Newham (E15 4BQ),57218,221970.00,1
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,East London Logistics Facility,Exel Europe Ltd,2090,-49122.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,2090,-9824.40,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,East London Logistics Facility,Exel Europe Ltd,2094,-60004.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,2094,-12000.80,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,East London Logistics Facility,Exel Europe Ltd,2095,-60004.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,2095,-12000.80,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,East London Logistics Facility,Exel Europe Ltd,2096,-25867.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,2096,-5173.40,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,East London Logistics Facility,Exel Europe Ltd,2097,-38428.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,2097,-7685.60,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,East London Logistics Facility,Exel Europe Ltd,2098,-24486.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,2098,-4897.20,2
+DCMS,ODA,27-Jun-2011,Other Professional Fees,Heavy Rail Network Rail & Resilience,Network Rail Infrastructure Limited,52179,24924.39,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Network Rail Infrastructure Limited,52179,4984.88,2
+DCMS,ODA,27-Jun-2011,Other Professional Fees,Heavy Rail Timetable Changes,Network Rail Infrastructure,54611,66707.65,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Network Rail Infrastructure,54611,13341.53,2
+DCMS,ODA,27-Jun-2011,Other Professional Fees,Travel Demand Management,Ove Arup & Partners Limited,56891,48289.93,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,56891,9657.99,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,East London Logistics Facility,Exel Europe Ltd,57696,60004.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,57696,12000.80,2
+DCMS,ODA,27-Jun-2011,Rent Payable,17th Floor Running Costs,DTZ Debenham Tie Leung Ltd,57812,128765.00,1
+DCMS,ODA,27-Jun-2011,Service Charges,17th Floor Running Costs,DTZ Debenham Tie Leung Ltd,57812,5204.07,2
+DCMS,ODA,27-Jun-2011,Service Charges,17th Floor Running Costs,DTZ Debenham Tie Leung Ltd,57812,40260.50,3
+DCMS,ODA,27-Jun-2011,Rates,17th Floor Running Costs,DTZ Debenham Tie Leung Ltd,57812,14628.81,4
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,DTZ Debenham Tie Leung Ltd,57812,2936.91,5
+DCMS,ODA,27-Jun-2011,Service Charges,17th Floor Running Costs,DTZ Debenham Tie Leung Ltd,57812,-40260.50,6
+DCMS,ODA,27-Jun-2011,Service Charges,17th Floor Running Costs,DTZ Debenham Tie Leung Ltd,57812,9480.50,7
+DCMS,ODA,27-Jun-2011,Service Charges,17th Floor Running Costs,DTZ Debenham Tie Leung Ltd,57812,30780.00,8
+DCMS,ODA,27-Jun-2011,Consultants,Tier 1 & 2 Contractor Admin,Atkins Limited,57839,107539.48,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,57839,21507.90,2
+DCMS,ODA,27-Jun-2011,Consultants,PTP Works,Atkins Limited,57840,42714.61,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,57840,8542.92,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,TB - Portakabin,Portakabin Ltd,57931,21052.50,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Portakabin Ltd,57931,4210.50,2
+DCMS,ODA,27-Jun-2011,Supervisor,IBC/MPC- Supervisor,WSP Development and Transportation Limited,57948,8552.46,1
+DCMS,ODA,27-Jun-2011,Supervisor,IBC/MPC- Supervisor,WSP Development and Transportation Limited,57948,18864.54,2
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,WSP Development and Transportation Limited,57948,5483.40,3
+DCMS,ODA,27-Jun-2011,Procurement Consultancy,CompeteFor Procurement,BiP Solutions Ltd,57957,65107.33,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,BiP Solutions Ltd,57957,13021.47,2
+DCMS,ODA,27-Jun-2011,Other Professional Fees,Learning Legacy,Institute for Employment Studies,57959,26389.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Institute for Employment Studies,57959,5277.80,2
+DCMS,ODA,27-Jun-2011,Supervisor,IBC/MPC- Supervisor,WSP Development and Transportation Limited,57967,31161.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,WSP Development and Transportation Limited,57967,6232.20,2
+DCMS,ODA,27-Jun-2011,Consultants,Stanton Williams,Stanton Williams,58010,47023.92,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Stanton Williams,58010,9404.78,2
+DCMS,ODA,27-Jun-2011,Consultants,M11 LC - M11 Logistics Facility - Services,Exel Europe Ltd,58036,81398.63,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,58036,16279.72,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,East London Logistics Facility,Exel Europe Ltd,58037,419400.50,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Exel Europe Ltd,58037,83880.10,2
+DCMS,ODA,27-Jun-2011,Consultants,SI Arup from 1 April 2009,Ove Arup & Partners Limited,58042,74591.73,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,58042,14918.35,2
+DCMS,ODA,27-Jun-2011,Supervisor,ETR - Basketball,Sport Concepts Design Ltd,58048,26852.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Sport Concepts Design Ltd,58048,5370.40,2
+DCMS,ODA,27-Jun-2011,Consultants,Testing - Pen / ITHC,Buro Happold Ltd,58068,25691.25,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Buro Happold Ltd,58068,5138.25,2
+DCMS,ODA,27-Jun-2011,Other Professional Fees,Travel Demand Management,Ove Arup & Partners Limited,58070,48311.20,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,58070,9662.24,2
+DCMS,ODA,27-Jun-2011,Construction contractor,EM - Environmental Monitoring,WSP Environmental Ltd,58087,18383.74,1
+DCMS,ODA,27-Jun-2011,Construction contractor,EM - Environmental Monitoring,WSP Environmental Ltd,58087,100115.33,2
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,WSP Environmental Ltd,58087,23699.81,3
+DCMS,ODA,27-Jun-2011,Site Investigations,H&V CS - Main Mason Contract,Mason Land Surveys Ltd,58219,4694.77,1
+DCMS,ODA,27-Jun-2011,Site Investigations,SBH - Logistics,Mason Land Surveys Ltd,58219,36044.00,2
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Mason Land Surveys Ltd,58219,8147.75,3
+DCMS,ODA,27-Jun-2011,IT Software maintenance,ODA Boss Phase 3,Fujitsu Services Ltd,58224,24535.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Fujitsu Services Ltd,58224,4907.00,2
+DCMS,ODA,27-Jun-2011,Consultants,Park Operations Mobilisation of FM,Ove Arup & Partners Limited,58398,25601.25,1
+DCMS,ODA,27-Jun-2011,Consultants,Arup and other consultancy costs,Ove Arup & Partners Limited,58398,3153.50,2
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,58398,5750.95,3
+DCMS,ODA,27-Jun-2011,Supervisor,Stadium - Supervisor,WSP Development and Transportation Limited,58408,4814.05,1
+DCMS,ODA,27-Jun-2011,Supervisor,Stadium - Supervisor,WSP Development and Transportation Limited,58408,16465.95,2
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,WSP Development and Transportation Limited,58408,4256.00,3
+DCMS,ODA,27-Jun-2011,Consultants,Secure Information Exchange (SIX),Ove Arup & Partners Limited,58437,25810.48,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Ove Arup & Partners Limited,58437,5162.10,2
+DCMS,ODA,27-Jun-2011,Designers,TID SD & C - Atkins,Atkins Limited,58464,11194.04,1
+DCMS,ODA,27-Jun-2011,Designers,TID SD CP - Detailed Design Plan of Zone 4,Atkins Limited,58464,15130.50,2
+DCMS,ODA,27-Jun-2011,Consultants,EM - Atkins,Atkins Limited,58464,6565.51,3
+DCMS,ODA,27-Jun-2011,Designers,SBH - Lifeline Works,Atkins Limited,58464,10717.83,4
+DCMS,ODA,27-Jun-2011,Designers,EM - Atkins,Atkins Limited,58464,9508.83,5
+DCMS,ODA,27-Jun-2011,Designers,TID SD CP - Detailed Design Plan of Zone 4,Atkins Limited,58464,10062.87,6
+DCMS,ODA,27-Jun-2011,Designers,"Atkins works in connection with TW 42"" mains repairs and reimbursed by Thames Water",Atkins Limited,58464,2892.04,7
+DCMS,ODA,27-Jun-2011,Designers,TID SD CP - Detailed Design Plan of Zone 4,Atkins Limited,58464,3132.77,8
+DCMS,ODA,27-Jun-2011,Designers,Nth Retail L/L north CAPEX - CPSS,Atkins Limited,58464,4114.08,9
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,58464,14663.71,10
+DCMS,ODA,27-Jun-2011,Other Professional Fees,Strategic Park & Ride Opex,Mott MacDonald Ltd,58485,27819.42,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Mott MacDonald Ltd,58485,5563.88,2
+DCMS,ODA,27-Jun-2011,Supervisor,Aquatics - Supervisor,Sport Concepts Design Ltd,58608,34300.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Sport Concepts Design Ltd,58608,6860.00,2
+DCMS,ODA,27-Jun-2011,Supervisor,ETR - Basketball,Sport Concepts Design Ltd,58609,32830.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Sport Concepts Design Ltd,58609,6566.00,2
+DCMS,ODA,27-Jun-2011,Site security,Nth Retail L/L north CAPEX - CPSS,Fitzpatrick Contractors Ltd,58658,25432.17,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Fitzpatrick Contractors Ltd,58658,5086.43,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Water Polo Building Services,Byrne Group plc,58660,32716.87,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Byrne Group plc,58660,6543.37,2
+DCMS,ODA,27-Jun-2011,Other Professional Fees,Venue Shuttle/Park & Ride Opex,FRS Ltd c/o First Group Plc,58663,54975.83,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,FRS Ltd c/o First Group Plc,58663,10995.17,2
+DCMS,ODA,27-Jun-2011,Construction contractor,Lot 9 - Car Parks & Transport Malls,John Sisk & Son (Holdings) Ltd,58719,229479.36,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,John Sisk & Son (Holdings) Ltd,58719,45895.87,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Lea Navigation Bridges,John Sisk & Son (Holdings) Ltd,58720,90569.80,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,John Sisk & Son (Holdings) Ltd,58720,18113.96,2
+DCMS,ODA,27-Jun-2011,Construction contractor,Building Services,MITIE Engineering Services (SE Region) Ltd,58721,350000.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,MITIE Engineering Services (SE Region) Ltd,58721,70000.00,2
+DCMS,ODA,27-Jun-2011,Construction contractor,EM Sports:Mansell,Mansell Construction Services Ltd,58722,684213.00,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Mansell Construction Services Ltd,58722,136842.60,2
+DCMS,ODA,27-Jun-2011,Site security,HVM Capital Works,Fitzpatrick Contractors Ltd,58752,30069.38,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Fitzpatrick Contractors Ltd,58752,6013.88,2
+DCMS,ODA,27-Jun-2011,Construction contractor,RAB Construction,John Sisk & Son (Holdings) Ltd,58758,1175118.60,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,John Sisk & Son (Holdings) Ltd,58758,235023.72,2
+DCMS,ODA,27-Jun-2011,Construction contractor,RAB Construction,John Sisk & Son (Holdings) Ltd,58758,-1175118.60,4
+DCMS,ODA,27-Jun-2011,Construction contractor,RAB Construction,John Sisk & Son (Holdings) Ltd,58758,1175118.60,5
+DCMS,ODA,27-Jun-2011,Construction contractor,Bridge F06 Construction,Lagan Construction Ltd,58772,85226.33,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lagan Construction Ltd,58772,17045.27,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Academy Building,Lend Lease Europe Ltd,58776,106550.16,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58776,21310.03,2
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,58778,4197120.99,1
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Zones 2-7 Infrastructure,Lend Lease Europe Ltd,58778,301400.97,3
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58778,60280.19,4
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58779,494195.88,1
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58779,-494195.88,3
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58779,484311.96,4
+DCMS,ODA,27-Jun-2011,Tier 1 Contractors,Village Vertical Development,Lend Lease Europe Ltd,58779,9883.92,5
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,58779,1976.78,7
+DCMS,ODA,27-Jun-2011,Grant Payable,Community Relations Support,Leabank Square Community Association,58781,30000.00,1
+DCMS,ODA,27-Jun-2011,Consultants,Tier 1 & 2 Contractor Admin,Atkins Limited,58782,14446.25,1
+DCMS,ODA,27-Jun-2011,Consultants,Tier 1 & 2 Contractor Admin,Atkins Limited,58782,134354.64,2
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,58782,29760.18,3
+DCMS,ODA,27-Jun-2011,Consultants,Tier 1 & 2 Contractor Admin,Atkins Limited,58783,138326.40,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atkins Limited,58783,27665.28,2
+DCMS,ODA,27-Jun-2011,Construction contractor,Water Polo Lightweight Structure,ES Global Overlay Limited,58940,366498.84,1
+DCMS,ODA,27-Jun-2011,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,ES Global Overlay Limited,58940,73299.76,2

@@ -1,0 +1,1041 @@
+Unique Reference Number,Date,Merchant Category Code,Location,Merchant Category Group,Amount,Supplier
+FCOGPC131200001,02/12/13,Travel,Belgium,Airlines,2331.15,AMERICAN
+FCOGPC131200002,02/12/13,Travel,United Kingdom,Airlines,3578.95,BRITISH AIRW 
+FCOGPC131200003,02/12/13,Travel,Netherlands,Airlines,900.92,KLM UK    
+FCOGPC131200004,02/12/13,Travel,France,Airlines,764.64,AIR FRANCE  
+FCOGPC131200005,02/12/13,Travel,France,Airlines,631.64,AIR FRANCE  
+FCOGPC131200006,02/12/13,Travel,France,Airlines,2820.90,AIR FRANCE  
+FCOGPC131200007,02/12/13,Travel,United Kingdom,Airlines,623.15,TUNIS AIR   
+FCOGPC131200008,02/12/13,Travel,United Kingdom,Airlines,608.54,LUFTHANSA  
+FCOGPC131200009,02/12/13,Travel,Colombia,Airlines,696.43,AVIANCA
+FCOGPC131200010,02/12/13,Travel,Australia,Airlines,803.13,QANTAS 
+FCOGPC131200011,02/12/13,Travel,United Kingdom,Airlines,1264.50,EM AIR     
+FCOGPC131200012,02/12/13,Travel,United Kingdom,Airlines,-3335.49,EM AIR     
+FCOGPC131200013,02/12/13,Travel,United Kingdom,Airlines,1470.05,ETIHADAIR   
+FCOGPC131200014,02/12/13,Travel,United Kingdom,Airlines,581.65,THY        
+FCOGPC131200015,02/12/13,Travel,United Kingdom,Airlines,529.80,THY        
+FCOGPC131200016,02/12/13,Travel,Japan,Airlines,979.12,UAJININTANETSUTO
+FCOGPC131200017,02/12/13,Travel,United Kingdom,Airlines,1247.55,BRITISH AIRW
+FCOGPC131200018,02/12/13,Travel,United Kingdom,Airlines,1247.55,BRITISH AIRW
+FCOGPC131200019,02/12/13,Travel,United Kingdom,Airlines,701.85,BRITISH AIRW
+FCOGPC131200020,02/12/13,Travel,United Kingdom,Airlines,2760.65,BRITISH AIRW
+FCOGPC131200021,02/12/13,Travel,United Kingdom,Airlines,559.30,BRITISH AIRW
+FCOGPC131200022,02/12/13,Travel,United Kingdom,Airlines,1337.47,BRITISH AIRW
+FCOGPC131200023,02/12/13,Travel,United Kingdom,Airlines,1206.35,BRITISH AIRW
+FCOGPC131200024,02/12/13,Travel,United Kingdom,Airlines,857.25,BRITISH AIRW
+FCOGPC131200025,02/12/13,Travel,United Kingdom,Airlines,514.70,BRITISH AIRW
+FCOGPC131200026,02/12/13,Travel,United Kingdom,Airlines,2239.25,BRITISH AIRW
+FCOGPC131200027,02/12/13,Travel,United Kingdom,Airlines,2239.25,BRITISH AIRW
+FCOGPC131200028,02/12/13,Travel,United Kingdom,Airlines,4132.05,BRITISH AIRW
+FCOGPC131200029,02/12/13,Travel,United Kingdom,Airlines,2880.15,BRITISH AIRW
+FCOGPC131200030,02/12/13,Travel,United Kingdom,Airlines,-1821.65,BRITISH AIRW
+FCOGPC131200031,02/12/13,Travel,United Kingdom,Airlines,540.55,VIR ATL   
+FCOGPC131200032,03/12/13,Travel,United Kingdom,Airlines,3231.65,VIR ATL   
+FCOGPC131200033,03/12/13,Travel,United Kingdom,Airlines,785.55,VIR ATL   
+FCOGPC131200034,03/12/13,Travel,United Kingdom,Airlines,1230.45,VIR ATL   
+FCOGPC131200035,03/12/13,Travel,United Kingdom,Airlines,-858.05,BRITISH AIRW  
+FCOGPC131200036,03/12/13,Travel,United Kingdom,Airlines,-625.10,ETHIOPIA    
+FCOGPC131200037,03/12/13,Travel,"Korea, Republic of",Airlines,1910.79,BRITISH AIRW 
+FCOGPC131200038,03/12/13,Travel,United Kingdom,Airlines,698.31,BRITISH AIRW 
+FCOGPC131200039,03/12/13,Travel,United Kingdom,Airlines,2630.15,QATAR AIR 
+FCOGPC131200040,03/12/13,Travel,United Kingdom,Airlines,2630.15,QATAR AIR 
+FCOGPC131200041,04/12/13,Travel,France,Airlines,3703.94,AIR FRANCE  
+FCOGPC131200042,04/12/13,Travel,Japan,Airlines,2016.50,BRITISH AIRW 
+FCOGPC131200043,04/12/13,Travel,United Kingdom,Airlines,-1364.95,AIR CAN   
+FCOGPC131200044,04/12/13,Travel,United Kingdom,Airlines,565.20,AVIANCA 
+FCOGPC131200045,04/12/13,Travel,United Kingdom,Airlines,624.04,LUFTHANSA   
+FCOGPC131200046,04/12/13,Travel,Panama,Airlines,622.35,COPAAIR COM PURCHASE
+FCOGPC131200047,04/12/13,Travel,United Kingdom,Airlines,1437.10,THY     
+FCOGPC131200048,04/12/13,Travel,Brazil,Airlines,1335.50,TAM AGENCIAS
+FCOGPC131200049,04/12/13,Travel,Ireland,Airlines,1191.05,ARIK AIR 
+FCOGPC131200050,04/12/13,Travel,Japan,Airlines,759.92,BRITISH AIRW
+FCOGPC131200051,04/12/13,Travel,Japan,Airlines,903.96,BRITISH AIRW
+FCOGPC131200052,04/12/13,Travel,Japan,Airlines,812.02,BRITISH AIRW
+FCOGPC131200053,04/12/13,Travel,United Kingdom,Airlines,862.55,BRITISH AIRW
+FCOGPC131200054,04/12/13,Travel,United Kingdom,Airlines,1560.05,BRITISH AIRW
+FCOGPC131200055,04/12/13,Travel,United Kingdom,Airlines,1560.05,BRITISH AIRW
+FCOGPC131200056,04/12/13,Travel,United Kingdom,Airlines,1218.25,BRITISH AIRW
+FCOGPC131200057,04/12/13,Travel,United Kingdom,Airlines,1218.25,BRITISH AIRW
+FCOGPC131200058,04/12/13,Travel,United Kingdom,Airlines,1560.05,BRITISH AIRW
+FCOGPC131200059,05/12/13,Travel,United Kingdom,Airlines,551.15,VIR ATL     
+FCOGPC131200060,05/12/13,Travel,Australia,Airlines,844.30,SINGAPORE 
+FCOGPC131200061,05/12/13,Travel,Singapore,Airlines,2691.13,SINGAPORE 
+FCOGPC131200062,05/12/13,Travel,Uzbekistan,Airlines,1216.62,Radius Travel
+FCOGPC131200063,05/12/13,Travel,United Kingdom,Airlines,665.20,THY      
+FCOGPC131200064,05/12/13,Travel,United Kingdom,Airlines,801.74,THY      
+FCOGPC131200065,05/12/13,Travel,United Kingdom,Airlines,2781.75,BRITISH AIRW
+FCOGPC131200066,05/12/13,Travel,United Kingdom,Airlines,809.55,BRITISH AIRW
+FCOGPC131200067,05/12/13,Travel,United Kingdom,Airlines,594.30,BRITISH AIRW
+FCOGPC131200068,05/12/13,Travel,United Kingdom,Airlines,1230.45,BRITISH AIRW
+FCOGPC131200069,05/12/13,Travel,Colombia,Airlines,1294.02,BRITISH AIRW
+FCOGPC131200070,05/12/13,Travel,United Kingdom,Airlines,1360.80,AEROMEXICO  
+FCOGPC131200071,05/12/13,Travel,United Kingdom,Airlines,569.28,BRITISH AIRW
+FCOGPC131200072,05/12/13,Travel,United Kingdom,Airlines,1070.25,PAKISTAN AIR
+FCOGPC131200073,05/12/13,Travel,United Kingdom,Airlines,1070.25,PAKISTAN AIR
+FCOGPC131200074,05/12/13,Travel,United Kingdom,Airlines,890.25,PAKISTAN AIR
+FCOGPC131200075,05/12/13,Travel,United Kingdom,Airlines,594.30,SAA AIRWAYS
+FCOGPC131200076,05/12/13,Travel,United Kingdom,Airlines,1856.40,EM AIR      
+FCOGPC131200077,05/12/13,Travel,United Kingdom,Airlines,2336.89,EM AIR      
+FCOGPC131200078,05/12/13,Travel,United Kingdom,Airlines,1856.40,EM AIR      
+FCOGPC131200079,05/12/13,Travel,United Kingdom,Airlines,1856.40,EM AIR      
+FCOGPC131200080,05/12/13,Travel,United Kingdom,Airlines,1366.30,EM AIR      
+FCOGPC131200081,06/12/13,Travel,United Kingdom,Airlines,850.75,UNITED AIR  
+FCOGPC131200082,06/12/13,Travel,United Kingdom,Airlines,1025.29,BRITISH AIRW 
+FCOGPC131200083,06/12/13,Travel,Belgium,Airlines,778.05,AMERICAN 
+FCOGPC131200084,06/12/13,Travel,United Kingdom,Airlines,882.25,QATAR AIR 
+FCOGPC131200085,06/12/13,Travel,United Kingdom,Airlines,-1897.65,SWISS INTL. 
+FCOGPC131200086,06/12/13,Travel,United Kingdom,Airlines,507.40,AVIANCA
+FCOGPC131200087,06/12/13,Travel,United Kingdom,Airlines,-701.79,EM AIR      
+FCOGPC131200088,06/12/13,Travel,United Kingdom,Airlines,1728.40,EM AIR      
+FCOGPC131200089,06/12/13,Travel,United Kingdom,Airlines,-1426.70,EM AIR      
+FCOGPC131200090,06/12/13,Travel,Colombia,Airlines,1244.32,BRITISH AIRW 
+FCOGPC131200091,06/12/13,Travel,United Kingdom,Airlines,1293.95,BRITISH AIRW 
+FCOGPC131200092,06/12/13,Travel,United Kingdom,Airlines,858.35,BRITISH AIRW 
+FCOGPC131200093,06/12/13,Travel,United Kingdom,Airlines,669.35,BRITISH AIRW 
+FCOGPC131200094,06/12/13,Travel,United Kingdom,Airlines,1552.05,VIR ATL     
+FCOGPC131200095,06/12/13,Travel,United Kingdom,Airlines,-2766.65,VIR ATL     
+FCOGPC131200096,09/12/13,Travel,United Kingdom,Airlines,1284.45,VIR ATL     
+FCOGPC131200097,09/12/13,Travel,United Kingdom,Airlines,1933.25,VIR ATL     
+FCOGPC131200098,09/12/13,Travel,Japan,Airlines,848.68,BRITISH AIRW
+FCOGPC131200099,09/12/13,Travel,Panama,Airlines,2139.94,IBERIA BS
+FCOGPC131200100,09/12/13,Travel,"Korea, Republic of",Airlines,882.53,CATHAYPA  
+FCOGPC131200101,09/12/13,Travel,United Kingdom,Airlines,518.10,BRITISH AIRW 
+FCOGPC131200102,09/12/13,Travel,United Kingdom,Airlines,3984.75,BRITISH AIRW 
+FCOGPC131200103,09/12/13,Travel,United Kingdom,Airlines,3651.85,BRITISH AIRW 
+FCOGPC131200104,09/12/13,Travel,United Kingdom,Airlines,639.20,BRITISH AIRW 
+FCOGPC131200105,09/12/13,Travel,United Kingdom,Airlines,639.20,BRITISH AIRW 
+FCOGPC131200106,09/12/13,Travel,United Kingdom,Airlines,1120.20,BRITISH AIRW 
+FCOGPC131200107,09/12/13,Travel,United Kingdom,Airlines,-3977.05,BRITISH AIRW 
+FCOGPC131200108,09/12/13,Travel,United Kingdom,Airlines,-3977.05,BRITISH AIRW 
+FCOGPC131200109,09/12/13,Travel,United Kingdom,Airlines,-3977.05,BRITISH AIRW 
+FCOGPC131200110,09/12/13,Travel,United Kingdom,Airlines,-3527.75,BRITISH AIRW 
+FCOGPC131200111,09/12/13,Travel,United Kingdom,Airlines,605.90,THY        
+FCOGPC131200112,09/12/13,Travel,United Kingdom,Airlines,2540.30,EM AIR     
+FCOGPC131200113,09/12/13,Travel,United Kingdom,Airlines,2540.30,EM AIR     
+FCOGPC131200114,09/12/13,Travel,United Kingdom,Airlines,589.05,THY       
+FCOGPC131200115,09/12/13,Travel,United Kingdom,Airlines,1278.95,AIR CHINA 
+FCOGPC131200116,09/12/13,Travel,United Kingdom,Airlines,543.10,BRITISH AIRW 
+FCOGPC131200117,09/12/13,Travel,Pakistan,Airlines,632.02,EM AIR
+FCOGPC131200118,09/12/13,Travel,United Kingdom,Airlines,557.00,QANTAS
+FCOGPC131200119,09/12/13,Travel,United Kingdom,Airlines,-1897.65,SWISS INTL. 
+FCOGPC131200120,09/12/13,Travel,United Kingdom,Airlines,-1897.65,SWISS INTL. 
+FCOGPC131200121,09/12/13,Travel,Panama,Airlines,524.46,AVIANCA.C
+FCOGPC131200122,09/12/13,Travel,United Kingdom,Airlines,724.93,EM AIR
+FCOGPC131200123,09/12/13,Travel,United Kingdom,Airlines,2262.60,CHINA EASTER
+FCOGPC131200124,09/12/13,Travel,Netherlands,Airlines,734.56,KLM UNITE 
+FCOGPC131200125,09/12/13,Travel,Netherlands,Airlines,1233.26,KLM UK     
+FCOGPC131200126,09/12/13,Travel,Netherlands,Airlines,1233.26,KLM UK     
+FCOGPC131200127,09/12/13,Travel,Netherlands,Airlines,1043.26,KLM UK     
+FCOGPC131200128,09/12/13,Travel,France,Airlines,999.84,AIR FRANCE  
+FCOGPC131200129,10/12/13,Travel,United Kingdom,Airlines,-935.00,QATAR AIR 
+FCOGPC131200130,10/12/13,Travel,United Kingdom,Airlines,3590.05,BRITISH AIRW
+FCOGPC131200131,10/12/13,Travel,United Kingdom,Airlines,551.79,EM AIR      
+FCOGPC131200132,10/12/13,Travel,United Kingdom,Airlines,3231.05,VIR ATL    
+FCOGPC131200133,11/12/13,Travel,United Kingdom,Airlines,556.11,VIR ATL    
+FCOGPC131200134,11/12/13,Travel,United Kingdom,Airlines,1240.05,VIR ATL    
+FCOGPC131200135,11/12/13,Travel,United Kingdom,Airlines,658.10,BRITISH AIRW
+FCOGPC131200136,11/12/13,Travel,United Kingdom,Airlines,1845.07,BRITISH AIRW
+FCOGPC131200137,11/12/13,Travel,United Kingdom,Airlines,1881.75,BRITISH AIRW
+FCOGPC131200138,11/12/13,Travel,United Kingdom,Airlines,669.60,BRITISH AIRW
+FCOGPC131200139,11/12/13,Travel,United Kingdom,Airlines,2879.95,BRITISH AIRW
+FCOGPC131200140,11/12/13,Travel,United Kingdom,Airlines,-2073.60,BRITISH AIRW
+FCOGPC131200141,11/12/13,Travel,Russia,Airlines,1489.20,AEROFLOT OAO
+FCOGPC131200142,11/12/13,Travel,United Kingdom,Airlines,1069.55,PAKISTAN AIR
+FCOGPC131200143,11/12/13,Travel,France,Airlines,2788.80,AIR FRANCE  
+FCOGPC131200144,11/12/13,Travel,Netherlands,Airlines,990.90,KLM UK    
+FCOGPC131200145,11/12/13,Travel,United Kingdom,Airlines,1812.49,BRITISH AIRW
+FCOGPC131200146,11/12/13,Travel,Belgium,Airlines,703.84,AMERICAN
+FCOGPC131200147,12/12/13,Travel,Netherlands,Airlines,1847.90,KLM PANAM 
+FCOGPC131200148,12/12/13,Travel,France,Airlines,1825.02,AIR FRANCE
+FCOGPC131200149,12/12/13,Travel,France,Airlines,1825.02,AIR FRANCE
+FCOGPC131200150,12/12/13,Travel,United Kingdom,Airlines,991.91,EM AIR      
+FCOGPC131200151,12/12/13,Travel,United Kingdom,Airlines,952.29,QANTAS 
+FCOGPC131200152,12/12/13,Travel,United Kingdom,Airlines,558.90,AVIANCA 
+FCOGPC131200153,12/12/13,Travel,United Kingdom,Airlines,1235.05,QATAR AIR 
+FCOGPC131200154,12/12/13,Travel,United Kingdom,Airlines,-970.25,PAKISTAN AIR
+FCOGPC131200155,12/12/13,Travel,United Kingdom,Airlines,2022.74,LUFTHANSA   
+FCOGPC131200156,12/12/13,Travel,United Kingdom,Airlines,2022.74,LUFTHANSA   
+FCOGPC131200157,12/12/13,Travel,United Kingdom,Airlines,1829.35,ETIHADAIR   
+FCOGPC131200158,12/12/13,Travel,United Kingdom,Airlines,1829.35,ETIHADAIR   
+FCOGPC131200159,12/12/13,Travel,United Kingdom,Airlines,1829.35,ETIHADAIR   
+FCOGPC131200160,12/12/13,Travel,Japan,Airlines,2065.82,BRITISH AIRW 
+FCOGPC131200161,12/12/13,Travel,United Kingdom,Airlines,2121.57,BRITISH AIRW 
+FCOGPC131200162,12/12/13,Travel,Argentina,Airlines,2292.02,BRITISH AIRW 
+FCOGPC131200163,12/12/13,Travel,United Kingdom,Airlines,2746.37,BRITISH AIRW 
+FCOGPC131200164,12/12/13,Travel,United Kingdom,Airlines,951.50,ETHIOPIA    
+FCOGPC131200165,12/12/13,Travel,United Kingdom,Airlines,754.35,AUSTRIAN 
+FCOGPC131200166,12/12/13,Travel,United Kingdom,Airlines,3398.15,VIR ATL     
+FCOGPC131200167,13/12/13,Travel,United Kingdom,Airlines,2874.45,VIR ATL     
+FCOGPC131200168,13/12/13,Travel,United Kingdom,Airlines,-1552.05,VIR ATL     
+FCOGPC131200169,13/12/13,Travel,United Kingdom,Airlines,3753.45,VIR ATL     
+FCOGPC131200170,13/12/13,Travel,United Kingdom,Airlines,1530.50,ETHIOPIA   
+FCOGPC131200171,13/12/13,Travel,United Kingdom,Airlines,745.20,BRITISH AIRW 
+FCOGPC131200172,13/12/13,Travel,United Kingdom,Airlines,1273.15,THY         
+FCOGPC131200173,13/12/13,Travel,United Kingdom,Airlines,656.15,THY         
+FCOGPC131200174,13/12/13,Travel,Mexico,Airlines,896.44,AEROMEX
+FCOGPC131200175,13/12/13,Travel,United Kingdom,Airlines,779.45,BRITISH AIRW
+FCOGPC131200176,13/12/13,Travel,United Kingdom,Airlines,530.84,LUFTHANSA  
+FCOGPC131200177,13/12/13,Travel,United Kingdom,Airlines,530.84,LUFTHANSA  
+FCOGPC131200178,13/12/13,Travel,United Kingdom,Airlines,530.84,LUFTHANSA  
+FCOGPC131200179,13/12/13,Travel,United Kingdom,Airlines,530.84,LUFTHANSA  
+FCOGPC131200180,13/12/13,Travel,United Kingdom,Airlines,2335.69,EM AIR     
+FCOGPC131200181,16/12/13,Travel,Colombia,Airlines,1544.17,AIR FRANCE
+FCOGPC131200182,16/12/13,Travel,Jamaica,Airlines,509.89,AMERICAN
+FCOGPC131200183,16/12/13,Travel,Belgium,Airlines,4199.65,AMERICAN
+FCOGPC131200184,16/12/13,Travel,Belgium,Airlines,4199.65,AMERICAN
+FCOGPC131200185,16/12/13,Travel,Belgium,Airlines,4199.65,AMERICAN
+FCOGPC131200186,16/12/13,Travel,United Kingdom,Airlines,781.85,BRITISH AIRW 
+FCOGPC131200187,16/12/13,Travel,United Kingdom,Airlines,-923.00,QATAR AIR
+FCOGPC131200188,16/12/13,Travel,United Kingdom,Airlines,-923.00,QATAR AIR
+FCOGPC131200189,16/12/13,Travel,United Kingdom,Airlines,-526.34,LUFTHANSA   
+FCOGPC131200190,16/12/13,Travel,Australia,Airlines,656.71,QANTAS 
+FCOGPC131200191,16/12/13,Travel,Mexico,Airlines,597.56,COPA
+FCOGPC131200192,16/12/13,Travel,United Kingdom,Airlines,2229.00,FINNAIR   
+FCOGPC131200193,16/12/13,Travel,United Kingdom,Airlines,990.29,EM AIR   
+FCOGPC131200194,16/12/13,Travel,United Kingdom,Airlines,4094.95,BRITISH AIRW
+FCOGPC131200195,16/12/13,Travel,United Kingdom,Airlines,4094.95,BRITISH AIRW
+FCOGPC131200196,16/12/13,Travel,United Kingdom,Airlines,1352.50,BRITISH AIRW
+FCOGPC131200197,16/12/13,Travel,United Kingdom,Airlines,2869.25,BRITISH AIRW
+FCOGPC131200198,16/12/13,Travel,United Kingdom,Airlines,1352.50,BRITISH AIRW
+FCOGPC131200199,16/12/13,Travel,United Kingdom,Airlines,755.55,THY         
+FCOGPC131200200,16/12/13,Travel,United Kingdom,Airlines,565.10,BRITISH AIRW
+FCOGPC131200201,16/12/13,Travel,United Kingdom,Airlines,601.30,BRITISH AIRW
+FCOGPC131200202,16/12/13,Travel,United Kingdom,Airlines,2004.05,BRITISH AIRW
+FCOGPC131200203,16/12/13,Travel,Spain,Airlines,702.60,TAM WEB UK
+FCOGPC131200204,16/12/13,Travel,United Kingdom,Airlines,1686.50,ASIANA AIR
+FCOGPC131200205,16/12/13,Travel,Spain,Airlines,710.50,TAM WEB UK
+FCOGPC131200206,16/12/13,Travel,Spain,Airlines,547.40,TAM WEB UK
+FCOGPC131200207,16/12/13,Travel,Spain,Airlines,777.40,TAM WEB UK
+FCOGPC131200208,16/12/13,Travel,United Kingdom,Airlines,3695.85,BRITISH AIRW 
+FCOGPC131200209,16/12/13,Travel,United Kingdom,Airlines,687.55,VIR ATL   
+FCOGPC131200210,17/12/13,Travel,Australia,Airlines,968.57,VIRGIN AU
+FCOGPC131200211,17/12/13,Travel,Costa Rica,Airlines,1692.40,COPA BSP MC GUATEMA
+FCOGPC131200212,17/12/13,Travel,Costa Rica,Airlines,1692.40,COPA BSP MC GUATEMA
+FCOGPC131200213,18/12/13,Travel,United Kingdom,Airlines,1535.83,BRITISH AIRW 
+FCOGPC131200214,18/12/13,Travel,United Kingdom,Airlines,509.35,EGYPT AIR 
+FCOGPC131200215,18/12/13,Travel,Spain,Airlines,562.00,LAN AIRLINES BSP UK
+FCOGPC131200216,18/12/13,Travel,Colombia,Airlines,1593.74,AIR FRANCE
+FCOGPC131200217,18/12/13,Travel,United Kingdom,Airlines,512.30,EM AIR    
+FCOGPC131200218,18/12/13,Travel,Ireland,Airlines,785.30,AERLING     
+FCOGPC131200219,18/12/13,Travel,United Kingdom,Airlines,556.10,EM AIR
+FCOGPC131200220,18/12/13,Travel,United Kingdom,Airlines,504.35,THY         
+FCOGPC131200221,18/12/13,Travel,United Kingdom,Airlines,504.35,THY         
+FCOGPC131200222,18/12/13,Travel,United Kingdom,Airlines,504.35,THY         
+FCOGPC131200223,18/12/13,Travel,United Kingdom,Airlines,719.35,BRITISH AIRW
+FCOGPC131200224,18/12/13,Travel,United Kingdom,Airlines,910.65,BRITISH AIRW
+FCOGPC131200225,18/12/13,Travel,United Kingdom,Airlines,990.65,BRITISH AIRW
+FCOGPC131200226,18/12/13,Travel,United Kingdom,Airlines,910.65,BRITISH AIRW
+FCOGPC131200227,18/12/13,Travel,United Kingdom,Airlines,1394.55,BRITISH AIRW
+FCOGPC131200228,19/12/13,Travel,United Kingdom,Airlines,630.35,VIR ATL     
+FCOGPC131200229,19/12/13,Travel,China,Airlines,1853.45,XIMINLUYUNPIAOWU
+FCOGPC131200230,19/12/13,Travel,Malaysia,Airlines,3322.33,EM AIR
+FCOGPC131200231,19/12/13,Travel,United Kingdom,Airlines,1819.00,EM AIR
+FCOGPC131200232,19/12/13,Travel,United Kingdom,Airlines,1819.00,EM AIR
+FCOGPC131200233,19/12/13,Travel,United Kingdom,Airlines,583.20,BRITISH AIRW 
+FCOGPC131200234,19/12/13,Travel,United Kingdom,Airlines,2109.15,BRITISH AIRW 
+FCOGPC131200235,19/12/13,Travel,United Kingdom,Airlines,705.95,SAUDI AIR   
+FCOGPC131200236,19/12/13,Travel,United Kingdom,Airlines,1452.00,FINNAIR     
+FCOGPC131200237,19/12/13,Travel,United Kingdom,Airlines,1452.00,FINNAIR     
+FCOGPC131200238,19/12/13,Travel,France,Airlines,1092.84,AIR FRANCE  
+FCOGPC131200239,19/12/13,Travel,Netherlands,Airlines,2816.34,KLM UK     
+FCOGPC131200240,19/12/13,Travel,Netherlands,Airlines,2816.34,KLM UK     
+FCOGPC131200241,19/12/13,Travel,Netherlands,Airlines,2816.34,KLM UK     
+FCOGPC131200242,19/12/13,Travel,Netherlands,Airlines,2816.34,KLM UK     
+FCOGPC131200243,19/12/13,Travel,United Kingdom,Airlines,522.60,LUFTHANSA 
+FCOGPC131200244,20/12/13,Travel,Netherlands,Airlines,2002.40,KLM UK     
+FCOGPC131200245,20/12/13,Travel,United Kingdom,Airlines,890.75,BRITISH AIRW 
+FCOGPC131200246,20/12/13,Travel,France,Airlines,769.34,AIR FRANCE 
+FCOGPC131200247,20/12/13,Travel,United Kingdom,Airlines,758.55,SAA AIRWAYS 
+FCOGPC131200248,20/12/13,Travel,United Kingdom,Airlines,890.75,BRITISH AIRW 
+FCOGPC131200249,20/12/13,Travel,United Kingdom,Airlines,890.75,BRITISH AIRW 
+FCOGPC131200250,20/12/13,Travel,United Kingdom,Airlines,560.49,EM AIR     
+FCOGPC131200251,20/12/13,Travel,United Kingdom,Airlines,2228.55,ETIHADAIR   
+FCOGPC131200252,20/12/13,Travel,United Kingdom,Airlines,2228.55,ETIHADAIR   
+FCOGPC131200253,20/12/13,Travel,China,Airlines,606.61,XIMINLUYUNPIAOWU
+FCOGPC131200254,20/12/13,Travel,United Kingdom,Airlines,4673.25,BRITISH AIRW
+FCOGPC131200255,20/12/13,Travel,United Kingdom,Airlines,714.45,BRITISH AIRW
+FCOGPC131200256,20/12/13,Travel,United Kingdom,Airlines,5268.65,BRITISH AIRW
+FCOGPC131200257,20/12/13,Travel,United Kingdom,Airlines,5642.65,BRITISH AIRW
+FCOGPC131200258,20/12/13,Travel,United Kingdom,Airlines,5268.65,BRITISH AIRW
+FCOGPC131200259,20/12/13,Travel,United Kingdom,Airlines,5268.65,BRITISH AIRW
+FCOGPC131200260,20/12/13,Travel,United Kingdom,Airlines,5268.65,BRITISH AIRW
+FCOGPC131200261,20/12/13,Travel,United Kingdom,Airlines,4338.05,BRITISH AIRW
+FCOGPC131200262,20/12/13,Travel,United Kingdom,Airlines,3978.05,BRITISH AIRW
+FCOGPC131200263,20/12/13,Travel,United Kingdom,Airlines,3978.05,BRITISH AIRW
+FCOGPC131200264,20/12/13,Travel,United Kingdom,Airlines,3978.05,BRITISH AIRW
+FCOGPC131200265,20/12/13,Travel,United Kingdom,Airlines,3978.05,BRITISH AIRW
+FCOGPC131200266,20/12/13,Travel,United Kingdom,Airlines,3978.05,BRITISH AIRW
+FCOGPC131200267,20/12/13,Travel,United Kingdom,Airlines,745.95,BRITISH AIRW
+FCOGPC131200268,20/12/13,Travel,United Kingdom,Airlines,939.00,ETHIOPIA 
+FCOGPC131200269,20/12/13,Travel,United Kingdom,Airlines,3193.25,VIR ATL
+FCOGPC131200270,20/12/13,Travel,United Kingdom,Airlines,2746.75,VIR ATL
+FCOGPC131200271,20/12/13,Travel,United Kingdom,Airlines,4388.25,VIR ATL
+FCOGPC131200272,20/12/13,Travel,United Kingdom,Airlines,2746.75,VIR ATL
+FCOGPC131200273,23/12/13,Travel,United Kingdom,Airlines,1980.25,VIR ATL
+FCOGPC131200274,23/12/13,Travel,United Kingdom,Airlines,1319.25,VIR ATL
+FCOGPC131200275,23/12/13,Travel,United Kingdom,Airlines,1980.25,VIR ATL
+FCOGPC131200276,23/12/13,Travel,United Kingdom,Airlines,1980.25,VIR ATL
+FCOGPC131200277,23/12/13,Travel,United Kingdom,Airlines,1319.25,VIR ATL
+FCOGPC131200278,23/12/13,Travel,United Kingdom,Airlines,1319.25,VIR ATL
+FCOGPC131200279,23/12/13,Travel,United Kingdom,Airlines,890.75,BRITISH AIRW
+FCOGPC131200280,23/12/13,Travel,United Kingdom,Airlines,2153.35,BRITISH AIRW
+FCOGPC131200281,23/12/13,Travel,United Kingdom,Airlines,811.55,BRITISH AIRW
+FCOGPC131200282,23/12/13,Travel,United Kingdom,Airlines,811.55,BRITISH AIRW
+FCOGPC131200283,23/12/13,Travel,United Kingdom,Airlines,1474.55,BRITISH AIRW
+FCOGPC131200284,23/12/13,Travel,United Kingdom,Airlines,954.85,BRITISH AIRW
+FCOGPC131200285,23/12/13,Travel,United Kingdom,Airlines,954.85,BRITISH AIRW
+FCOGPC131200286,23/12/13,Travel,United Kingdom,Airlines,4007.25,BRITISH AIRW
+FCOGPC131200287,23/12/13,Travel,United Kingdom,Airlines,5268.45,BRITISH AIRW
+FCOGPC131200288,23/12/13,Travel,United Kingdom,Airlines,3978.05,BRITISH AIRW
+FCOGPC131200289,23/12/13,Travel,United Kingdom,Airlines,5268.45,BRITISH AIRW
+FCOGPC131200290,23/12/13,Travel,Japan,Airlines,2041.77,BRITISH AIRW
+FCOGPC131200291,23/12/13,Travel,United Kingdom,Airlines,1258.45,BRITISH AIRW
+FCOGPC131200292,23/12/13,Travel,United Kingdom,Airlines,624.45,BRITISH AIRW
+FCOGPC131200293,23/12/13,Travel,Vietnam,Airlines,1705.76,EM AIR
+FCOGPC131200294,23/12/13,Travel,United Kingdom,Airlines,1980.59,EM AIR
+FCOGPC131200295,23/12/13,Travel,United Kingdom,Airlines,2012.30,EM AIR
+FCOGPC131200296,23/12/13,Travel,United Kingdom,Airlines,2012.30,EM AIR
+FCOGPC131200297,23/12/13,Travel,United Kingdom,Airlines,2012.30,EM AIR
+FCOGPC131200298,23/12/13,Travel,United Kingdom,Airlines,2012.30,EM AIR
+FCOGPC131200299,23/12/13,Travel,Colombia,Airlines,1347.66,AIR FRANCE
+FCOGPC131200300,23/12/13,Travel,United Kingdom,Airlines,3047.75,BRITISH AIRW 
+FCOGPC131200301,23/12/13,Travel,Belgium,Airlines,2271.45,AMERICAN 
+FCOGPC131200302,23/12/13,Travel,Hong Kong,Airlines,1227.31,BRITISH AIRW 
+FCOGPC131200303,23/12/13,Travel,United Kingdom,Airlines,1164.60,SAA AIRWAYS 
+FCOGPC131200304,24/12/13,Travel,"Korea, Republic of",Airlines,2332.35,QATAR AIR 
+FCOGPC131200305,24/12/13,Travel,Hong Kong,Airlines,1111.47,BRITISH AIRW 1
+FCOGPC131200306,24/12/13,Travel,Hong Kong,Airlines,1229.00,BRITISH AIRW 2
+FCOGPC131200307,24/12/13,Travel,Panama,Airlines,773.04,COPA
+FCOGPC131200308,24/12/13,Travel,United Kingdom,Airlines,1105.70,COPA
+FCOGPC131200309,24/12/13,Travel,Panama,Airlines,1541.51,COPA
+FCOGPC131200310,24/12/13,Travel,United Kingdom,Airlines,3672.25,BRITISH AIRW
+FCOGPC131200311,24/12/13,Travel,Ireland,Airlines,789.40,DELTA AIR   
+FCOGPC131200312,24/12/13,Travel,Ireland,Airlines,2780.40,DELTA AIR   
+FCOGPC131200313,24/12/13,Travel,United Kingdom,Airlines,4484.25,SINGAPOREAIR
+FCOGPC131200314,24/12/13,Travel,United Kingdom,Airlines,4484.25,SINGAPOREAIR
+FCOGPC131200315,24/12/13,Travel,United Kingdom,Airlines,3032.65,KENYA AIRWA 
+FCOGPC131200316,24/12/13,Travel,United Kingdom,Airlines,1358.20,KENYA AIRWA 
+FCOGPC131200317,24/12/13,Travel,Barbados,Airlines,763.79,VIR ATL
+FCOGPC131200318,24/12/13,Travel,United Kingdom,Airlines,1631.65,VIR ATL
+FCOGPC131200319,24/12/13,Travel,United Kingdom,Airlines,3427.17,VIR ATL
+FCOGPC131200320,26/12/13,Travel,United Kingdom,Airlines,1990.35,VIR ATL
+FCOGPC131200321,26/12/13,Travel,United Kingdom,Airlines,-2664.75,VIR ATL
+FCOGPC131200322,26/12/13,Travel,United Kingdom,Airlines,-4292.25,SINGAPOREAIR
+FCOGPC131200323,26/12/13,Travel,United Kingdom,Airlines,-4292.25,SINGAPOREAIR
+FCOGPC131200324,26/12/13,Travel,United Kingdom,Airlines,656.80,ETHIOPIA    
+FCOGPC131200325,26/12/13,Travel,United Kingdom,Airlines,947.95,BRITISH AIRW
+FCOGPC131200326,26/12/13,Travel,Australia,Airlines,1118.88,MALAY AIR
+FCOGPC131200327,26/12/13,Travel,United Kingdom,Airlines,2517.05,BRITISH AIRW 
+FCOGPC131200328,26/12/13,Travel,United Kingdom,Airlines,557.45,THY         
+FCOGPC131200329,26/12/13,Travel,United Kingdom,Airlines,2228.55,ETIHADAIR  
+FCOGPC131200330,26/12/13,Travel,United Kingdom,Airlines,784.25,BRITISH AIRW
+FCOGPC131200331,26/12/13,Travel,United Kingdom,Airlines,4030.95,BRITISH AIRW
+FCOGPC131200332,26/12/13,Travel,United Kingdom,Airlines,1755.75,BRITISH AIRW
+FCOGPC131200333,26/12/13,Travel,United Kingdom,Airlines,-1956.30,BRITISH AIRW
+FCOGPC131200334,26/12/13,Travel,United Kingdom,Airlines,-1956.30,BRITISH AIRW
+FCOGPC131200335,26/12/13,Travel,United Kingdom,Airlines,2210.49,EM AIR      
+FCOGPC131200336,26/12/13,Travel,United Kingdom,Airlines,542.19,EM AIR      
+FCOGPC131200337,26/12/13,Travel,Panama,Airlines,590.57,TACA BSP
+FCOGPC131200338,26/12/13,Travel,Hong Kong,Airlines,1106.78,BRITISH AIRW 
+FCOGPC131200339,26/12/13,Travel,Netherlands,Airlines,1238.70,KLM UK     
+FCOGPC131200340,26/12/13,Travel,France,Airlines,-2086.10,AIR FRANCE 
+FCOGPC131200341,26/12/13,Travel,France,Airlines,-695.30,AIR FRANCE 
+FCOGPC131200342,26/12/13,Travel,United Kingdom,Airlines,1145.90,LUFTHANSA 
+FCOGPC131200343,26/12/13,Travel,United Kingdom,Airlines,771.29,QANTAS 
+FCOGPC131200344,26/12/13,Travel,Australia,Airlines,596.79,QANTAS 
+FCOGPC131200345,27/12/13,Travel,United Kingdom,Airlines,1581.95,VIR ATL
+FCOGPC131200346,30/12/13,Travel,United Kingdom,Airlines,3530.74,BRITISH AIRW 
+FCOGPC131200347,30/12/13,Travel,Japan,Airlines,2004.15,BRITISH AIRW 
+FCOGPC131200348,31/12/13,Travel,Paraguay,Airlines,761.18,TACA AIRLINES
+FCOGPC131200349,31/12/13,Travel,Paraguay,Airlines,761.18,TACA AIRLINES
+FCOGPC131200350,31/12/13,Travel,United Kingdom,Airlines,770.05,QATAR AIR 
+FCOGPC131200351,31/12/13,Travel,United Kingdom,Airlines,1147.21,EM AIR     
+FCOGPC131200352,31/12/13,Travel,United Kingdom,Airlines,1143.91,EM AIR      
+FCOGPC131200353,31/12/13,Travel,United Kingdom,Airlines,861.75,BRITISH AIRW
+FCOGPC131200354,31/12/13,Travel,United Kingdom,Airlines,673.85,BRITISH AIRW
+FCOGPC131200355,05/12/13,Automobile Rental Agency,Malta,Car Hire,1005.97,TRAVEL EXPERIENCE LTD
+FCOGPC131200356,11/12/13,Automobile Rental Agency,United Kingdom,Car Hire,665.22,TRAVELHIRE
+FCOGPC131200357,16/12/13,Automobile Rental Agency,United Kingdom,Car Hire,629.75,TRAVELHIRE
+FCOGPC131200358,16/12/13,Automobile Rental Agency,United Kingdom,Car Hire,647.92,TRAVELHIRE
+FCOGPC131200359,16/12/13,Automobile Rental Agency,United Kingdom,Car Hire,1314.12,TRAVELHIRE
+FCOGPC131200360,16/12/13,Automobile Rental Agency,United Kingdom,Car Hire,2019.21,TRAVELHIRE
+FCOGPC131200361,16/12/13,Automobile Rental Agency,United Kingdom,Car Hire,10000.00,TRAVELHIRE
+FCOGPC131200362,16/12/13,Automobile Rental Agency,United Kingdom,Car Hire,2214.88,TRAVELHIRE
+FCOGPC131200363,16/12/13,Automobile Rental Agency,United Kingdom,Car Hire,10000.00,TRAVELHIRE
+FCOGPC131200364,16/12/13,Automobile Rental Agency,United Kingdom,Car Hire,10000.00,TRAVELHIRE
+FCOGPC131200365,17/12/13,Automobile Rental Agency,Saint Lucia,Car Hire,1171.52,24 HOURS CAR RENTAL
+FCOGPC131200366,20/12/13,Automobile Rental Agency,United Kingdom,Car Hire,3729.26,TRAVELHIRE
+FCOGPC131200367,23/12/13,Automobile Rental Agency,United Kingdom,Car Hire,737.15,TRAVELHIRE
+FCOGPC131200368,23/12/13,Automobile Rental Agency,Qatar,Car Hire,672.73,PRESTIGE CARS COMPANY
+FCOGPC131200369,16/12/13,Cash,United Kingdom,Cash,500.00,Changegroup Oxford St
+FCOGPC131200370,23/12/13,Cash,Iceland,Cash,844.35,Landsbanki Islands
+FCOGPC131200371,02/12/13,Outbound Telemarketing Merchnt,Colombia,Catalogue,680.70,ELEMPLEO.COM
+FCOGPC131200372,04/12/13,Outbound Telemarketing Merchnt,Colombia,Catalogue,618.99,W Y C INTERNATIONAL
+FCOGPC131200373,04/12/13,Outbound Telemarketing Merchnt,Colombia,Catalogue,668.28,W Y C INTERNATIONAL
+FCOGPC131200374,05/12/13,Other Direct Marketers,Luxembourg,Catalogue,600.00,Amazon EU
+FCOGPC131200375,11/12/13,Catalog Merchant,Japan,Catalogue,788.17,SIMUL INTERNATIONAL IN
+FCOGPC131200376,11/12/13,Catalog Merchant,Japan,Catalogue,1159.07,SIMUL INTERNATIONAL IN
+FCOGPC131200377,16/12/13,Direct Mktg-Travel Related Arr,Pakistan,Catalogue,1213.92,SHAKIL EXPRESS PVT LTD
+FCOGPC131200378,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,653.76,VODAFONE LTD
+FCOGPC131200379,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,578.68,VODAFONE LTD
+FCOGPC131200380,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,513.28,VODAFONE LTD
+FCOGPC131200381,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,977.26,VODAFONE LTD
+FCOGPC131200382,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,1098.94,VODAFONE LTD
+FCOGPC131200383,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,1173.05,VODAFONE LTD
+FCOGPC131200384,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,2033.88,VODAFONE LTD
+FCOGPC131200385,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,3054.82,VODAFONE LTD
+FCOGPC131200386,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,3134.73,VODAFONE LTD
+FCOGPC131200387,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,2097.19,VODAFONE LTD
+FCOGPC131200388,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,876.64,VODAFONE LTD
+FCOGPC131200389,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,520.92,VODAFONE LTD
+FCOGPC131200390,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,853.61,VODAFONE LTD
+FCOGPC131200391,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,586.85,VODAFONE LTD
+FCOGPC131200392,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,1689.52,VODAFONE LTD
+FCOGPC131200393,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,806.99,VODAFONE LTD
+FCOGPC131200394,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,2104.44,VODAFONE LTD
+FCOGPC131200395,16/12/13,Other Direct Marketers,United Kingdom,Catalogue,576.47,VODAFONE LTD
+FCOGPC131200396,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,785.29,VODAFONE LTD
+FCOGPC131200397,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,542.15,VODAFONE LTD
+FCOGPC131200398,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,552.88,VODAFONE LTD
+FCOGPC131200399,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,668.04,VODAFONE LTD
+FCOGPC131200400,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,567.82,VODAFONE LTD
+FCOGPC131200401,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,2046.53,VODAFONE LTD
+FCOGPC131200402,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,904.31,VODAFONE LTD
+FCOGPC131200403,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,609.67,VODAFONE LTD
+FCOGPC131200404,17/12/13,Other Direct Marketers,United Kingdom,Catalogue,594.47,VODAFONE LTD
+FCOGPC131200405,19/12/13,Other Direct Marketers,United Kingdom,Catalogue,1452.67,Amazon *Marketplce JP
+FCOGPC131200406,23/12/13,Catalog Merchant,United Kingdom,Catalogue,1005.22,STATIONERY OFFICE BOOK
+FCOGPC131200407,27/12/13,Direct Mktg-Travel Related Arr,Pakistan,Catalogue,1360.10,SHAKIL EXPRESS PVT LTD
+FCOGPC131200408,09/12/13,Fabric Stores,United Kingdom,Clothing,1711.49,OSBORNE & LITTLE L
+FCOGPC131200409,09/12/13,Mens/Womens Clothing Stores,United Kingdom,Clothing,1211.44,WWW.COTSWOLDOUTDOOR.CO
+FCOGPC131200410,10/12/13,Misc Apparel/Access Stores,Lebanon,Clothing,829.18,COMMANDO
+FCOGPC131200411,16/12/13,Shoe Stores,Argentina,Clothing,657.86,M & R
+FCOGPC131200412,17/12/13,Womens Access/Specialty,United Kingdom,Clothing,549.84,SAFARIQUIP LTD
+FCOGPC131200413,19/12/13,Men/Boys Clothing/Acc Stores,Argentina,Clothing,1109.27,BIGATI
+FCOGPC131200414,19/12/13,Men/Boys Clothing/Acc Stores,Argentina,Clothing,1089.94,BIGATI
+FCOGPC131200415,24/12/13,Men/Boys Clothing/Acc Stores,Australia,Clothing,829.85,LONSDALE PARRAMATTA
+FCOGPC131200416,24/12/13,Fabric Stores,Colombia,Clothing,1453.27,COORDINADOS
+FCOGPC131200417,24/12/13,Family Clothing Stores,Tunisia,Clothing,743.45,LA GENERALE DE DISTRIB
+FCOGPC131200418,02/12/13,Department Stores,United Kingdom,Department Stores,-1346.00,HARRODS LTD
+FCOGPC131200419,02/12/13,Department Stores,United Kingdom,Department Stores,-975.00,HARRODS LTD
+FCOGPC131200420,03/12/13,Department Stores,Pakistan,Department Stores,661.11,NEW QUE BEE STORE
+FCOGPC131200421,04/12/13,Department Stores,Taiwan,Department Stores,527.03,SHIN GUANG SAN YUE 126
+FCOGPC131200422,09/12/13,Department Stores,Taiwan,Department Stores,506.07,SHIN GUANG SAN YUE 126
+FCOGPC131200423,16/12/13,Department Stores,Spain,Department Stores,784.10,IKEA SAN SEBASTIAN DE
+FCOGPC131200424,16/12/13,Department Stores,Fiji,Department Stores,660.03,TAPOOCITY PLAZA
+FCOGPC131200425,18/12/13,Department Stores,United Kingdom,Department Stores,592.00,JOHN LEWIS
+FCOGPC131200426,19/12/13,Department Stores,Spain,Department Stores,1222.35,IKEA SAN SEBASTIAN DE
+FCOGPC131200427,30/12/13,Department Stores,United Kingdom,Department Stores,2321.00,FRD REFUND RE-VERSAL
+FCOGPC131200428,02/12/13,Commercial Furniture,Mexico,Diy & Household Stores,1060.69,REIMSE
+FCOGPC131200429,03/12/13,Furniture/Equip Stores,Portugal,Diy & Household Stores,584.12,IKEA
+FCOGPC131200430,03/12/13,Furniture/Equip Stores,Portugal,Diy & Household Stores,1027.67,MOVIFLOR
+FCOGPC131200431,03/12/13,Floor Covering Stores,Gibraltar,Diy & Household Stores,1100.00,A ABECASIS GONZALE
+FCOGPC131200432,03/12/13,Commercial Furniture,Portugal,Diy & Household Stores,1271.86,DIVANI DIVANI SINTRA
+FCOGPC131200433,03/12/13,Commercial Furniture,Portugal,Diy & Household Stores,1102.29,DIVANI DIVANI SINTRA
+FCOGPC131200434,04/12/13,Household Appliance Stores,Colombia,Diy & Household Stores,716.35,CASA MAGNA
+FCOGPC131200435,04/12/13,Electronics Stores,"Korea, Republic of",Diy & Household Stores,671.80,COMPUTER          0906
+FCOGPC131200436,05/12/13,Electrical Parts/Equipment,United Kingdom,Diy & Household Stores,1076.00,VAUGHAN LTD
+FCOGPC131200437,05/12/13,Hardware Stores,Russia,Diy & Household Stores,972.50,BELYY VETER TSIFROVOY
+FCOGPC131200438,05/12/13,Electronics Stores,Brunei Darussalam,Diy & Household Stores,829.08,INTERHOUSE COMPANY
+FCOGPC131200439,06/12/13,Household Appliance Stores,Costa Rica,Diy & Household Stores,620.12,DISTRIBUIDORA COLON
+FCOGPC131200440,06/12/13,Household Appliance Stores,Russia,Diy & Household Stores,1433.12,M.VIDEO 438 1
+FCOGPC131200441,06/12/13,Electronics Stores,"Korea, Republic of",Diy & Household Stores,673.82,COMPUTER          0906
+FCOGPC131200442,10/12/13,Furniture/Equip Stores,United Kingdom,Diy & Household Stores,1365.92,DIPLOMATIC MISSION
+FCOGPC131200443,10/12/13,Furniture/Equip Stores,Qatar,Diy & Household Stores,1242.26,FLORANZA INT.NURSERY
+FCOGPC131200444,10/12/13,Electronics Stores,"Korea, Republic of",Diy & Household Stores,677.93,COMPUTER          0906
+FCOGPC131200445,10/12/13,Electronics Stores,Pakistan,Diy & Household Stores,783.97,ORIENT ELECTRIC WORKS
+FCOGPC131200446,11/12/13,Household Appliance Stores,United Kingdom,Diy & Household Stores,1014.00,CODELOCKS LTD
+FCOGPC131200447,11/12/13,Commercial Furniture,Australia,Diy & Household Stores,906.58,ERGONOMICOFFICE
+FCOGPC131200448,12/12/13,Home Supply Warehouse Stores,Venezuela,Diy & Household Stores,937.38,PROVEEDORES DE LICORES
+FCOGPC131200449,12/12/13,Home Supply Warehouse Stores,Venezuela,Diy & Household Stores,749.91,PROVEEDORES DE LICORES
+FCOGPC131200450,12/12/13,Furniture/Equip Stores,United Kingdom,Diy & Household Stores,884.76,DIPLOMATIC MISSION
+FCOGPC131200451,12/12/13,Electrical Parts/Equipment,United Kingdom,Diy & Household Stores,1020.00,SUPPLY PLUS LTD
+FCOGPC131200452,16/12/13,Drapery & Upholstery Stores,Panama,Diy & Household Stores,1211.50,SOLAR PROTECT
+FCOGPC131200453,16/12/13,Drapery & Upholstery Stores,Panama,Diy & Household Stores,926.30,SOLAR PROTECT
+FCOGPC131200454,16/12/13,Drapery & Upholstery Stores,Panama,Diy & Household Stores,926.30,SOLAR PROTECT
+FCOGPC131200455,16/12/13,Drapery & Upholstery Stores,Panama,Diy & Household Stores,961.11,SOLAR PROTECT
+FCOGPC131200456,16/12/13,Drapery & Upholstery Stores,Panama,Diy & Household Stores,872.35,SOLAR PROTECT
+FCOGPC131200457,16/12/13,Drapery & Upholstery Stores,Panama,Diy & Household Stores,1073.26,SOLAR PROTECT
+FCOGPC131200458,16/12/13,Furniture/Equip Stores,Saudi Arabia,Diy & Household Stores,536.22,ACCOUNTS 1
+FCOGPC131200459,16/12/13,Lumber/Build. Supply Stores,Bulgaria,Diy & Household Stores,900.63,INTEZA
+FCOGPC131200460,16/12/13,Glass/Paint/Wallpaper Stores,Brazil,Diy & Household Stores,712.72,MOLDURA MINUTO
+FCOGPC131200461,17/12/13,Furniture/Equip Stores,Romania,Diy & Household Stores,673.15,IKEA ROMANIA SRL
+FCOGPC131200462,17/12/13,Furniture/Equip Stores,Poland,Diy & Household Stores,750.18,IKEA Retail Sp. z o.o.
+FCOGPC131200463,18/12/13,Furniture/Equip Stores,Israel,Diy & Household Stores,676.04,IKEA
+FCOGPC131200464,18/12/13,Furniture/Equip Stores,Dominican Republic,Diy & Household Stores,1288.24,LA NACIONAL HOME GALLE
+FCOGPC131200465,19/12/13,Electrical Parts/Equipment,United Kingdom,Diy & Household Stores,631.90,WILTS ELECTRICAL BRITS
+FCOGPC131200466,19/12/13,Hardware Stores,Costa Rica,Diy & Household Stores,519.68,FERRETERIA EPA BELEN
+FCOGPC131200467,19/12/13,Home Supply Warehouse Stores,United Kingdom,Diy & Household Stores,878.40,PATIO PRODUCTS
+FCOGPC131200468,20/12/13,Household Appliance Stores,Russia,Diy & Household Stores,1257.55,M.VIDEO 45 6
+FCOGPC131200469,20/12/13,Furniture/Equip Stores,Austria,Diy & Household Stores,1277.37,IKEA GRAZ
+FCOGPC131200470,23/12/13,Electrical Parts/Equipment,United Kingdom,Diy & Household Stores,648.36,METEOR ELECTRICAL
+FCOGPC131200471,23/12/13,Electronics Stores,Brazil,Diy & Household Stores,921.68,FAST SHOP TLMKT
+FCOGPC131200472,31/12/13,Floor Covering Stores,Turkey,Diy & Household Stores,613.32,MKN INS.LTD.STI.
+FCOGPC131200473,02/12/13,Restaurants,Peru,Entertainment,531.36,MT 01 - SANTA CRUZ
+FCOGPC131200474,04/12/13,Restaurants,New Zealand,Entertainment,1189.84,PARLIAMENT ADMIN N84
+FCOGPC131200475,05/12/13,Restaurants,Colombia,Entertainment,902.70,AZERTY
+FCOGPC131200476,09/12/13,Restaurants,Kazakhstan,Entertainment,692.69,60200220 Restau
+FCOGPC131200477,09/12/13,Bars/Taverns/Lounges/Discos,Hong Kong,Entertainment,1122.87,DELANEY'S (WANCHAI) 41
+FCOGPC131200478,10/12/13,Restaurants,Australia,Entertainment,508.65,COTTESLOE BEACH HOTEL
+FCOGPC131200479,10/12/13,Caterers,United Kingdom,Entertainment,711.58,SEARCY'S
+FCOGPC131200480,13/12/13,Restaurants,Indonesia,Entertainment,859.34,"GANESHA,BRI"
+FCOGPC131200481,13/12/13,Restaurants,Serbia,Entertainment,1050.00,ELITE FOOD & SERVICE
+FCOGPC131200482,16/12/13,Restaurants,Slovakia,Entertainment,535.39,CIROS RESTAURANT
+FCOGPC131200483,16/12/13,Restaurants,Hong Kong,Entertainment,2402.61,HK CONV & EXHI CTR  73
+FCOGPC131200484,16/12/13,Restaurants,France,Entertainment,866.23,TRAITEUR CHEZ SOI
+FCOGPC131200485,16/12/13,Fast Food Restaurants,United Kingdom,Entertainment,500.28,WWW.MISSION COMMS
+FCOGPC131200486,17/12/13,Restaurants,Romania,Entertainment,802.52,ADIMAR RESTAURANT SRL
+FCOGPC131200487,17/12/13,Commercial/Pro Sports,United Arab Emirates,Entertainment,1105.42,THE CLUB (HEALH COMPLE
+FCOGPC131200488,18/12/13,Restaurants,Honduras,Entertainment,613.37,BISTRO PRI ZVONCU
+FCOGPC131200489,18/12/13,Restaurants,Brazil,Entertainment,798.24,THE QUEENS HEAD
+FCOGPC131200490,19/12/13,Fast Food Restaurants,United Kingdom,Entertainment,999.13,WWW.MISSION COMMS
+FCOGPC131200491,19/12/13,Fast Food Restaurants,United Kingdom,Entertainment,699.48,WWW.MISSION COMMS
+FCOGPC131200492,19/12/13,Fast Food Restaurants,United Kingdom,Entertainment,602.41,WWW.MISSION COMMS
+FCOGPC131200493,20/12/13,Restaurants,Japan,Entertainment,1365.95,DYNAC
+FCOGPC131200494,20/12/13,Bars/Taverns/Lounges/Discos,Kazakhstan,Entertainment,843.94,GUNS AND ROSES PUB
+FCOGPC131200495,20/12/13,Restaurants,United Kingdom,Entertainment,520.00,R.I.C.S.
+FCOGPC131200496,23/12/13,Fast Food Restaurants,United Kingdom,Entertainment,948.24,WWW.MISSION COMMS
+FCOGPC131200497,23/12/13,Fast Food Restaurants,United Kingdom,Entertainment,858.90,WWW.MISSION COMMS
+FCOGPC131200498,23/12/13,Fast Food Restaurants,United Kingdom,Entertainment,801.35,WWW.MISSION COMMS
+FCOGPC131200499,23/12/13,Fast Food Restaurants,United Kingdom,Entertainment,736.32,WWW.MISSION COMMS
+FCOGPC131200500,23/12/13,Fast Food Restaurants,United Kingdom,Entertainment,672.00,WWW.MISSION COMMS
+FCOGPC131200501,23/12/13,Caterers,Saudi Arabia,Entertainment,1021.07,REZAYAT TRADING CO
+FCOGPC131200502,23/12/13,Restaurants,Saudi Arabia,Entertainment,1205.79,SHOWDAREI. M. YOSEF ES
+FCOGPC131200503,26/12/13,Restaurants,Saudi Arabia,Entertainment,633.89,TOASTED
+FCOGPC131200504,02/12/13,Pkg Stores/Beer/Wine/Liquor,Uruguay,Food & Drink,555.55,LICORERIA SAVOY
+FCOGPC131200505,04/12/13,Pkg Stores/Beer/Wine/Liquor,Saint Lucia,Food & Drink,770.25,BRYDENS BUSINESS DEPOT
+FCOGPC131200506,05/12/13,Pkg Stores/Beer/Wine/Liquor,Qatar,Food & Drink,2285.72,QATAR DISTRIBUTION CO.
+FCOGPC131200507,10/12/13,Pkg Stores/Beer/Wine/Liquor,Australia,Food & Drink,1362.20,KOLLARAS AND CO P/ L
+FCOGPC131200508,11/12/13,Pkg Stores/Beer/Wine/Liquor,Bahrain,Food & Drink,1107.78,GULF BRANDS INTERNATIO
+FCOGPC131200509,20/12/13,Pkg Stores/Beer/Wine/Liquor,United Arab Emirates,Food & Drink,1670.63,MARITIME & MERCANTILE
+FCOGPC131200510,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1310.98,ACCOMMODATION PROVIDER
+FCOGPC131200511,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,855.79,ACCOMMODATION PROVIDER
+FCOGPC131200512,02/12/13,Hotels/Motels/Resorts,Netherlands,Hotels,1365.67,ACCOMMODATION PROVIDER
+FCOGPC131200513,02/12/13,Hotels/Motels/Resorts,Netherlands,Hotels,970.99,ACCOMMODATION PROVIDER
+FCOGPC131200514,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,609.00,ACCOMMODATION PROVIDER
+FCOGPC131200515,02/12/13,Hotels/Motels/Resorts,Zambia,Hotels,790.51,ACCOMMODATION PROVIDER
+FCOGPC131200516,02/12/13,Hotels/Motels/Resorts,Italy,Hotels,1089.53,ACCOMMODATION PROVIDER
+FCOGPC131200517,02/12/13,Hotels/Motels/Resorts,Australia,Hotels,1054.46,ACCOMMODATION PROVIDER
+FCOGPC131200518,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1397.40,ACCOMMODATION PROVIDER
+FCOGPC131200519,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,795.00,ACCOMMODATION PROVIDER
+FCOGPC131200520,02/12/13,Hotels/Motels/Resorts,Australia,Hotels,617.98,ACCOMMODATION PROVIDER
+FCOGPC131200521,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,825.60,ACCOMMODATION PROVIDER
+FCOGPC131200522,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,500.00,ACCOMMODATION PROVIDER
+FCOGPC131200523,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,785.68,ACCOMMODATION PROVIDER
+FCOGPC131200524,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,654.00,ACCOMMODATION PROVIDER
+FCOGPC131200525,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,620.00,ACCOMMODATION PROVIDER
+FCOGPC131200526,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,620.00,ACCOMMODATION PROVIDER
+FCOGPC131200527,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,620.00,ACCOMMODATION PROVIDER
+FCOGPC131200528,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1336.80,ACCOMMODATION PROVIDER
+FCOGPC131200529,02/12/13,Hotels/Motels/Resorts,Belgium,Hotels,547.76,ACCOMMODATION PROVIDER
+FCOGPC131200530,02/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,652.00,ACCOMMODATION PROVIDER
+FCOGPC131200531,02/12/13,Hotels/Motels/Resorts,Belgium,Hotels,538.36,ACCOMMODATION PROVIDER
+FCOGPC131200532,03/12/13,Hotels/Motels/Resorts,Singapore,Hotels,2055.30,ACCOMMODATION PROVIDER
+FCOGPC131200533,03/12/13,Hotels/Motels/Resorts,Djibouti,Hotels,3134.49,ACCOMMODATION PROVIDER
+FCOGPC131200534,03/12/13,Hotels/Motels/Resorts,China,Hotels,1341.08,ACCOMMODATION PROVIDER
+FCOGPC131200535,03/12/13,Hotels/Motels/Resorts,Singapore,Hotels,2206.54,ACCOMMODATION PROVIDER
+FCOGPC131200536,03/12/13,Hotels/Motels/Resorts,Philippines,Hotels,664.53,ACCOMMODATION PROVIDER
+FCOGPC131200537,03/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,555.00,ACCOMMODATION PROVIDER
+FCOGPC131200538,03/12/13,Hotels/Motels/Resorts,Singapore,Hotels,2105.19,ACCOMMODATION PROVIDER
+FCOGPC131200539,03/12/13,Hotels/Motels/Resorts,Djibouti,Hotels,754.40,ACCOMMODATION PROVIDER
+FCOGPC131200540,03/12/13,Hotels/Motels/Resorts,Japan,Hotels,648.84,ACCOMMODATION PROVIDER
+FCOGPC131200541,03/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1106.00,ACCOMMODATION PROVIDER
+FCOGPC131200542,03/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1106.00,ACCOMMODATION PROVIDER
+FCOGPC131200543,03/12/13,Hotels/Motels/Resorts,Saudi Arabia,Hotels,2848.91,ACCOMMODATION PROVIDER
+FCOGPC131200544,04/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,768.00,ACCOMMODATION PROVIDER
+FCOGPC131200545,04/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,2660.00,ACCOMMODATION PROVIDER
+FCOGPC131200546,04/12/13,Hotels/Motels/Resorts,Solomen Islands,Hotels,782.22,ACCOMMODATION PROVIDER
+FCOGPC131200547,04/12/13,Hotels/Motels/Resorts,Colombia,Hotels,1209.14,ACCOMMODATION PROVIDER
+FCOGPC131200548,04/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,576.00,ACCOMMODATION PROVIDER
+FCOGPC131200549,04/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,638.40,ACCOMMODATION PROVIDER
+FCOGPC131200550,04/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,518.40,ACCOMMODATION PROVIDER
+FCOGPC131200551,05/12/13,Hotels/Motels/Resorts,Angola,Hotels,1097.32,ACCOMMODATION PROVIDER
+FCOGPC131200552,05/12/13,Hotels/Motels/Resorts,Angola,Hotels,1093.44,ACCOMMODATION PROVIDER
+FCOGPC131200553,05/12/13,Hotels/Motels/Resorts,Angola,Hotels,1093.44,ACCOMMODATION PROVIDER
+FCOGPC131200554,05/12/13,Hotels/Motels/Resorts,Angola,Hotels,1213.00,ACCOMMODATION PROVIDER
+FCOGPC131200555,05/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,660.00,ACCOMMODATION PROVIDER
+FCOGPC131200556,05/12/13,Hotels/Motels/Resorts,Belgium,Hotels,761.27,ACCOMMODATION PROVIDER
+FCOGPC131200557,05/12/13,Hotels/Motels/Resorts,Philippines,Hotels,1278.95,ACCOMMODATION PROVIDER
+FCOGPC131200558,05/12/13,Hotels/Motels/Resorts,Belgium,Hotels,845.48,ACCOMMODATION PROVIDER
+FCOGPC131200559,05/12/13,Hotels/Motels/Resorts,China,Hotels,2382.88,ACCOMMODATION PROVIDER
+FCOGPC131200560,05/12/13,Hotels/Motels/Resorts,India,Hotels,745.82,ACCOMMODATION PROVIDER
+FCOGPC131200561,06/12/13,Hotels/Motels/Resorts,India,Hotels,663.26,ACCOMMODATION PROVIDER
+FCOGPC131200562,06/12/13,Hotels/Motels/Resorts,Australia,Hotels,975.56,ACCOMMODATION PROVIDER
+FCOGPC131200563,06/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,500.00,ACCOMMODATION PROVIDER
+FCOGPC131200564,06/12/13,Hotels/Motels/Resorts,Oman,Hotels,594.99,ACCOMMODATION PROVIDER
+FCOGPC131200565,06/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,690.00,ACCOMMODATION PROVIDER
+FCOGPC131200566,06/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,948.00,ACCOMMODATION PROVIDER
+FCOGPC131200567,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,808.65,ACCOMMODATION PROVIDER
+FCOGPC131200568,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,660.00,ACCOMMODATION PROVIDER
+FCOGPC131200569,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,870.00,ACCOMMODATION PROVIDER
+FCOGPC131200570,09/12/13,Hotels/Motels/Resorts,Brunei Darussalam,Hotels,752.41,ACCOMMODATION PROVIDER
+FCOGPC131200571,09/12/13,Hotels/Motels/Resorts,Taiwan,Hotels,716.22,ACCOMMODATION PROVIDER
+FCOGPC131200572,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,522.20,ACCOMMODATION PROVIDER
+FCOGPC131200573,09/12/13,Hotels/Motels/Resorts,Thailand,Hotels,503.38,ACCOMMODATION PROVIDER
+FCOGPC131200574,09/12/13,Hotels/Motels/Resorts,China,Hotels,2136.05,ACCOMMODATION PROVIDER
+FCOGPC131200575,09/12/13,Hotels/Motels/Resorts,France,Hotels,736.32,ACCOMMODATION PROVIDER
+FCOGPC131200576,09/12/13,Hotels/Motels/Resorts,Thailand,Hotels,853.81,ACCOMMODATION PROVIDER
+FCOGPC131200577,09/12/13,Hotels/Motels/Resorts,"Korea, Republic of",Hotels,561.42,ACCOMMODATION PROVIDER
+FCOGPC131200578,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,691.48,ACCOMMODATION PROVIDER
+FCOGPC131200579,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,888.45,ACCOMMODATION PROVIDER
+FCOGPC131200580,09/12/13,Hotels/Motels/Resorts,Russia,Hotels,724.77,ACCOMMODATION PROVIDER
+FCOGPC131200581,09/12/13,Hotels/Motels/Resorts,"Korea, Republic of",Hotels,891.93,ACCOMMODATION PROVIDER
+FCOGPC131200582,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,522.00,ACCOMMODATION PROVIDER
+FCOGPC131200583,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,833.85,ACCOMMODATION PROVIDER
+FCOGPC131200584,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,690.00,ACCOMMODATION PROVIDER
+FCOGPC131200585,09/12/13,Hotels/Motels/Resorts,United Arab Emirates,Hotels,618.40,ACCOMMODATION PROVIDER
+FCOGPC131200586,09/12/13,Hotels/Motels/Resorts,United Arab Emirates,Hotels,618.40,ACCOMMODATION PROVIDER
+FCOGPC131200587,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,718.75,ACCOMMODATION PROVIDER
+FCOGPC131200588,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,621.00,ACCOMMODATION PROVIDER
+FCOGPC131200589,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1110.00,ACCOMMODATION PROVIDER
+FCOGPC131200590,09/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1110.00,ACCOMMODATION PROVIDER
+FCOGPC131200591,09/12/13,Hotels/Motels/Resorts,Russia,Hotels,626.24,ACCOMMODATION PROVIDER
+FCOGPC131200592,10/12/13,Hotels/Motels/Resorts,Indonesia,Hotels,510.30,ACCOMMODATION PROVIDER
+FCOGPC131200593,10/12/13,Hotels/Motels/Resorts,Indonesia,Hotels,729.99,ACCOMMODATION PROVIDER
+FCOGPC131200594,10/12/13,Hotels/Motels/Resorts,Ukraine,Hotels,685.27,ACCOMMODATION PROVIDER
+FCOGPC131200595,10/12/13,Hotels/Motels/Resorts,Ukraine,Hotels,889.04,ACCOMMODATION PROVIDER
+FCOGPC131200596,10/12/13,Hotels/Motels/Resorts,Ukraine,Hotels,887.68,ACCOMMODATION PROVIDER
+FCOGPC131200597,10/12/13,Hotels/Motels/Resorts,Jamaica,Hotels,558.73,ACCOMMODATION PROVIDER
+FCOGPC131200598,10/12/13,Hotels/Motels/Resorts,Lithuania,Hotels,532.99,ACCOMMODATION PROVIDER
+FCOGPC131200599,10/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,984.00,ACCOMMODATION PROVIDER
+FCOGPC131200600,10/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,976.00,ACCOMMODATION PROVIDER
+FCOGPC131200601,10/12/13,Hotels/Motels/Resorts,Lithuania,Hotels,608.19,ACCOMMODATION PROVIDER
+FCOGPC131200602,10/12/13,Hotels/Motels/Resorts,Lithuania,Hotels,667.09,ACCOMMODATION PROVIDER
+FCOGPC131200603,10/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,840.00,ACCOMMODATION PROVIDER
+FCOGPC131200604,10/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1152.00,ACCOMMODATION PROVIDER
+FCOGPC131200605,10/12/13,Hotels/Motels/Resorts,Lithuania,Hotels,559.02,ACCOMMODATION PROVIDER
+FCOGPC131200606,10/12/13,Hotels/Motels/Resorts,Jamaica,Hotels,933.14,ACCOMMODATION PROVIDER
+FCOGPC131200607,10/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1008.00,ACCOMMODATION PROVIDER
+FCOGPC131200608,10/12/13,Hotels/Motels/Resorts,Colombia,Hotels,1322.84,ACCOMMODATION PROVIDER
+FCOGPC131200609,11/12/13,Hotels/Motels/Resorts,Algeria,Hotels,1151.09,ACCOMMODATION PROVIDER
+FCOGPC131200610,11/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,660.00,ACCOMMODATION PROVIDER
+FCOGPC131200611,11/12/13,Hotels/Motels/Resorts,"Korea, Republic of",Hotels,1381.57,ACCOMMODATION PROVIDER
+FCOGPC131200612,11/12/13,Hotels/Motels/Resorts,"Korea, Republic of",Hotels,690.78,ACCOMMODATION PROVIDER
+FCOGPC131200613,11/12/13,Hotels/Motels/Resorts,Saudi Arabia,Hotels,1209.07,ACCOMMODATION PROVIDER
+FCOGPC131200614,11/12/13,Hotels/Motels/Resorts,Saudi Arabia,Hotels,1522.59,ACCOMMODATION PROVIDER
+FCOGPC131200615,12/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,14037.00,ACCOMMODATION PROVIDER
+FCOGPC131200616,12/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,14037.00,ACCOMMODATION PROVIDER
+FCOGPC131200617,12/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,-14037.00,ACCOMMODATION PROVIDER
+FCOGPC131200618,12/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,763.56,ACCOMMODATION PROVIDER
+FCOGPC131200619,12/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,763.56,ACCOMMODATION PROVIDER
+FCOGPC131200620,12/12/13,Hotels/Motels/Resorts,Turkey,Hotels,519.88,ACCOMMODATION PROVIDER
+FCOGPC131200621,12/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,576.00,ACCOMMODATION PROVIDER
+FCOGPC131200622,12/12/13,Hotels/Motels/Resorts,Algeria,Hotels,1421.99,ACCOMMODATION PROVIDER
+FCOGPC131200623,12/12/13,Hotels/Motels/Resorts,Malaysia,Hotels,836.91,ACCOMMODATION PROVIDER
+FCOGPC131200624,12/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,715.50,ACCOMMODATION PROVIDER
+FCOGPC131200625,13/12/13,Hotels/Motels/Resorts,Philippines,Hotels,1597.05,ACCOMMODATION PROVIDER
+FCOGPC131200626,13/12/13,Hotels/Motels/Resorts,France,Hotels,668.35,ACCOMMODATION PROVIDER
+FCOGPC131200627,13/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,930.00,ACCOMMODATION PROVIDER
+FCOGPC131200628,13/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,930.00,ACCOMMODATION PROVIDER
+FCOGPC131200629,13/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,930.00,ACCOMMODATION PROVIDER
+FCOGPC131200630,16/12/13,Hotels/Motels/Resorts,Austria,Hotels,743.17,ACCOMMODATION PROVIDER
+FCOGPC131200631,16/12/13,Hotels/Motels/Resorts,Austria,Hotels,779.95,ACCOMMODATION PROVIDER
+FCOGPC131200632,16/12/13,Hotels/Motels/Resorts,Austria,Hotels,786.60,ACCOMMODATION PROVIDER
+FCOGPC131200633,16/12/13,Hotels/Motels/Resorts,United States of America,Hotels,530.21,ACCOMMODATION PROVIDER
+FCOGPC131200634,16/12/13,Hotels/Motels/Resorts,United States of America,Hotels,886.06,ACCOMMODATION PROVIDER
+FCOGPC131200635,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1306.23,ACCOMMODATION PROVIDER
+FCOGPC131200636,16/12/13,Hotels/Motels/Resorts,Saudi Arabia,Hotels,1935.93,ACCOMMODATION PROVIDER
+FCOGPC131200637,16/12/13,Hotels/Motels/Resorts,Saudi Arabia,Hotels,2315.05,ACCOMMODATION PROVIDER
+FCOGPC131200638,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,706.75,ACCOMMODATION PROVIDER
+FCOGPC131200639,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1712.00,ACCOMMODATION PROVIDER
+FCOGPC131200640,16/12/13,Hotels/Motels/Resorts,United States of America,Hotels,648.42,ACCOMMODATION PROVIDER
+FCOGPC131200641,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,3636.00,ACCOMMODATION PROVIDER
+FCOGPC131200642,16/12/13,Hotels/Motels/Resorts,Sweden,Hotels,633.49,ACCOMMODATION PROVIDER
+FCOGPC131200643,16/12/13,Hotels/Motels/Resorts,China,Hotels,554.79,ACCOMMODATION PROVIDER
+FCOGPC131200644,16/12/13,Hotels/Motels/Resorts,Philippines,Hotels,574.83,ACCOMMODATION PROVIDER
+FCOGPC131200645,16/12/13,Hotels/Motels/Resorts,New Zealand,Hotels,1046.33,ACCOMMODATION PROVIDER
+FCOGPC131200646,16/12/13,Hotels/Motels/Resorts,Sweden,Hotels,791.87,ACCOMMODATION PROVIDER
+FCOGPC131200647,16/12/13,Hotels/Motels/Resorts,China,Hotels,669.30,ACCOMMODATION PROVIDER
+FCOGPC131200648,16/12/13,Hotels/Motels/Resorts,Taiwan,Hotels,536.79,ACCOMMODATION PROVIDER
+FCOGPC131200649,16/12/13,Hotels/Motels/Resorts,Hong Kong,Hotels,1119.74,ACCOMMODATION PROVIDER
+FCOGPC131200650,16/12/13,Hotels/Motels/Resorts,Sweden,Hotels,886.79,ACCOMMODATION PROVIDER
+FCOGPC131200651,16/12/13,Hotels/Motels/Resorts,Hong Kong,Hotels,837.76,ACCOMMODATION PROVIDER
+FCOGPC131200652,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,525.20,ACCOMMODATION PROVIDER
+FCOGPC131200653,16/12/13,Hotels/Motels/Resorts,Sweden,Hotels,1022.81,ACCOMMODATION PROVIDER
+FCOGPC131200654,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1495.00,ACCOMMODATION PROVIDER
+FCOGPC131200655,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1194.44,ACCOMMODATION PROVIDER
+FCOGPC131200656,16/12/13,Hotels/Motels/Resorts,Hong Kong,Hotels,1774.33,ACCOMMODATION PROVIDER
+FCOGPC131200657,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,835.00,ACCOMMODATION PROVIDER
+FCOGPC131200658,16/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,759.70,ACCOMMODATION PROVIDER
+FCOGPC131200659,16/12/13,Hotels/Motels/Resorts,United States of America,Hotels,718.93,ACCOMMODATION PROVIDER
+FCOGPC131200660,16/12/13,Hotels/Motels/Resorts,Kazakhstan,Hotels,506.14,ACCOMMODATION PROVIDER
+FCOGPC131200661,17/12/13,Hotels/Motels/Resorts,Gambia,Hotels,996.86,ACCOMMODATION PROVIDER
+FCOGPC131200662,17/12/13,Hotels/Motels/Resorts,"Virgin Islands, British",Hotels,579.46,ACCOMMODATION PROVIDER
+FCOGPC131200663,17/12/13,Hotels/Motels/Resorts,Philippines,Hotels,4531.70,ACCOMMODATION PROVIDER
+FCOGPC131200664,17/12/13,Hotels/Motels/Resorts,Gambia,Hotels,1012.03,ACCOMMODATION PROVIDER
+FCOGPC131200665,17/12/13,Hotels/Motels/Resorts,China,Hotels,728.06,ACCOMMODATION PROVIDER
+FCOGPC131200666,17/12/13,Hotels/Motels/Resorts,Antigua and Barbuda,Hotels,546.09,ACCOMMODATION PROVIDER
+FCOGPC131200667,17/12/13,Hotels/Motels/Resorts,"Virgin Islands, British",Hotels,763.59,ACCOMMODATION PROVIDER
+FCOGPC131200668,17/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,575.00,ACCOMMODATION PROVIDER
+FCOGPC131200669,17/12/13,Hotels/Motels/Resorts,Gambia,Hotels,717.00,ACCOMMODATION PROVIDER
+FCOGPC131200670,17/12/13,Hotels/Motels/Resorts,Gambia,Hotels,559.18,ACCOMMODATION PROVIDER
+FCOGPC131200671,17/12/13,Hotels/Motels/Resorts,United Arab Emirates,Hotels,696.24,ACCOMMODATION PROVIDER
+FCOGPC131200672,17/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1526.40,ACCOMMODATION PROVIDER
+FCOGPC131200673,17/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,545.60,ACCOMMODATION PROVIDER
+FCOGPC131200674,17/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,2035.20,ACCOMMODATION PROVIDER
+FCOGPC131200675,18/12/13,Hotels/Motels/Resorts,Philippines,Hotels,1110.30,ACCOMMODATION PROVIDER
+FCOGPC131200676,18/12/13,Hotels/Motels/Resorts,Iceland,Hotels,973.99,ACCOMMODATION PROVIDER
+FCOGPC131200677,18/12/13,Hotels/Motels/Resorts,Panama,Hotels,575.25,ACCOMMODATION PROVIDER
+FCOGPC131200678,18/12/13,Hotels/Motels/Resorts,South Africa,Hotels,567.16,ACCOMMODATION PROVIDER
+FCOGPC131200679,19/12/13,Hotels/Motels/Resorts,"Korea, Republic of",Hotels,501.67,ACCOMMODATION PROVIDER
+FCOGPC131200680,19/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,1284.39,ACCOMMODATION PROVIDER
+FCOGPC131200681,19/12/13,Hotels/Motels/Resorts,Jamaica,Hotels,829.20,ACCOMMODATION PROVIDER
+FCOGPC131200682,19/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,2292.80,ACCOMMODATION PROVIDER
+FCOGPC131200683,19/12/13,Hotels/Motels/Resorts,Ukraine,Hotels,721.99,ACCOMMODATION PROVIDER
+FCOGPC131200684,20/12/13,Hotels/Motels/Resorts,Jamaica,Hotels,811.53,ACCOMMODATION PROVIDER
+FCOGPC131200685,23/12/13,Hotels/Motels/Resorts,Colombia,Hotels,1358.91,ACCOMMODATION PROVIDER
+FCOGPC131200686,23/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,2207.00,ACCOMMODATION PROVIDER
+FCOGPC131200687,23/12/13,Hotels/Motels/Resorts,United States of America,Hotels,4792.94,ACCOMMODATION PROVIDER
+FCOGPC131200688,23/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,678.30,ACCOMMODATION PROVIDER
+FCOGPC131200689,23/12/13,Hotels/Motels/Resorts,Belgium,Hotels,539.26,ACCOMMODATION PROVIDER
+FCOGPC131200690,23/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,722.00,ACCOMMODATION PROVIDER
+FCOGPC131200691,23/12/13,Hotels/Motels/Resorts,United Kingdom,Hotels,656.70,ACCOMMODATION PROVIDER
+FCOGPC131200692,24/12/13,Hotels/Motels/Resorts,Switzerland,Hotels,740.99,ACCOMMODATION PROVIDER
+FCOGPC131200693,24/12/13,Hotels/Motels/Resorts,Jamaica,Hotels,823.19,ACCOMMODATION PROVIDER
+FCOGPC131200694,24/12/13,Hotels/Motels/Resorts,South Africa,Hotels,3038.45,ACCOMMODATION PROVIDER
+FCOGPC131200695,24/12/13,Hotels/Motels/Resorts,Switzerland,Hotels,748.01,ACCOMMODATION PROVIDER
+FCOGPC131200696,24/12/13,Hotels/Motels/Resorts,Switzerland,Hotels,730.47,ACCOMMODATION PROVIDER
+FCOGPC131200697,24/12/13,Hotels/Motels/Resorts,Saudi Arabia,Hotels,1347.98,ACCOMMODATION PROVIDER
+FCOGPC131200698,26/12/13,Hotels/Motels/Resorts,Japan,Hotels,615.61,ACCOMMODATION PROVIDER
+FCOGPC131200699,30/12/13,Hotels/Motels/Resorts,Angola,Hotels,899.56,ACCOMMODATION PROVIDER
+FCOGPC131200700,05/12/13,Insurance Sales/Underwrite,Macedonia,Insurance,1509.11,EUROLINK OSIGURUVANJ
+FCOGPC131200701,13/12/13,Insurance Sales/Underwrite,Macedonia,Insurance,606.59,EUROLINK OSIGURUVANJ
+FCOGPC131200702,17/12/13,Insurance Sales/Underwrite,"Virgin Islands, British",Insurance,810.63,CARIBBEAN INSURERS LTD
+FCOGPC131200703,23/12/13,Insurance Sales/Underwrite,"Virgin Islands, British",Insurance,508.72,CARIBBEAN INSURERS LTD
+FCOGPC131200704,24/12/13,Insurance Sales/Underwrite,Romania,Insurance,1004.02,DOMAS INSURANCE BROKER
+FCOGPC131200705,02/12/13,Car & Truck Dealers/New/Used,Brazil,Motoring,772.49,AGULHAS NEGRAS IMPORT
+FCOGPC131200706,09/12/13,Automotive Parts Stores,Brazil,Motoring,815.21,WIDMEN
+FCOGPC131200707,09/12/13,Automotive Parts Stores,Brazil,Motoring,802.50,WIDMEN
+FCOGPC131200708,09/12/13,Automotive Tire Stores,Saudi Arabia,Motoring,549.37,MODERN INDUSTRIAL CTR
+FCOGPC131200709,10/12/13,Automotive Tire Stores,Bulgaria,Motoring,563.87,MARGEL-OFIS-SKLAD
+FCOGPC131200710,10/12/13,Auto Service Shops/Non Dealer,Mexico,Motoring,881.53,BRITANIA MOTORS CUAJIM
+FCOGPC131200711,11/12/13,Automotive Tire Stores,Brazil,Motoring,813.33,SOUZA PINTO PNEUS
+FCOGPC131200712,11/12/13,Automotive Tire Stores,Brazil,Motoring,813.33,SOUZA PINTO PNEUS
+FCOGPC131200713,12/12/13,Auto Body Repair Shops,"Korea, Republic of",Motoring,1377.38,MOBIL           
+FCOGPC131200714,20/12/13,Automotive Tire Stores,Panama,Motoring,787.96,GRUPO DAHER S.A.
+FCOGPC131200715,24/12/13,Motor Freight Carriers,Saudi Arabia,Motoring,753.62,ALSALEM TRAVEL & TOR
+FCOGPC131200716,02/12/13,Wholesale Clubs,Mexico,Other Retailers,620.10,COSTCO POLANCO
+FCOGPC131200717,02/12/13,News Dealers/Newsstands,United Kingdom,Other Retailers,595.61,FINANCIAL TIMES LTD
+FCOGPC131200718,04/12/13,Misc General Merchandise,Pakistan,Other Retailers,681.85,METRO HABIB CASH AND C
+FCOGPC131200719,04/12/13,Wholesale Clubs,Russia,Other Retailers,1302.83,METRO STORE 1013
+FCOGPC131200720,04/12/13,Stationery Stores,United Kingdom,Other Retailers,1440.00,WWW.OFFICEFURNITUREONL
+FCOGPC131200721,05/12/13,Misc Specialty Retail,Russia,Other Retailers,647.91,FIRMA TEKHNOPARK
+FCOGPC131200722,05/12/13,Variety Stores,Spain,Other Retailers,1120.50,19 MAKRO ALCOBENDAS
+FCOGPC131200723,05/12/13,Book Stores,Luxembourg,Other Retailers,647.50,Amazon *Mktplce EU-UK
+FCOGPC131200724,06/12/13,Misc General Merchandise,"Korea, Republic of",Other Retailers,933.98,HYUNDAE I PARK MALL
+FCOGPC131200725,09/12/13,Misc Specialty Retail,Honduras,Other Retailers,563.65,ELIPSO P-24
+FCOGPC131200726,12/12/13,Computers/Peripherals/Software,Greece,Other Retailers,1107.13,PLAISIO MAGOULA
+FCOGPC131200727,12/12/13,Computers/Peripherals/Software,Greece,Other Retailers,1107.13,PLAISIO MAGOULA
+FCOGPC131200728,12/12/13,Durable Goods - Default,Greece,Other Retailers,1775.40,ADDTIME RECORDING CO L
+FCOGPC131200729,13/12/13,Wholesale Clubs,United States of America,Other Retailers,1267.17,FRD REFUND REVERSAL
+FCOGPC131200730,13/12/13,Cigar Stores/Stands,Denmark,Other Retailers,581.97,Peter Justesen Company
+FCOGPC131200731,13/12/13,Books/Periodicals/Newspapers,United Kingdom,Other Retailers,954.00,THE ECONOMIST
+FCOGPC131200732,13/12/13,Computer Software Stores,Luxembourg,Other Retailers,796.50,DRI*AVAST Softw
+FCOGPC131200733,13/12/13,Misc General Merchandise,Pakistan,Other Retailers,639.06,METRO HABIB CASH AND C
+FCOGPC131200734,13/12/13,Misc General Merchandise,Pakistan,Other Retailers,1059.78,METRO HABIB CASH AND C
+FCOGPC131200735,17/12/13,Wholesale Clubs,United States of America,Other Retailers,-1267.17,FRD REFUND
+FCOGPC131200736,17/12/13,Wholesale Clubs,Russia,Other Retailers,796.96,METRO STORE 
+FCOGPC131200737,18/12/13,Computer Software Stores,Colombia,Other Retailers,881.20,M P S MAYORISTA DE COL
+FCOGPC131200738,18/12/13,Book Stores,Luxembourg,Other Retailers,626.07,Amazon *Mktplce EU-UK
+FCOGPC131200739,18/12/13,Durable Goods - Default,United Kingdom,Other Retailers,858.11,SETON
+FCOGPC131200740,18/12/13,Wholesale Clubs,Russia,Other Retailers,872.90,METRO STORE 
+FCOGPC131200741,18/12/13,Misc Specialty Retail,Fiji,Other Retailers,759.88,D GOKAL AND COMPANY
+FCOGPC131200742,18/12/13,Misc Specialty Retail,Fiji,Other Retailers,759.88,D GOKAL AND COMPANY
+FCOGPC131200743,18/12/13,News Dealers/Newsstands,Australia,Other Retailers,796.38,Newsxpress Belconnen
+FCOGPC131200744,23/12/13,Stationery Stores,Turkey,Other Retailers,837.99,SELALE KIRTASIYE
+FCOGPC131200745,23/12/13,Misc Specialty Retail,Jamaica,Other Retailers,529.61,PEAK BOTTLING C
+FCOGPC131200746,23/12/13,Cigar Stores/Stands,United Kingdom,Other Retailers,538.98,WWW.I-D-S.COM
+FCOGPC131200747,23/12/13,Cigar Stores/Stands,Denmark,Other Retailers,1287.76,Peter Justesen Company
+FCOGPC131200748,23/12/13,Book Stores,Luxembourg,Other Retailers,926.38,Amazon *Mktplce EU-UK
+FCOGPC131200749,23/12/13,"Gift, Card, Novelty Stores",Egypt,Other Retailers,636.50,MOHSEN EL FAYOUMY
+FCOGPC131200750,24/12/13,Wholesale Clubs,Russia,Other Retailers,614.56,METRO STORE 
+FCOGPC131200751,26/12/13,Computers/Peripherals/Software,Israel,Other Retailers,742.62,A.A COMPUTER
+FCOGPC131200752,23/12/13,Service Stations,Guyana,Petrol,560.78,STEVE'S SERVICE STATIO
+FCOGPC131200753,09/12/13,Continuity/Subscription Mercht,Malaysia,Recurring Transaction,1183.82,ROYAL SELANGOR GOLF CL
+FCOGPC131200754,16/12/13,Continuity/Subscription Mercht,Hong Kong,Recurring Transaction,844.90,SOUTH CHINA MORNING PO
+FCOGPC131200755,19/12/13,Continuity/Subscription Mercht,United States of America,Recurring Transaction,1688.04,D J*PUBLICATIONS
+FCOGPC131200756,19/12/13,Continuity/Subscription Mercht,United States of America,Recurring Transaction,1688.04,D J*PUBLICATIONS
+FCOGPC131200757,02/12/13,Telecommunication Equipment,Bulgaria,Services,682.61,MN BATENBERG 2
+FCOGPC131200758,02/12/13,Professional Services - Def,United Kingdom,Services,578.40,CIVIL SERVICE LEARNING
+FCOGPC131200759,02/12/13,Professional Services - Def,United Kingdom,Services,600.00,IIA - UK & IRELAND
+FCOGPC131200760,02/12/13,Colleges/Univ/Jc/Profession,United Kingdom,Services,594.00,MERCIA GROUP LTD
+FCOGPC131200761,02/12/13,Colleges/Univ/Jc/Profession,United Kingdom,Services,5000.00,COLLEGEOFPOLICING
+FCOGPC131200762,04/12/13,Business/Secretarial School,United Kingdom,Services,875.00,KAPLAN FINANCIAL LTD
+FCOGPC131200763,04/12/13,Computer Program/Sys Design,United Kingdom,Services,816.18,XMA LTD
+FCOGPC131200764,04/12/13,Information Retrieval Services,Australia,Services,977.41,ISENTIA PTY LTD
+FCOGPC131200765,04/12/13,Information Retrieval Services,United Kingdom,Services,675.90,COMMUNICAID GROUP
+FCOGPC131200766,04/12/13,Air Cond/Refrig Repair Shop,Jamaica,Services,1175.56,GEDDES REFRIGER
+FCOGPC131200767,04/12/13,Air Cond/Refrig Repair Shop,Jamaica,Services,1010.54,GEDDES REFRIGER
+FCOGPC131200768,05/12/13,Business Services - Default,United Kingdom,Services,1391.70,J W PLANT & CO LIMITED
+FCOGPC131200769,05/12/13,Computer Program/Sys Design,United Kingdom,Services,580.36,XMA LTD
+FCOGPC131200770,05/12/13,Computer Program/Sys Design,United Kingdom,Services,971.22,XMA LTD
+FCOGPC131200771,05/12/13,Computer Program/Sys Design,United Kingdom,Services,525.78,XMA LTD
+FCOGPC131200772,05/12/13,Computer Program/Sys Design,United Kingdom,Services,726.13,XMA LTD
+FCOGPC131200773,05/12/13,Computer Program/Sys Design,United Kingdom,Services,908.78,XMA LTD
+FCOGPC131200774,05/12/13,Computer Program/Sys Design,United Kingdom,Services,761.70,XMA LTD
+FCOGPC131200775,06/12/13,Professional Services - Def,United Kingdom,Services,5007.60,THE GRASS ROOTS GROUP
+FCOGPC131200776,06/12/13,Computer Program/Sys Design,United Kingdom,Services,969.15,XMA LTD
+FCOGPC131200777,06/12/13,Computer Program/Sys Design,United Kingdom,Services,667.45,XMA LTD
+FCOGPC131200778,06/12/13,Employment/Temp Help Agen,Australia,Services,1339.99,CHANDLER MACLEOD GRP
+FCOGPC131200779,06/12/13,Employment/Temp Help Agen,Australia,Services,1353.08,CHANDLER MACLEOD GRP
+FCOGPC131200780,06/12/13,Employment/Temp Help Agen,Australia,Services,1309.44,CHANDLER MACLEOD GRP
+FCOGPC131200781,06/12/13,Advertising Services,Brunei Darussalam,Services,558.76,BRUNEI PRESS SDN BHD
+FCOGPC131200782,09/12/13,Business Services - Default,United Kingdom,Services,1332.00,UBIQUS UK LIMITED
+FCOGPC131200783,10/12/13,Business Services - Default,Japan,Services,507.20,NIHONKONBENSHONSABISU
+FCOGPC131200784,11/12/13,Tax Payments,Argentina,Services,817.46,MUNICIPAL DE SAN ISIDR
+FCOGPC131200785,11/12/13,Member Organizations - Def,United Kingdom,Services,1470.00,EEF WOODLAND GRANGE
+FCOGPC131200786,11/12/13,Computer Program/Sys Design,United Kingdom,Services,748.02,XMA LTD
+FCOGPC131200787,11/12/13,Legal Services Attorneys,United Kingdom,Services,1430.67,SIMONS MUIRHEAD & BURT
+FCOGPC131200788,11/12/13,Misc Publishing & Printing,Ecuador,Services,562.29,OSG PRINT
+FCOGPC131200789,12/12/13,Spec Contractors - Default,Uruguay,Services,718.82,ZARA HOME
+FCOGPC131200790,12/12/13,Computer Program/Sys Design,United Kingdom,Services,878.93,XMA LTD
+FCOGPC131200791,12/12/13,Computer Program/Sys Design,United Kingdom,Services,590.75,XMA LTD
+FCOGPC131200792,12/12/13,Computer Program/Sys Design,United Kingdom,Services,891.25,XMA LTD
+FCOGPC131200793,12/12/13,Business Services - Default,United Kingdom,Services,2175.37,CLEARVIEW IMAGING SERV
+FCOGPC131200794,12/12/13,Information Retrieval Services,United Kingdom,Services,561.60,COMMUNICAID GROUP
+FCOGPC131200795,12/12/13,Information Retrieval Services,United Kingdom,Services,550.80,COMMUNICAID GROUP
+FCOGPC131200796,13/12/13,Gov'T Serv - Default,Australia,Services,1118.50,SOUTH BANK VISITOR INF
+FCOGPC131200797,13/12/13,Telecommunication Services,"Virgin Islands, British",Services,525.65,DIGICEL CORPORATE
+FCOGPC131200798,13/12/13,Computer Program/Sys Design,United Kingdom,Services,895.06,XMA LTD
+FCOGPC131200799,13/12/13,Telecommunication Equipment,United Kingdom,Services,689.98,NYCOMM LTD
+FCOGPC131200800,13/12/13,Mgmt/Consult/Public Rel Ser,United Arab Emirates,Services,767.81,BRITISH BUSINESS GROUP
+FCOGPC131200801,17/12/13,Computer Program/Sys Design,United Kingdom,Services,653.70,XMA LTD
+FCOGPC131200802,17/12/13,Computer Program/Sys Design,United Kingdom,Services,860.04,XMA LTD
+FCOGPC131200803,18/12/13,Telecommunication Equipment,Colombia,Services,814.66,MOVITEC ACCESORIOS
+FCOGPC131200804,18/12/13,Professional Services - Def,Australia,Services,3483.28,AUSTRALIAN BRITISH CHA
+FCOGPC131200805,18/12/13,Clean/Maint/Janitorial Serv,Australia,Services,627.03,METICULOUS CLEANING
+FCOGPC131200806,18/12/13,Professional Services - Def,United Kingdom,Services,1104.00,IIA - UK & IRELAND
+FCOGPC131200807,18/12/13,Business Services - Default,United Kingdom,Services,1422.00,UBIQUS UK LIMITED
+FCOGPC131200808,19/12/13,Gov'T Serv - Default,United Kingdom,Services,786.72,CAPITA BUS SVS-MOTO
+FCOGPC131200809,19/12/13,Professional Services - Def,Australia,Services,755.80,AUSTRALIAN BRITISH CHA
+FCOGPC131200810,19/12/13,Schools - Default,United Kingdom,Services,789.19,SMTS LIMITED
+FCOGPC131200811,20/12/13,Computer Program/Sys Design,United Kingdom,Services,616.26,XMA LTD
+FCOGPC131200812,20/12/13,Computer Program/Sys Design,United Kingdom,Services,791.54,XMA LTD
+FCOGPC131200813,23/12/13,Computer Program/Sys Design,United Kingdom,Services,969.15,XMA LTD
+FCOGPC131200814,23/12/13,Civic/Social/Fraternal Assc,United Kingdom,Services,2688.00,THE TRAVELLERS CLUB
+FCOGPC131200815,23/12/13,Telecommunication Services,El Salvador,Services,540.33,TELECOM CALL CENTER
+FCOGPC131200816,23/12/13,Telecommunication Services,Iceland,Services,905.53,Vodafone/verslanirSkut
+FCOGPC131200817,23/12/13,Telecommunication Equipment,Turkey,Services,554.87,VODAFONE 
+FCOGPC131200818,23/12/13,Spec Contractors - Default,United Kingdom,Services,1500.50,ANDREW MARTIN
+FCOGPC131200819,24/12/13,Spec Contractors - Default,United Kingdom,Services,790.00,LEGEND ELECTRICS LTD
+FCOGPC131200820,24/12/13,Professional Services - Def,Luxembourg,Services,1378.37,PAYPAL *ANDREA
+FCOGPC131200821,26/12/13,Advertising Services,Israel,Services,533.55,C COPPY
+FCOGPC131200822,26/12/13,Business Services - Default,Japan,Services,1291.55,NIHONKONBENSHONSABISU
+FCOGPC131200823,02/12/13,Grocery Stores/Supermarkets,Spain,Supermarkets,915.80,LA GRAN DESPENSA
+FCOGPC131200824,11/12/13,Grocery Stores/Supermarkets,Argentina,Supermarkets,640.89,COTO DIGITAL 
+FCOGPC131200825,18/12/13,Grocery Stores/Supermarkets,Malta,Supermarkets,577.08,MARKS & SPENCER
+FCOGPC131200826,19/12/13,Grocery Stores/Supermarkets,Thailand,Supermarkets,550.31,TESCO LOTUS (RAMA 1)
+FCOGPC131200827,23/12/13,Grocery Stores/Supermarkets,Jamaica,Supermarkets,1443.02,JOHN R WONG SUP
+FCOGPC131200828,30/12/13,Grocery Stores/Supermarkets,Malaysia,Supermarkets,582.21,NG CHOONG YEAM SDN BHD
+FCOGPC131200829,02/12/13,Travel Agencies,Spain,Travel Agencies,633.00,VIATGES BARCELONA TUR
+FCOGPC131200830,02/12/13,Travel Agencies,United Kingdom,Travel Agencies,916.98,LASTMINUTE.COM/UK-GBP
+FCOGPC131200831,02/12/13,Travel Agencies,Nepal,Travel Agencies,1078.85,JAYA TRAVELS & TOURS P
+FCOGPC131200832,02/12/13,Travel Agencies,Singapore,Travel Agencies,778.15,AVESON TRAVEL-TANGLIN
+FCOGPC131200833,02/12/13,Taxicabs/Limousines,United Kingdom,Travel Agencies,951.00,RAFFLES PRIVATE HIRE L
+FCOGPC131200834,02/12/13,Travel Agencies,United Kingdom,Travel Agencies,2493.85,HRG UK    
+FCOGPC131200835,02/12/13,Travel Agencies,United Kingdom,Travel Agencies,-701.94,HRG UK    
+FCOGPC131200836,02/12/13,Travel Agencies,United Kingdom,Travel Agencies,2297.36,HRG UK    
+FCOGPC131200837,02/12/13,Travel Agencies,United Kingdom,Travel Agencies,2590.00,HRG UK    
+FCOGPC131200838,02/12/13,Travel Agencies,United Kingdom,Travel Agencies,2814.01,HRG UK    
+FCOGPC131200839,02/12/13,Travel Agencies,United Kingdom,Travel Agencies,3577.44,HRG UK    
+FCOGPC131200840,02/12/13,Travel Agencies,United Kingdom,Travel Agencies,3577.44,HRG UK    
+FCOGPC131200841,03/12/13,Travel Agencies,United Kingdom,Travel Agencies,627.64,HRG UK    
+FCOGPC131200842,03/12/13,Travel Agencies,United Kingdom,Travel Agencies,2065.06,HRG UK    
+FCOGPC131200843,03/12/13,Travel Agencies,United Kingdom,Travel Agencies,1290.37,HRG UK    
+FCOGPC131200844,03/12/13,Travel Agencies,United Kingdom,Travel Agencies,1022.48,HRG UK    
+FCOGPC131200845,03/12/13,Travel Agencies,United Kingdom,Travel Agencies,3284.59,HRG UK    
+FCOGPC131200846,03/12/13,Travel Agencies,Turkey,Travel Agencies,1344.12,LIBRA TURIZM TICARET L
+FCOGPC131200847,03/12/13,Travel Agencies,United Kingdom,Travel Agencies,-1583.93,HRG UK       
+FCOGPC131200848,03/12/13,Travel Agencies,United Kingdom,Travel Agencies,-1583.93,HRG UK       
+FCOGPC131200849,03/12/13,Travel Agencies,United Kingdom,Travel Agencies,592.86,HRG UK       
+FCOGPC131200850,04/12/13,Travel Agencies,Serbia,Travel Agencies,994.92,PIERRE TRAVEL INTL DOO
+FCOGPC131200851,04/12/13,Travel Agencies,Indonesia,Travel Agencies,703.37,BAYU BUANA TRAVEL - NC
+FCOGPC131200852,04/12/13,Airports/Fields/Terminals,United Kingdom,Travel Agencies,898.70,NETJETS LTD
+FCOGPC131200853,04/12/13,Travel Agencies,United Kingdom,Travel Agencies,-864.85,HRG UK      
+FCOGPC131200854,04/12/13,Travel Agencies,United Kingdom,Travel Agencies,-864.85,HRG UK      
+FCOGPC131200855,04/12/13,Travel Agencies,United Kingdom,Travel Agencies,-864.85,HRG UK      
+FCOGPC131200856,04/12/13,Travel Agencies,United Kingdom,Travel Agencies,-864.85,HRG UK      
+FCOGPC131200857,04/12/13,Travel Agencies,Indonesia,Travel Agencies,2691.82,BAYU BUANA TRAVEL - NC
+FCOGPC131200858,04/12/13,Transportation Svcs - Default,Hong Kong,Travel Agencies,543.40,HI LEE (HK) TRANS. C L
+FCOGPC131200859,04/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131200860,04/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131200861,04/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131200862,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131200863,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131200864,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131200865,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131200866,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,1047.87,HRG UK       
+FCOGPC131200867,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,928.69,HRG UK       
+FCOGPC131200868,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,609.63,HRG UK       
+FCOGPC131200869,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,2652.85,HRG UK       
+FCOGPC131200870,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,-2399.87,HRG UK       
+FCOGPC131200871,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,4655.92,HRG UK       
+FCOGPC131200872,05/12/13,Travel Agencies,United Kingdom,Travel Agencies,-864.85,HRG UK       
+FCOGPC131200873,05/12/13,Travel Agencies,Barbados,Travel Agencies,1177.09,THE TRAVEL HOUSE INC
+FCOGPC131200874,05/12/13,Travel Agencies,Australia,Travel Agencies,565.15,FREEDMAN&TURNER
+FCOGPC131200875,06/12/13,Travel Agencies,Australia,Travel Agencies,1112.74,TTS VIAJES
+FCOGPC131200876,06/12/13,Travel Agencies,Mauritius,Travel Agencies,982.13,DODO TRAVEL & TOURS EU
+FCOGPC131200877,06/12/13,Travel Agencies,Pakistan,Travel Agencies,1730.82,UNIVERSAL EXP KAR PVT
+FCOGPC131200878,09/12/13,Travel Agencies,Saudi Arabia,Travel Agencies,627.26,ALZOUMAN TRAVEL
+FCOGPC131200879,09/12/13,Travel Agencies,Brunei Darussalam,Travel Agencies,637.87,MAS SUGARA TRVL SVC SD
+FCOGPC131200880,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,2362.71,HRG UK    
+FCOGPC131200881,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,1941.44,HRG UK    
+FCOGPC131200882,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,1903.24,HRG UK    
+FCOGPC131200883,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,1903.24,HRG UK    
+FCOGPC131200884,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,1903.24,HRG UK    
+FCOGPC131200885,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,2403.17,HRG UK    
+FCOGPC131200886,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,940.87,CRYSTAL TRAVEL
+FCOGPC131200887,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,2362.71,HRG UK    
+FCOGPC131200888,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,863.16,HRG UK    
+FCOGPC131200889,09/12/13,Travel Agencies,United Kingdom,Travel Agencies,592.11,LASTMINUTE.COM/UK-GBP
+FCOGPC131200890,10/12/13,Travel Agencies,United Kingdom,Travel Agencies,1709.00,HRG UK      
+FCOGPC131200891,10/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200892,10/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200893,10/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200894,10/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200895,10/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200896,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,688.97,HRG UK      
+FCOGPC131200897,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,654.75,HRG UK      
+FCOGPC131200898,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,654.75,HRG UK      
+FCOGPC131200899,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,1091.11,HRG UK      
+FCOGPC131200900,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,688.97,HRG UK      
+FCOGPC131200901,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,663.39,HRG UK      
+FCOGPC131200902,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,1931.36,HRG UK      
+FCOGPC131200903,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,1903.24,HRG UK      
+FCOGPC131200904,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,811.11,HRG UK      
+FCOGPC131200905,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,2131.07,HRG UK      
+FCOGPC131200906,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,2131.07,HRG UK      
+FCOGPC131200907,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,654.75,HRG UK      
+FCOGPC131200908,11/12/13,Travel Agencies,United Kingdom,Travel Agencies,647.93,EBK*EBOOKERS
+FCOGPC131200909,12/12/13,Travel Agencies,Singapore,Travel Agencies,878.24,AVESON TRAVEL-TANGLIN
+FCOGPC131200910,12/12/13,Travel Agencies,Singapore,Travel Agencies,663.05,AVESON TRAVEL-TANGLIN
+FCOGPC131200911,12/12/13,Travel Agencies,Vietnam,Travel Agencies,1228.45,PHONG VE HANOI TOSERCO
+FCOGPC131200912,12/12/13,Travel Agencies,Nigeria,Travel Agencies,1512.09,SPEEDWINGS LOGISTICS L
+FCOGPC131200913,12/12/13,Travel Agencies,United Kingdom,Travel Agencies,2190.10,HRG UK       
+FCOGPC131200914,12/12/13,Travel Agencies,United Kingdom,Travel Agencies,2190.10,HRG UK       
+FCOGPC131200915,12/12/13,Travel Agencies,United Kingdom,Travel Agencies,648.82,HRG UK       
+FCOGPC131200916,12/12/13,Travel Agencies,United Kingdom,Travel Agencies,756.02,HRG UK       
+FCOGPC131200917,12/12/13,Travel Agencies,United Kingdom,Travel Agencies,718.31,HRG UK       
+FCOGPC131200918,13/12/13,Travel Agencies,Chile,Travel Agencies,873.03,MERIDIAN
+FCOGPC131200919,13/12/13,Travel Agencies,United Kingdom,Travel Agencies,-676.37,HRG UK       
+FCOGPC131200920,13/12/13,Travel Agencies,Russia,Travel Agencies,1035.74,BTI RUSSIA-8
+FCOGPC131200921,16/12/13,Travel Agencies,United Kingdom,Travel Agencies,1605.34,LASTMINUTE.COM
+FCOGPC131200922,17/12/13,Travel Agencies,Spain,Travel Agencies,538.90,VIATGES BARCELONA TUR
+FCOGPC131200923,17/12/13,Travel Agencies,Tunisia,Travel Agencies,671.35,VOYAGE AIR
+FCOGPC131200924,18/12/13,Travel Agencies,Spain,Travel Agencies,557.24,EDREAMS
+FCOGPC131200925,18/12/13,Travel Agencies,Vietnam,Travel Agencies,693.20,PHONG VE HANOI TOSERCO
+FCOGPC131200926,18/12/13,Travel Agencies,United Kingdom,Travel Agencies,3995.20,HRG UK      
+FCOGPC131200927,18/12/13,Travel Agencies,United Kingdom,Travel Agencies,694.32,HRG UK      
+FCOGPC131200928,18/12/13,Travel Agencies,United Kingdom,Travel Agencies,1072.04,HRG UK      
+FCOGPC131200929,18/12/13,Travel Agencies,United Kingdom,Travel Agencies,1072.04,HRG UK      
+FCOGPC131200930,18/12/13,Travel Agencies,United Kingdom,Travel Agencies,6506.64,HRG UK      
+FCOGPC131200931,18/12/13,Travel Agencies,Hungary,Travel Agencies,835.54,AGODA.COM
+FCOGPC131200932,18/12/13,Travel Agencies,Kenya,Travel Agencies,832.02,KCBK
+FCOGPC131200933,18/12/13,Travel Agencies,Kenya,Travel Agencies,832.02,KCBK
+FCOGPC131200934,18/12/13,Travel Agencies,United Kingdom,Travel Agencies,4100.61,HRG UK    
+FCOGPC131200935,19/12/13,Travel Agencies,United Kingdom,Travel Agencies,535.79,HRG UK    
+FCOGPC131200936,19/12/13,Travel Agencies,United Kingdom,Travel Agencies,-2144.74,HRG UK    
+FCOGPC131200937,19/12/13,Travel Agencies,United Kingdom,Travel Agencies,800.60,HRG UK    
+FCOGPC131200938,19/12/13,Travel Agencies,United Kingdom,Travel Agencies,619.57,HRG UK    
+FCOGPC131200939,19/12/13,Travel Agencies,United Kingdom,Travel Agencies,619.57,HRG UK    
+FCOGPC131200940,19/12/13,Travel Agencies,United Kingdom,Travel Agencies,702.40,HRG UK    
+FCOGPC131200941,19/12/13,Travel Agencies,United Kingdom,Travel Agencies,-524.45,HRG UK    
+FCOGPC131200942,19/12/13,Railroads,France,Travel Agencies,576.74,SNCF INTERNET
+FCOGPC131200943,19/12/13,Travel Agencies,United Kingdom,Travel Agencies,-2145.64,HRG UK      
+FCOGPC131200944,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,1743.55,HRG UK      
+FCOGPC131200945,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200946,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200947,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200948,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200949,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200950,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200951,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200952,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200953,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200954,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200955,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200956,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200957,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200958,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200959,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200960,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200961,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200962,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200963,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200964,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200965,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200966,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200967,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200968,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200969,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200970,20/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200971,23/12/13,Travel Agencies,Russia,Travel Agencies,929.28,UNIFEST
+FCOGPC131200972,23/12/13,Travel Agencies,United Kingdom,Travel Agencies,3115.51,HRG UK       
+FCOGPC131200973,23/12/13,Travel Agencies,United Kingdom,Travel Agencies,627.64,HRG UK       
+FCOGPC131200974,23/12/13,Travel Agencies,United Kingdom,Travel Agencies,2934.10,HRG UK       
+FCOGPC131200975,23/12/13,Travel Agencies,United Kingdom,Travel Agencies,2934.10,HRG UK       
+FCOGPC131200976,23/12/13,Travel Agencies,United Kingdom,Travel Agencies,831.97,HRG UK       
+FCOGPC131200977,23/12/13,Travel Agencies,Chile,Travel Agencies,602.08,MERIDIAN
+FCOGPC131200978,23/12/13,Travel Agencies,Singapore,Travel Agencies,1036.68,AVESON TRAVEL-TANGLIN
+FCOGPC131200979,23/12/13,Travel Agencies,Malaysia,Travel Agencies,2773.55,MSL TRAVEL SDN BHD-KL
+FCOGPC131200980,24/12/13,Travel Agencies,"Korea, Republic of",Travel Agencies,1132.93,TRAVEL AGENCY     
+FCOGPC131200981,24/12/13,Travel Agencies,United Kingdom,Travel Agencies,-3064.44,HRG UK    
+FCOGPC131200982,24/12/13,Travel Agencies,Vietnam,Travel Agencies,1743.10,PHONG VE HANOI TOSERCO
+FCOGPC131200983,24/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK      
+FCOGPC131200984,26/12/13,Travel Agencies,United Kingdom,Travel Agencies,2295.52,HRG UK      
+FCOGPC131200985,26/12/13,Travel Agencies,United Kingdom,Travel Agencies,846.59,HRG UK      
+FCOGPC131200986,26/12/13,Travel Agencies,United Kingdom,Travel Agencies,4629.68,HRG UK      
+FCOGPC131200987,26/12/13,Travel Agencies,United Kingdom,Travel Agencies,804.65,HRG UK      
+FCOGPC131200988,26/12/13,Travel Agencies,United Kingdom,Travel Agencies,535.35,WESTEND TRAVEL LTD
+FCOGPC131200989,26/12/13,Travel Agencies,Myanmar,Travel Agencies,617.27,COLUMBUS TRAVELS AND T
+FCOGPC131200990,26/12/13,Travel Agencies,Guatemala,Travel Agencies,3846.70,TURVISA
+FCOGPC131200991,26/12/13,Travel Agencies,Hungary,Travel Agencies,932.40,AGODA.COM
+FCOGPC131200992,26/12/13,Travel Agencies,Hungary,Travel Agencies,3301.20,AGODA.COM
+FCOGPC131200993,27/12/13,Transportation Svcs - Default,Qatar,Travel Agencies,1077.22,MOWASALAT ( KARWA )
+FCOGPC131200994,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,4401.54,HRG UK       
+FCOGPC131200995,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,4401.54,HRG UK       
+FCOGPC131200996,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,4401.54,HRG UK       
+FCOGPC131200997,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,2382.66,HRG UK       
+FCOGPC131200998,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,1944.87,HRG UK       
+FCOGPC131200999,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,679.39,HRG UK       
+FCOGPC131201000,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,914.32,HRG UK       
+FCOGPC131201001,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201002,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201003,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201004,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201005,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201006,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201007,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201008,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201009,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201010,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201011,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201012,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201013,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201014,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201015,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201016,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201017,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201018,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,928.69,HRG UK       
+FCOGPC131201019,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,824.65,HRG UK       
+FCOGPC131201020,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,824.65,HRG UK       
+FCOGPC131201021,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201022,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201023,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK       
+FCOGPC131201024,31/12/13,Taxicabs/Limousines,United Kingdom,Travel Agencies,508.68,RAFFLES PRIVATE HIRE L
+FCOGPC131201025,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,846.59,HRG UK       
+FCOGPC131201026,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,4401.54,HRG UK       
+FCOGPC131201027,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,4401.54,HRG UK       
+FCOGPC131201028,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,4401.54,HRG UK       
+FCOGPC131201029,31/12/13,Travel Agencies,Indonesia,Travel Agencies,1107.21,BAYU BUANA TRAVEL - NC
+FCOGPC131201030,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK     
+FCOGPC131201031,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK     
+FCOGPC131201032,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK     
+FCOGPC131201033,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK     
+FCOGPC131201034,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK     
+FCOGPC131201035,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK     
+FCOGPC131201036,31/12/13,Travel Agencies,United Kingdom,Travel Agencies,523.94,HRG UK     
+FCOGPC131201037,18/12/13,Utilities/Elec/Gas/H2O/Sani,Qatar,Utilities,757.42,QATAR COOL
+FCOGPC131201038,20/12/13,Utilities/Elec/Gas/H2O/Sani,"Virgin Islands, British",Utilities,597.45,BVI ELECTRICITY CORP
+FCOGPC131201039,24/12/13,Utilities/Elec/Gas/H2O/Sani,Iceland,Utilities,555.08,Orkuveita Rvik
+FCOGPC131201040,24/12/13,Utilities/Elec/Gas/H2O/Sani,Saint Lucia,Utilities,1339.73,CABLE & WIRELESS (WI)

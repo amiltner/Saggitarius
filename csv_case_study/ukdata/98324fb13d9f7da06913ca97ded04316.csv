@@ -1,0 +1,48 @@
+A3131,,,,,,,,,,Expenditure Over Threshold,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+RUN AT 5/22/2013 2:49:24 PM,,,,,,,,,,,,,,,,,,,,,,,,
+Department family,Entity,Expense area,Expense Type,Supplier,Transaction number,Date,AP Amount (£),VAT registration number,,,,,,,,,,,,,,,,
+Department of Health,NHS Hull CCG,Services From Local Authorities,COMMUNITY SERVICES,HULL CITY COUNCIL,1000183149,30/11/2013,28563.32,,,,,,,,,,,,,,25/10/2013,27/11/2013,BACS Transfer,33
+Department of Health,NHS Hull CCG,Charges from CSU,PROGRAMME PROJECTS,NHS NORTH YORKSHIRE AND HUMBER CSU,7310100403,30/11/2013,53921,,,,,,,,,,,,,,04/11/2013,13/11/2013,NHS and Inter-Govt Book Transfers,9
+Department of Health,NHS Hull CCG,Charges from CSU,FINANCE,NHS NORTH YORKSHIRE AND HUMBER CSU,7310100429,30/11/2013,323431,,,,,,,,,,,,,41592,14/11/2013,15/11/2013,NHS and Inter-Govt Book Transfers,1
+Department of Health,NHS Hull CCG,Clinical&Medical-Serv Recd-CCGs,COMMUNITY SERVICES,NHS GREATER HUDDERSFIELD CCG,7015100174,30/11/2013,140065.92,,,,,,,,,,,,,,30/10/2013,06/11/2013,NHS and Inter-Govt Book Transfers,7
+Department of Health,NHS Hull CCG,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,HULL AND EAST YORKSHIRE HOSPITALS NHS TRUST,1210005204,30/11/2013,14183333.33,,,,,,,,,,,,,,23/10/2013,01/11/2013,NHS and Inter-Govt Book Transfers,9
+Department of Health,NHS Hull CCG,Hcare Srv Rec Fdtn Trust-Non Contract,ACUTE COMMISSIONING,NORTHERN LINCOLNSHIRE AND GOOLE HOSPITALS NHS FOUNDATION TRUST,2400003054,30/11/2013,30809,,,,,,,,,,,,,,31/10/2013,13/11/2013,NHS and Inter-Govt Book Transfers,13
+Department of Health,NHS Hull CCG,Hcare Srv Rec NHS Trust-Contract Baseline,ACUTE COMMISSIONING,LEEDS TEACHING HOSPITALS NHS TRUST,417972,30/11/2013,120961.29,,,,,,,,,,,,,41579,01/11/2013,15/11/2013,NHS and Inter-Govt Book Transfers,14
+Department of Health,NHS Hull CCG,Hcare Srv Rec Fdtn Trust-Contract Baseline,MENTAL HEALTH CONTRACTS,HUMBER NHS FOUNDATION TRUST,PP1010000966,30/11/2013,3009094.01,,,,,,,,,,,,,,20/11/2013,15/11/2013,NHS and Inter-Govt Book Transfers,-5
+Department of Health,NHS Hull CCG,Hcare Srv Rec NHS Trust-Contract Baseline,AMBULANCE SERVICES,YORKSHIRE AMBULANCE SERVICE NHS TRUST,PP2810001838,30/11/2013,96490,,,,,,,,,,,,,,20/11/2013,15/11/2013,NHS and Inter-Govt Book Transfers,-5
+Department of Health,NHS Hull CCG,Hcare Srv Rec NHS Trust-Contract Baseline,AMBULANCE SERVICES,YORKSHIRE AMBULANCE SERVICE NHS TRUST,PP2810001880,30/11/2013,769192,,,,,,,,,,,,,,20/11/2013,15/11/2013,NHS and Inter-Govt Book Transfers,-5
+Department of Health,NHS Hull CCG,Hcare Srv Rec NHS Trust-Contract Baseline,AMBULANCE SERVICES,YORKSHIRE AMBULANCE SERVICE NHS TRUST,PP2810001961,30/11/2013,32603,,,,,,,,,,,,,,20/11/2013,15/11/2013,NHS and Inter-Govt Book Transfers,-5
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,ACUTE COMMISSIONING,SPIRE HEALTHCARE LTD,03F300613RECHUL,30/11/2013,61549.67,,,,,,,,,,,,,41597,19/11/2013,27/11/2013,BACS Transfer,8
+Department of Health,NHS Hull CCG,Cont Care-Funded Nursing Care Allow,FUNDED NURSING CARE,EAST RIDING OF YORKSHIRE COUNCIL,05W,30/11/2013,133901.03,,,,,,,,,,,,,,03/12/2013,28/11/2013,Same day commercial electronic transfer,-5
+Department of Health,NHS Hull CCG,Cont Care-Funded Nursing Care Allow,FUNDED NURSING CARE,HULL CITY COUNCIL,1000180941,30/11/2013,33094.69,,,,,,,,,,,,,41589,11/11/2013,27/11/2013,BACS Transfer,16
+Department of Health,NHS Hull CCG,Cont Care-Funded Nursing Care Allow,FUNDED NURSING CARE,HULL CITY COUNCIL,1000182336,30/11/2013,25131.37,,,,,,,,,,,,,41589,11/11/2013,27/11/2013,BACS Transfer,16
+Department of Health,NHS Hull CCG,Clinical&Medical-Othe Public Sector,COLLABORATIVE COMMISSIONING,HULL CITY COUNCIL,1000182742,30/11/2013,50871.83,,,,,,,,,,,,,,18/10/2013,06/11/2013,BACS Transfer,19
+Department of Health,NHS Hull CCG,Services From Local Authorities,COMMUNITY SERVICES,HULL CITY COUNCIL,1000182811,30/11/2013,123028.54,,,,,,,,,,,,,41578,31/10/2013,13/11/2013,BACS Transfer,13
+Department of Health,NHS Hull CCG,Cont Care-Learning Disab(<65),CHC ADULT FULLY FUNDED,HULL CITY COUNCIL,1000182814,30/11/2013,607374.99,,,,,,,,,,,,,41599,21/11/2013,27/11/2013,BACS Transfer,6
+Department of Health,NHS Hull CCG,Public Relations Expenses,PATIENT AND PUBLIC INVOLVEMENT,HULL CITY COUNCIL,1000183320,30/11/2013,30000,,,,,,,,,,,,,,29/10/2013,13/11/2013,BACS Transfer,15
+Department of Health,NHS Hull CCG,Cont Care-Learning Disab(<65),CHC ADULT FULLY FUNDED,FOXGLOVE CARE LTD,1069,30/11/2013,62832.65,,,,,,,,,,,,,,29/10/2013,20/11/2013,BACS Transfer,22
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,ACUTE COMMISSIONING,EAST RIDING FERTILITY SERVICES LTD,115621,30/11/2013,30416.46,,,,,,,,,,,,,41575,28/10/2013,06/11/2013,BACS Transfer,9
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,ACUTE COMMISSIONING,EAST RIDING FERTILITY SERVICES LTD,115802,30/11/2013,41660.36,,,,,,,,,,,,,41598,20/11/2013,27/11/2013,BACS Transfer,7
+Department of Health,NHS Hull CCG,Hcare Srv Rec NHS Trust-Contract Baseline,PLANNED CARE,543 DENTAL CENTRE LTD,131,30/11/2013,25777,,,,,,,,,,,,,,08/11/2013,12/11/2013,BACS Transfer,4
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,COMMUNITY SERVICES,NOTTINGHAM REHAB SUPPLIES,1800088998,30/11/2013,105550.87,,,,,,,,,,,,,,08/11/2013,20/11/2013,BACS Transfer,12
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,COMMUNITY SERVICES,NOTTINGHAM REHAB SUPPLIES,1800089000,30/11/2013,32960.08,,,,,,,,,,,,,,08/11/2013,20/11/2013,BACS Transfer,12
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,COMMUNITY SERVICES,NOTTINGHAM REHAB SUPPLIES,1800089001,30/11/2013,42788.39,,,,,,,,,,,,,,08/11/2013,20/11/2013,BACS Transfer,12
+Department of Health,NHS Hull CCG,Cont Care-Learning Disab(<65),CHC ADULT FULLY FUNDED,EAST RIDING OF YORKSHIRE COUNCIL,33001185A,30/11/2013,136556.77,,,,,,,,,,,,,41589,11/11/2013,27/11/2013,BACS Transfer,16
+Department of Health,NHS Hull CCG,Audit Fees: Statutory,FINANCE,KPMG LLP,5500765450,30/11/2013,26400,,,,,,,,,,,,,,25/10/2013,13/11/2013,BACS Transfer,19
+Department of Health,NHS Hull CCG,Other Gen Supplies & Srv,INTERPRETING SERVICES,AA GLOBAL LANGUAGE SERVICES LTD,648HC01,30/11/2013,35200.56,,,,,,,,,,,,,41598,20/11/2013,27/11/2013,BACS Transfer,7
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,COMMISSIONING SCHEMES,CITY HEALTH CARE PARTNERSHIP CIC,7410000492,30/11/2013,32733.15,,,,,,,,,,,,,41582,04/11/2013,13/11/2013,BACS Transfer,9
+Department of Health,NHS Hull CCG,Cont Care-Learning Disab(<65),CHC ADULT FULLY FUNDED,VOYAGE 1 LTD,CARE7650075,30/11/2013,27843.87,,,,,,,,,,,,,,07/11/2013,27/11/2013,BACS Transfer,20
+Department of Health,NHS Hull CCG,Clinical&Medical-Voluntary Sector,HOSPICES,DOVE HOUSE HOSPICE,FR947,30/11/2013,46600,,,,,,,,,,,,,,08/05/2013,06/11/2013,BACS Transfer,182
+Department of Health,NHS Hull CCG,Minor Works,ESTATES AND FACILITIES,HOBSON & PORTER LTD,IN867,30/11/2013,105682.34,,,,,,,,,,,,,41592,14/11/2013,27/11/2013,BACS Transfer,13
+Department of Health,NHS Hull CCG,Clinical&Medical-Voluntary Sector,COMMISSIONING - NON ACUTE,KIDS,K0000007695,30/11/2013,30000,,,,,,,,,,,,,,01/11/2013,20/11/2013,BACS Transfer,19
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,ACUTE COMMISSIONING,SPIRE HEALTHCARE LTD,PP03F011113PFHUL,30/11/2013,395122,,,,,,,,,,,,,,20/11/2013,15/11/2013,Same day commercial electronic transfer,-5
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,COMMUNITY SERVICES,NRS HEALTHCARE,PP1800088874,30/11/2013,142231.43,,,,,,,,,,,,,,03/12/2013,28/11/2013,Same day commercial electronic transfer,-5
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,COMMUNITY SERVICES,CITY HEALTH CARE PARTNERSHIP CIC,PP7410001088,30/11/2013,46970,,,,,,,,,,,,,,20/11/2013,15/11/2013,Same day commercial electronic transfer,-5
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,COMMUNITY SERVICES,CITY HEALTH CARE PARTNERSHIP CIC,PP7410001089,30/11/2013,1943275,,,,,,,,,,,,,,20/11/2013,15/11/2013,Same day commercial electronic transfer,-5
+Department of Health,NHS Hull CCG,Clinical&Medical-Independent Sector,COMMUNITY SERVICES,CITY HEALTH CARE PARTNERSHIP CIC,PP7410001090,30/11/2013,74725,,,,,,,,,,,,,,20/11/2013,15/11/2013,Same day commercial electronic transfer,-5
+Department of Health,NHS Hull CCG,Cont Care-Mental Health (65+),CHC ADULT FULLY FUNDED,SUTTON HOUSE CARE HOME,SH1001113,30/11/2013,40591.4,,,,,,,,,,,,,,04/11/2013,20/11/2013,BACS Transfer,16
+Department of Health,NHS Hull CCG,Hcare Srv Rec NHS Trust-Contract Baseline,PLANNED CARE,543 DENTAL CENTRE LTD,13,30/11/2013,-25777,,,,,,,,,,,,,,29/04/2013,12/11/2013,BACS Transfer,197

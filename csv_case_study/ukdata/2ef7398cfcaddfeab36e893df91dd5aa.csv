@@ -1,0 +1,178 @@
+Directorate,Division,Branch,Grade,HeadcountMale,HeadcountFemale,FTE_Male,FTE_Female
+Chief Executive,Chief Executive,Chief Executive,SCS 3,,1,,1.00
+Finance & Performance,Accounting,Accounting,G6 ,2,,2.00,
+Finance & Performance,Accounting,Accounting,G7 ,3,1,3.00,1.00
+Finance & Performance,Accounting,Accounting,SEO,2,1,2.00,1.00
+Finance & Performance,Accounting,Accounting,HEO,1,7,1.00,7.00
+Finance & Performance,Accounting,Accounting,EO ,1,1,1.00,1.00
+Finance & Performance,Accounting,Accounting,AO ,1,2,1.00,1.80
+Finance & Performance,Finance & Performance,Finance & Performance,SCS 2,1,,1.00,
+Finance & Performance,Finance Charging,Finance Charging,G7 ,1,,1.00,
+Finance & Performance,Finance Charging,Finance Charging,SEO,,2,,2.00
+Finance & Performance,Finance Charging,Finance Charging,EO ,3,,3.00,
+Finance & Performance,Human Resources,Human Resources,G7 ,1,,1.00,
+Finance & Performance,Human Resources,Human Resources,SEO,,1,,1.00
+Finance & Performance,Human Resources,Human Resources,HEO,,1,,1.00
+Finance & Performance,Human Resources,Human Resources,EO ,2,,2.00,
+Finance & Performance,Human Resources,Human Resources,AO ,,4,,3.21
+Finance & Performance,Planning Performance and Change,Planning Performance and Change,G6 ,2,,2.00,
+Finance & Performance,Planning Performance and Change,Planning Performance and Change,G7 ,6,6,6.00,6.00
+Finance & Performance,Planning Performance and Change,Planning Performance and Change,SEO,2,1,2.00,1.00
+Finance & Performance,Planning Performance and Change,Planning Performance and Change,HEO,,3,,2.81
+Finance & Performance,Planning Performance and Change,Planning Performance and Change,EO ,,1,,0.61
+Finance & Performance,Procurement,Procurement,G7 ,,1,,1.00
+Finance & Performance,Procurement,Procurement,SEO,1,3,1.00,2.42
+Finance & Performance,Procurement,Procurement,HEO,,3,,2.22
+Finance & Performance,Security and Estates,Security and Estates,SEO,1,,1.00,
+Finance & Performance,Security and Estates,Security and Estates,HEO,,1,,1.00
+Finance & Performance,Security and Estates,Security and Estates,EO ,,1,,1.00
+Northern Ireland,Northern Ireland,Northern Ireland,SCS 2,,1,,1.00
+Northern Ireland,Northern Ireland,Northern Ireland,SCS 1,,1,,1.00
+Northern Ireland,Northern Ireland,Northern Ireland,G6 ,1,1,1.00,1.00
+Northern Ireland,Northern Ireland,Northern Ireland,G7 ,,5,,4.70
+Northern Ireland,Northern Ireland,Northern Ireland,SEO,7,9,7.00,8.36
+Northern Ireland,Northern Ireland,Northern Ireland,HEO,3,4,3.00,3.81
+Northern Ireland,Northern Ireland,Northern Ireland,EO ,2,8,1.86,6.92
+Northern Ireland,Northern Ireland,Northern Ireland,AO ,1,2,1.00,1.70
+Northern Ireland,Organisational Development,Organisational Development,G6 ,,1,,1.00
+Northern Ireland,Organisational Development,Organisational Development,G7 ,3,3,3.00,3.00
+Northern Ireland,Organisational Development,Organisational Development,SEO,,2,,1.81
+Northern Ireland,Organisational Development,Organisational Development,AO ,1,,1.00,
+Openness Data & Digital,Communications,Communications,SCS 1,,1,,1.00
+Openness Data & Digital,Communications,Communications,G6 ,2,,2.00,
+Openness Data & Digital,Communications,Communications,G7 ,,5,,4.18
+Openness Data & Digital,Communications,Communications,SEO,3,6,3.00,5.89
+Openness Data & Digital,Communications,Communications,HEO,3,3,3.00,3.00
+Openness Data & Digital,IT Intelligent Customer Function,Information and Knowledge Management,G6 ,,1,,1.00
+Openness Data & Digital,IT Intelligent Customer Function,Information and Knowledge Management,G7 ,1,1,1.00,1.00
+Openness Data & Digital,IT Intelligent Customer Function,Information and Knowledge Management,SEO,2,2,2.00,2.00
+Openness Data & Digital,IT Intelligent Customer Function,Information and Knowledge Management,HEO,4,2,4.00,2.00
+Openness Data & Digital,IT Intelligent Customer Function,IT Intelligent Customer Function,G6 ,,1,,1.00
+Openness Data & Digital,IT Intelligent Customer Function,IT Intelligent Customer Function,G7 ,2,2,2.00,2.00
+Openness Data & Digital,IT Intelligent Customer Function,IT Intelligent Customer Function,SEO,3,,3.00,
+Openness Data & Digital,IT Intelligent Customer Function,IT Intelligent Customer Function,HEO,1,1,1.00,0.81
+Openness Data & Digital,IT Intelligent Customer Function,IT Intelligent Customer Function,EO ,,1,,1.00
+Openness Data & Digital,Openness Data & Digital,Openness Data & Digital,SCS 2,,1,,1.00
+Openness Data & Digital,Openness Data & Digital,Openness Data & Digital,G6 ,,1,,1.00
+Operational Delivery Group,Consumer Protection Division,Food Incidents & Resilience (Prog),G6 ,1,,1.00,
+Operational Delivery Group,Consumer Protection Division,Food Incidents & Resilience (Prog),G7 ,1,2,1.00,2.00
+Operational Delivery Group,Consumer Protection Division,Food Incidents & Resilience (Prog),SEO,1,5,1.00,5.00
+Operational Delivery Group,Consumer Protection Division,Food Incidents & Resilience (Prog),HEO,5,1,5.00,0.80
+Operational Delivery Group,Consumer Protection Division,Food Incidents & Resilience (Prog),EO ,3,1,3.00,1.00
+Operational Delivery Group,Consumer Protection Division,National Food Crime Unit (Admin),G6 ,1,,1.00,
+Operational Delivery Group,Consumer Protection Division,National Food Crime Unit (Admin),G7 ,,1,,1.00
+Operational Delivery Group,Consumer Protection Division,National Food Crime Unit (Admin),SEO,3,,3.00,
+Operational Delivery Group,Consumer Protection Division,National Food Crime Unit (Admin),HEO,5,3,5.00,3.00
+Operational Delivery Group,Consumer Protection Division,National Food Crime Unit (Admin),EO ,2,1,2.00,1.00
+Operational Delivery Group,Consumer Protection Division,National Food Crime Unit (Prog),G7 ,1,,1.00,
+Operational Delivery Group,Consumer Protection Division,National Food Crime Unit (Prog),SEO,1,,1.00,
+Operational Delivery Group,Consumer Protection Division,Resilience (Admin),SEO,1,1,1.00,1.00
+Operational Delivery Group,Consumer Protection Division,Resilience (Admin),HEO,1,3,1.00,3.00
+Operational Delivery Group,Field Operations,Field Operations,SCS 1,1,,1.00,
+Operational Delivery Group,Field Operations,Field Operations,G6 ,2,1,2.00,1.00
+Operational Delivery Group,Field Operations,Field Operations,G7 ,9,5,9.00,5.00
+Operational Delivery Group,Field Operations,Field Operations,SEO,10,9,10.00,9.00
+Operational Delivery Group,Field Operations,Field Operations,HEO,24,5,24.00,5.00
+Operational Delivery Group,Field Operations,Health Safety & Wellbeing,G7 ,1,,1.00,
+Operational Delivery Group,Field Operations,Health Safety & Wellbeing,SEO,,1,,1.00
+Operational Delivery Group,Field Operations,Health Safety & Wellbeing,EO ,,1,,0.59
+Operational Delivery Group,Field Operations,Operations North East,G7 ,1,,1.00,
+Operational Delivery Group,Field Operations,Operations North East,SEO,,2,,1.81
+Operational Delivery Group,Field Operations,Operations North East,HEO,2,,2.00,
+Operational Delivery Group,Field Operations,Operations North East,EO ,86,8,83.57,7.54
+Operational Delivery Group,Field Operations,Operations North West,SEO,1,,1.00,
+Operational Delivery Group,Field Operations,Operations North West,HEO,1,,1.00,
+Operational Delivery Group,Field Operations,Operations North West,EO ,91,2,89.20,2.00
+Operational Delivery Group,Field Operations,Operations South East,SEO,4,,4.00,
+Operational Delivery Group,Field Operations,Operations South East,HEO,5,,4.49,
+Operational Delivery Group,Field Operations,Operations South East,EO ,86,10,83.72,9.92
+Operational Delivery Group,Field Operations,Operations South West,SEO,,1,,0.61
+Operational Delivery Group,Field Operations,Operations South West,HEO,1,,1.00,
+Operational Delivery Group,Field Operations,Operations South West,EO ,82,11,79.59,9.72
+Operational Delivery Group,Field Operations,Operations Wales,SEO,3,,3.00,
+Operational Delivery Group,Field Operations,Operations Wales,HEO,2,,2.00,
+Operational Delivery Group,Field Operations,Operations Wales,EO ,33,5,30.62,4.50
+Operational Delivery Group,Operations Assurance,Operations Assurance,SCS 2,1,,1.00,
+Operational Delivery Group,Operations Assurance,Operations Assurance,SCS 1,1,,1.00,
+Operational Delivery Group,Operations Assurance,Operations Assurance,G6 ,2,2,2.00,2.00
+Operational Delivery Group,Operations Assurance,Operations Assurance,G7 ,8,2,8.00,2.00
+Operational Delivery Group,Operations Assurance,Operations Assurance,SEO,11,11,11.00,11.00
+Operational Delivery Group,Operations Assurance,Operations Assurance,HEO,2,3,1.80,3.00
+Operational Delivery Group,Operations Assurance,Operations Assurance,EO ,1,6,1.00,4.61
+Operational Delivery Group,Veterinary Assurance,Veterinary Assurance,SEO,,1,,1.00
+Operational Delivery Group,Veterinary Assurance,Veterinary Assurance,HEO,,1,,1.00
+Regulatory and Legal Strategy Directorate,Corporate Support Hub,Corporate Support Hub,G7 ,2,,2.00,
+Regulatory and Legal Strategy Directorate,Corporate Support Hub,Corporate Support Hub,SEO,2,5,2.00,5.00
+Regulatory and Legal Strategy Directorate,Corporate Support Hub,Corporate Support Hub,HEO,1,3,1.00,3.00
+Regulatory and Legal Strategy Directorate,Corporate Support Hub,Corporate Support Hub,EO ,12,13,12.00,13.00
+Regulatory and Legal Strategy Directorate,Corporate Support Hub,Corporate Support Hub,AO ,3,7,2.80,6.40
+Regulatory and Legal Strategy Directorate,Internal Audit,Internal Audit,G6 ,1,,0.10,
+Regulatory and Legal Strategy Directorate,Internal Audit,Internal Audit,G7 ,1,,1.00,
+Regulatory and Legal Strategy Directorate,Internal Audit,Internal Audit,SEO,1,3,1.00,3.00
+Regulatory and Legal Strategy Directorate,Internal Audit,Internal Audit,HEO,2,,2.00,
+Regulatory and Legal Strategy Directorate,Investigations Team,Investigations Team,G7 ,1,,1.00,
+Regulatory and Legal Strategy Directorate,Investigations Team,Investigations Team,SEO,2,,2.00,
+Regulatory and Legal Strategy Directorate,Investigations Team,Investigations Team,HEO,3,1,3.00,1.00
+Regulatory and Legal Strategy Directorate,Regulatory and International,Regulatory and International,G6 ,,1,,1.00
+Regulatory and Legal Strategy Directorate,Regulatory and International,Regulatory and International,G7 ,2,,2.00,
+Regulatory and Legal Strategy Directorate,Regulatory and International,Regulatory and International,SEO,3,,3.00,
+Regulatory and Legal Strategy Directorate,Regulatory and International,Regulatory and International,EO ,1,,1.00,
+Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,SCS 2,1,,1.00,
+Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,G6 ,1,,1.00,
+Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,G7 ,1,2,1.00,2.00
+Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,SEO,4,3,3.58,3.00
+Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,HEO,2,3,2.00,2.80
+Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,Regulatory and Legal Strategy Directorate,EO ,,3,,3.00
+Science and Policy,Food Safety Policy,Agricultural Process & Environmental Contaminents,SEO,2,1,2.00,1.00
+Science and Policy,Food Safety Policy,Agricultural Process & Environmental Contaminents,HEO,2,3,2.00,2.40
+Science and Policy,Food Safety Policy,Agricultural Process & Environmental Contaminents,EO ,1,,1.00,
+Science and Policy,Food Safety Policy,Allergy and Novel Foods,G7 ,1,,1.00,
+Science and Policy,Food Safety Policy,Allergy and Novel Foods,SEO,1,3,1.00,3.00
+Science and Policy,Food Safety Policy,Allergy and Novel Foods,HEO,1,4,1.00,4.00
+Science and Policy,Food Safety Policy,Animal Feed TSEs & ABPs,G7 ,1,,1.00,
+Science and Policy,Food Safety Policy,Animal Feed TSEs & ABPs,SEO,2,1,2.00,1.00
+Science and Policy,Food Safety Policy,Animal Feed TSEs & ABPs,HEO,,1,,1.00
+Science and Policy,Food Safety Policy,Food Additives,SEO,2,1,2.00,1.00
+Science and Policy,Food Safety Policy,Food Additives,HEO,2,1,2.00,1.00
+Science and Policy,Food Safety Policy,Food Additives,EO ,2,,2.00,
+Science and Policy,Food Safety Policy,Food Hygiene Policy,G7 ,1,1,1.00,0.89
+Science and Policy,Food Safety Policy,Food Hygiene Policy,SEO,1,1,1.00,1.00
+Science and Policy,Food Safety Policy,Food Hygiene Policy,HEO,1,4,1.00,3.53
+Science and Policy,Food Safety Policy,Food Hygiene Policy,EO ,1,,1.00,
+Science and Policy,Food Safety Policy,Food Safety Policy,SCS 1,1,,1.00,
+Science and Policy,Food Safety Policy,Food Safety Policy,G6 ,2,1,2.00,1.00
+Science and Policy,Food Safety Policy,Food Safety Policy,G7 ,2,,2.00,
+Science and Policy,Food Safety Policy,Food Safety Policy,SEO,1,,1.00,
+Science and Policy,Food Safety Policy,Food Safety Policy,HEO,2,1,2.00,1.00
+Science and Policy,Food Safety Policy,Foodborne Disease Control,G7 ,1,,1.00,
+Science and Policy,Food Safety Policy,Foodborne Disease Control,SEO,1,1,0.97,0.89
+Science and Policy,Food Safety Policy,Foodborne Disease Control,HEO,2,1,2.00,1.00
+Science and Policy,Food Safety Policy,Meat Hygiene Policy,SEO,4,,4.00,
+Science and Policy,Food Safety Policy,Meat Hygiene Policy,HEO,,1,,1.00
+Science and Policy,Policy Programmes,Hygiene and Microbiology,SEO,,1,,1.00
+Science and Policy,Policy Programmes,Hygiene and Microbiology,EO ,1,,1.00,
+Science and Policy,Science and Policy,Science and Policy,SCS 2,1,,1.00,
+Science and Policy,Science Evidence and Research,Analysis and Research Division,AO ,,1,,1.00
+Science and Policy,Science Evidence and Research,Science Evidence and Research,SCS 1,1,,1.00,
+Science and Policy,Science Evidence and Research,Science Evidence and Research,G6 ,,2,,2.00
+Science and Policy,Science Evidence and Research,Science Evidence and Research,G7 ,8,2,7.80,1.59
+Science and Policy,Science Evidence and Research,Science Evidence and Research,SEO,4,12,4.00,10.63
+Science and Policy,Science Evidence and Research,Science Evidence and Research,HEO,7,8,7.00,8.00
+Science and Policy,Science Evidence and Research,Science Evidence and Research,EO ,2,4,2.00,4.00
+Science and Policy,Science Evidence and Research,Science Evidence and Research,AO ,1,,1.00,
+Wales & Local Delivery,Local Delivery,Local Delivery,G7 ,2,1,2.00,1.00
+Wales & Local Delivery,Local Delivery,Local Delivery,SEO,12,7,12.00,6.78
+Wales & Local Delivery,Local Delivery,Local Delivery,HEO,4,6,4.00,5.50
+Wales & Local Delivery,Local Delivery,Local Delivery,EO ,2,1,2.00,1.00
+Wales & Local Delivery,Regulatory Delivery,Regulatory Delivery,SCS 1,,1,,1.00
+Wales & Local Delivery,Regulatory Delivery,Regulatory Delivery,G6 ,1,,1.00,
+Wales & Local Delivery,Regulatory Delivery,Regulatory Delivery,G7 ,2,1,2.00,1.00
+Wales & Local Delivery,Regulatory Delivery,Regulatory Delivery,SEO,2,3,1.80,2.86
+Wales & Local Delivery,Regulatory Delivery,Regulatory Delivery,EO ,,1,,0.80
+Wales & Local Delivery,Regulatory Delivery,ROF Programme,G7 ,,1,,1.00
+Wales & Local Delivery,Wales,Wales,G7 ,1,3,1.00,2.89
+Wales & Local Delivery,Wales,Wales,SEO,5,7,5.00,7.00
+Wales & Local Delivery,Wales,Wales,HEO,5,1,5.00,1.00
+Wales & Local Delivery,Wales,Wales,EO ,3,2,3.00,2.00
+Wales & Local Delivery,Wales & Local Delivery,Wales & Local Delivery,SCS 2,,1,,1.00
+Wales & Local Delivery,Wales & Local Delivery,Wales & Local Delivery,SCS 1,1,,1.00,

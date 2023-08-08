@@ -1,0 +1,28 @@
+Organisation Name,Organisation Code,Effective Date,On Street Parking Income Type,On Street Parking Income Amount,Offstreet Parking Income Type,Off Street Parking Income Amount,Expenditure Type,Expenditure Amount,Surplus Amount,Surplus Spend Type,Surplus Spend Amount,Parking Spaces Number,Free Parking Spaces Number,Charged-for Parking Spaces Number,Car Park Location
+,A unique code to identify the spending organisation. For LAs this can be the URI from Open Data Communitie,Date at which the information provided is true (dd/mm/yyyy),,,,,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,Pay & display ticket sales (Penrith),237566.53,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,Pay & display ticket sales (Appleby),16187.07,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,Season ticket sales (Penrith),23941.05,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,Season tictket sales (Appleby),2620.91,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,Penalty Charge Notices (PCN),10575,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,Utility Refund,45690.44,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,Other asset related income,1616.64,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,Total,338197.64,,,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,Utility costs,71702.76,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,Equipment related cost,14248.83,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,Maintenance and repair schemes,18242.19,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,Ground maintenance and gritting,14908.08,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,Advertising,3350,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,EDC support services,13914.74,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,Contract with Eden Parking Services,25745.51,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,Other asset related costs,2254.49,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,Total,164366.6,,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,173831.04,,,,,,
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,,,,133,0,133,"Bluebell, Penrith"
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,,,,128,0,128,"Sandgate, Penrith"
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,,,,22,0,22,"Princes St, Penrith"
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,,,,104,0,104,"Drovers Lane, Penrith"
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,,,,36,0,36,"Mansion House (Front), Penrith"
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,,,,51,0,51,"Mansion House (Back), Penrith"
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,,,,60,0,60,"Broad Close, Appleby"
+Eden District Council,http://opendatacommunities.org/id/district-council/eden,,,,,,,,,,,32 + approx 14 unmarked (to be marked once flooded work complete),0,32 + approx 14 unmarked (to be marked once flooding work complete),"Swimming Pool, Appleby"

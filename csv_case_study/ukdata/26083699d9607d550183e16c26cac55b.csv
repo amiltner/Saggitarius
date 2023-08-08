@@ -1,0 +1,330 @@
+Body,Body Name,Transaction No,Invoice Ref.,Vendor Name,Expense,Expense Type,Payment Date,Amount
+,,voucher_no,ext_inv_ref,apar_name,account,acc_desc,payment_date,amount
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020687,161082,A & E Fire Equipment Limited,R2004-ADB103,R & M of Build Programmed,01/11/2013,"3,330.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020670,161209,A & E Fire Equipment Limited,R2083-CPK101,R&M of Build - Routine,01/11/2013,860
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020939,161233,A & E Fire Equipment Limited,C1100-CAP121,Construction,08/11/2013,"3,010.90"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020673,161256,A & E Fire Equipment Limited,R2083-REC111,R&M of Build - Routine,01/11/2013,517.32
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021694,161653,A & E Fire Equipment Limited,R2083-REC111,R&M of Build - Routine,29/11/2013,720.4
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020255,2010188,Activist Group Limited (Formerly Eightytwenty Insight LG),R4411-SUP104,Consultancy Fees,22/11/2013,"6,528.44"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021266,2010199,Activist Group Limited (Formerly Eightytwenty Insight LG),R4411-SUP104,Consultancy Fees,22/11/2013,"4,157.44"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021647,2010201,Activist Group Limited (Formerly Eightytwenty Insight LG),R4411-SUP104,Consultancy Fees,29/11/2013,"1,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020701,25064811-15,ADT Fire & Security plc,R2083-CUL107,R&M of Build - Routine,08/11/2013,"7,288.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020734,25065171-15,ADT Fire & Security plc,R2013-REG019,R & M of Build Asbestos,08/11/2013,"4,581.40"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020702,25065188-15,ADT Fire & Security plc,R2083-CUL107,R&M of Build - Routine,08/11/2013,"3,875.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020735,25068122-15,ADT Fire & Security plc,C1100-CAP121,Construction,08/11/2013,738
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020736,25068145-15,ADT Fire & Security plc,C1100-CAP121,Construction,08/11/2013,610
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021211,47969,AES Pump Limited,R2079-REC111,Sanitary and Plumbing,15/11/2013,"2,858.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021573,1320,AFA Events Limited,R4322-CUL110,Artists Fees,22/11/2013,"14,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021319,5237,Air Monitors Limited,R4003-REG012,Tools & Equipment - R & M,15/11/2013,"10,408.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021750,26997,Alpha Response Print & Mail Limited,R4300-ELE001,Printing - Services,29/11/2013,578
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021063,4514228207,Amer Sports UK Limited,C4000-CAP111,Acquisition of Equipment,15/11/2013,"4,758.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021020,4514461968,Amer Sports UK Limited,C4000-CAP111,Acquisition of Equipment,08/11/2013,700
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020770,82080939,Archant Life Limited,R4317-CUL102,Non Staff Advertising,01/11/2013,700
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020955,1645-13,Architecton Limited,R2004-CUL102,R & M of Build Programmed,08/11/2013,"5,769.40"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021152,settlement 25102013,Art Shape Limited (Create Gloucestershire Ltd),R9406-HLD140,Lettings,15/11/2013,630
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020825,11309,Artful Limited,R4317-DEV001,Non Staff Advertising,15/11/2013,"1,740.96"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020522,1630,ArthurSteenHorneAdamsonLtd,R4011-CUL107,Goods For Reasle,01/11/2013,"2,823.80"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020555,1643,ArthurSteenHorneAdamsonLtd,C1105-CAP121,Design Services,01/11/2013,"2,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021716,1656,ArthurSteenHorneAdamsonLtd,C1105-CAP121,Design Services,29/11/2013,"1,020.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020619,14042,Artworks Design Consultants (Cheltenham) Limited,R4300-TOU002,Printing - Services,01/11/2013,819
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020620,14043,Artworks Design Consultants (Cheltenham) Limited,R4300-TOU002,Printing - Services,01/11/2013,745.5
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021574,SIN007237,Avalon Promotions Limited,R4322-CUL110,Artists Fees,22/11/2013,800
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020707,REDACTED,AVM International Limited,C5000-CAP222,Grants,01/11/2013,602.7
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021745,92645,Barcham Trees plc,R2070-PLP006,Tree Work,29/11/2013,"1,077.30"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021463,34929,Berforts Information Press Limited (Touchmedia),R4300-CUL107,Printing - Services,22/11/2013,"1,950.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021145,79083,Berman Guedes Stretton Architects Limited,C6002-CAP121,Fees - Agency,15/11/2013,"2,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020777,41663,BIP Solutions Limited,C1107-CAH016,Building Works,01/11/2013,"2,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021257,41774,BIP Solutions Limited,R4701-SUP033,Subscriptions,15/11/2013,"2,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021275,47SI 652707,Brenntag UK Limited,R4007-REC101,Materials - Chemicals,15/11/2013,"1,115.97"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020397,10157-13362,Bruynzeel Storage Sysstems Ltd,C1100-CAP121,Construction,29/11/2013,"39,921.20"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021218,IN003107,C F Roberts (Elect Contrs) plc,C1107-CAH025,Building Works,29/11/2013,"1,226.75"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020748,3459,C Mawdsley t/a Arbor Tree Care,R2070-PLP006,Tree Work,01/11/2013,"5,020.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021603,1362457-002,Cardiff University,R1652-DEV001,Training Fees (External),29/11/2013,"1,611.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021303,27522,CDK Castings Limited T/A Arkell & Hurcombe,R4011-CCM001,Goods For Reasle,15/11/2013,640
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021554,SI-3389,CDS Publications Limited,R4014-TOU002,Marketing,29/11/2013,"1,200.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020697,CMT1277,Chambers Management Touring Limited,R4322-CUL110,Artists Fees,01/11/2013,"8,500.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021081,CMT1278,Chambers Management Touring Limited,R4322-CUL110,Artists Fees,15/11/2013,"8,500.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021458,CHELTDW/10/2013,Cheltenham Animal Shelter,R4401-REG003,Services - Fees and Charges,22/11/2013,544
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020653,102 Amended,Cheltenham Coffee Co Limited,R4401-REC001,Services - Fees and Charges,01/11/2013,717.6
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020983,M/RB018610,Civica UK Limited,R4534-LTC101,IT - Maint Agreements,08/11/2013,860.24
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020493,181013,Clara Helen Hambling (Artist),R4400-CUL001,Services - Professional Fees,01/11/2013,650
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021220,532495,Comensura Limited,R1100-CCM001,Agency Staff,15/11/2013,728.94
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021220,532495,Comensura Limited,R1100-ADB101,Agency Staff,15/11/2013,"1,078.46"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021602,532885,Comensura Limited,R1100-CCM001,Agency Staff,29/11/2013,"1,019.53"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021602,532885,Comensura Limited,R1100-ADB101,Agency Staff,29/11/2013,711.76
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020636,SINV847829,Commercial Limited (Office Stationery only),R4308-ADB102,Stationery,01/11/2013,755
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020960,SINV850783,Commercial Limited (Office Stationery only),R2004-CUL117,R & M of Build Programmed,22/11/2013,"3,586.95"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020954,C23580,Cotswold Drain Service Limited,R2043-OPS122,R & M of Build Drain Cleaning,08/11/2013,855
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021147,1529,County Community Projects (CCP),R6280-GBD001,Grants,15/11/2013,"3,333.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14016506,A8955,Courier and Transport Services (CATS),R2206-HRA110,Removal Expenses,29/11/2013,745
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021636,PS03881,Craig Stanton T/A CSS Pools and Leisure,R2007-REC101,R & M of Plant Contracts,29/11/2013,831.49
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021558,41113,Creative Solutions,R4401-CUL107,Services - Fees and Charges,29/11/2013,"1,325.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020749,CBXM 01391,Curveball Print Media,R4300-GBD001,Printing - Services,08/11/2013,"2,175.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14018195,1312,D A Jones Landscapes,R2075-ENF102,Grounds Maintenance - Contract,08/11/2013,"2,480.88"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020774,1314/007,Des Knight Limited,R4400-SUP009,Services - Professional Fees,01/11/2013,"1,470.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021143,910536,Disclosure & Barring Service,R1601-REG002,CRB Police Checks,22/11/2013,"1,056.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021714,160791,E.G. Carter & Co. Limited,C5001-CAP225,Contributions,29/11/2013,"23,244.08"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020610,301267/9/2013,Ener-G Combined Power (South) Limited,R2100-REC111,Electricity,01/11/2013,"4,238.02"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021437,gct247-09,Enfusion Limited,R4400-PLP101,Services - Professional Fees,22/11/2013,"12,310.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021289,WM004276,English Landscapes Limited t/a The Landscape Group,C1107-CAH005,Building Works,15/11/2013,"48,120.60"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021285,3770,Environmental Management Solutions Limited,C1107-CAH012,Building Works,15/11/2013,"20,313.50"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021065,1226831,Ermin Plant (Hire & Services) Limited,R4003-OPS002,Tools & Equipment - R & M,08/11/2013,608.42
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021154,213523,Essentra Packaging & Security Ltd,R4201-HLD101,Uniforms,15/11/2013,614.5
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021058,57771,Eurolink Security Installations Group Limited,R2705-CPK001,Security Systems,15/11/2013,"1,152.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021059,57779,Eurolink Security Installations Group Limited,R2705-CPK001,Security Systems,15/11/2013,"1,209.60"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020604,INV65409,Evacchair International Limited,C1105-CAP121,Design Services,01/11/2013,"2,694.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021001,1140,Frank Doric Investments Co Ltd (Dorchester House),R4971-HOM001,Bed & Breakfast payments,08/11/2013,750
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021138,SIN138539,Frontier Software plc,R4534-SUP003,IT - Maint Agreements,15/11/2013,"3,666.80"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021082,H3822,G & R Hyett Decorators,C1104-CAP111,Decoration,15/11/2013,"5,010.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020975,1043,GL Events Slick Seating Systems,R2004-REC111,R & M of Build Programmed,15/11/2013,"1,752.30"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020781,23933,Glide Media  Limited,R4520-CUL110,Postages - stamps,15/11/2013,722.4
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021279,627817,Global Radio Services Limited,R4400-PLP101,Services - Professional Fees,15/11/2013,"1,513.49"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020790,28102013,Gloucestershire Animal Welfare Association & Cheltenham Animal Shelter,R4701-REC007,Subscriptions,08/11/2013,800
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020788,1800290964,Gloucestershire County Council,R4400-SUP017,Services - Professional Fees,08/11/2013,"6,990.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020515,1800291080,Gloucestershire County Council,R4401-DEV001,Services - Fees and Charges,01/11/2013,"4,828.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021518,1800291995,Gloucestershire County Council,R4401-BUC004,Services - Fees and Charges,29/11/2013,"11,751.86"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021112,1800294213,Gloucestershire County Council,R4974-CPK012,Reimbursement to other L.A.'s,15/11/2013,"39,122.89"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020483,800004381,Gloucestershire Local Government Pension Scheme (LGPS ONLY),R1301-SUP038,Enhanced Pension,01/11/2013,"16,617.12"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021338,800004549,Gloucestershire Local Government Pension Scheme (LGPS ONLY),R1301-SUP038,Enhanced Pension,29/11/2013,"16,617.12"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021481,SIN137432,Gradko International Limited,R4401-REG012,Services - Fees and Charges,29/11/2013,551.1
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021131,0166/13,Graham Harper Associates Limited,C1100-CAP121,Construction,08/11/2013,575
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021168,1473,Greenway Partnership Limited T/A GPL Building Services,R2004-REC111,R & M of Build Programmed,15/11/2013,"2,110.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020641,1559,Greenway Partnership Limited T/A GPL Building Services,R2007-OPS001,R & M of Plant Contracts,01/11/2013,655
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021128,1575,Greenway Partnership Limited T/A GPL Building Services,R2083-ADB101,R&M of Build - Routine,15/11/2013,"3,987.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020751,1576,Greenway Partnership Limited T/A GPL Building Services,C1107-CAH016,Building Works,08/11/2013,"1,192.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021166,1624,Greenway Partnership Limited T/A GPL Building Services,R2083-CUL002,R&M of Build - Routine,15/11/2013,"1,240.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020808,1634,Greenway Partnership Limited T/A GPL Building Services,R2043-ADB103,R & M of Build Drain Cleaning,08/11/2013,602.5
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021177,1643,Greenway Partnership Limited T/A GPL Building Services,R2085-CUL117,R&M of Fix & Fit - Internal,15/11/2013,522.5
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020753,1667,Greenway Partnership Limited T/A GPL Building Services,R2007-OPS001,R & M of Plant Contracts,08/11/2013,"3,234.80"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021176,1668,Greenway Partnership Limited T/A GPL Building Services,R4408-ECD101,Other Contractors Fees,29/11/2013,"6,702.25"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021164,1680,Greenway Partnership Limited T/A GPL Building Services,R2043-ADB103,R & M of Build Drain Cleaning,15/11/2013,"1,330.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021792,1709,Greenway Partnership Limited T/A GPL Building Services,R2007-OPS001,R & M of Plant Contracts,29/11/2013,"2,490.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021185,630626,Group Creative Limited,R4014-REC101,Marketing,15/11/2013,"1,950.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021314,106031,Haden Browne Plastics,R4003-OPS002,Tools & Equipment - R & M,15/11/2013,532
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021300,27077,HAGS-SMP Limited,R4003-OPS002,Tools & Equipment - R & M,15/11/2013,601
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020775,8022,Halarose Limited,R4531-ELE001,IT - Purchase of Software,08/11/2013,"1,890.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021461,17124,Halcrow Group Limited,R5001-EMP001,TPP - Major External Contractors,22/11/2013,"6,612.87"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020516,SIAL/00004858,Herefordshire Housing Limited,R4401-SPP002,Services - Fees and Charges,01/11/2013,"13,693.68"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021160,Cisdeduct0610-051113,HMRC (CBC - CIS),B6220-BAL100,CIS Deductions Control (reallocated),15/11/2013,"3,919.79"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021290,annual grant 2013/14,Holst Birthplace Museum,R6280-CUL001,Grants,15/11/2013,"3,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021653,Settlement Howlers at the Hall,Howlers Comedy Club,R9406-HLD140,Lettings,29/11/2013,"2,337.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020648,150170AA7,Ian Williams Limited,R2060-HRA100,R & M of Build Cyclical Painting Communal Areas,01/11/2013,"33,326.72"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020742,7001524,Idox Software Limited,R4531-DEV001,IT - Purchase of Software,22/11/2013,"3,475.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14017353,PSI023776,Intrinsic Technology Limited,R4534-SUP005,IT - Maint Agreements,08/11/2013,"21,315.30"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14016914,PSI024220,Intrinsic Technology Limited,R4533-SUP005,IT - Repair and Maint,08/11/2013,"5,328.81"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020495,PSI025523,Intrinsic Technology Limited,R4533-SUP005,IT - Repair and Maint,08/11/2013,"4,500.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020783,SIN030507,IQLUK Limited,R4000-REC101,Equipment Purchase,08/11/2013,646
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020982,5019,J Martin Ryder FRICS MCIArb,C1107-CAH033,Building Works,29/11/2013,930
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020982,5019,J Martin Ryder FRICS MCIArb,C1107-CAH033,Building Works,29/11/2013,930
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020981,5034,J Martin Ryder FRICS MCIArb,C1107-CAH033,Building Works,29/11/2013,945
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020981,5034,J Martin Ryder FRICS MCIArb,C1107-CAH033,Building Works,29/11/2013,945
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021649,13/052,J P North (Farmer),R2071-OPS002,Open Spaces and Grassed Areas,29/11/2013,"1,100.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021632,1083,Jayson R C Bayliss,R2075-OPS001,Grounds Maintenance - Contract,29/11/2013,"1,290.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021632,1083,Jayson R C Bayliss,R2075-OPS001,Grounds Maintenance - Contract,29/11/2013,"1,010.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020524,8,Joanne Maxwell Personal Training,R4446-REC101,Coaching Fees,01/11/2013,546
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020607,1903,John Robinson Electrical,R2004-CCM111,R & M of Build Programmed,01/11/2013,"1,596.96"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021204,1907,John Robinson Electrical,R2004-CCM111,R & M of Build Programmed,15/11/2013,"8,680.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021205,1908,John Robinson Electrical,R2004-CCM111,R & M of Build Programmed,15/11/2013,"9,975.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020832,5170,JS Facilities Group Limited,R4401-CPK001,Services - Fees and Charges,08/11/2013,"1,495.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020831,5226,JS Facilities Group Limited,R2705-CUL107,Security Systems,08/11/2013,"3,024.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020659,5256,JS Facilities Group Limited,R4401-CPK001,Services - Fees and Charges,01/11/2013,"4,725.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020833,5262,JS Facilities Group Limited,R4401-CPK001,Services - Fees and Charges,08/11/2013,"1,404.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020971,5270,JS Facilities Group Limited,R4401-REC101,Services - Fees and Charges,08/11/2013,"1,342.50"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021148,5273,JS Facilities Group Limited,R4401-CUL107,Services - Fees and Charges,15/11/2013,"3,860.60"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021471,5296,JS Facilities Group Limited,R4401-CUL107,Services - Fees and Charges,22/11/2013,"3,830.75"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020492,5317,JS Facilities Group Limited,R4401-REC101,Services - Fees and Charges,01/11/2013,958
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020489,5322,JS Facilities Group Limited,R2705-CUL107,Security Systems,01/11/2013,"3,766.08"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020490,5323,JS Facilities Group Limited,R2705-CUL107,Security Systems,01/11/2013,"5,099.38"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020491,5324,JS Facilities Group Limited,R2705-CUL107,Security Systems,01/11/2013,"4,328.25"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021567,5368,JS Facilities Group Limited,R4401-CUL107,Services - Fees and Charges,29/11/2013,"4,328.25"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021768,5369,JS Facilities Group Limited,R4401-CUL107,Services - Fees and Charges,29/11/2013,"3,741.20"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020573,1595,Leonie Cowen & Associates,R4400-SUP104,Services - Professional Fees,29/11/2013,"15,510.80"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020572,1601,Leonie Cowen & Associates,R4400-SUP104,Services - Professional Fees,29/11/2013,"21,710.80"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021483,753500,Liberty Gas Group,R2016-HRA100,R & M of Build Void Repairs,22/11/2013,"2,155.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021483,753500,Liberty Gas Group,R2040-HRA100,R & M of Build Central Heating,22/11/2013,"9,092.50"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021483,753500,Liberty Gas Group,C1107-CAH020,Building Works,22/11/2013,"3,658.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021483,753500,Liberty Gas Group,C1107-CAH009,Building Works,22/11/2013,"3,485.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021482,753501,Liberty Gas Group,R2040-HRA100,R & M of Build Central Heating,22/11/2013,"25,768.84"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021358,1573041106,Live Nation (Music) UK Limited,R4322-CUL110,Artists Fees,15/11/2013,"1,329.91"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021324,C 22814,Mansell Construction Services Limited,C1107-CAH007,Building Works,15/11/2013,"2,336.88"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021037,C22767,Mansell Construction Services Limited,C1107-CAH007,Building Works,29/11/2013,"15,702.26"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020972,2616,Mark Wroot Agricultural & Garden Services,C1107-CAH033,Building Works,08/11/2013,"5,800.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020972,2616,Mark Wroot Agricultural & Garden Services,C1107-CAH033,Building Works,08/11/2013,"5,800.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020769,9739,Massie Electrics Limited,C1100-CAP121,Construction,08/11/2013,"1,313.75"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021163,4411,Mcdonnell Price Roofing Contractors Limited,C1107-CAH016,Building Works,15/11/2013,"16,812.81"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021656,REDACTED,Mears Home Improvements (Client Account),C5000-CAP221,Grants,29/11/2013,"10,637.88"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021284,184333,Medway Galvanising Company Limited,R4003-OPS002,Tools & Equipment - R & M,15/11/2013,825
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021522,10003,Metro Digital Media Limited T/A ASAPP,R4014-REC101,Marketing,22/11/2013,"1,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021192,654,MHP Design Limited,C1107-CAH005,Building Works,22/11/2013,"1,200.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021106,1013,Miss Helen Whitfield,R4446-REC101,Coaching Fees,15/11/2013,882
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020204,87077,MK Battery International Limited (MK Battery),R4003-PUT102,Tools & Equipment - R & M,15/11/2013,901.92
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021630,16780,Morgan Lambert Limited,R2040-HRA100,R & M of Build Central Heating,29/11/2013,704
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021631,16950,Morgan Lambert Limited,R2040-HRA100,R & M of Build Central Heating,29/11/2013,704
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021403,13-Mar,Mumkin Operational Services,R2076-OPS002,Grounds Maintenance - Non Contract,22/11/2013,"2,870.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021627,13-Apr,Mumkin Operational Services,R4003-OPS002,Tools & Equipment - R & M,29/11/2013,"2,621.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020640,191013,Mumkin Operational Services,R4003-OPS002,Tools & Equipment - R & M,01/11/2013,697
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021083,AREXT/00148347,National Express Limited,R4901-HLD120,Commission,08/11/2013,"1,504.50"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021484,17664,Naturescape,R2075-OPS001,Grounds Maintenance - Contract,22/11/2013,745
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021484,17664,Naturescape,R2075-ENF102,Grounds Maintenance - Contract,22/11/2013,"1,890.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021360,11586,Nett UK Limited,R4322-CUL110,Artists Fees,15/11/2013,"4,839.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021628,NM29458,New Mind Internet Consultancy Limited,R4014-TOU002,Marketing,29/11/2013,"13,080.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020316,19/09/2013,NPower,R2100-HRA110,Electricity,01/11/2013,831.95
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021362,LGUMNNDM,Npower Limited (Oldbury),R2100-CUL107,Electricity,22/11/2013,"2,984.87"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021376,LGUMWR58,Npower Limited (Oldbury),R2100-CUL117,Electricity,15/11/2013,"3,051.99"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021634,61790,Nupik-Flo UK Limited,R4000-REC101,Equipment Purchase,29/11/2013,558
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021114,5269,Oasis Environments Limited,R2013-FIE040,R & M of Build Asbestos,15/11/2013,575
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021784,42330,Off the Kerb Productions,R4322-CUL110,Artists Fees,29/11/2013,"9,050.41"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020993,535339,OpenView Security Solutions Limited,R4003-CCT001,Tools & Equipment - R & M,08/11/2013,"1,419.17"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020654,CS801939717,Otis Limited,R2007-REC111,R & M of Plant Contracts,01/11/2013,"11,485.19"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021718,CS801940208,Otis Limited,R2007-REC111,R & M of Plant Contracts,29/11/2013,696.07
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021517,355231,Ove Arup & Partners Limited,R4400-PLP101,Services - Professional Fees,22/11/2013,"11,181.25"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021408,M4277,Peak Hire Limited,R4001-CUL110,Tools & Equipment - Hire,22/11/2013,709.2
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021150,59729117,Personnel Hygiene Services (PHS Group),R4401-ADB103,Services - Fees and Charges,15/11/2013,"1,138.73"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021357,1093,Phil McIntyre Entertainments Limited,R4322-CUL110,Artists Fees,15/11/2013,"11,801.86"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021770,1135,Phil McIntyre Entertainments Limited,R4322-CUL110,Artists Fees,29/11/2013,"13,179.30"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021771,1136,Phil McIntyre Entertainments Limited,R4322-CUL110,Artists Fees,29/11/2013,"13,359.90"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021269,15853,Pictorial Meadows Limited,R2075-OPS001,Grounds Maintenance - Contract,22/11/2013,"1,500.03"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020521,38783844,Pitney Bowes Limited (Consumables),R4521-CUL102,Postages - franking machine,01/11/2013,757.8
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021539,2886,PJ Combustion Solutions Limited,R2004-CCM001,R & M of Build Programmed,22/11/2013,"5,260.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020614,80398,Pro-AM Limited,R4400-SUP104,Services - Professional Fees,08/11/2013,"2,310.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021773,80401,Pro-AM Limited,R4400-SUP104,Services - Professional Fees,29/11/2013,"1,260.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021731,44080,Professional Building Supplies Limited,R2075-ENF102,Grounds Maintenance - Contract,29/11/2013,608.85
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021256,268,Pro-Teq Surfacing (UK) Limited,R2075-OPS001,Grounds Maintenance - Contract,15/11/2013,"3,031.45"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021256,268,Pro-Teq Surfacing (UK) Limited,R2075-ENF102,Grounds Maintenance - Contract,15/11/2013,993.55
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14019696,PINF371910,Randstad Employment Bureau Limited,R4400-PLP101,Services - Professional Fees,22/11/2013,956.25
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020646,PINF385498,Randstad Employment Bureau Limited,R4400-PLP101,Services - Professional Fees,22/11/2013,600
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021286,1108,Regency IT Consulting,R4411-SUP005,Consultancy Fees,15/11/2013,"6,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021601,87650566,Ricoh UK Limited,R4304-SUP022,Photocopier Operating Lease,29/11/2013,"5,570.83"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020843,9045292506,Royal Mail,R4521-LTC001,Postages - franking machine,08/11/2013,662.35
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020951,9045429157,Royal Mail,R4520-ELE001,Postages - stamps,08/11/2013,"4,225.52"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021335,9045472522,Royal Mail,R4521-LTC001,Postages - franking machine,22/11/2013,910.83
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021219,9045526923,Royal Mail,R4520-ELE001,Postages - stamps,15/11/2013,"1,289.12"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021498,9045562158,Royal Mail,R4521-LTC001,Postages - franking machine,29/11/2013,529.86
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021498,9045562158,Royal Mail,R4521-ELE001,Postages - franking machine,29/11/2013,731.36
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021000,10003,Sampsons Limited,R4014-REC101,Marketing,08/11/2013,"1,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020994,395,SAS EPC,R2018-HRA100,R & M of Build Voids Energy Performance Certificates,15/11/2013,"1,215.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020660,00809-13142856/C7,Selim Smith & Co Funeral Directors (Dignity Funerals Limited),R4433-REG001,Burial Fees - National Assitance Act,15/11/2013,"1,312.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021002,00809-13218715,Selim Smith & Co Funeral Directors (Dignity Funerals Limited),R4433-REG001,Burial Fees - National Assitance Act,15/11/2013,951
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021372,00809-13306341/CI,Selim Smith & Co Funeral Directors (Dignity Funerals Limited),R4433-REG001,Burial Fees - National Assitance Act,22/11/2013,941
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021014,137657,Severn,R4300-CUL110,Printing - Services,15/11/2013,618
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021012,137712,Severn,R4400-PLP101,Services - Professional Fees,22/11/2013,852
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020771,75574,Signcraft Limited,R4000-CCM001,Equipment Purchase,08/11/2013,"8,170.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021571,O0314476,Sitex Orbis Limited,R2012-HRA100,R & M of Build Standby and Call Out,29/11/2013,"1,047.03"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021141,O0317029,Sitex Orbis Limited,R2012-HRA100,R & M of Build Standby and Call Out,08/11/2013,"1,087.03"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021760,739,Snape Construction Limited (Snapecall),C1107-CAH004,Building Works,29/11/2013,"43,602.37"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021413,Advance of Settlement,SNG Promotions,R4322-CUL110,Artists Fees,15/11/2013,"8,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020699,SETTLEMENT 13/10/13,Sound Made Simple Limited T/A Cleeve Concerts,R9406-HLD140,Lettings,01/11/2013,"1,917.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021447,The Zombies,Sound Made Simple Limited T/A Cleeve Concerts,R9406-HLD140,Lettings,22/11/2013,"1,944.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021447,The Zombies,Sound Made Simple Limited T/A Cleeve Concerts,R9406-HLD140,Lettings,22/11/2013,"1,458.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020786,9374,Spring Cleaning Services Limited,R2706-CUL107,Cleaning - reactive,01/11/2013,"7,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021613,9458,Spring Cleaning Services Limited,R2706-CUL107,Cleaning - reactive,29/11/2013,"2,260.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021648,312145,Springfield Business Papers,R4301-SUP022,Printing - Purchase of Paper,29/11/2013,995
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020919,271300165/0037,SSE - Southern Electric (Bill payments),R2100-HRA110,Electricity,08/11/2013,"1,038.87"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020890,511298564/0032,SSE - Southern Electric (Bill payments),R2100-HRA110,Electricity,08/11/2013,802.89
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021747,00247766A,Stage Electrics Partnership Limited T/A Stage Electrics,C1105-CAP121,Design Services,29/11/2013,"5,249.13"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020569,SI-191592,Straight plc,R4000-RYC006,Equipment Purchase,01/11/2013,"11,781.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021040,SI-191965,Straight plc,R4000-RYC006,Equipment Purchase,08/11/2013,"5,128.20"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021774,41230,Stuart Walby Entertainments,R4322-CUL110,Artists Fees,29/11/2013,"1,750.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021390,780-04,Sutton Vane Associates,C1105-CAP121,Design Services,22/11/2013,"2,541.88"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021156,3045,System Six Design & Build,R2004-CUL112,R & M of Build Programmed,15/11/2013,"4,308.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020737,3070,System Six Design & Build,C1100-CAP121,Construction,08/11/2013,"11,233.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020609,3074,System Six Design & Build,C1100-CAP121,Construction,01/11/2013,"1,001.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020755,3075,System Six Design & Build,C1100-CAP121,Construction,08/11/2013,"1,478.40"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020967,3076,System Six Design & Build,R2078-OPS121,R&M of Build - external structures,08/11/2013,519
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020966,3080,System Six Design & Build,C1100-CAP121,Construction,08/11/2013,"1,939.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020756,3081,System Six Design & Build,C1100-CAP121,Construction,08/11/2013,533
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021136,3083,System Six Design & Build,C1100-CAP121,Construction,08/11/2013,884
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021182,3084,System Six Design & Build,C1100-CAP121,Construction,15/11/2013,"1,149.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021540,3091,System Six Design & Build,R2008-REC111,R & M of Build - Reactive Repairs,22/11/2013,518
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021544,3096,System Six Design & Build,R2008-OPS122,R & M of Build - Reactive Repairs,22/11/2013,510
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020649,110913,T Sutcliffe & Co Limited,C1107-CAH005,Building Works,01/11/2013,"12,897.47"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021796,CGB/3600/A,T Sutcliffe & Co Limited,C1107-CAH005,Building Works,29/11/2013,"17,323.41"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021280,730,Tailor Made Training UK,R1652-SUP019,Training Fees (External),22/11/2013,"1,295.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021346,DEBT102684,Tewkesbury Borough Council,R4426-FIE040,Legal Expenses,22/11/2013,"1,806.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021343,DEBT102685,Tewkesbury Borough Council,R4401-SUP104,Services - Fees and Charges,22/11/2013,"10,560.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021340,DEBT102688,Tewkesbury Borough Council,R4401-PLP101,Services - Fees and Charges,22/11/2013,"3,500.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021339,DEBT102689,Tewkesbury Borough Council,R4401-PLP101,Services - Fees and Charges,15/11/2013,997.83
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021459,85236,Tewkesbury Saw Co. Limited,R2008-CUL107,R & M of Build - Reactive Repairs,22/11/2013,568.36
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021036,1284,The Hub Consulting Limited,C1105-CAP121,Design Services,08/11/2013,"211,043.96"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021159,8.50E+11,The Midcounties Co-operative,B1670-BAL100,Assets under construction - Other depreciation/impairment movements,15/11/2013,"3,021.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021312,BD2013036481,The Premiere Polish Company Limited T/A Premiere Products,R4009-ADB101,Materials - Cleaning Materials,15/11/2013,532.13
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021073,REDACTED,The Surveying Practice - Client Account,C1107-CAH028,Building Works,08/11/2013,"10,513.13"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021072,REDACTED,The Surveying Practice - Client Account,C1107-CAH028,Building Works,08/11/2013,"20,317.50"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021298,REDACTED,The Surveying Practice - Client Account,C1107-CAH028,Building Works,15/11/2013,"6,666.75"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021074,REDACTED,The Surveying Practice - Client Account,C5000-CAP221,Grants,08/11/2013,"6,135.75"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021076,REDACTED,The Surveying Practice - Client Account,C5000-CAP221,Grants,08/11/2013,"6,935.63"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021525,REDACTED,The Surveying Practice - Client Account,C1107-CAH028,Building Works,22/11/2013,"4,893.75"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021657,REDACTED,The Surveying Practice - Client Account,C5000-CAP221,Grants,29/11/2013,"9,447.76"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021075,REDACTED,The Surveying Practice - Client Account,C5000-CAP221,Grants,08/11/2013,"18,983.16"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021299,REDACTED,The Surveying Practice - Client Account,C1107-CAH028,Building Works,15/11/2013,"8,218.10"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021524,REDACTED,The Surveying Practice - Client Account,C5000-CAP221,Grants,22/11/2013,"9,482.38"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021297,REDACTED,The Surveying Practice - Client Account,C1107-CAH028,Building Works,15/11/2013,"6,603.75"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020708,REDACTED,The Surveying Practice - Client Account,C5000-CAP221,Grants,01/11/2013,"6,907.50"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020958,20130512,Ticket & Labeling Solutions UK Ltd,R4401-CUL102,Services - Fees and Charges,08/11/2013,"3,150.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021737,50062,Total Floor Care Limited,R4401-CUL102,Services - Fees and Charges,29/11/2013,800
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021288,INV51343,Triangle Lift Services Limited,C1107-CAH011,Building Works,15/11/2013,"25,745.63"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021746,INV51635,Triangle Lift Services Limited,C1107-CAH011,Building Works,29/11/2013,"1,960.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021316,3IN/10231123,Tunstall Healthcare (UK) Limited,R4000-HRA110,Equipment Purchase,15/11/2013,772
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14019531,60002188,Ubico Limited,R3041-CCM001,Transport Dept Charges,01/11/2013,"1,283.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14019531,60002188,Ubico Limited,R3041-CPK002,Transport Dept Charges,01/11/2013,516.67
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14019531,60002188,Ubico Limited,R3041-OPS001,Transport Dept Charges,01/11/2013,583.33
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021547,60002535,Ubico Limited,R5001-CPK001,TPP - Major External Contractors,22/11/2013,"19,304.02"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021551,60002544,Ubico Limited,R5001-CCM001,TPP - Major External Contractors,22/11/2013,973.03
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021550,60002562,Ubico Limited,R2700-ADB103,Contract Cleaning,22/11/2013,"1,613.43"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021549,60002571,Ubico Limited,R2700-ADB103,Contract Cleaning,22/11/2013,729.55
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-WST001,TPP - Major External Contractors,29/11/2013,"144,553.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-TRW001,TPP - Major External Contractors,29/11/2013,"4,301.67"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-STC001,TPP - Major External Contractors,29/11/2013,"56,483.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-RYC004,TPP - Major External Contractors,29/11/2013,"37,353.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-RYC005,TPP - Major External Contractors,29/11/2013,"1,940.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-REG019,TPP - Major External Contractors,29/11/2013,"9,691.67"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-RYC006,TPP - Major External Contractors,29/11/2013,"142,760.83"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-RYC002,TPP - Major External Contractors,29/11/2013,"19,986.67"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R2071-HRA110,Open Spaces and Grassed Areas,29/11/2013,"26,208.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-OPS001,TPP - Major External Contractors,29/11/2013,"28,328.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R2075-ESR001,Grounds Maintenance - Contract,29/11/2013,"22,261.67"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-OPS002,TPP - Major External Contractors,29/11/2013,"50,933.33"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021538,60002624,Ubico Limited,R5001-OPS101,TPP - Major External Contractors,29/11/2013,"15,285.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021604,60002651,Ubico Limited,R3022-CCM001,Vehicle Maintenance - Repairs,29/11/2013,"1,543.88"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021024,USS016979,Unique Sound Systems Limited (USS),R4001-SUP104,Tools & Equipment - Hire,08/11/2013,"1,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14019277,3490,Unit4 Business Software,R4539-SUP101,IT - Consultancy,22/11/2013,"9,450.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020932,15352,VIP-System Limited,R9240-REG002,Sale of purchased goods,08/11/2013,"1,017.53"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021116,290931-058C,Virgin Media Business,R4537-CUL107,IT - Internet,22/11/2013,"2,201.20"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021421,912686-047,Virgin Media Business,R4534-SUP101,IT - Maint Agreements,22/11/2013,"65,144.99"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021422,912686-048,Virgin Media Business,R4548-SUP005,IT - Cabling and Network,22/11/2013,"2,400.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021635,2313,Vision 21,R4401-PLP103,Services - Fees and Charges,29/11/2013,"4,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021392,161013,West End Estate Agents,R4400-FIE040,Services - Professional Fees,22/11/2013,"1,500.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021042,301013,William Taylor (Film Maker),R4013-CUL107,Exhibition Supplies,15/11/2013,"1,000.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021727,51113,93 (CITY OF BATH SQN) A.T.C.,R4400-ECD001,Services - Professional Fees,29/11/2013,520
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021580,REDACTED,BELVOIR LETTING,R6280-HOM001,Grants,29/11/2013,600
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020700,SETTLEMENT 16/10/13,BOYAN CHOIR,R9406-HLD140,Lettings,01/11/2013,"2,080.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14018684,FLC.13.AC1,DARREN MILLS,C1107-CAH033,Building Works,01/11/2013,"1,657.95"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14018684,FLC.13.AC1,DARREN MILLS,C1107-CAH033,Building Works,01/11/2013,"1,657.95"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020067,FLC.13.AC2,DARREN MILLS ARCHITECT,C1107-CAH033,Building Works,01/11/2013,575
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020067,FLC.13.AC2,DARREN MILLS ARCHITECT,C1107-CAH033,Building Works,01/11/2013,575
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021291,payment recd in error,DIGNITY FUNERALS,B6170-BAL100,Short Term Creditors (incl RIA) - Other entities and individuals,15/11/2013,"2,400.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021417,Community Pride 121113,Fairview Community Association,R6280-GBD001,Grants,15/11/2013,"1,438.43"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021721,11230,FOOL'S PARADISE LTD,R4400-ECD001,Services - Professional Fees,29/11/2013,"3,400.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021418,Community Pride 121113 (1),Friends of Pilley Bridge Nature Reserve,R6280-GBD001,Grants,22/11/2013,"2,657.50"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14015761,on drover tracks,Gael Productions,R4322-CUL110,Artists Fees,01/11/2013,600
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021162,RARV 1st Bill,James William Hilborn,R4401-CCR001,Services - Fees and Charges,08/11/2013,"2,173.31"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021161,RARV 2nd Bill,JAMES WILLIAM HILBORN,R4401-CCR001,Services - Fees and Charges,08/11/2013,"1,670.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021068,2945002,Jean Fennell,R9910-HRA900,Refund of Overpiad Rent,08/11/2013,"1,278.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021722,20130811,JO HEATLEY,R4400-ECD001,Services - Professional Fees,29/11/2013,"1,090.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021080,Aggers & Tuffers,Kal Music Limited,R9406-HLD140,Lettings,15/11/2013,"12,364.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021729,1103,MICK PERRIN WORLDWIDE,R4322-CUL110,Artists Fees,29/11/2013,"14,982.06"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021361,1067,Mick Perrin Worldwide Ltd,R4322-CUL110,Artists Fees,15/11/2013,"12,020.87"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021395,RENT REFUND (REDACTED),REDACTED,R9910-HRA900,Refund of Overpiad Rent,15/11/2013,657.92
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020474,141013,REDACTED,R9306-CCM001,Fees - Cemetery & cremation,01/11/2013,620
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020792,HOMELESS PREVENTION (REDACTED),REDACTED,R6280-HOM001,Grants,01/11/2013,560
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021060,HOMELESS PREV,REDACTED,R6280-HOM001,Grants,08/11/2013,550
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020698,065/12-13,MTD PRODUCTIONS LTD,R4322-CUL110,Artists Fees,01/11/2013,"2,740.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021409,NSAR1022,NATIONAL SKILLS ACADEMY FOR RETAIL,R1652-HLD130,Training Fees (External),15/11/2013,"1,200.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020823,NLP2013/103,Norwell Lapley Productions,R4322-CUL110,Artists Fees,08/11/2013,"11,234.20"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020470,151013,ORIGINAL ORGANICS LTD,R2075-ENF102,Grounds Maintenance - Contract,01/11/2013,"1,268.80"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021581,REDACTED,REDACTED,R6280-HOM001,Grants,29/11/2013,600
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021726,SME0179,SALLY MORGAN ENTERPRISES LTD,R4322-CUL110,Artists Fees,29/11/2013,"13,500.00"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020705,NSAR1020,THE NATIONAL SKILLS ACADEMY,R1652-HLD130,Training Fees (External),08/11/2013,780
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14020308,REDACTED,Wales & West Utilities Ltd,C1107-CAH009,Building Works,01/11/2013,"3,994.28"
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021494,REDACTED,Wales & West Utilities Ltd,C1107-CAH015,Building Works,29/11/2013,548.4
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham Borough Council,14021728,1800002621,ZURICH MANAGEMENT SERVICES,R2071-OPS002,Open Spaces and Grassed Areas,29/11/2013,"1,500.00"

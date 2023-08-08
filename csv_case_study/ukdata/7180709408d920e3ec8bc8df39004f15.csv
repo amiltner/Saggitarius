@@ -1,0 +1,452 @@
+Species,InspectionType,Condition,YearMonth,Country,NumberOfConditions,Throughput,NumberOfThroughputPlants,PercentageOfThroughput
+Broilers,Conditions,Abnormal Colour/Fevered,2018-01,England,213542,75144097,49,0.284
+Broilers,Conditions,Abnormal Colour/Fevered,2018-02,England,198956,65714136,50,0.303
+Broilers,Conditions,Abnormal Colour/Fevered,2018-03,England,210385,71604873,49,0.294
+Broilers,Conditions,Abnormal Colour/Fevered,2018-01,Wales,16700,6258081,4,0.267
+Broilers,Conditions,Abnormal Colour/Fevered,2018-02,Wales,13304,5578199,4,0.238
+Broilers,Conditions,Abnormal Colour/Fevered,2018-03,Wales,15381,6379426,3,0.241
+Broilers,Conditions,Antemortem Rejects (Cull/Runts),2018-01,England,37341,75144097,49,0.05
+Broilers,Conditions,Antemortem Rejects (Cull/Runts),2018-02,England,44345,65714136,50,0.067
+Broilers,Conditions,Antemortem Rejects (Cull/Runts),2018-03,England,46462,71604873,49,0.065
+Broilers,Conditions,Antemortem Rejects (Cull/Runts),2018-01,Wales,277,6258081,4,0.004
+Broilers,Conditions,Antemortem Rejects (Cull/Runts),2018-02,Wales,289,5578199,4,0.005
+Broilers,Conditions,Antemortem Rejects (Cull/Runts),2018-03,Wales,318,6379426,3,0.005
+Broilers,Conditions,Ascites/Oedema,2018-01,England,300253,75144097,49,0.4
+Broilers,Conditions,Ascites/Oedema,2018-02,England,259659,65714136,50,0.395
+Broilers,Conditions,Ascites/Oedema,2018-03,England,291576,71604873,49,0.407
+Broilers,Conditions,Ascites/Oedema,2018-01,Wales,53610,6258081,4,0.857
+Broilers,Conditions,Ascites/Oedema,2018-02,Wales,39922,5578199,4,0.716
+Broilers,Conditions,Ascites/Oedema,2018-03,Wales,44533,6379426,3,0.698
+Broilers,Conditions,Bruising/Fractures,2018-01,England,24773,75144097,49,0.033
+Broilers,Conditions,Bruising/Fractures,2018-02,England,20167,65714136,50,0.031
+Broilers,Conditions,Bruising/Fractures,2018-03,England,20448,71604873,49,0.029
+Broilers,Conditions,Bruising/Fractures,2018-01,Wales,6545,6258081,4,0.105
+Broilers,Conditions,Bruising/Fractures,2018-02,Wales,3367,5578199,4,0.06
+Broilers,Conditions,Bruising/Fractures,2018-03,Wales,3984,6379426,3,0.062
+Broilers,Conditions,Cellulitis,2018-01,England,160296,75144097,49,0.213
+Broilers,Conditions,Cellulitis,2018-02,England,153683,65714136,50,0.234
+Broilers,Conditions,Cellulitis,2018-03,England,186709,71604873,49,0.261
+Broilers,Conditions,Cellulitis,2018-01,Wales,9596,6258081,4,0.153
+Broilers,Conditions,Cellulitis,2018-02,Wales,9749,5578199,4,0.175
+Broilers,Conditions,Cellulitis,2018-03,Wales,12113,6379426,3,0.19
+Broilers,Conditions,Contamination,2018-01,England,155451,75144097,49,0.207
+Broilers,Conditions,Contamination,2018-02,England,130895,65714136,50,0.199
+Broilers,Conditions,Contamination,2018-03,England,135652,71604873,49,0.189
+Broilers,Conditions,Contamination,2018-01,Wales,5110,6258081,4,0.082
+Broilers,Conditions,Contamination,2018-02,Wales,4184,5578199,4,0.075
+Broilers,Conditions,Contamination,2018-03,Wales,3838,6379426,3,0.06
+Broilers,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-01,England,86359,75144097,49,0.115
+Broilers,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-02,England,90070,65714136,50,0.137
+Broilers,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-03,England,125174,71604873,49,0.175
+Broilers,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-01,Wales,7687,6258081,4,0.123
+Broilers,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-02,Wales,7073,5578199,4,0.127
+Broilers,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-03,Wales,8569,6379426,3,0.134
+Broilers,Conditions,Death other than slaughter (uncut/badly bled),2018-01,England,26429,75144097,49,0.035
+Broilers,Conditions,Death other than slaughter (uncut/badly bled),2018-02,England,19925,65714136,50,0.03
+Broilers,Conditions,Death other than slaughter (uncut/badly bled),2018-03,England,21593,71604873,49,0.03
+Broilers,Conditions,Death other than slaughter (uncut/badly bled),2018-01,Wales,3213,6258081,4,0.051
+Broilers,Conditions,Death other than slaughter (uncut/badly bled),2018-02,Wales,2868,5578199,4,0.051
+Broilers,Conditions,Death other than slaughter (uncut/badly bled),2018-03,Wales,2864,6379426,3,0.045
+Broilers,Conditions,Dermatitis,2018-01,England,15391,75144097,49,0.02
+Broilers,Conditions,Dermatitis,2018-02,England,10606,65714136,50,0.016
+Broilers,Conditions,Dermatitis,2018-03,England,11914,71604873,49,0.017
+Broilers,Conditions,Dermatitis,2018-01,Wales,1724,6258081,4,0.028
+Broilers,Conditions,Dermatitis,2018-02,Wales,1875,5578199,4,0.034
+Broilers,Conditions,Dermatitis,2018-03,Wales,1983,6379426,3,0.031
+Broilers,Conditions,Emaciation,2018-01,England,20831,75144097,49,0.028
+Broilers,Conditions,Emaciation,2018-02,England,18356,65714136,50,0.028
+Broilers,Conditions,Emaciation,2018-03,England,19334,71604873,49,0.027
+Broilers,Conditions,Emaciation,2018-01,Wales,420,6258081,4,0.007
+Broilers,Conditions,Emaciation,2018-02,Wales,380,5578199,4,0.007
+Broilers,Conditions,Emaciation,2018-03,Wales,189,6379426,3,0.003
+Broilers,Conditions,Hepatitis,2018-01,England,120977,75144097,49,0.161
+Broilers,Conditions,Hepatitis,2018-02,England,114573,65714136,50,0.174
+Broilers,Conditions,Hepatitis,2018-03,England,109434,71604873,49,0.153
+Broilers,Conditions,Hepatitis,2018-01,Wales,7339,6258081,4,0.117
+Broilers,Conditions,Hepatitis,2018-02,Wales,10018,5578199,4,0.18
+Broilers,Conditions,Hepatitis,2018-03,Wales,9109,6379426,3,0.143
+Broilers,Conditions,Joint Lesions,2018-01,England,28554,75144097,49,0.038
+Broilers,Conditions,Joint Lesions,2018-02,England,25830,65714136,50,0.039
+Broilers,Conditions,Joint Lesions,2018-03,England,33616,71604873,49,0.047
+Broilers,Conditions,Joint Lesions,2018-01,Wales,5634,6258081,4,0.09
+Broilers,Conditions,Joint Lesions,2018-02,Wales,2252,5578199,4,0.04
+Broilers,Conditions,Joint Lesions,2018-03,Wales,2760,6379426,3,0.043
+Broilers,Conditions,Machine Damage,2018-01,England,142820,75144097,49,0.19
+Broilers,Conditions,Machine Damage,2018-02,England,135327,65714136,50,0.206
+Broilers,Conditions,Machine Damage,2018-03,England,129459,71604873,49,0.181
+Broilers,Conditions,Machine Damage,2018-01,Wales,2946,6258081,4,0.047
+Broilers,Conditions,Machine Damage,2018-02,Wales,2950,5578199,4,0.053
+Broilers,Conditions,Machine Damage,2018-03,Wales,2736,6379426,3,0.043
+Broilers,Conditions,"Other Factory (poor plucking, product requirement)",2018-01,England,34812,75144097,49,0.046
+Broilers,Conditions,"Other Factory (poor plucking, product requirement)",2018-02,England,30232,65714136,50,0.046
+Broilers,Conditions,"Other Factory (poor plucking, product requirement)",2018-03,England,42633,71604873,49,0.06
+Broilers,Conditions,"Other Factory (poor plucking, product requirement)",2018-01,Wales,4639,6258081,4,0.074
+Broilers,Conditions,"Other Factory (poor plucking, product requirement)",2018-02,Wales,6348,5578199,4,0.114
+Broilers,Conditions,"Other Factory (poor plucking, product requirement)",2018-03,Wales,5225,6379426,3,0.082
+Broilers,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-01,England,42419,75144097,49,0.056
+Broilers,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-02,England,33564,65714136,50,0.051
+Broilers,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-03,England,42809,71604873,49,0.06
+Broilers,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-01,Wales,3628,6258081,4,0.058
+Broilers,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-02,Wales,2058,5578199,4,0.037
+Broilers,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-03,Wales,2501,6379426,3,0.039
+Broilers,Conditions,Overscald,2018-01,England,49070,75144097,49,0.065
+Broilers,Conditions,Overscald,2018-02,England,38219,65714136,50,0.058
+Broilers,Conditions,Overscald,2018-03,England,49637,71604873,49,0.069
+Broilers,Conditions,Overscald,2018-01,Wales,11599,6258081,4,0.185
+Broilers,Conditions,Overscald,2018-02,Wales,5302,5578199,4,0.095
+Broilers,Conditions,Overscald,2018-03,Wales,8442,6379426,3,0.132
+Broilers,Conditions,Pericarditis,2018-01,England,59899,75144097,49,0.08
+Broilers,Conditions,Pericarditis,2018-02,England,56722,65714136,50,0.086
+Broilers,Conditions,Pericarditis,2018-03,England,61537,71604873,49,0.086
+Broilers,Conditions,Pericarditis,2018-01,Wales,11287,6258081,4,0.18
+Broilers,Conditions,Pericarditis,2018-02,Wales,11144,5578199,4,0.2
+Broilers,Conditions,Pericarditis,2018-03,Wales,9535,6379426,3,0.149
+Broilers,Conditions,Perihepatitis/Peritonitis,2018-01,England,75670,75144097,49,0.101
+Broilers,Conditions,Perihepatitis/Peritonitis,2018-02,England,69868,65714136,50,0.106
+Broilers,Conditions,Perihepatitis/Peritonitis,2018-03,England,70181,71604873,49,0.098
+Broilers,Conditions,Perihepatitis/Peritonitis,2018-01,Wales,13719,6258081,4,0.219
+Broilers,Conditions,Perihepatitis/Peritonitis,2018-02,Wales,10175,5578199,4,0.182
+Broilers,Conditions,Perihepatitis/Peritonitis,2018-03,Wales,12727,6379426,3,0.2
+Broilers,Conditions,Respiratory Disease (air sacculitis),2018-01,England,4120,75144097,49,0.005
+Broilers,Conditions,Respiratory Disease (air sacculitis),2018-02,England,3323,65714136,50,0.005
+Broilers,Conditions,Respiratory Disease (air sacculitis),2018-03,England,1157,71604873,49,0.002
+Broilers,Conditions,Respiratory Disease (air sacculitis),2018-01,Wales,76,6258081,4,0.001
+Broilers,Conditions,Respiratory Disease (air sacculitis),2018-02,Wales,110,5578199,4,0.002
+Broilers,Conditions,Respiratory Disease (air sacculitis),2018-03,Wales,57,6379426,3,0.001
+Broilers,Conditions,Salpingitis,2018-01,England,236,75144097,49,0
+Broilers,Conditions,Salpingitis,2018-02,England,225,65714136,50,0
+Broilers,Conditions,Salpingitis,2018-03,England,185,71604873,49,0
+Broilers,Conditions,Salpingitis,2018-03,Wales,3,6379426,3,0
+Broilers,Conditions,Tumours/Nodules,2018-01,England,11524,75144097,49,0.015
+Broilers,Conditions,Tumours/Nodules,2018-02,England,10572,65714136,50,0.016
+Broilers,Conditions,Tumours/Nodules,2018-03,England,12104,71604873,49,0.017
+Broilers,Conditions,Tumours/Nodules,2018-01,Wales,159,6258081,4,0.003
+Broilers,Conditions,Tumours/Nodules,2018-02,Wales,157,5578199,4,0.003
+Broilers,Conditions,Tumours/Nodules,2018-03,Wales,235,6379426,3,0.004
+Ducks,Conditions,Abnormal Colour/Fevered,2018-01,England,546,1237579,10,0.044
+Ducks,Conditions,Abnormal Colour/Fevered,2018-02,England,648,1064791,10,0.061
+Ducks,Conditions,Abnormal Colour/Fevered,2018-03,England,655,1242883,9,0.053
+Ducks,Conditions,Antemortem Rejects (Cull/Runts),2018-01,England,72,1237579,10,0.006
+Ducks,Conditions,Antemortem Rejects (Cull/Runts),2018-02,England,53,1064791,10,0.005
+Ducks,Conditions,Antemortem Rejects (Cull/Runts),2018-03,England,242,1242883,9,0.019
+Ducks,Conditions,Ascites/Oedema,2018-01,England,5554,1237579,10,0.449
+Ducks,Conditions,Ascites/Oedema,2018-02,England,5053,1064791,10,0.475
+Ducks,Conditions,Ascites/Oedema,2018-03,England,5507,1242883,9,0.443
+Ducks,Conditions,Bruising/Fractures,2018-01,England,675,1237579,10,0.055
+Ducks,Conditions,Bruising/Fractures,2018-02,England,467,1064791,10,0.044
+Ducks,Conditions,Bruising/Fractures,2018-03,England,890,1242883,9,0.072
+Ducks,Conditions,Cellulitis,2018-01,England,66,1237579,10,0.005
+Ducks,Conditions,Cellulitis,2018-02,England,12,1064791,10,0.001
+Ducks,Conditions,Cellulitis,2018-03,England,5,1242883,9,0
+Ducks,Conditions,Contamination,2018-01,England,140,1237579,10,0.011
+Ducks,Conditions,Contamination,2018-02,England,171,1064791,10,0.016
+Ducks,Conditions,Contamination,2018-03,England,396,1242883,9,0.032
+Ducks,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-01,England,490,1237579,10,0.04
+Ducks,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-02,England,614,1064791,10,0.058
+Ducks,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-03,England,564,1242883,9,0.045
+Ducks,Conditions,Death other than slaughter (uncut/badly bled),2018-01,England,7,1237579,10,0.001
+Ducks,Conditions,Death other than slaughter (uncut/badly bled),2018-02,England,5,1064791,10,0
+Ducks,Conditions,Death other than slaughter (uncut/badly bled),2018-03,England,1,1242883,9,0
+Ducks,Conditions,Dermatitis,2018-01,England,2482,1237579,10,0.201
+Ducks,Conditions,Dermatitis,2018-02,England,1820,1064791,10,0.171
+Ducks,Conditions,Dermatitis,2018-03,England,2839,1242883,9,0.228
+Ducks,Conditions,Emaciation,2018-01,England,952,1237579,10,0.077
+Ducks,Conditions,Emaciation,2018-02,England,959,1064791,10,0.09
+Ducks,Conditions,Emaciation,2018-03,England,965,1242883,9,0.078
+Ducks,Conditions,Hepatitis,2018-01,England,46,1237579,10,0.004
+Ducks,Conditions,Hepatitis,2018-02,England,50,1064791,10,0.005
+Ducks,Conditions,Hepatitis,2018-03,England,70,1242883,9,0.006
+Ducks,Conditions,Joint Lesions,2018-01,England,624,1237579,10,0.05
+Ducks,Conditions,Joint Lesions,2018-02,England,900,1064791,10,0.085
+Ducks,Conditions,Joint Lesions,2018-03,England,716,1242883,9,0.058
+Ducks,Conditions,Machine Damage,2018-01,England,817,1237579,10,0.066
+Ducks,Conditions,Machine Damage,2018-02,England,847,1064791,10,0.08
+Ducks,Conditions,Machine Damage,2018-03,England,388,1242883,9,0.031
+Ducks,Conditions,"Other Factory (poor plucking, product requirement)",2018-01,England,8,1237579,10,0.001
+Ducks,Conditions,"Other Factory (poor plucking, product requirement)",2018-02,England,84,1064791,10,0.008
+Ducks,Conditions,"Other Factory (poor plucking, product requirement)",2018-03,England,5,1242883,9,0
+Ducks,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-01,England,77,1237579,10,0.006
+Ducks,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-02,England,16,1064791,10,0.002
+Ducks,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-03,England,206,1242883,9,0.017
+Ducks,Conditions,Overscald,2018-02,England,269,1064791,10,0.025
+Ducks,Conditions,Overscald,2018-03,England,379,1242883,9,0.03
+Ducks,Conditions,Pericarditis,2018-01,England,2848,1237579,10,0.23
+Ducks,Conditions,Pericarditis,2018-02,England,3331,1064791,10,0.313
+Ducks,Conditions,Pericarditis,2018-03,England,3230,1242883,9,0.26
+Ducks,Conditions,Perihepatitis/Peritonitis,2018-01,England,50,1237579,10,0.004
+Ducks,Conditions,Perihepatitis/Peritonitis,2018-02,England,108,1064791,10,0.01
+Ducks,Conditions,Perihepatitis/Peritonitis,2018-03,England,87,1242883,9,0.007
+Ducks,Conditions,Respiratory Disease (air sacculitis),2018-01,England,29484,1237579,10,2.382
+Ducks,Conditions,Respiratory Disease (air sacculitis),2018-02,England,27932,1064791,10,2.623
+Ducks,Conditions,Respiratory Disease (air sacculitis),2018-03,England,27094,1242883,9,2.18
+Ducks,Conditions,Salpingitis,2018-01,England,195,1237579,10,0.016
+Ducks,Conditions,Salpingitis,2018-02,England,1,1064791,10,0
+Ducks,Conditions,Salpingitis,2018-03,England,9,1242883,9,0.001
+Ducks,Conditions,Tumours/Nodules,2018-01,England,366,1237579,10,0.03
+Ducks,Conditions,Tumours/Nodules,2018-02,England,300,1064791,10,0.028
+Ducks,Conditions,Tumours/Nodules,2018-03,England,418,1242883,9,0.034
+Hens,Conditions,Abnormal Colour/Fevered,2018-01,England,10491,4472145,13,0.235
+Hens,Conditions,Abnormal Colour/Fevered,2018-02,England,9601,2695325,16,0.356
+Hens,Conditions,Abnormal Colour/Fevered,2018-03,England,10707,2917499,15,0.367
+Hens,Conditions,Antemortem Rejects (Cull/Runts),2018-01,England,18,4472145,13,0
+Hens,Conditions,Antemortem Rejects (Cull/Runts),2018-02,England,43,2695325,16,0.002
+Hens,Conditions,Antemortem Rejects (Cull/Runts),2018-03,England,33,2917499,15,0.001
+Hens,Conditions,Ascites/Oedema,2018-01,England,3790,4472145,13,0.085
+Hens,Conditions,Ascites/Oedema,2018-02,England,3272,2695325,16,0.121
+Hens,Conditions,Ascites/Oedema,2018-03,England,3147,2917499,15,0.108
+Hens,Conditions,Bruising/Fractures,2018-01,England,4933,4472145,13,0.11
+Hens,Conditions,Bruising/Fractures,2018-02,England,3728,2695325,16,0.138
+Hens,Conditions,Bruising/Fractures,2018-03,England,4444,2917499,15,0.152
+Hens,Conditions,Cellulitis,2018-01,England,315,4472145,13,0.007
+Hens,Conditions,Cellulitis,2018-02,England,210,2695325,16,0.008
+Hens,Conditions,Cellulitis,2018-03,England,265,2917499,15,0.009
+Hens,Conditions,Contamination,2018-01,England,1194,4472145,13,0.027
+Hens,Conditions,Contamination,2018-02,England,1078,2695325,16,0.04
+Hens,Conditions,Contamination,2018-03,England,1013,2917499,15,0.035
+Hens,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-01,England,10540,4472145,13,0.236
+Hens,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-02,England,7015,2695325,16,0.26
+Hens,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-03,England,6253,2917499,15,0.214
+Hens,Conditions,Death other than slaughter (uncut/badly bled),2018-01,England,57,4472145,13,0.001
+Hens,Conditions,Death other than slaughter (uncut/badly bled),2018-02,England,15,2695325,16,0.001
+Hens,Conditions,Death other than slaughter (uncut/badly bled),2018-03,England,7,2917499,15,0
+Hens,Conditions,Dermatitis,2018-01,England,2601,4472145,13,0.058
+Hens,Conditions,Dermatitis,2018-02,England,1484,2695325,16,0.055
+Hens,Conditions,Dermatitis,2018-03,England,1878,2917499,15,0.064
+Hens,Conditions,Emaciation,2018-01,England,6590,4472145,13,0.147
+Hens,Conditions,Emaciation,2018-02,England,3776,2695325,16,0.14
+Hens,Conditions,Emaciation,2018-03,England,3390,2917499,15,0.116
+Hens,Conditions,Hepatitis,2018-01,England,780,4472145,13,0.017
+Hens,Conditions,Hepatitis,2018-02,England,723,2695325,16,0.027
+Hens,Conditions,Hepatitis,2018-03,England,326,2917499,15,0.011
+Hens,Conditions,Joint Lesions,2018-01,England,22,4472145,13,0
+Hens,Conditions,Joint Lesions,2018-02,England,36,2695325,16,0.001
+Hens,Conditions,Joint Lesions,2018-03,England,45,2917499,15,0.002
+Hens,Conditions,Machine Damage,2018-01,England,5170,4472145,13,0.116
+Hens,Conditions,Machine Damage,2018-02,England,3406,2695325,16,0.126
+Hens,Conditions,Machine Damage,2018-03,England,3065,2917499,15,0.105
+Hens,Conditions,"Other Factory (poor plucking, product requirement)",2018-01,England,1242,4472145,13,0.028
+Hens,Conditions,"Other Factory (poor plucking, product requirement)",2018-02,England,3205,2695325,16,0.119
+Hens,Conditions,"Other Factory (poor plucking, product requirement)",2018-03,England,2441,2917499,15,0.084
+Hens,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-01,England,555,4472145,13,0.012
+Hens,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-02,England,199,2695325,16,0.007
+Hens,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-03,England,347,2917499,15,0.012
+Hens,Conditions,Overscald,2018-01,England,1095,4472145,13,0.024
+Hens,Conditions,Overscald,2018-02,England,215,2695325,16,0.008
+Hens,Conditions,Overscald,2018-03,England,324,2917499,15,0.011
+Hens,Conditions,Pericarditis,2018-01,England,11,4472145,13,0
+Hens,Conditions,Pericarditis,2018-02,England,156,2695325,16,0.006
+Hens,Conditions,Pericarditis,2018-03,England,57,2917499,15,0.002
+Hens,Conditions,Perihepatitis/Peritonitis,2018-01,England,16347,4472145,13,0.366
+Hens,Conditions,Perihepatitis/Peritonitis,2018-02,England,8381,2695325,16,0.311
+Hens,Conditions,Perihepatitis/Peritonitis,2018-03,England,7979,2917499,15,0.273
+Hens,Conditions,Respiratory Disease (air sacculitis),2018-01,England,21,4472145,13,0
+Hens,Conditions,Respiratory Disease (air sacculitis),2018-02,England,81,2695325,16,0.003
+Hens,Conditions,Respiratory Disease (air sacculitis),2018-03,England,131,2917499,15,0.004
+Hens,Conditions,Salpingitis,2018-01,England,10600,4472145,13,0.237
+Hens,Conditions,Salpingitis,2018-02,England,6534,2695325,16,0.242
+Hens,Conditions,Salpingitis,2018-03,England,7634,2917499,15,0.262
+Hens,Conditions,Tumours/Nodules,2018-01,England,3013,4472145,13,0.067
+Hens,Conditions,Tumours/Nodules,2018-02,England,1715,2695325,16,0.064
+Hens,Conditions,Tumours/Nodules,2018-03,England,2168,2917499,15,0.074
+Poultry,Conditions,Abnormal Colour/Fevered,2018-01,England,73,37804,11,0.193
+Poultry,Conditions,Abnormal Colour/Fevered,2018-02,England,297,104403,11,0.284
+Poultry,Conditions,Abnormal Colour/Fevered,2018-03,England,966,492445,9,0.196
+Poultry,Conditions,Abnormal Colour/Fevered,2018-01,Wales,51,66270,1,0.077
+Poultry,Conditions,Abnormal Colour/Fevered,2018-02,Wales,54,99590,1,0.054
+Poultry,Conditions,Abnormal Colour/Fevered,2018-03,Wales,120,129600,1,0.093
+Poultry,Conditions,Antemortem Rejects (Cull/Runts),2018-01,England,7,37804,11,0.019
+Poultry,Conditions,Antemortem Rejects (Cull/Runts),2018-02,England,14,104403,11,0.013
+Poultry,Conditions,Antemortem Rejects (Cull/Runts),2018-03,England,18,492445,9,0.004
+Poultry,Conditions,Antemortem Rejects (Cull/Runts),2018-02,Wales,9,99590,1,0.009
+Poultry,Conditions,Antemortem Rejects (Cull/Runts),2018-03,Wales,2,129600,1,0.002
+Poultry,Conditions,Ascites/Oedema,2018-01,England,102,37804,11,0.27
+Poultry,Conditions,Ascites/Oedema,2018-02,England,213,104403,11,0.204
+Poultry,Conditions,Ascites/Oedema,2018-03,England,1070,492445,9,0.217
+Poultry,Conditions,Ascites/Oedema,2018-03,Wales,10,129600,1,0.008
+Poultry,Conditions,Bruising/Fractures,2018-01,England,100,37804,11,0.265
+Poultry,Conditions,Bruising/Fractures,2018-02,England,91,104403,11,0.087
+Poultry,Conditions,Bruising/Fractures,2018-03,England,157,492445,9,0.032
+Poultry,Conditions,Bruising/Fractures,2018-01,Wales,18,66270,1,0.027
+Poultry,Conditions,Bruising/Fractures,2018-02,Wales,25,99590,1,0.025
+Poultry,Conditions,Bruising/Fractures,2018-03,Wales,62,129600,1,0.048
+Poultry,Conditions,Cellulitis,2018-01,England,1,37804,11,0.003
+Poultry,Conditions,Cellulitis,2018-02,England,100,104403,11,0.096
+Poultry,Conditions,Cellulitis,2018-03,England,359,492445,9,0.073
+Poultry,Conditions,Cellulitis,2018-01,Wales,4,66270,1,0.006
+Poultry,Conditions,Cellulitis,2018-02,Wales,9,99590,1,0.009
+Poultry,Conditions,Cellulitis,2018-03,Wales,8,129600,1,0.006
+Poultry,Conditions,Contamination,2018-01,England,31,37804,11,0.082
+Poultry,Conditions,Contamination,2018-02,England,70,104403,11,0.067
+Poultry,Conditions,Contamination,2018-03,England,529,492445,9,0.107
+Poultry,Conditions,Contamination,2018-01,Wales,1,66270,1,0.002
+Poultry,Conditions,Contamination,2018-02,Wales,3,99590,1,0.003
+Poultry,Conditions,Contamination,2018-03,Wales,12,129600,1,0.009
+Poultry,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-01,England,77,37804,11,0.204
+Poultry,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-02,England,221,104403,11,0.212
+Poultry,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-03,England,1809,492445,9,0.367
+Poultry,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-01,Wales,43,66270,1,0.065
+Poultry,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-02,Wales,25,99590,1,0.025
+Poultry,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-03,Wales,11,129600,1,0.008
+Poultry,Conditions,Death other than slaughter (uncut/badly bled),2018-02,England,6,104403,11,0.006
+Poultry,Conditions,Death other than slaughter (uncut/badly bled),2018-03,England,21,492445,9,0.004
+Poultry,Conditions,Death other than slaughter (uncut/badly bled),2018-01,Wales,4,66270,1,0.006
+Poultry,Conditions,Death other than slaughter (uncut/badly bled),2018-02,Wales,13,99590,1,0.013
+Poultry,Conditions,Death other than slaughter (uncut/badly bled),2018-03,Wales,6,129600,1,0.005
+Poultry,Conditions,Dermatitis,2018-01,England,64,37804,11,0.169
+Poultry,Conditions,Dermatitis,2018-03,England,55,492445,9,0.011
+Poultry,Conditions,Dermatitis,2018-01,Wales,2,66270,1,0.003
+Poultry,Conditions,Dermatitis,2018-02,Wales,8,99590,1,0.008
+Poultry,Conditions,Dermatitis,2018-03,Wales,1,129600,1,0.001
+Poultry,Conditions,Emaciation,2018-01,England,93,37804,11,0.246
+Poultry,Conditions,Emaciation,2018-02,England,83,104403,11,0.079
+Poultry,Conditions,Emaciation,2018-03,England,294,492445,9,0.06
+Poultry,Conditions,Emaciation,2018-01,Wales,73,66270,1,0.11
+Poultry,Conditions,Emaciation,2018-02,Wales,109,99590,1,0.109
+Poultry,Conditions,Emaciation,2018-03,Wales,104,129600,1,0.08
+Poultry,Conditions,Hepatitis,2018-01,England,79,37804,11,0.209
+Poultry,Conditions,Hepatitis,2018-02,England,77,104403,11,0.074
+Poultry,Conditions,Hepatitis,2018-03,England,407,492445,9,0.083
+Poultry,Conditions,Hepatitis,2018-01,Wales,1,66270,1,0.002
+Poultry,Conditions,Hepatitis,2018-02,Wales,6,99590,1,0.006
+Poultry,Conditions,Hepatitis,2018-03,Wales,2,129600,1,0.002
+Poultry,Conditions,Joint Lesions,2018-01,England,21,37804,11,0.056
+Poultry,Conditions,Joint Lesions,2018-02,England,1,104403,11,0.001
+Poultry,Conditions,Joint Lesions,2018-03,England,14,492445,9,0.003
+Poultry,Conditions,Joint Lesions,2018-03,Wales,9,129600,1,0.007
+Poultry,Conditions,Machine Damage,2018-01,England,40,37804,11,0.106
+Poultry,Conditions,Machine Damage,2018-02,England,74,104403,11,0.071
+Poultry,Conditions,Machine Damage,2018-03,England,218,492445,9,0.044
+Poultry,Conditions,Machine Damage,2018-01,Wales,10,66270,1,0.015
+Poultry,Conditions,Machine Damage,2018-02,Wales,10,99590,1,0.01
+Poultry,Conditions,Machine Damage,2018-03,Wales,4,129600,1,0.003
+Poultry,Conditions,"Other Factory (poor plucking, product requirement)",2018-01,England,16,37804,11,0.042
+Poultry,Conditions,"Other Factory (poor plucking, product requirement)",2018-02,England,2,104403,11,0.002
+Poultry,Conditions,"Other Factory (poor plucking, product requirement)",2018-03,England,135,492445,9,0.027
+Poultry,Conditions,"Other Factory (poor plucking, product requirement)",2018-01,Wales,4,66270,1,0.006
+Poultry,Conditions,"Other Factory (poor plucking, product requirement)",2018-02,Wales,4,99590,1,0.004
+Poultry,Conditions,"Other Factory (poor plucking, product requirement)",2018-03,Wales,1,129600,1,0.001
+Poultry,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-01,England,1,37804,11,0.003
+Poultry,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-03,England,18,492445,9,0.004
+Poultry,Conditions,Overscald,2018-02,England,1,104403,11,0.001
+Poultry,Conditions,Overscald,2018-03,England,13,492445,9,0.003
+Poultry,Conditions,Overscald,2018-01,Wales,60,66270,1,0.091
+Poultry,Conditions,Overscald,2018-02,Wales,1,99590,1,0.001
+Poultry,Conditions,Pericarditis,2018-01,England,65,37804,11,0.172
+Poultry,Conditions,Pericarditis,2018-02,England,55,104403,11,0.053
+Poultry,Conditions,Pericarditis,2018-03,England,189,492445,9,0.038
+Poultry,Conditions,Pericarditis,2018-01,Wales,68,66270,1,0.103
+Poultry,Conditions,Pericarditis,2018-02,Wales,106,99590,1,0.106
+Poultry,Conditions,Pericarditis,2018-03,Wales,16,129600,1,0.012
+Poultry,Conditions,Perihepatitis/Peritonitis,2018-01,England,2,37804,11,0.005
+Poultry,Conditions,Perihepatitis/Peritonitis,2018-02,England,111,104403,11,0.106
+Poultry,Conditions,Perihepatitis/Peritonitis,2018-03,England,1354,492445,9,0.275
+Poultry,Conditions,Perihepatitis/Peritonitis,2018-01,Wales,22,66270,1,0.033
+Poultry,Conditions,Perihepatitis/Peritonitis,2018-02,Wales,26,99590,1,0.026
+Poultry,Conditions,Perihepatitis/Peritonitis,2018-03,Wales,5,129600,1,0.004
+Poultry,Conditions,Respiratory Disease (air sacculitis),2018-01,England,479,37804,11,1.267
+Poultry,Conditions,Respiratory Disease (air sacculitis),2018-02,England,14,104403,11,0.013
+Poultry,Conditions,Respiratory Disease (air sacculitis),2018-03,England,15,492445,9,0.003
+Poultry,Conditions,Salpingitis,2018-01,England,1,37804,11,0.003
+Poultry,Conditions,Salpingitis,2018-03,England,185,492445,9,0.038
+Poultry,Conditions,Tumours/Nodules,2018-03,England,79,492445,9,0.016
+Poultry,Conditions,Tumours/Nodules,2018-02,Wales,1,99590,1,0.001
+Quail,Conditions,Abnormal Colour/Fevered,2018-01,England,11,3120,1,0.353
+Quail,Conditions,Abnormal Colour/Fevered,2018-02,England,9,6725,1,0.134
+Quail,Conditions,Abnormal Colour/Fevered,2018-03,England,21,8685,1,0.242
+Quail,Conditions,Bruising/Fractures,2018-01,England,4,3120,1,0.128
+Quail,Conditions,Bruising/Fractures,2018-02,England,18,6725,1,0.268
+Quail,Conditions,Bruising/Fractures,2018-03,England,1,8685,1,0.012
+Quail,Conditions,Cellulitis,2018-01,England,11,3120,1,0.353
+Quail,Conditions,Cellulitis,2018-02,England,10,6725,1,0.149
+Quail,Conditions,Cellulitis,2018-03,England,16,8685,1,0.184
+Quail,Conditions,Dermatitis,2018-01,England,5,3120,1,0.16
+Quail,Conditions,Dermatitis,2018-02,England,4,6725,1,0.059
+Quail,Conditions,Dermatitis,2018-03,England,2,8685,1,0.023
+Quail,Conditions,Emaciation,2018-01,England,14,3120,1,0.449
+Quail,Conditions,Emaciation,2018-02,England,3,6725,1,0.045
+Quail,Conditions,Emaciation,2018-03,England,4,8685,1,0.046
+Quail,Conditions,Joint Lesions,2018-01,England,8,3120,1,0.256
+Quail,Conditions,Joint Lesions,2018-02,England,26,6725,1,0.387
+Quail,Conditions,Joint Lesions,2018-03,England,45,8685,1,0.518
+Quail,Conditions,"Other Factory (poor plucking, product requirement)",2018-02,England,3,6725,1,0.045
+Quail,Conditions,Perihepatitis/Peritonitis,2018-01,England,9,3120,1,0.288
+Quail,Conditions,Perihepatitis/Peritonitis,2018-03,England,5,8685,1,0.058
+Quail,Conditions,Salpingitis,2018-01,England,5,3120,1,0.16
+Quail,Conditions,Salpingitis,2018-02,England,2,6725,1,0.03
+Quail,Conditions,Salpingitis,2018-03,England,2,8685,1,0.023
+Quail,Conditions,Tumours/Nodules,2018-02,England,1,6725,1,0.015
+Turkeys,Conditions,Abnormal Colour/Fevered,2018-01,England,814,633856,14,0.128
+Turkeys,Conditions,Abnormal Colour/Fevered,2018-02,England,819,578480,11,0.142
+Turkeys,Conditions,Abnormal Colour/Fevered,2018-03,England,1084,805941,11,0.135
+Turkeys,Conditions,Abnormal Colour/Fevered,2018-01,Wales,3,2325,1,0.129
+Turkeys,Conditions,Abnormal Colour/Fevered,2018-03,Wales,1,3841,1,0.026
+Turkeys,Conditions,Ascites/Oedema,2018-01,England,87,633856,14,0.014
+Turkeys,Conditions,Ascites/Oedema,2018-02,England,58,578480,11,0.01
+Turkeys,Conditions,Ascites/Oedema,2018-03,England,76,805941,11,0.009
+Turkeys,Conditions,Ascites/Oedema,2018-01,Wales,2,2325,1,0.086
+Turkeys,Conditions,Ascites/Oedema,2018-03,Wales,8,3841,1,0.208
+Turkeys,Conditions,Bruising/Fractures,2018-01,England,9219,633856,14,1.454
+Turkeys,Conditions,Bruising/Fractures,2018-02,England,7435,578480,11,1.285
+Turkeys,Conditions,Bruising/Fractures,2018-03,England,7425,805941,11,0.921
+Turkeys,Conditions,Bruising/Fractures,2018-02,Wales,5,578,1,0.865
+Turkeys,Conditions,Bruising/Fractures,2018-03,Wales,12,3841,1,0.312
+Turkeys,Conditions,Cellulitis,2018-01,England,187,633856,14,0.03
+Turkeys,Conditions,Cellulitis,2018-02,England,147,578480,11,0.025
+Turkeys,Conditions,Cellulitis,2018-03,England,191,805941,11,0.024
+Turkeys,Conditions,Contamination,2018-01,England,568,633856,14,0.09
+Turkeys,Conditions,Contamination,2018-02,England,442,578480,11,0.076
+Turkeys,Conditions,Contamination,2018-03,England,645,805941,11,0.08
+Turkeys,Conditions,Contamination,2018-02,Wales,45,578,1,7.785
+Turkeys,Conditions,Contamination,2018-03,Wales,57,3841,1,1.484
+Turkeys,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-01,England,364,633856,14,0.057
+Turkeys,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-02,England,297,578480,11,0.051
+Turkeys,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-03,England,497,805941,11,0.062
+Turkeys,Conditions,Dead on Arrival/Death in the Lairage (DOA),2018-01,Wales,1,2325,1,0.043
+Turkeys,Conditions,Death other than slaughter (uncut/badly bled),2018-01,England,102,633856,14,0.016
+Turkeys,Conditions,Death other than slaughter (uncut/badly bled),2018-02,England,98,578480,11,0.017
+Turkeys,Conditions,Death other than slaughter (uncut/badly bled),2018-03,England,105,805941,11,0.013
+Turkeys,Conditions,Dermatitis,2018-01,England,176,633856,14,0.028
+Turkeys,Conditions,Dermatitis,2018-02,England,184,578480,11,0.032
+Turkeys,Conditions,Dermatitis,2018-03,England,186,805941,11,0.023
+Turkeys,Conditions,Emaciation,2018-01,England,355,633856,14,0.056
+Turkeys,Conditions,Emaciation,2018-02,England,339,578480,11,0.059
+Turkeys,Conditions,Emaciation,2018-03,England,462,805941,11,0.057
+Turkeys,Conditions,Emaciation,2018-03,Wales,3,3841,1,0.078
+Turkeys,Conditions,Hepatitis,2018-01,England,1164,633856,14,0.184
+Turkeys,Conditions,Hepatitis,2018-02,England,1448,578480,11,0.25
+Turkeys,Conditions,Hepatitis,2018-03,England,1702,805941,11,0.211
+Turkeys,Conditions,Hepatitis,2018-01,Wales,46,2325,1,1.978
+Turkeys,Conditions,Hepatitis,2018-02,Wales,31,578,1,5.363
+Turkeys,Conditions,Hepatitis,2018-03,Wales,89,3841,1,2.317
+Turkeys,Conditions,Joint Lesions,2018-01,England,221,633856,14,0.035
+Turkeys,Conditions,Joint Lesions,2018-02,England,98,578480,11,0.017
+Turkeys,Conditions,Joint Lesions,2018-03,England,185,805941,11,0.023
+Turkeys,Conditions,Machine Damage,2018-01,England,39,633856,14,0.006
+Turkeys,Conditions,Machine Damage,2018-02,England,65,578480,11,0.011
+Turkeys,Conditions,Machine Damage,2018-03,England,158,805941,11,0.02
+Turkeys,Conditions,Machine Damage,2018-03,Wales,16,3841,1,0.417
+Turkeys,Conditions,"Other Factory (poor plucking, product requirement)",2018-01,England,6,633856,14,0.001
+Turkeys,Conditions,"Other Factory (poor plucking, product requirement)",2018-02,England,10,578480,11,0.002
+Turkeys,Conditions,"Other Factory (poor plucking, product requirement)",2018-03,England,82,805941,11,0.01
+Turkeys,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-03,England,46,805941,11,0.006
+Turkeys,Conditions,"Other Farm (Jaundice, Oregon, White Muscle,Congen)",2018-03,Wales,1,3841,1,0.026
+Turkeys,Conditions,Overscald,2018-01,England,82,633856,14,0.013
+Turkeys,Conditions,Overscald,2018-03,Wales,2,3841,1,0.052
+Turkeys,Conditions,Pericarditis,2018-01,England,2581,633856,14,0.407
+Turkeys,Conditions,Pericarditis,2018-02,England,2555,578480,11,0.442
+Turkeys,Conditions,Pericarditis,2018-03,England,3171,805941,11,0.393
+Turkeys,Conditions,Pericarditis,2018-01,Wales,217,2325,1,9.333
+Turkeys,Conditions,Pericarditis,2018-02,Wales,84,578,1,14.533
+Turkeys,Conditions,Pericarditis,2018-03,Wales,283,3841,1,7.368
+Turkeys,Conditions,Perihepatitis/Peritonitis,2018-01,England,597,633856,14,0.094
+Turkeys,Conditions,Perihepatitis/Peritonitis,2018-02,England,534,578480,11,0.092
+Turkeys,Conditions,Perihepatitis/Peritonitis,2018-03,England,833,805941,11,0.103
+Turkeys,Conditions,Respiratory Disease (air sacculitis),2018-01,England,95,633856,14,0.015
+Turkeys,Conditions,Respiratory Disease (air sacculitis),2018-02,England,139,578480,11,0.024
+Turkeys,Conditions,Respiratory Disease (air sacculitis),2018-03,England,171,805941,11,0.021
+Turkeys,Conditions,Salpingitis,2018-01,England,88,633856,14,0.014
+Turkeys,Conditions,Salpingitis,2018-02,England,64,578480,11,0.011
+Turkeys,Conditions,Salpingitis,2018-03,England,100,805941,11,0.012
+Turkeys,Conditions,Salpingitis,2018-01,Wales,2,2325,1,0.086
+Turkeys,Conditions,Tumours/Nodules,2018-02,England,1,578480,11,0
+Turkeys,Conditions,Tumours/Nodules,2018-03,England,5,805941,11,0.001

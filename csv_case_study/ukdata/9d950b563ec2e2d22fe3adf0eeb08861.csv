@@ -1,0 +1,38 @@
+Area,Condition
+Offal,Pneumonia
+Offal,Pleurisy
+Offal,Lungworm
+Offal,Liver abscesses
+Offal,Fluke immature
+Offal,Fluke mature
+Offal,Hepatic scarring
+Offal,Cysticercus Bovis
+Offal,Hydatid Cysts
+Offal,Traumatic pericarditis
+Offal,Contamination
+Offal,Other
+Carcase,Abscesses ? Neck
+Carcase,Abscesses ? Forequarter
+Carcase,Abscesses ? Hindquarter
+Carcase,Cysticercus Bovis
+Carcase,Joint lesion (Incl. Arthritis)
+Carcase,Bruising
+Carcase,Hydatid Cysts
+Carcase,Contamination
+Carcase,Other
+Head,Cysticercus Bovis
+Head,Hydatid Cysts
+Head,Contamination
+Head,Other
+Total Rejection,Oedema/emaciation
+Total Rejection,Generalised TB 
+Total Rejection,Pyaemia/Multiple abscesses 
+Total Rejection,Septicaemia/Fever 
+Total Rejection,Hydatiosis
+Total Rejection,Jaundice
+Total Rejection,Navel ill/Joint ill for young animals
+Total Rejection,Abnormal odour ?  uraemia
+Total Rejection,Cysticercus Bovis
+Total Rejection,Immaturity/Less than 7 days old
+Total Rejection,Contamination
+Total Rejection,Other

@@ -1,0 +1,47 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction,Amount,Additional Narrative
+HMRC,VOA,27.10.2011,Capital,Corporate,Capgemini UK plc.,5100004402,"£153,135.15",In-house Software development costs
+HMRC,VOA,27.10.2011,Management of Agreement,Corporate,Capgemini UK plc.,5100004402,"£44,877.42",IT support and maintenance
+HMRC,VOA,27.10.2011,Business Application,Corporate,Capgemini UK plc.,5100004402,"£180,736.42",IT support and maintenance
+HMRC,VOA,27.10.2011,Input Services,Corporate,Capgemini UK plc.,5100004402,£903.99,IT support and maintenance
+HMRC,VOA,27.10.2011,Data Centre Operations,Corporate,Capgemini UK plc.,5100004402,"£233,771.49",IT support and maintenance
+HMRC,VOA,27.10.2011,Desktop Services,Corporate,Capgemini UK plc.,5100004402,"£58,994.01",IT support and maintenance
+HMRC,VOA,27.10.2011,WAN,Corporate,Capgemini UK plc.,5100004402,"£162,970.64",IT support and maintenance
+HMRC,VOA,27.10.2011,Business Continuity & Disaster Recovery,Corporate,Capgemini UK plc.,5100004402,"£42,511.88",IT support and maintenance
+HMRC,VOA,27.10.2011,Aspire Other Costs,Corporate,Capgemini UK plc.,5100004402,"£110,068.61",IT support and maintenance
+HMRC,VOA,27.10.2011,Aspire Other Costs,Corporate,Capgemini UK plc.,5100004402,"£56,009.95",IT support and maintenance
+HMRC,VOA,27.10.2011,Input VAT (ST),Corporate,Capgemini UK plc.,5100004402,"£208,795.91",VAT Recovery
+HMRC,VOA,27.10.2011,Telephones-Landline,Corporate,Capgemini UK plc.,5100004402,"£71,860.88",Telephony charges
+HMRC,VOA,27.10.2011,Telephones-Equipment,Corporate,Capgemini UK plc.,5100004402,"£5,419.01",Telephony charges
+HMRC,VOA,27.10.2011,Telephones-Landline,Corporate,Capgemini UK plc.,5100004402,£796.48,Telephony charges
+HMRC,VOA,27.10.2011,Telephones-Mobile,Corporate,Capgemini UK plc.,5100004402,"£12,102.51",Telephony charges
+HMRC,VOA,27.10.2011,Telephones-Landline,Corporate,Capgemini UK plc.,5100004402,"£13,194.10",Telephony charges
+HMRC,VOA,27.10.2011,Telephones-Other,Corporate,Capgemini UK plc.,5100004402,"£20,102.11",Telephony charges
+HMRC,VOA,27.10.2011,Input VAT (ST),Corporate,Capgemini UK plc.,5100004402,"£1,689.72",VAT Recovery
+HMRC,VOA,12.10.2011,VAT Indemnity,Corporate,STEPS TEAM,5100004187,"£349,830.53",Accommodation charges
+HMRC,VOA,12.10.2011,VAT Indemnity,Corporate,STEPS TEAM,5100004186,"£276,143.49",Accommodation charges
+HMRC,VOA,10.10.2011,Accommodation rent,Corporate,DWP,5100004146,"£116,965.87",Accommodation charges
+HMRC,VOA,10.10.2011,Electricity,Corporate,DWP,5100004146,"£7,108.69",Accommodation charges
+HMRC,VOA,10.10.2011,Moto Costs,Corporate,DWP,5100004146,"£6,134.98",Accommodation charges
+HMRC,VOA,10.10.2011,Rates,Corporate,DWP,5100004146,"£17,000.21",Accommodation charges
+HMRC,VOA,13.10.2011,Insurance,Corporate,Willis Limited,1900001760,"£126,468.60",Fleet insurance
+HMRC,VOA,28.10.2011,Accommodation rent,Corporate,Cabinet Office,5100004422,"£38,508.00",Accommodation charges
+HMRC,VOA,28.10.2011,Moto Costs,Corporate,Cabinet Office,5100004422,"£23,982.33",Accommodation charges
+HMRC,VOA,28.10.2011,Electricity,Corporate,Cabinet Office,5100004422,"£6,921.24",Accommodation charges
+HMRC,VOA,28.10.2011,Rates,Corporate,Cabinet Office,5100004422,"£14,635.41",Accommodation charges
+HMRC,VOA,28.10.2011,Accommodation rent,Corporate,Cabinet Office,5100004423,"£38,508.00",Accommodation charges
+HMRC,VOA,28.10.2011,Moto Costs,Corporate,Cabinet Office,5100004423,"£23,982.33",Accommodation charges
+HMRC,VOA,28.10.2011,Electricity,Corporate,Cabinet Office,5100004423,"£6,921.24",Accommodation charges
+HMRC,VOA,28.10.2011,Rates,Corporate,Cabinet Office,5100004423,"£14,635.41",Business rates
+HMRC,VOA,13.10.2011,Royal mail postage,Corporate,Royal Mail,1900001766,"£82,208.77",Postage charges
+HMRC,VOA,03.10.2011,Rates,Corporate,City of Westminster,5100003937,"£59,343.00",Business rates
+HMRC,VOA,03.10.2011,Rates,Corporate,City of Westminster,5100003965,"£53,341.00",Business rates
+HMRC,VOA,07.10.2011,Contracted out services,Corporate,DWP,5100004006,"£36,066.00",Administration of Pension
+HMRC,VOA,07.10.2011,Input VAT (ST),Corporate,DWP,5100004006,"£7,213.20",VAT Recovery
+HMRC,VOA,07.10.2011,Accommodation rent,Corporate,Turnstone Estates Limited,5100004022,"£42,137.36",Accommodation charges
+HMRC,VOA,07.10.2011,Input VAT (ST),Corporate,Turnstone Estates Limited,5100004022,£576.64,VAT Recovery
+HMRC,VOA,04.10.2011,Accommodation rent,Corporate,Business Environment,5100003993,"£34,780.64",Accommodation charges
+HMRC,VOA,04.10.2011,Input VAT (ST),Corporate,Business Environment,5100003993,£475.96,VAT Recovery
+HMRC,VOA,13.10.2011,I.T.-Software & Support,Corporate,Specialist Computer Centres (EDI),5100004205,"£27,705.00",IT support and maintenance
+HMRC,VOA,13.10.2011,Input VAT (ST),Corporate,Specialist Computer Centres (EDI),5100004205,£379.14,VAT Recovery
+HMRC,VOA,24.10.2011,Telephones-Landline,Corporate,British Telecommunications plc.,5100004294,"£25,445.70",Telephony charges
+HMRC,VOA,24.10.2011,Input VAT (ST),Corporate,British Telecommunications plc.,5100004294,£348.22,VAT Recovery

@@ -1,0 +1,581 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,SME,Transaction Number,Amount,Description,Expenditure Type
+Land Registry,Land Registry,02/04/2015,Fixed Asset Interface Account,Balance Sheet,ANS Group Plc,Large,1104674,"39,360.00",Computer Assets,Administration
+Land Registry,Land Registry,23/04/2015,Fixed Asset Interface Account,Balance Sheet,ANS Group Plc,Large,1106905,"62,917.49",Computer Assets,Administration
+Land Registry,Land Registry,29/04/2015,Fixed Asset Interface Account,Balance Sheet,ANS Group Plc,Large,1106403,"151,858.46",Computer Assets,Administration
+Land Registry,Land Registry,30/04/2015,Fixed Asset Interface Account,Balance Sheet,ANS Group Plc,Large,1106404,"102,857.14",Computer Assets,Administration
+Land Registry,Land Registry,02/04/2015,Computer Equipment Maintenance,IS Service Delivery,ANS Group Plc,Large,1104674,"5,500.00",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,29/04/2015,Computer Equipment Maintenance,IS Service Delivery,ANS Group Plc,Large,1106402,"97,957.39",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Birkenhead Office,Banner Business Services Ltd,Large,1106880,"2,404.92",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Central Facilities Management Team,Banner Business Services Ltd,Large,1106880,74.21,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Chief Executives Office,Banner Business Services Ltd,Large,1106880,95.81,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Corp Procurement,Banner Business Services Ltd,Large,1106880,65.90,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Corporate Legal Services,Banner Business Services Ltd,Large,1106880,48.53,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Coventry Office,Banner Business Services Ltd,Large,1106880,"6,564.27",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Croydon Office,Banner Business Services Ltd,Large,1106880,987.49,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Durham Office,Banner Business Services Ltd,Large,1106880,"4,470.41",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Finance Group,Banner Business Services Ltd,Large,1106880,119.82,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Fylde Office,Banner Business Services Ltd,Large,1106880,"1,847.67",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Gloucester Office,Banner Business Services Ltd,Large,1106880,"1,769.21",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Governance & Policy,Banner Business Services Ltd,Large,1106880,25.42,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,HR,Banner Business Services Ltd,Large,1106880,154.80,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Hull Office,Banner Business Services Ltd,Large,1106880,"1,676.10",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Independent Complaints Reviewer,Banner Business Services Ltd,Large,1106880,6.70,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Internal Solutions Group,Banner Business Services Ltd,Large,1106880,802.62,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,IS Service Delivery,Banner Business Services Ltd,Large,1106880,"3,549.21",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Land Charges,Banner Business Services Ltd,Large,1106880,676.03,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Leicester Office,Banner Business Services Ltd,Large,1106880,"1,714.52",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,LR Board & Board Chair,Banner Business Services Ltd,Large,1106880,29.28,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Nottingham Office,Banner Business Services Ltd,Large,1106880,"2,464.72",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Peterborough Office,Banner Business Services Ltd,Large,1106880,"2,274.63",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Plymouth Office,Banner Business Services Ltd,Large,1106880,"1,410.30",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Projects and Programme Centre,Banner Business Services Ltd,Large,1106880,172.20,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Registration Legal Services Group,Banner Business Services Ltd,Large,1106880,5.02,Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Telford Office,Banner Business Services Ltd,Large,1106880,"1,194.38",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Wales Office,Banner Business Services Ltd,Large,1106880,"3,647.24",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Stationery National Contracts,Weymouth Office,Banner Business Services Ltd,Large,1106880,"1,457.35",Stationery,Administration
+Land Registry,Land Registry,22/04/2015,Waste Disposal,Central Facilities Management Team,Banner Business Services Ltd,Large,1106880,"17,196.25",Waste Disposal,Administration
+Land Registry,Land Registry,02/04/2015,Data Network Lines,IS Service Delivery,British Telecommunications Plc,Large,1104623,"384,054.91",Data Network Lines,Administration
+Land Registry,Land Registry,29/04/2015,Data Network Lines,IS Service Delivery,British Telecommunications Plc,Large,1107799,"8,289.94",Data Network Lines,Administration
+Land Registry,Land Registry,29/04/2015,Telephone Costs,IS Service Delivery,British Telecommunications Plc,Large,1107799,"158,948.54",Telephone Costs,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Birkenhead Office,Carillion Services Ltd,Large,1104606,"5,188.88",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Coventry Office,Carillion Services Ltd,Large,1104606,"7,221.40",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Croydon Office,Carillion Services Ltd,Large,1104606,"6,267.11",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Dir: Finance,Carillion Services Ltd,Large,1104606,"8,821.79",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Dir: HR,Carillion Services Ltd,Large,1104606,"12,350.97",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Durham Office,Carillion Services Ltd,Large,1104606,"4,351.35",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Fylde Office,Carillion Services Ltd,Large,1104606,"4,738.32",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Gloucester Computer Centre,Carillion Services Ltd,Large,1104606,"22,972.34",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Gloucester Office,Carillion Services Ltd,Large,1104606,"5,292.16",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Governance & Policy,Carillion Services Ltd,Large,1104606,"19,123.22",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Leicester Office,Carillion Services Ltd,Large,1104606,"3,316.81",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Nottingham Office,Carillion Services Ltd,Large,1104606,"9,227.93",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,RFS1 - Telford,Carillion Services Ltd,Large,1104606,"4,612.73",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,RFS15 - Plymouth Drakes Hill Court,Carillion Services Ltd,Large,1104606,"12,109.78",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,Electricity,Wales Office,Carillion Services Ltd,Large,1104606,"3,400.30",Electricity,Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Birkenhead Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Coventry Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Croydon Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Durham Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Fylde Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Gloucester Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Governance & Policy,Carillion Services Ltd,Large,1104496,71.70,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Hull Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Leicester Office,Carillion Services Ltd,Large,1104496,47.80,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Nottingham Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Peterborough Office,Carillion Services Ltd,Large,1104496,23.92,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Telford Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Wales Office,Carillion Services Ltd,Large,1104496,47.80,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Weymouth Office,Carillion Services Ltd,Large,1104496,23.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Coventry Office,Carillion Services Ltd,Large,1104604,64.60,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Croydon Office,Carillion Services Ltd,Large,1104604,52.00,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Durham Office,Carillion Services Ltd,Large,1104604,"1,011.45","Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Fylde Office,Carillion Services Ltd,Large,1104604,"1,270.22","Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Governance & Policy,Carillion Services Ltd,Large,1104604,300.31,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Hull Office,Carillion Services Ltd,Large,1104604,748.08,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Leicester Office,Carillion Services Ltd,Large,1104604,57.66,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Nottingham Office,Carillion Services Ltd,Large,1104604,206.87,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Telford Office,Carillion Services Ltd,Large,1104604,"1,390.12","Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,FF&F:Maintenance,Wales Office,Carillion Services Ltd,Large,1104604,908.90,"Furniture, Fixtures & Fittings Maintenance",Administration
+Land Registry,Land Registry,09/04/2015,"FF&F:Purchases <£1,000",Governance & Policy,Carillion Services Ltd,Large,1104604,"3,537.16","Furniture,Fixtures &Fittings:Purchases less than £1,000",Administration
+Land Registry,Land Registry,09/04/2015,"FF&F:Purchases <£1,000",Leicester Office,Carillion Services Ltd,Large,1104604,390.55,"Furniture,Fixtures &Fittings:Purchases less than £1,000",Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Birkenhead Office,Carillion Services Ltd,Large,1104496,469.69,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Coventry Office,Carillion Services Ltd,Large,1104496,953.05,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Croydon Office,Carillion Services Ltd,Large,1104496,565.37,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Durham Office,Carillion Services Ltd,Large,1104496,589.49,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Fylde Office,Carillion Services Ltd,Large,1104496,409.95,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,547.73,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Gloucester Office,Carillion Services Ltd,Large,1104496,590.42,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Governance & Policy,Carillion Services Ltd,Large,1104496,"1,497.55",Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Hull Office,Carillion Services Ltd,Large,1104496,460.70,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Leicester Office,Carillion Services Ltd,Large,1104496,515.68,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Nottingham Office,Carillion Services Ltd,Large,1104496,"1,821.62",Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Peterborough Office,Carillion Services Ltd,Large,1104496,601.66,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,RFS4 - Coventry,Carillion Services Ltd,Large,1104496,7.88,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Telford Office,Carillion Services Ltd,Large,1104496,622.59,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Wales Office,Carillion Services Ltd,Large,1104496,446.36,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Ext Helpdesk,Weymouth Office,Carillion Services Ltd,Large,1104496,362.86,Facilities External Helpdesk,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Birkenhead Office,Carillion Services Ltd,Large,1104496,"6,497.86",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Coventry Office,Carillion Services Ltd,Large,1104496,"7,908.38",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Croydon Office,Carillion Services Ltd,Large,1104496,"6,572.17",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Durham Office,Carillion Services Ltd,Large,1104496,"6,310.20",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Fylde Office,Carillion Services Ltd,Large,1104496,"6,161.69",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,"2,872.08",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Gloucester Office,Carillion Services Ltd,Large,1104496,"3,505.02",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Governance & Policy,Carillion Services Ltd,Large,1104496,"14,497.86",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Hull Office,Carillion Services Ltd,Large,1104496,"5,992.66",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Leicester Office,Carillion Services Ltd,Large,1104496,"6,942.86",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Nottingham Office,Carillion Services Ltd,Large,1104496,"11,655.42",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Peterborough Office,Carillion Services Ltd,Large,1104496,"6,018.83",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,RFS4 - Coventry,Carillion Services Ltd,Large,1104496,27.04,Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Telford Office,Carillion Services Ltd,Large,1104496,"6,504.77",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Wales Office,Carillion Services Ltd,Large,1104496,"6,033.36",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Weymouth Office,Carillion Services Ltd,Large,1104496,"6,153.46",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,FM Managed Services,Coventry Office,Carillion Services Ltd,Large,1104604,"1,194.78",Facilities Managed Services,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Birkenhead Office,Carillion Services Ltd,Large,1104606,"2,069.51",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Coventry Office,Carillion Services Ltd,Large,1104606,"5,471.38",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Croydon Office,Carillion Services Ltd,Large,1104606,"2,137.21",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Dir: Finance,Carillion Services Ltd,Large,1104606,"2,188.31",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Dir: HR,Carillion Services Ltd,Large,1104606,"7,124.64",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Durham Office,Carillion Services Ltd,Large,1104606,"1,953.04",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Fylde Office,Carillion Services Ltd,Large,1104606,"2,003.70",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Gloucester Computer Centre,Carillion Services Ltd,Large,1104606,627.94,Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Gloucester Office,Carillion Services Ltd,Large,1104606,"2,448.21",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Governance & Policy,Carillion Services Ltd,Large,1104606,333.69,Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Hull Office,Carillion Services Ltd,Large,1104606,336.14,Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Leicester Office,Carillion Services Ltd,Large,1104606,"2,612.55",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Nottingham Office,Carillion Services Ltd,Large,1104606,459.09,Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Peterborough Office,Carillion Services Ltd,Large,1104606,52.40,Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,RFS1 - Telford,Carillion Services Ltd,Large,1104606,"1,505.58",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,RFS15 - Plymouth Drakes Hill Court,Carillion Services Ltd,Large,1104606,"1,045.08",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Wales Office,Carillion Services Ltd,Large,1104606,"1,969.21",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Gas,Weymouth Office,Carillion Services Ltd,Large,1104606,"1,732.52",Gas,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Birkenhead Office,Carillion Services Ltd,Large,1104496,360.91,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Coventry Office,Carillion Services Ltd,Large,1104496,683.02,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Croydon Office,Carillion Services Ltd,Large,1104496,68.04,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Durham Office,Carillion Services Ltd,Large,1104496,845.33,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Fylde Office,Carillion Services Ltd,Large,1104496,"1,578.69",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,95.54,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Gloucester Office,Carillion Services Ltd,Large,1104496,646.08,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Governance & Policy,Carillion Services Ltd,Large,1104496,"1,544.25",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Hull Office,Carillion Services Ltd,Large,1104496,646.08,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Leicester Office,Carillion Services Ltd,Large,1104496,204.04,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Nottingham Office,Carillion Services Ltd,Large,1104496,327.55,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Telford Office,Carillion Services Ltd,Large,1104496,"1,113.38",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Wales Office,Carillion Services Ltd,Large,1104496,479.33,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Weymouth Office,Carillion Services Ltd,Large,1104496,744.67,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Birkenhead Office,Carillion Services Ltd,Large,1104604,996.00,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Coventry Office,Carillion Services Ltd,Large,1104604,"4,890.16",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Durham Office,Carillion Services Ltd,Large,1104604,"3,691.55",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Fylde Office,Carillion Services Ltd,Large,1104604,"12,225.46",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Gloucester Computer Centre,Carillion Services Ltd,Large,1104604,"1,125.69",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Gloucester Office,Carillion Services Ltd,Large,1104604,"3,267.75",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Governance & Policy,Carillion Services Ltd,Large,1104604,"2,230.14",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Hull Office,Carillion Services Ltd,Large,1104604,"1,437.55",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Leicester Office,Carillion Services Ltd,Large,1104604,"2,202.69",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Telford Office,Carillion Services Ltd,Large,1104604,"1,167.19",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Wales Office,Carillion Services Ltd,Large,1104604,"1,634.06",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Grounds Maintenance,Weymouth Office,Carillion Services Ltd,Large,1104604,"2,097.74",Grounds Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Major Property Maintenance Projects,Croydon Office,Carillion Services Ltd,Large,1104607,"39,049.91",Major Property Maintenance Projects,Administration
+Land Registry,Land Registry,09/04/2015,Major Property Maintenance Projects,Fylde Office,Carillion Services Ltd,Large,1104607,"75,927.08",Major Property Maintenance Projects,Administration
+Land Registry,Land Registry,09/04/2015,Major Property Maintenance Projects,Hull Office,Carillion Services Ltd,Large,1104607,"70,514.11",Major Property Maintenance Projects,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Birkenhead Office,Carillion Services Ltd,Large,1104496,"6,279.81",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Coventry Office,Carillion Services Ltd,Large,1104496,"6,485.37",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Croydon Office,Carillion Services Ltd,Large,1104496,"4,659.37",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Dir: HR,Carillion Services Ltd,Large,1104496,283.20,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Durham Office,Carillion Services Ltd,Large,1104496,"6,302.02",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Fylde Office,Carillion Services Ltd,Large,1104496,"4,800.27",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,548.86,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Gloucester Office,Carillion Services Ltd,Large,1104496,"7,108.35",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Governance & Policy,Carillion Services Ltd,Large,1104496,"9,662.60",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Hull Office,Carillion Services Ltd,Large,1104496,"4,024.60",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Leicester Office,Carillion Services Ltd,Large,1104496,"4,131.39",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Nottingham Office,Carillion Services Ltd,Large,1104496,"5,913.39",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Peterborough Office,Carillion Services Ltd,Large,1104496,"3,119.54",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Telford Office,Carillion Services Ltd,Large,1104496,"6,510.74",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Wales Office,Carillion Services Ltd,Large,1104496,"4,180.64",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Weymouth Office,Carillion Services Ltd,Large,1104496,"4,447.23",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Dir: HR,Carillion Services Ltd,Large,1104604,"1,089.38",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Durham Office,Carillion Services Ltd,Large,1104604,140.67,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Fylde Office,Carillion Services Ltd,Large,1104604,148.99,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Office Cleaning Expenses,Governance & Policy,Carillion Services Ltd,Large,1104604,"4,550.09",Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Birkenhead Office,Carillion Services Ltd,Large,1104496,41.24,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Coventry Office,Carillion Services Ltd,Large,1104496,52.57,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Croydon Office,Carillion Services Ltd,Large,1104496,39.60,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Durham Office,Carillion Services Ltd,Large,1104496,48.24,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Fylde Office,Carillion Services Ltd,Large,1104496,38.99,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,28.19,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Gloucester Office,Carillion Services Ltd,Large,1104496,46.00,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Governance & Policy,Carillion Services Ltd,Large,1104496,141.88,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Hull Office,Carillion Services Ltd,Large,1104496,49.28,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Leicester Office,Carillion Services Ltd,Large,1104496,38.99,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Nottingham Office,Carillion Services Ltd,Large,1104496,133.15,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Peterborough Office,Carillion Services Ltd,Large,1104496,40.55,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,RFS4 - Coventry,Carillion Services Ltd,Large,1104496,52.57,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Telford Office,Carillion Services Ltd,Large,1104496,44.27,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Wales Office,Carillion Services Ltd,Large,1104496,58.45,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Pest Control,Weymouth Office,Carillion Services Ltd,Large,1104496,41.24,Pest Control,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Birkenhead Office,Carillion Services Ltd,Large,1104496,"5,940.57",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Coventry Office,Carillion Services Ltd,Large,1104496,"13,027.27",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Croydon Office,Carillion Services Ltd,Large,1104496,"8,811.72",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Dir: HR,Carillion Services Ltd,Large,1104496,"1,633.68",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Durham Office,Carillion Services Ltd,Large,1104496,"7,013.39",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Fylde Office,Carillion Services Ltd,Large,1104496,"4,431.10",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,"8,638.67",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Gloucester Office,Carillion Services Ltd,Large,1104496,"3,946.81",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Governance & Policy,Carillion Services Ltd,Large,1104496,"19,393.01",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Hull Office,Carillion Services Ltd,Large,1104496,"7,146.98",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Leicester Office,Carillion Services Ltd,Large,1104496,"10,272.14",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Nottingham Office,Carillion Services Ltd,Large,1104496,"6,757.45",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Peterborough Office,Carillion Services Ltd,Large,1104496,"3,850.97",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Plymouth Office,Carillion Services Ltd,Large,1104496,-282.34,Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,RFS4 - Coventry,Carillion Services Ltd,Large,1104496,23.78,Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Telford Office,Carillion Services Ltd,Large,1104496,"6,607.07",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Wales Office,Carillion Services Ltd,Large,1104496,"5,830.57",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Weymouth Office,Carillion Services Ltd,Large,1104496,"2,635.60",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Birkenhead Office,Carillion Services Ltd,Large,1104604,"15,004.93",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Coventry Office,Carillion Services Ltd,Large,1104604,"4,719.03",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Croydon Office,Carillion Services Ltd,Large,1104604,"34,213.25",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Durham Office,Carillion Services Ltd,Large,1104604,"153,020.69",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Fylde Office,Carillion Services Ltd,Large,1104604,"37,543.60",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Gloucester Computer Centre,Carillion Services Ltd,Large,1104604,"6,157.10",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Gloucester Office,Carillion Services Ltd,Large,1104604,"29,131.11",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Governance & Policy,Carillion Services Ltd,Large,1104604,"37,457.98",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Hull Office,Carillion Services Ltd,Large,1104604,"45,027.32",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Leicester Office,Carillion Services Ltd,Large,1104604,"4,730.54",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Nottingham Office,Carillion Services Ltd,Large,1104604,477.22,Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Telford Office,Carillion Services Ltd,Large,1104604,"1,311.82",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Wales Office,Carillion Services Ltd,Large,1104604,"10,151.94",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Maintenance,Weymouth Office,Carillion Services Ltd,Large,1104604,"1,091.61",Property Maintenance,Administration
+Land Registry,Land Registry,09/04/2015,Property Management; Other Fees,Dir: HR,Carillion Services Ltd,Large,1104496,496.69,Property Management; Other Fees,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Birkenhead Office,Carillion Services Ltd,Large,1104496,"2,882.40",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Coventry Office,Carillion Services Ltd,Large,1104496,"6,796.88",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Croydon Office,Carillion Services Ltd,Large,1104496,"8,637.93",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Durham Office,Carillion Services Ltd,Large,1104496,"2,525.94",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Fylde Office,Carillion Services Ltd,Large,1104496,"2,287.91",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,"7,306.34",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Gloucester Office,Carillion Services Ltd,Large,1104496,"9,300.77",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Governance & Policy,Carillion Services Ltd,Large,1104496,"18,893.71",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Hull Office,Carillion Services Ltd,Large,1104496,"2,860.45",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Leicester Office,Carillion Services Ltd,Large,1104496,"2,578.13",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Nottingham Office,Carillion Services Ltd,Large,1104496,"3,279.03",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Telford Office,Carillion Services Ltd,Large,1104496,"2,813.45",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Wales Office,Carillion Services Ltd,Large,1104496,"2,549.83",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Weymouth Office,Carillion Services Ltd,Large,1104496,"2,816.04",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Birkenhead Office,Carillion Services Ltd,Large,1104604,83.55,Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Croydon Office,Carillion Services Ltd,Large,1104604,"2,642.17",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Dir: HR,Carillion Services Ltd,Large,1104604,443.84,Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Durham Office,Carillion Services Ltd,Large,1104604,83.55,Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Fylde Office,Carillion Services Ltd,Large,1104604,"6,515.07",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Gloucester Office,Carillion Services Ltd,Large,1104604,"1,580.66",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Governance & Policy,Carillion Services Ltd,Large,1104604,"6,341.73",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Hull Office,Carillion Services Ltd,Large,1104604,793.68,Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Leicester Office,Carillion Services Ltd,Large,1104604,83.55,Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Nottingham Office,Carillion Services Ltd,Large,1104604,198.42,Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Peterborough Office,Carillion Services Ltd,Large,1104604,80.78,Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Telford Office,Carillion Services Ltd,Large,1104604,"2,856.24",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Wales Office,Carillion Services Ltd,Large,1104604,"1,134.54",Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Security Expenses,Weymouth Office,Carillion Services Ltd,Large,1104604,90.22,Security Expenses,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Birkenhead Office,Carillion Services Ltd,Large,1104496,"1,127.46",Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Coventry Office,Carillion Services Ltd,Large,1104496,176.38,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Croydon Office,Carillion Services Ltd,Large,1104496,223.93,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Durham Office,Carillion Services Ltd,Large,1104496,44.09,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Fylde Office,Carillion Services Ltd,Large,1104496,157.35,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,20.06,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Gloucester Office,Carillion Services Ltd,Large,1104496,144.21,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Governance & Policy,Carillion Services Ltd,Large,1104496,218.04,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Hull Office,Carillion Services Ltd,Large,1104496,346.87,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Leicester Office,Carillion Services Ltd,Large,1104496,116.03,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Nottingham Office,Carillion Services Ltd,Large,1104496,129.68,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Telford Office,Carillion Services Ltd,Large,1104496,198.08,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Wales Office,Carillion Services Ltd,Large,1104496,194.19,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Vending Machine Consumables & Repairs,Weymouth Office,Carillion Services Ltd,Large,1104496,112.40,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Birkenhead Office,Carillion Services Ltd,Large,1104496,289.64,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Coventry Office,Carillion Services Ltd,Large,1104496,242.08,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Croydon Office,Carillion Services Ltd,Large,1104496,212.07,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Dir: HR,Carillion Services Ltd,Large,1104496,69.69,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Durham Office,Carillion Services Ltd,Large,1104496,337.19,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Fylde Office,Carillion Services Ltd,Large,1104496,259.55,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Gloucester Computer Centre,Carillion Services Ltd,Large,1104496,46.09,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Gloucester Office,Carillion Services Ltd,Large,1104496,251.33,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Governance & Policy,Carillion Services Ltd,Large,1104496,663.35,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Hull Office,Carillion Services Ltd,Large,1104496,189.59,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Leicester Office,Carillion Services Ltd,Large,1104496,274.24,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Nottingham Office,Carillion Services Ltd,Large,1104496,337.19,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Telford Office,Carillion Services Ltd,Large,1104496,242.52,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Wales Office,Carillion Services Ltd,Large,1104496,209.06,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Weymouth Office,Carillion Services Ltd,Large,1104496,172.37,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Birkenhead Office,Carillion Services Ltd,Large,1104604,448.76,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Coventry Office,Carillion Services Ltd,Large,1104604,304.77,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Croydon Office,Carillion Services Ltd,Large,1104604,216.42,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Fylde Office,Carillion Services Ltd,Large,1104604,329.91,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Gloucester Computer Centre,Carillion Services Ltd,Large,1104604,"2,573.04",Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Gloucester Office,Carillion Services Ltd,Large,1104604,"2,985.62",Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Governance & Policy,Carillion Services Ltd,Large,1104604,373.86,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Hull Office,Carillion Services Ltd,Large,1104604,25.94,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Nottingham Office,Carillion Services Ltd,Large,1104604,62.25,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Peterborough Office,Carillion Services Ltd,Large,1104604,155.63,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Telford Office,Carillion Services Ltd,Large,1104604,205.30,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Waste Disposal,Weymouth Office,Carillion Services Ltd,Large,1104604,121.18,Waste Disposal,Administration
+Land Registry,Land Registry,09/04/2015,Water,Coventry Office,Carillion Services Ltd,Large,1104606,"4,156.21",Water,Administration
+Land Registry,Land Registry,09/04/2015,Water,Croydon Office,Carillion Services Ltd,Large,1104606,"3,466.55",Water,Administration
+Land Registry,Land Registry,09/04/2015,Water,Dir: HR,Carillion Services Ltd,Large,1104606,691.79,Water,Administration
+Land Registry,Land Registry,09/04/2015,Water,Durham Office,Carillion Services Ltd,Large,1104606,"3,352.36",Water,Administration
+Land Registry,Land Registry,09/04/2015,Water,Governance & Policy,Carillion Services Ltd,Large,1104606,"8,246.10",Water,Administration
+Land Registry,Land Registry,09/04/2015,Water,Leicester Office,Carillion Services Ltd,Large,1104606,"2,140.44",Water,Administration
+Land Registry,Land Registry,09/04/2015,Water,RFS15 - Plymouth Drakes Hill Court,Carillion Services Ltd,Large,1104606,480.26,Water,Administration
+Land Registry,Land Registry,09/04/2015,Water,Telford Office,Carillion Services Ltd,Large,1104606,"5,632.29",Water,Administration
+Land Registry,Land Registry,21/04/2015,Computer Equipment Maintenance,IS Service Delivery,CGI IT UK Limited,Large,1105119,"69,500.00",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,08/04/2015,New Payroll Development,HR,CGI IT UK Limited,Large,1105118,"22,313.57",New Payroll Development,Administration
+Land Registry,Land Registry,01/04/2015,Computer Equipment Hire,IS Service Delivery,CHG-MERIDIAN UK Limited,Large,1104966,"54,985.00",Computer Equipment Hire,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Wales Office,City & County of Swansea,Large,1103652,"17,593.00",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Dir: HR,City of York Council,Large,1102255,"17,748.00",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Coventry Office,Coventry City Council,Large,1103644,"40,180.00",Rates Payable,Administration
+Land Registry,Land Registry,30/04/2015,Rates Payable,Croydon Office,Croydon Council,Large,1102254,"29,241.00",Rates Payable,Administration
+Land Registry,Land Registry,02/04/2015,Rates Payable,Property Asset Management Group,Dtz Debenham Tie Leung Ltd,Large,1104672,"56,419.72",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Durham Office,Durham County Council,Large,1103047,"28,594.00",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Hays Document Exchange (DX),Central Facilities Management Team,DX Network Services Ltd,Large,1107798,"339,719.13",DX Postage,Administration
+Land Registry,Land Registry,02/04/2015,"Property Management; Advice, Surveys & Inspections",Central Facilities Management Team,EC Harris LLP,Large,1104631,"31,870.00","Property Management; Advice, Surveys & Inspections",Administration
+Land Registry,Land Registry,02/04/2015,"Property Management; Advice, Surveys & Inspections",Central Facilities Management Team,EC Harris LLP,Large,1104632,"44,395.00","Property Management; Advice, Surveys & Inspections",Administration
+Land Registry,Land Registry,14/04/2015,Transport Fuel,Central Facilities Management Team,Enterprise Rent-A-Car (UK) Ltd,Large,1105907,"3,399.58",Transport Fuel,Administration
+Land Registry,Land Registry,14/04/2015,Transport Hire of Cars and Vans,Central Facilities Management Team,Enterprise Rent-A-Car (UK) Ltd,Large,1105907,"28,670.43",Transport Hire of Cars and Vans,Administration
+Land Registry,Land Registry,09/04/2015,Computer Equipment Maintenance,IS Service Delivery,Envitia Ltd,SME,1105308,"156,000.00",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Fylde Office,Fylde Borough Council,Large,1101943,"18,364.00",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Gloucester Office,Gloucester City Council,Large,1103041,"24,527.00",Rates Payable,Administration
+Land Registry,Land Registry,10/04/2015,Computer Equipment Hire,IS Service Delivery,IBM United Kingdom Ltd,Large,1105574,"258,691.26",Computer Equipment Hire,Administration
+Land Registry,Land Registry,20/04/2015,Computer Equipment Maintenance,IS Service Delivery,IBM United Kingdom Ltd,Large,1105712,"107,611.48",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,29/04/2015,Data Network Lines,IS Service Delivery,Interoute Vtesse Ltd,Large,1107670,"61,250.00",Data Network Lines,Administration
+Land Registry,Land Registry,14/04/2015,Fixed Asset Interface Account,Balance Sheet,Involve Visual Collaboration Ltd,Large,1105572,"47,986.19",Computer Assets,Administration
+Land Registry,Land Registry,10/04/2015,Rates Payable,Hull Office,Kingston Upon Hull City Council,Large,1103201,"13,060.00",Rates Payable,Administration
+Land Registry,Land Registry,01/04/2015,Rent Payable,Hull Office,Kingston Upon Hull City Council,Large,1104851,650.00,Rent Payable,Administration
+Land Registry,Land Registry,30/04/2015,Professional Services,Finance Director,Lane Clark & Peacock LLP,Large,1105720,"23,310.00",Professional Services,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Leicester Office,Leicester City Council,Large,1101944,"18,488.00",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Nottingham Office,Nottingham City Council,Large,1103651,"24,650.00",Rates Payable,Administration
+Land Registry,Land Registry,20/04/2015,Computer Equipment Maintenance,IS Service Delivery,Oracle Corporation (UK) Ltd,Large,1106286,"85,559.12",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,28/04/2015,Computer Equipment Maintenance,IS Service Delivery,Oracle Corporation (UK) Ltd,Large,1107397,"406,175.17",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Peterborough Office,Peterborough City Council,Large,1102471,"11,093.00",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Governance & Policy,Plymouth City Council,Large,1101940,"36,975.00",Rates Payable,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Business Continuity,Redfern Travel Ltd,SME,1107788,-7.19,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Business Development,Redfern Travel Ltd,SME,1107788,"1,021.39",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Business Planning Assurance and Risk Management,Redfern Travel Ltd,SME,1107788,-71.48,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Central Facilities Management Team,Redfern Travel Ltd,SME,1107788,918.54,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Central Operations Group,Redfern Travel Ltd,SME,1107788,"1,405.19",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Chief Executives Office,Redfern Travel Ltd,SME,1107788,340.14,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Commercial & Customer Strategy & Performance,Redfern Travel Ltd,SME,1107788,313.00,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Corp Procurement,Redfern Travel Ltd,SME,1107788,905.53,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Corporate Legal Services,Redfern Travel Ltd,SME,1107788,607.50,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Customer Services,Redfern Travel Ltd,SME,1107788,-172.88,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Dir: (Statutory) Commercial & Customer,Redfern Travel Ltd,SME,1107788,"4,923.17",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Director of Information Systems,Redfern Travel Ltd,SME,1107788,-5.12,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Director of Legal Services,Redfern Travel Ltd,SME,1107788,-32.75,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Director of Operations,Redfern Travel Ltd,SME,1107788,86.92,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Durham Office,Redfern Travel Ltd,SME,1107788,14.57,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Finance Group,Redfern Travel Ltd,SME,1107788,45.40,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,HR,Redfern Travel Ltd,SME,1107788,"2,192.06",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,HR Group,Redfern Travel Ltd,SME,1107788,"1,532.29",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Hull Office,Redfern Travel Ltd,SME,1107788,-87.18,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Independent Complaints Reviewer,Redfern Travel Ltd,SME,1107788,91.04,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Internal Audit,Redfern Travel Ltd,SME,1107788,351.98,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Internal Solutions Group,Redfern Travel Ltd,SME,1107788,930.14,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,International Unit,Redfern Travel Ltd,SME,1107788,"1,193.35",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,IS Service Delivery,Redfern Travel Ltd,SME,1107788,849.45,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Leicester Office,Redfern Travel Ltd,SME,1107788,482.82,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Local Lawyer Group,Redfern Travel Ltd,SME,1107788,-18.92,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,LR Connect Portfolio,Redfern Travel Ltd,SME,1107788,"1,116.90",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Marketing Services Team,Redfern Travel Ltd,SME,1107788,108.36,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Nottingham Office,Redfern Travel Ltd,SME,1107788,485.70,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Peterborough Office,Redfern Travel Ltd,SME,1107788,173.90,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Plymouth Office,Redfern Travel Ltd,SME,1107788,310.41,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Product Development & Management,Redfern Travel Ltd,SME,1107788,417.48,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Prog: Digital by Default,Redfern Travel Ltd,SME,1107788,"8,572.09",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Prog: e-Enablement,Redfern Travel Ltd,SME,1107788,657.27,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Prog: IT Foundations,Redfern Travel Ltd,SME,1107788,63.68,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Prog: People&Organisation,Redfern Travel Ltd,SME,1107788,130.18,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Property Asset Management Group,Redfern Travel Ltd,SME,1107788,45.18,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Registration Legal Services Group,Redfern Travel Ltd,SME,1107788,158.93,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Research & Data Mining,Redfern Travel Ltd,SME,1107788,101.41,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Strategy Team,Redfern Travel Ltd,SME,1107788,144.26,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Survey & Mapping Services,Redfern Travel Ltd,SME,1107788,61.73,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Technology Group,Redfern Travel Ltd,SME,1107788,2.82,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Weymouth Office,Redfern Travel Ltd,SME,1107788,63.00,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,29/04/2015,Travel & Subsistence General Duty,Corporate Assurance,Redfern Travel Ltd,SME,1107788,76.04,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Birkenhead Office,Redfern Travel Ltd,SME,1107817,78.87,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Central Facilities Management Team,Redfern Travel Ltd,SME,1107817,647.27,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Central Operations Group,Redfern Travel Ltd,SME,1107817,832.26,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Chief Executives Office,Redfern Travel Ltd,SME,1107817,231.18,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Commercial & Customer Strategy & Performance,Redfern Travel Ltd,SME,1107817,265.91,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Commercial Director,Redfern Travel Ltd,SME,1107817,86.92,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Corp Procurement,Redfern Travel Ltd,SME,1107817,185.92,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Corporate Legal Services,Redfern Travel Ltd,SME,1107817,510.94,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Coventry Office,Redfern Travel Ltd,SME,1107817,160.94,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Croydon Office,Redfern Travel Ltd,SME,1107817,57.75,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Customer Services,Redfern Travel Ltd,SME,1107817,74.54,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Dir: (Statutory) Commercial & Customer,Redfern Travel Ltd,SME,1107817,"2,595.33",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Information Systems,Redfern Travel Ltd,SME,1107817,966.49,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Legal Services,Redfern Travel Ltd,SME,1107817,295.52,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Operations,Redfern Travel Ltd,SME,1107817,98.10,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Durham Office,Redfern Travel Ltd,SME,1107817,609.17,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Employee & Management Support Manager,Redfern Travel Ltd,SME,1107817,13.59,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Guarantee & Litigation,Redfern Travel Ltd,SME,1107817,-91.69,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,HR,Redfern Travel Ltd,SME,1107817,"2,683.68",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,HR Group,Redfern Travel Ltd,SME,1107817,273.61,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Independent Complaints Reviewer,Redfern Travel Ltd,SME,1107817,131.66,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Internal Solutions Group,Redfern Travel Ltd,SME,1107817,502.22,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,International Unit,Redfern Travel Ltd,SME,1107817,"1,187.55",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,IS Service Delivery,Redfern Travel Ltd,SME,1107817,201.00,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Local Lawyer Group,Redfern Travel Ltd,SME,1107817,"1,247.66",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,LR Connect Portfolio,Redfern Travel Ltd,SME,1107817,"1,486.98",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,LR Sports Council,Redfern Travel Ltd,SME,1107817,294.95,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Marketing Services Team,Redfern Travel Ltd,SME,1107817,13.42,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Nottingham Office,Redfern Travel Ltd,SME,1107817,916.90,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Peterborough Office,Redfern Travel Ltd,SME,1107817,-131.26,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Product Development & Management,Redfern Travel Ltd,SME,1107817,139.49,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: Digital by Default,Redfern Travel Ltd,SME,1107817,"7,713.27",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: e-Enablement,Redfern Travel Ltd,SME,1107817,873.65,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: IT Foundations,Redfern Travel Ltd,SME,1107817,67.21,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: People&Organisation,Redfern Travel Ltd,SME,1107817,161.13,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Projects and Programme Centre,Redfern Travel Ltd,SME,1107817,112.63,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Property Asset Management Group,Redfern Travel Ltd,SME,1107817,"1,093.16",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Registration Legal Services Group,Redfern Travel Ltd,SME,1107817,349.06,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Research & Data Mining,Redfern Travel Ltd,SME,1107817,199.97,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Strategy Team,Redfern Travel Ltd,SME,1107817,144.26,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Survey & Mapping Services,Redfern Travel Ltd,SME,1107817,111.33,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Technical Assurance Group,Redfern Travel Ltd,SME,1107817,202.01,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Telford Office,Redfern Travel Ltd,SME,1107817,200.71,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Birkenhead Office,Redfern Travel Ltd,SME,1107818,132.28,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Business Development,Redfern Travel Ltd,SME,1107818,784.85,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Business Planning Assurance and Risk Management,Redfern Travel Ltd,SME,1107818,115.89,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Central Facilities Management Team,Redfern Travel Ltd,SME,1107818,"1,312.53",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Central Operations Group,Redfern Travel Ltd,SME,1107818,"5,323.14",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Chief Executives Office,Redfern Travel Ltd,SME,1107818,893.27,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Commercial & Customer Strategy & Performance,Redfern Travel Ltd,SME,1107818,948.30,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Commercial Director,Redfern Travel Ltd,SME,1107818,185.31,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Corp Procurement,Redfern Travel Ltd,SME,1107818,246.80,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Corporate Legal Services,Redfern Travel Ltd,SME,1107818,"1,147.10",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Coventry Office,Redfern Travel Ltd,SME,1107818,80.53,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Dir: (Statutory) Commercial & Customer,Redfern Travel Ltd,SME,1107818,"2,487.31",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Information Systems,Redfern Travel Ltd,SME,1107818,709.74,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Legal Services,Redfern Travel Ltd,SME,1107818,174.44,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Operations,Redfern Travel Ltd,SME,1107818,137.53,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Durham Office,Redfern Travel Ltd,SME,1107818,192.17,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Employee & Management Support Manager,Redfern Travel Ltd,SME,1107818,324.02,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Finance Director,Redfern Travel Ltd,SME,1107818,"-1,087.31",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Finance Group,Redfern Travel Ltd,SME,1107818,116.37,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Forward Scanning,Redfern Travel Ltd,SME,1107818,215.50,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Fylde Office,Redfern Travel Ltd,SME,1107818,505.78,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Gloucester Office,Redfern Travel Ltd,SME,1107818,309.39,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Governance & Policy,Redfern Travel Ltd,SME,1107818,475.73,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Guarantee & Litigation,Redfern Travel Ltd,SME,1107818,163.78,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,HR,Redfern Travel Ltd,SME,1107818,"1,403.37",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,HR Group,Redfern Travel Ltd,SME,1107818,"3,944.45",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,HR Operations,Redfern Travel Ltd,SME,1107818,132.54,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Hull Office,Redfern Travel Ltd,SME,1107818,127.40,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Internal Audit,Redfern Travel Ltd,SME,1107818,399.48,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Internal Solutions Group,Redfern Travel Ltd,SME,1107818,"1,904.63",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,International Unit,Redfern Travel Ltd,SME,1107818,706.62,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,IS Service Delivery,Redfern Travel Ltd,SME,1107818,"1,320.16",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Leicester Office,Redfern Travel Ltd,SME,1107818,304.31,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Local Lawyer Group,Redfern Travel Ltd,SME,1107818,"2,131.26",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,LR Connect Portfolio,Redfern Travel Ltd,SME,1107818,"1,875.74",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Nottingham Office,Redfern Travel Ltd,SME,1107818,438.37,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Organisation & Employee Development,Redfern Travel Ltd,SME,1107818,326.82,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Peterborough Office,Redfern Travel Ltd,SME,1107818,28.71,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Plymouth Office,Redfern Travel Ltd,SME,1107818,125.45,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Product Development & Management,Redfern Travel Ltd,SME,1107818,601.01,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: Digital by Default,Redfern Travel Ltd,SME,1107818,"9,093.60",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: e-Enablement,Redfern Travel Ltd,SME,1107818,"1,901.05",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: IT Foundations,Redfern Travel Ltd,SME,1107818,88.13,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Projects and Programme Centre,Redfern Travel Ltd,SME,1107818,260.31,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Property Asset Management Group,Redfern Travel Ltd,SME,1107818,"1,003.91",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Registration Legal Services Group,Redfern Travel Ltd,SME,1107818,76.62,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Research & Data Mining,Redfern Travel Ltd,SME,1107818,131.12,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Strategy Team,Redfern Travel Ltd,SME,1107818,356.32,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Survey & Mapping Services,Redfern Travel Ltd,SME,1107818,697.84,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Technology Group,Redfern Travel Ltd,SME,1107818,968.50,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Telford Office,Redfern Travel Ltd,SME,1107818,176.67,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Wales Office,Redfern Travel Ltd,SME,1107818,"1,102.13",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Corporate Assurance,Redfern Travel Ltd,SME,1107818,179.94,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Birkenhead Office,Redfern Travel Ltd,SME,1107965,593.04,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Business Development,Redfern Travel Ltd,SME,1107965,"1,022.78",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Central Facilities Management Team,Redfern Travel Ltd,SME,1107965,"2,225.26",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Central Operations Group,Redfern Travel Ltd,SME,1107965,"4,595.99",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Chief Executives Office,Redfern Travel Ltd,SME,1107965,"1,026.04",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Commercial & Customer Strategy & Performance,Redfern Travel Ltd,SME,1107965,"1,205.47",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Commercial Director,Redfern Travel Ltd,SME,1107965,463.72,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Corp Procurement,Redfern Travel Ltd,SME,1107965,401.61,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Corporate Legal Services,Redfern Travel Ltd,SME,1107965,271.08,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Coventry Office,Redfern Travel Ltd,SME,1107965,71.48,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Croydon Office,Redfern Travel Ltd,SME,1107965,146.84,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Dir: (Statutory) Commercial & Customer,Redfern Travel Ltd,SME,1107965,"2,476.31",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Information Systems,Redfern Travel Ltd,SME,1107965,108.95,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Legal Services,Redfern Travel Ltd,SME,1107965,105.32,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Director of Operations,Redfern Travel Ltd,SME,1107965,155.04,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Durham Office,Redfern Travel Ltd,SME,1107965,461.75,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Finance Director,Redfern Travel Ltd,SME,1107965,157.11,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Finance Group,Redfern Travel Ltd,SME,1107965,79.38,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Fylde Office,Redfern Travel Ltd,SME,1107965,46.01,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Gloucester Office,Redfern Travel Ltd,SME,1107965,345.49,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Governance & Policy,Redfern Travel Ltd,SME,1107965,260.31,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Guarantee & Litigation,Redfern Travel Ltd,SME,1107965,148.86,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,HR,Redfern Travel Ltd,SME,1107965,"2,104.89",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,HR Group,Redfern Travel Ltd,SME,1107965,"2,581.24",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,HR Operations,Redfern Travel Ltd,SME,1107965,252.54,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Hull Office,Redfern Travel Ltd,SME,1107965,265.50,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Internal Audit,Redfern Travel Ltd,SME,1107965,515.17,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Internal Solutions Group,Redfern Travel Ltd,SME,1107965,"1,989.33",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,International Unit,Redfern Travel Ltd,SME,1107965,259.17,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,IS Service Delivery,Redfern Travel Ltd,SME,1107965,"1,411.01",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Land Charges,Redfern Travel Ltd,SME,1107965,76.67,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Learning and Development,Redfern Travel Ltd,SME,1107965,86.97,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Leicester Office,Redfern Travel Ltd,SME,1107965,450.24,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Local Lawyer Group,Redfern Travel Ltd,SME,1107965,"1,496.62",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,LR Connect Portfolio,Redfern Travel Ltd,SME,1107965,"1,241.44",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Marketing Services Team,Redfern Travel Ltd,SME,1107965,105.09,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,National Lawyer Training,Redfern Travel Ltd,SME,1107965,121.54,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Nottingham Office,Redfern Travel Ltd,SME,1107965,298.78,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Peterborough Office,Redfern Travel Ltd,SME,1107965,62.38,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Product Development & Management,Redfern Travel Ltd,SME,1107965,512.54,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: Digital by Default,Redfern Travel Ltd,SME,1107965,"9,484.82",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: e-Enablement,Redfern Travel Ltd,SME,1107965,757.39,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Prog: IT Foundations,Redfern Travel Ltd,SME,1107965,644.31,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Property Asset Management Group,Redfern Travel Ltd,SME,1107965,"1,199.51",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Registration Legal Services Group,Redfern Travel Ltd,SME,1107965,444.57,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Research & Data Mining,Redfern Travel Ltd,SME,1107965,156.36,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Strategy Team,Redfern Travel Ltd,SME,1107965,956.16,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Survey & Mapping Services,Redfern Travel Ltd,SME,1107965,663.88,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Technology Group,Redfern Travel Ltd,SME,1107965,"1,091.17",Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Telford Office,Redfern Travel Ltd,SME,1107965,132.20,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Wales Office,Redfern Travel Ltd,SME,1107965,261.83,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Weymouth Office,Redfern Travel Ltd,SME,1107965,71.33,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,30/04/2015,Travel & Subsistence General Duty,Corporate Assurance,Redfern Travel Ltd,SME,1107965,236.59,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Birkenhead Office,Royal Mail,Large,1106515,"2,579.10",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Coventry Office,Royal Mail,Large,1106515,"8,340.73",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Croydon Office,Royal Mail,Large,1106515,"1,931.40",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Durham Office,Royal Mail,Large,1106515,"6,501.93",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Fylde Office,Royal Mail,Large,1106515,"3,009.25",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Gloucester Office,Royal Mail,Large,1106515,"2,458.24",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Hull Office,Royal Mail,Large,1106515,"2,598.81",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,IS Service Delivery,Royal Mail,Large,1106515,"15,395.59",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Leicester Office,Royal Mail,Large,1106515,"1,938.05",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Nottingham Office,Royal Mail,Large,1106515,"3,425.53",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Peterborough Office,Royal Mail,Large,1106515,"2,551.45",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Plymouth Office,Royal Mail,Large,1106515,"4,668.17",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Telford Office,Royal Mail,Large,1106515,"2,234.64",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Wales Office,Royal Mail,Large,1106515,"14,911.37",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Letter Post,Weymouth Office,Royal Mail,Large,1106515,"1,950.63",Letter Post,Administration
+Land Registry,Land Registry,20/04/2015,Parcel and Datapost,Peterborough Office,Royal Mail,Large,1106515,0.50,Parcel and Datapost,Administration
+Land Registry,Land Registry,10/04/2015,Major Property Maintenance Projects,Central Facilities Management Team,Sitec Building and Maintenance Ltd,SME,1105576,"80,379.74",Major Property Maintenance Projects,Administration
+Land Registry,Land Registry,30/04/2015,Fixed Asset Interface Account,Balance Sheet,Software Box Ltd,SME,1107668,"285,320.33",Computer Assets,Administration
+Land Registry,Land Registry,30/04/2015,Computer Equipment Maintenance,IS Service Delivery,Software Box Ltd,SME,1107668,"45,873.78",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Governance & Policy,South Hams District Council,Large,1103042,"4,560.00",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,RFS11 - Plymouth,South Hams District Council,Large,1103043,"7,987.00",Rates Payable,Administration
+Land Registry,Land Registry,20/04/2015,Fixed Asset Interface Account,Balance Sheet,Specialist Computer Centres Plc - SCC,Large,1104664,"125,676.74",Computer Assets,Administration
+Land Registry,Land Registry,07/04/2015,Computer Equipment Maintenance,IS Service Delivery,Specialist Computer Centres Plc - SCC,Large,1104663,"467,445.00",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,20/04/2015,Computer Equipment Maintenance,IS Service Delivery,Specialist Computer Centres Plc - SCC,Large,1104664,"21,827.27",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,20/04/2015,Computer Equipment Maintenance,IS Service Delivery,Specialist Computer Centres Plc - SCC,Large,1104671,"437,573.54",Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,02/04/2015,Software as a Service (Cloud),IS Service Delivery,Specialist Computer Centres Plc - SCC,Large,1104662,"111,714.54",Software as a Service (Cloud),Administration
+Land Registry,Land Registry,24/04/2015,Software as a Service (Cloud),IS Service Delivery,Specialist Computer Centres Plc - SCC,Large,1107231,"193,030.52",Software as a Service (Cloud),Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Telford Office,Telford & Wrekin Council,Large,1103039,"25,390.00",Rates Payable,Administration
+Land Registry,Land Registry,27/04/2015,Rates Payable,Gloucester Computer Centre,Tewkesbury Borough Council,Large,1101942,"11,783.00",Rates Payable,Administration
+Land Registry,Land Registry,08/04/2015,Maps & Plans Data Migration,Forward Scanning,TNT (UK) Ltd,Large,1105125,"207,188.60",Maps & Plans Data Migration,Administration
+Land Registry,Land Registry,15/04/2015,RFS Outsourced Services,Central RFS,TNT (UK) Ltd,Large,1106067,"114,652.68",File Store Outsourced Services,Administration
+Land Registry,Land Registry,16/04/2015,RFS Outsourced Services,Central RFS,TNT (UK) Ltd,Large,1106288,"188,116.21",File Store Outsourced Services,Administration
+Land Registry,Land Registry,28/04/2015,Consultancy Non-IT Advice Only,LR Connect Portfolio,UK Shared Business Services Ltd,Large,1103921,"23,205.00",Consultancy Non-IT Advice Only,Administration
+Land Registry,Land Registry,20/04/2015,Data Network Lines,IS Service Delivery,Vodafone Corporate Ltd,Large,1105898,"78,106.60",Data Network Lines,Administration
+Land Registry,Land Registry,07/04/2015,Rates Payable,Weymouth Office,West Dorset District Council,Large,1104080,"19,352.50",Rates Payable,Administration
+Land Registry,Land Registry,02/04/2015,Rates Payable,Birkenhead Office,Wirral Metrpolitan Borough Council,Large,1103044,"3,524.50",Rates Payable,Administration
+Land Registry,Land Registry,02/04/2015,Rates Payable,Birkenhead Office,Wirral Metrpolitan Borough Council,Large,1103045,"25,143.00",Rates Payable,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Birkenhead Office,XMA Limited,Large,1105908,"7,914.57",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Coventry Office,XMA Limited,Large,1105908,"10,148.90",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Croydon Office,XMA Limited,Large,1105908,"2,303.23",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Durham Office,XMA Limited,Large,1105908,"5,906.67",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Fylde Office,XMA Limited,Large,1105908,"2,937.34",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Gloucester Office,XMA Limited,Large,1105908,"5,311.34",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Hull Office,XMA Limited,Large,1105908,"6,274.87",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Internal Solutions Group,XMA Limited,Large,1105908,923.27,Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Leicester Office,XMA Limited,Large,1105908,"3,385.89",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Nottingham Office,XMA Limited,Large,1105908,"3,286.30",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Plymouth Office,XMA Limited,Large,1105908,"7,017.04",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Telford Office,XMA Limited,Large,1105908,"3,430.94",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Wales Office,XMA Limited,Large,1105908,"5,918.81",Computer Equipment Consumables,Administration
+Land Registry,Land Registry,14/04/2015,Computer Equipment Consumables,Weymouth Office,XMA Limited,Large,1105908,"5,193.88",Computer Equipment Consumables,Administration

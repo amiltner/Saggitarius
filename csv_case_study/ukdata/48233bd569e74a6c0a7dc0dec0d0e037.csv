@@ -1,0 +1,20 @@
+Year,North East Area in thousand hectares,North West and Merseyside Area in thousand hectares,Yorkshire & The Humber Area in thousand hectares,East Midlands Area in thousand hectares,West Midlands Area in thousand hectares,Eastern Area in thousand hectares,South East and London Area in thousand hectares,South West Area in thousand hectares,Wales Area in thousand hectares,Scotland Area in thousand hectares,Northern Ireland Area in thousand hectares,North East Yield in tonnes per hectare,North West and Merseyside Yield in tonnes per hectare,Yorkshire & The Humber Yield in tonnes per hectare,East Midlands Yield in tonnes per hectare,West Midlands Yield in tonnes per hectare,Eastern Yield in tonnes per hectare,South East and London Yield in tonnes per hectare,South West Yield in tonnes per hectare,Wales Yield in tonnes per hectare,Scotland Yield in tonnes per hectare,Northern Ireland Yield in tonnes per hectare,North East Production in thousand tonnes,North West and Merseyside Production in thousand tonnes,Yorkshire & The Humber Production in thousand tonnes,East Midlands Production in thousand tonnes,West Midlands Production in thousand tonnes,Eastern Production in thousand tonnes,South East and London Production in thousand tonnes,South West Production in thousand tonnes,Wales Production in thousand tonnes,Scotland Production in thousand tonnes,Northern Ireland Production in thousand tonnes
+1999,26,20,81,67,50,114,50,66,11,59,5,5.9,5.2,6.5,6.3,5.4,6.1,5.9,5.6,5.7,6.6,5.7, 156, 105, 523, 418, 271, 691, 298, 370, 61, 384, 29
+2000,33,21,89,74,52,121,51,69,11,62,5,6.3,5.8,6.5,6.3,5.8,6.4,6.1,5.7,5.4,7.4,6.9, 208, 121, 581, 472, 302, 780, 306, 398, 60, 455, 36
+2001,25,7,71,62,33,109,40,52,6,55,3,5.1,4.4,6.2,5.8,5.2,5.9,5.8,5.3,5.5,6.2,6.3, 127, 30, 436, 357, 173, 647, 230, 275, 34, 345, 18
+2002,31,18,83,69,46,116,45,63,11,61,4,6.6,5.5,6.7,6.3,6.2,6.2,6.2,5.9,5.7,6.7,5.4, 201, 97, 557, 430, 284, 719, 280, 372, 60, 410, 21
+2003,26,14,70,57,37,95,37,50,9,56,4,6.4,5.6,6.6,6.0,5.8,6.3,6.1,5.8,5.6,7.0,5.6, 168, 81, 461, 346, 213, 599, 225, 290, 52, 389, 23
+2004,25,16,66,48,32,86,32,47,9,56,5,6.6,5.6,6.7,6.4,5.9,6.1,6.4,6.1,6.3,7.2,6.9, 166, 87, 444, 307, 189, 522, 203, 284, 55, 406, 31
+2005,25,14,64,43,30,78,27,41,8,51,4,6.7,5.3,6.7,6.6,6.0,6.3,6.6,6.0,6.0,7.4,6.0, 166, 74, 432, 283, 180, 492, 178, 249, 45, 381, 24
+2006,25,15,66,42,29,78,26,41,7,54,5,6.9,5.6,6.9,6.8,6.5,6.5,6.6,6.3,5.5,7.7,6.7, 175, 82, 456, 285, 190, 511, 168, 256, 39, 415, 31
+2007,26,14,68,43,30,76,24,40,7,53,5,6.6,5.5,6.3,6.0,5.5,5.9,5.4,5.6,5.5,7.3,6.2, 168, 77, 427, 256, 163, 445, 129, 220, 37, 384, 29
+2008,28,16,74,46,31,82,26,43,7,58,6,6.7,5.7,6.9,7.0,6.1,6.8,6.6,6.2,6.1,7.4,7.0, 185, 94, 505, 322, 191, 553, 175, 268, 41, 424, 43
+2009 published,27,15,76,47,33,84,27,44,6,45,5,6.1,5.5,6.9,6.1,6.0,6.1,6.6,6.3,6.0,7.1,6.7, 165, 86, 528, 284, 197, 518, 181, 277, 38, 318, 34
+2009 revised (a),27,15,75,46,32,83,27,43,6,45,5,6.1,5.5,6.9,6.1,6.0,6.1,6.6,6.3,6.0,7.1,6.7, 162, 83, 519, 278, 192, 507, 176, 270, 38, 318, 34
+2010,27,15,72,41,29,73,25,38,7,48,7,6.3,5.6,6.4,6.1,6.4,6.1,6.8,6.3,6.2,7.0,7.3, 170, 84, 463, 252, 189, 445, 167, 239, 45, 337, 50
+2011,25,14,66,38,27,69,23,36,8,45,7,6.4,6.0,6.7,5.8,6.1,4.7,6.4,6.5,6.3,7.1,7.1, 161, 84, 444, 221, 164, 325, 147, 232, 51, 323, 49
+2012,27,15,72,41,29,77,26,41,8,43,5,5.8,5.5,6.8,6.5,6.0,6.9,6.6,5.6,5.7,6.5,6.1, 160, 82, 490, 264, 177, 528, 172, 230, 44, 277, 33
+2013,21,11,55,32,22,62,20,33,5,43,5,5.8,5.7,6.6,6.4,6.8,6.5,5.6,6.4,6.3,6.6,7.0, 122, 63, 368, 207, 151, 403, 112, 208, 31, 281, 37
+2014, 29, 16, 77, 46, 33, 85, 30, 46, 7, 53, 7,6.9,5.3,7.6,7.1,6.7,7.4,7.1,6.9,6.5,7.8,7.1, 203, 86, 583, 328, 226, 634, 212, 321, 43, 411, 48
+2015, 30, 17, 80, 48, 35, 86, 31, 48, 7, 52, 7,7.5,6.8,8.3,7.9,7.8,7.3,7.7,7.1,7.2,7.8,7.7, 226, 116, 668, 377, 272, 630, 239, 344, 50, 406, 54
+####(a) 2009 area and production results have been revised to be on a comparable basis with 2010. Yields remain as previously published. Please see the sheet titled 'notes' for more information.####,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

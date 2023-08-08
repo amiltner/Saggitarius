@@ -1,0 +1,5001 @@
+#,Phrase,Number of Searches,Other pages,NoResult pages,Results pages,Specific-product pages
+1,jobs,"11,061",0,0,0.96,0.00
+2,income support,"2,818",0,0,0.97,0.02
+3,[None],"2,444",0,-1,0.18,0.01
+4,student finance,"1,989",0,0,0.96,0.00
+5,job search,"1,375",0,0,0.95,0.01
+6,dvla,"1,293",0,0,0.97,0.01
+7,theory test,"1,218",0,0,0.97,0.01
+8,redundancy,"1,207",0,0,0.96,0.01
+9,housing benefit,"1,201",0,0,0.98,0.02
+10,dla,"1,168",0,0,0.97,0.01
+11,attendance allowance,"1,099",0,0,0.97,0.02
+12,minimum wage,"1,081",0,0,0.94,0.02
+13,child benefit,"1,048",0,0,0.96,0.00
+14,job,"1,017",0,0,0.96,0.01
+15,tax credits,969,0,0,0.97,0.01
+16,driving test,962,0,0,0.97,0.02
+17,passport,955,0,0,0.96,0.01
+18,carers allowance,933,0,0,0.96,0.01
+19,working tax credit,930,0,0,0.97,0.00
+20,sorn,916,0,0,0.97,0.01
+21,esa,908,0,0,0.95,0.00
+22,job seekers allowance,895,0,0,0.97,0.01
+23,car tax,890,0,0,0.96,0.01
+24,tax disc,866,0,0,0.97,0.00
+25,maternity,862,0,0,0.96,0.01
+26,change of address,788,0,0,0.97,0.02
+27,crisis loan,787,0,0,0.97,0.02
+28,national insurance,783,0,0,0.96,0.02
+29,jobseekers allowance,776,0,0,0.96,0.01
+30,ema,764,0,0,0.96,0.00
+31,incapacity benefit,756,0,0,0.96,0.02
+32,v62,753,0,0,0.96,0.01
+33,cv,736,0,0,0.96,0.03
+34,benefits,725,0,0,0.95,0.00
+35,pension credit,704,0,0,0.97,0.01
+36,jsa,701,0,0,0.97,0.01
+37,budgeting loan,688,0,0,0.97,0.01
+38,working tax credits,660,0,0,0.97,0.01
+39,maternity leave,626,0,0,0.97,0.01
+40,child tax credit,586,0,0,0.96,0.01
+41,council tax,580,0,0,0.97,0.01
+42,disability living allowance,579,0,0,0.97,0.01
+43,grants,571,0,0,0.98,0.00
+44,maternity pay,553,0,0,0.95,0.01
+45,community care grant,538,0,0,0.95,0.03
+46,loans,527,0,0,0.96,0.01
+47,ssp,525,0,0,0.95,0.03
+48,pension forecast,514,0,0,0.98,0.01
+49,social fund,497,0,0,0.98,0.01
+50,maternity allowance,481,0,0,0.95,0.03
+51,change address,480,0,0,0.96,0.02
+52,passports,468,0,0,0.98,0.00
+53,v317,453,0,0,0.97,0.01
+54,tax,444,0,0,0.97,0.00
+55,forms,434,0,0,0.97,0.00
+56,driving licence,429,0,0,0.97,0.01
+57,sick pay,428,0,0,0.94,0.02
+58,pn1,415,0,0,0.96,0.02
+59,job vacancies,411,0,0,0.97,0.01
+60,self employed,409,0,0,0.98,0.01
+61,national insurance number,406,0,0,0.96,0.01
+62,road tax,398,0,0,0.96,0.01
+63,jobseekers,389,0,0,0.97,0.01
+64,child tax credits,387,0,0,0.96,0.00
+65,job seekers,385,0,0,0.98,0.00
+66,job centre,383,0,0,0.97,0.00
+67,student loan,381,0,0,0.95,0.01
+68,practical test,376,0,0,0.98,0.00
+69,taxdisc,367,0,0,0.97,0.00
+70,mot,364,0,0,0.96,0.01
+71,self employment,354,0,0,0.97,0.01
+72,pensions,353,0,0,0.95,0.01
+73,childcare,339,0,0,0.97,0.00
+74,smp,338,0,0,0.95,0.03
+75,employment and support allowance,334,0,0,0.97,0.01
+76,application form,325,0,0,0.96,0.00
+77,v14,321,0,0,0.96,0.02
+78,driving,316,0,0,0.99,0.01
+79,maternity grant,313,0,0,0.96,0.01
+80,d1,312,0,0,0.98,0.01
+81,pff1,307,0,0,0.97,0.01
+82,social services,304,0,0,0.98,0.00
+83,paternity leave,302,0,0,0.95,0.00
+84,dsa,298,0,0,0.96,0.01
+85,vacancies,297,0,0,0.97,0.01
+86,sure start maternity grant,288,0,0,0.95,0.03
+87,job centre plus,283,0,0,0.99,0.00
+88,national minimum wage,282,0,0,0.95,0.01
+89,holiday entitlement,281,0,0,0.96,0.01
+90,d798,279,0,0,0.97,0.02
+91,state pension,275,0,0,0.96,0.01
+92,pff2,271,0,0,0.97,0.02
+93,pension,271,0,0,0.93,0.00
+94,disability,267,0,0,0.97,0.00
+95,p46,266,0,0,0.97,0.01
+96,budgeting loans,259,0,0,0.98,0.01
+97,statutory sick pay,258,0,0,0.96,0.01
+98,v10,257,0,0,0.99,0.01
+99,divorce,257,0,0,0.96,0.02
+100,jobsearch,254,0,0,0.97,0.00
+101,crisis loans,251,0,0,0.99,0.00
+102,jobcentre plus,248,0,0,0.97,0.01
+103,v5c,246,0,0,0.98,0.01
+104,tax credit,246,0,0,0.95,0.02
+105,provisional,242,0,0,0.97,0.01
+106,holiday pay,233,0,0,0.98,0.01
+107,student loans,227,0,0,0.98,0.00
+108,grant,223,0,0,0.98,0.01
+109,warehouse,222,0,0,0.97,0.00
+110,maintenance grant,221,0,0,0.93,0.04
+111,theory,220,0,0,0.95,0.01
+112,book theory test,220,0,0,0.98,0.02
+113,provisional licence,217,0,0,0.98,0.01
+114,winter fuel allowance,216,0,0,0.99,0.00
+115,ptg1,215,0,0,0.97,0.02
+116,pregnancy,214,0,0,0.98,0.00
+117,employment support allowance,213,0,0,0.95,0.01
+118,health and safety,213,0,0,0.97,0.00
+119,practical driving test,209,0,0,0.98,0.01
+120,contact,208,0,0,0.97,0.00
+121,pn1 form,207,0,0,0.96,0.01
+122,driving license,206,0,0,0.97,0.02
+123,working time regulations,206,0,0,0.97,0.01
+124,address,206,0,0,0.98,0.00
+125,passport fees,204,0,0,0.98,0.01
+126,cleaner,203,0,0,0.94,0.01
+127,cancellations,202,0,0,0.94,0.01
+128,budget loan,201,0,0,0.96,0.01
+129,death,199,0,0,0.95,0.01
+130,housing,197,0,0,0.96,0.01
+131,tupe,196,0,0,0.95,0.03
+132,d1 form,195,0,0,0.98,0.01
+133,apprenticeships,195,0,0,0.98,0.00
+134,contact number,194,0,0,0.93,0.00
+135,loan,193,0,0,0.97,0.02
+136,student,193,0,0,0.95,0.00
+137,council tax benefit,192,0,0,0.96,0.02
+138,retail,189,0,0,0.94,0.00
+139,redundancy calculator,189,0,0,0.89,0.03
+140,probate,189,0,0,0.97,0.01
+141,log in,189,0,0,0.96,0.00
+142,holidays,187,0,0,0.98,0.00
+143,carers,185,0,0,0.96,0.00
+144,birth certificate,185,0,0,0.98,0.01
+145,pension credits,184,0,0,0.99,0.01
+146,phone number,183,0,0,0.93,0.00
+147,blue badge,183,0,0,0.97,0.01
+148,housing benefits,180,0,0,0.97,0.01
+149,heating allowance,180,0,0,1.00,0.00
+150,v5,179,0,0,0.94,0.00
+151,widows pension,178,0,0,0.98,0.00
+152,bank holidays,178,0,0,0.97,0.01
+153,jobcentre,176,0,0,0.99,0.00
+154,vat,176,0,0,0.99,0.01
+155,childminders,176,0,0,0.97,0.01
+156,sure start,175,0,0,0.96,0.02
+157,vic,168,0,0,0.99,0.01
+158,alg,168,0,0,0.95,0.01
+159,calculator,167,0,0,0.96,0.01
+160,winter fuel payment,165,0,0,0.97,0.02
+161,test routes,165,0,0,0.99,0.00
+162,flexible working,165,0,0,0.95,0.00
+163,book driving test,165,0,0,0.98,0.01
+164,income tax,165,0,0,0.95,0.00
+165,incapacity,163,0,0,0.98,0.00
+166,benefit fraud,162,0,0,0.97,0.00
+167,next step,162,0,0,0.91,0.01
+168,test centres,161,0,0,0.97,0.00
+169,health in pregnancy grant,160,0,0,0.97,0.02
+170,retirement age,160,0,0,0.94,0.01
+171,hazard perception,159,0,0,0.96,0.01
+172,discrimination,156,0,0,0.94,0.01
+173,speed limits,156,0,0,0.98,0.01
+174,benefit calculator,156,0,0,0.96,0.03
+175,log book,155,0,0,0.96,0.01
+176,disability allowance,154,0,0,0.97,0.01
+177,statutory maternity pay,154,0,0,0.93,0.02
+178,new deal,152,0,0,0.95,0.03
+179,pr1,151,0,0,0.96,0.01
+180,mobility allowance,150,0,0,0.98,0.01
+181,dvla address,150,0,0,0.97,0.01
+182,paternity,150,0,0,0.94,0.00
+183,benefits calculator,149,0,0,0.96,0.01
+184,gl24,148,0,0,0.97,0.02
+185,change of circumstances,147,0,0,0.96,0.02
+186,employment,146,0,0,0.91,0.00
+187,careers,146,0,0,0.94,0.02
+188,jobcentreplus,145,0,0,0.97,0.01
+189,cleaning,144,0,0,0.95,0.00
+190,state pension forecast,144,0,0,0.95,0.02
+191,data protection act,144,0,0,0.98,0.00
+192,training,143,0,0,0.98,0.00
+193,retirement,141,0,0,0.98,0.02
+194,book practical test,141,0,0,0.97,0.01
+195,volunteering,141,0,0,0.96,0.02
+196,pff1 form,139,0,0,0.98,0.01
+197,marriage,139,0,0,0.97,0.01
+198,contract of employment,139,0,0,0.94,0.02
+199,lost driving licence,138,0,0,0.94,0.01
+200,mobility,137,0,0,0.99,0.00
+201,dwp,137,0,0,0.99,0.01
+202,provisional license,136,0,0,0.94,0.02
+203,ESA,136,0,0,0.97,0.00
+204,change practical test,136,0,0,0.97,0.01
+205,highway code,135,0,0,0.93,0.00
+206,carers credit,135,0,0,0.97,0.01
+207,part time,135,0,0,0.99,0.00
+208,gateway,135,0,0,0.99,0.00
+209,bus pass,135,0,0,0.98,0.01
+210,complaints,134,0,0,0.98,0.01
+211,v888,133,0,0,0.96,0.03
+212,equality act,133,0,0,0.96,0.01
+213,vehicle check,132,0,0,0.97,0.02
+214,csa,132,0,0,0.99,0.01
+215,free school meals,132,0,0,1.00,0.00
+216,change of name,132,0,0,0.98,0.01
+217,security,131,0,0,0.96,0.01
+218,benefits advisor,131,0,0,0.93,0.03
+219,pension forcast,131,0,0,0.99,0.01
+220,voluntary redundancy,131,0,0,0.97,0.00
+221,bereavement,130,0,0,0.99,0.01
+222,phone numbers,130,0,0,0.96,0.00
+223,find a job,129,0,0,0.97,0.01
+224,fees,127,0,0,0.98,0.01
+225,housing benifit,127,0,0,0.99,0.00
+226,unemployment benefit,126,0,0,0.97,0.01
+227,p45,126,0,0,1.00,0.00
+228,data protection,124,0,0,0.94,0.00
+229,access to work,123,0,0,0.94,0.03
+230,debt,123,0,0,0.98,0.00
+231,contact us,123,0,0,0.94,0.01
+232,hgv,123,0,0,0.97,0.01
+233,holiday,122,0,0,0.94,0.01
+234,schools,122,0,0,0.96,0.01
+235,permitted work,122,0,0,0.98,0.02
+236,fraud,122,0,0,0.96,0.01
+237,ni,122,0,0,0.97,0.01
+238,benifits,122,0,0,0.95,0.00
+239,redundancy pay,121,0,0,0.94,0.02
+240,birth certificates,121,0,0,0.97,0.01
+241,p60,120,0,0,0.99,0.00
+242,winter fuel,120,0,0,0.94,0.03
+243,show me tell me,120,0,0,0.98,0.01
+244,parental leave,120,0,0,0.99,0.01
+245,passport renewal,119,0,0,0.95,0.02
+246,hmrc,119,0,0,0.96,0.01
+247,cbt,119,0,0,0.95,0.02
+248,login,118,0,0,0.97,0.01
+249,ni number,117,0,0,0.97,0.01
+250,paternity pay,117,0,0,0.97,0.01
+251,child care,117,0,0,0.97,0.00
+252,education,116,0,0,0.95,0.01
+253,student finance england,116,0,0,0.98,0.01
+254,rapid reclaim,116,0,0,0.99,0.01
+255,national insurance contributions,115,0,0,0.95,0.02
+256,savings,115,0,0,0.93,0.01
+257,adult learning grant,114,0,0,0.98,0.00
+258,equal opportunities,112,0,0,0.93,0.00
+259,all jobs,112,0,0,0.97,0.01
+260,sickness,111,0,0,0.96,0.00
+261,adoption,111,0,0,0.98,0.01
+262,employers,111,0,0,1.00,0.00
+263,stamp duty,110,0,0,0.98,0.01
+264,winter fuel payments,107,0,0,0.96,0.02
+265,application forms,107,0,0,0.93,0.02
+266,crb,107,0,0,0.96,0.01
+267,child benefits,106,0,0,0.92,0.02
+268,motoring,106,0,0,0.98,0.00
+269,construction,106,0,0,0.94,0.01
+270,vehicle enquiry,105,0,0,0.97,0.02
+271,working hours,104,0,0,0.95,0.01
+272,contact dvla,104,0,0,0.97,0.02
+273,d4,104,0,0,0.96,0.03
+274,br19,103,0,0,0.92,0.02
+275,driving jobs,103,0,0,0.97,0.01
+276,parking,103,0,0,0.98,0.00
+277,student finance calculator,102,0,0,0.92,0.01
+278,sickness benefit,102,0,0,0.98,0.02
+279,carer,101,0,0,0.97,0.00
+280,job grant,100,0,0,0.99,0.01
+281,student grant,100,0,0,0.99,0.00
+282,name change,100,0,0,0.99,0.01
+283,working tax,100,0,0,0.99,0.00
+284,driving theory test,100,0,0,0.93,0.02
+285,savings credit,99,0,0,0.99,0.01
+286,v890,98,0,0,0.96,0.01
+287,planning,98,0,0,0.99,0.01
+288,child trust fund,97,0,0,0.93,0.04
+289,mortgage,97,0,0,0.99,0.00
+290,tax bands,96,0,0,0.98,0.01
+291,v55/5,96,0,0,0.97,0.03
+292,nhs,96,0,0,0.95,0.00
+293,benefits adviser,95,0,0,0.98,0.01
+294,cleaning jobs,95,0,0,0.96,0.00
+295,adi,95,0,0,0.99,0.01
+296,lost licence,94,0,0,1.00,0.00
+297,cv builder,94,0,0,0.92,0.02
+298,quangos,94,0,0,0.98,0.01
+299,provisional driving licence,93,0,0,0.96,0.04
+300,v20,93,0,0,0.98,0.00
+301,ehic,93,0,0,0.97,0.01
+302,v778,92,0,0,0.94,0.03
+303,smi,92,0,0,0.94,0.03
+304,back to work,92,0,0,0.95,0.03
+305,childminder,92,0,0,0.94,0.02
+306,motability,91,0,0,0.99,0.01
+307,number plates,91,0,0,1.00,0.00
+308,serps,91,0,0,1.00,0.00
+309,signing on,90,0,0,0.96,0.01
+310,career development loan,90,0,0,0.90,0.07
+311,job application form,90,0,0,0.99,0.00
+312,change of circumstances form,90,0,0,0.97,0.03
+313,lgv,89,0,0,1.00,0.00
+314,part time jobs,89,0,0,0.95,0.02
+315,catering,89,0,0,0.97,0.01
+316,government gateway,88,0,0,0.97,0.00
+317,employment law,87,0,0,0.93,0.00
+318,visa,87,0,0,0.96,0.01
+319,e111,87,0,0,0.99,0.00
+320,courses,86,0,0,0.99,0.00
+321,change of circumstance,86,0,0,0.96,0.02
+322,community care grants,86,0,0,0.93,0.00
+323,sure start grant,86,0,0,0.98,0.01
+324,hc1,86,0,0,0.96,0.03
+325,driving test routes,85,0,0,0.99,0.01
+326,hazard perception test,84,0,0,0.98,0.00
+327,Disability living allowance,84,0,0,0.95,0.03
+328,change driving test,84,0,0,0.97,0.00
+329,digital tachograph,83,0,0,0.97,0.00
+330,telephone number,83,0,0,0.97,0.00
+331,careers advice,83,0,0,0.97,0.00
+332,business,83,0,0,0.95,0.00
+333,quango,83,0,0,0.99,0.00
+334,pr1 form,83,0,0,0.98,0.01
+335,home office,83,0,0,0.97,0.00
+336,working time directive,82,0,0,0.96,0.03
+337,student grants,82,0,0,0.96,0.00
+338,funeral,81,0,0,0.96,0.01
+339,immigration,81,0,0,0.95,0.02
+340,second passport,81,0,0,0.99,0.00
+341,maternity rights,81,0,0,0.97,0.01
+342,nin,81,0,0,0.98,0.01
+343,social fund loan,81,0,0,0.98,0.01
+344,pay court fine,81,0,0,0.93,0.00
+345,tax codes,81,0,0,0.90,0.00
+346,driver,80,0,0,1.00,0.00
+347,benefit advisor,80,0,0,0.94,0.03
+348,wills,80,0,0,0.94,0.01
+349,iva,80,0,0,0.98,0.01
+350,human rights,80,0,0,0.92,0.01
+351,maintenance loan,80,0,0,0.97,0.02
+352,cold weather payments,80,0,0,0.97,0.02
+353,national insurance card,79,0,0,0.99,0.00
+354,job center,79,0,0,0.96,0.00
+355,every child matters,79,0,0,0.96,0.00
+356,sex discrimination,79,0,0,0.95,0.00
+357,power of attorney,79,0,0,0.97,0.01
+358,ssp1,79,0,0,0.96,0.02
+359,practice theory test,78,0,0,1.00,0.00
+360,jobcentre plus application form,78,0,0,0.98,0.02
+361,benefit,78,0,0,0.95,0.00
+362,dyslexia,78,0,0,0.98,0.02
+363,disabled students allowance,78,0,0,0.90,0.03
+364,inheritance tax,77,0,0,0.97,0.00
+365,tv licence,77,0,0,0.97,0.00
+366,voluntary work,77,0,0,0.98,0.01
+367,child maintenance,77,0,0,0.97,0.03
+368,job seekers allowence,76,0,0,0.96,0.01
+369,advertise a job,76,0,0,0.98,0.00
+370,breaks,76,0,0,0.91,0.01
+371,childcare vouchers,76,0,0,0.95,0.02
+372,teaching assistant,76,0,0,0.98,0.01
+373,child benifit,75,0,0,1.00,0.00
+374,vosa,75,0,0,0.98,0.00
+375,insurance,75,0,0,0.99,0.01
+376,tax refund,75,0,0,0.95,0.00
+377,v62 form,75,0,0,0.96,0.01
+378,census,75,0,0,1.00,0.00
+379,local authorities,74,0,0,0.92,0.00
+380,tax return,74,0,0,0.99,0.00
+381,dvla phone number,74,0,0,0.99,0.00
+382,Job seekers,74,0,0,0.96,0.00
+383,cpc,74,0,0,0.98,0.00
+384,constructive dismissal,73,0,0,0.96,0.02
+385,bereavement benefit,73,0,0,1.00,0.00
+386,NATIONAL INSURANCE NUMBER,73,0,0,0.94,0.03
+387,student finance address,73,0,0,1.00,0.00
+388,low income,72,0,0,0.98,0.00
+389,changing address,72,0,0,0.99,0.00
+390,dvla local office,72,0,0,0.99,0.00
+391,jobcentre application form,72,0,0,0.97,0.01
+392,budget loans,72,0,0,0.98,0.00
+393,contact numbers,72,0,0,0.97,0.00
+394,appeals,71,0,0,0.97,0.00
+395,land registry,71,0,0,0.98,0.00
+396,pff2 form,71,0,0,0.98,0.02
+397,labourer,71,0,0,0.94,0.00
+398,crisis loan number,71,0,0,1.00,0.00
+399,stopping distances,71,0,0,0.96,0.02
+400,child tax,70,0,0,0.99,0.00
+401,declaration form,70,0,0,0.99,0.00
+402,mot check,70,0,0,1.00,0.00
+403,tax rebate,70,0,0,1.00,0.00
+404,apprenticeship,69,0,0,0.99,0.01
+405,legislation,69,0,0,0.95,0.00
+406,central government,69,0,0,0.90,0.02
+407,self assessment,69,0,0,0.99,0.00
+408,school,69,0,0,0.97,0.00
+409,shop assistant,69,0,0,0.91,0.01
+410,unemployment,69,0,0,0.99,0.00
+411,change name,68,0,0,0.96,0.00
+412,road signs,67,0,0,0.96,0.00
+413,skills account,67,0,0,0.96,0.00
+414,equality act 2010,67,0,0,0.98,0.01
+415,bankruptcy,67,0,0,1.00,0.00
+416,lost passport,67,0,0,0.96,0.00
+417,bursary,67,0,0,0.96,0.00
+418,test,67,0,0,0.97,0.00
+419,telephone numbers,67,0,0,0.95,0.00
+420,self employment credit,67,0,0,0.99,0.01
+421,appeal,66,0,0,0.99,0.00
+422,cold weather payment,66,0,0,0.99,0.01
+423,compassionate leave,66,0,0,1.00,0.00
+424,paye,66,0,0,0.94,0.01
+425,apprentice,66,0,0,0.99,0.01
+426,renewat70,66,0,0,0.92,0.00
+427,register,66,0,0,0.96,0.00
+428,deed poll,65,0,0,0.98,0.01
+429,state pension age,65,0,0,0.99,0.00
+430,students,65,0,0,1.00,0.00
+431,local council,65,0,0,0.97,0.00
+432,health in pregnancy,65,0,0,0.99,0.00
+433,forms and guides,64,0,0,0.99,0.00
+434,receptionist,64,0,0,1.00,0.00
+435,dda,64,0,0,0.91,0.02
+436,pregnancy grant,63,0,0,0.99,0.01
+437,sia,63,0,0,0.96,0.00
+438,passport office,63,0,0,1.00,0.00
+439,bursaries,63,0,0,0.97,0.03
+440,min wage,63,0,0,0.87,0.04
+441,job profiles,63,0,0,0.91,0.01
+442,pgce,63,0,0,0.99,0.01
+443,security jobs,63,0,0,0.96,0.02
+444,state pension profiler,63,0,0,0.88,0.04
+445,lone parent,63,0,0,0.98,0.00
+446,pregnant,63,0,0,0.93,0.01
+447,carer's allowance,63,0,0,0.99,0.00
+448,log on,63,0,0,0.92,0.00
+449,points,62,0,0,0.92,0.04
+450,benefit rates,62,0,0,0.98,0.01
+451,signing off,62,0,0,0.99,0.00
+452,mortgage interest,62,0,0,0.97,0.01
+453,vehicle tax,62,0,0,0.95,0.00
+454,form d1,62,0,0,0.99,0.01
+455,fostering,62,0,0,0.99,0.00
+456,dismissal,61,0,0,0.95,0.04
+457,dvla swansea,61,0,0,1.00,0.00
+458,childcare grant,61,0,0,1.00,0.00
+459,rest breaks,61,0,0,0.96,0.01
+460,change test date,60,0,0,0.83,0.02
+461,pension calculator,60,0,0,0.91,0.03
+462,unemployed,60,0,0,0.91,0.00
+463,passport fee,60,0,0,0.97,0.00
+464,care to learn,60,0,0,0.97,0.01
+465,p46 form,60,0,0,0.95,0.03
+466,industrial injuries,60,0,0,0.99,0.00
+467,part time work,60,0,0,0.99,0.01
+468,moving home,60,0,0,1.00,0.00
+469,moving house,60,0,0,1.00,0.00
+470,bullying,60,0,0,0.96,0.00
+471,address change,60,0,0,0.97,0.00
+472,direct payments,60,0,0,0.97,0.01
+473,d777b,60,0,0,0.97,0.00
+474,maternity benefits,60,0,0,0.89,0.03
+475,theory test booking,60,0,0,0.98,0.02
+476,dvla contact number,59,0,0,1.00,0.00
+477,return to work credit,59,0,0,0.97,0.01
+478,budget,59,0,0,1.00,0.00
+479,incapacity benifit,59,0,0,0.97,0.00
+480,tachograph,59,0,0,0.97,0.00
+481,mental health,59,0,0,0.99,0.00
+482,unfair dismissal,59,0,0,0.96,0.00
+483,d2,58,0,0,1.00,0.00
+484,penalty points,58,0,0,0.99,0.01
+485,car tax refund,58,0,0,0.93,0.02
+486,tax disc refund,58,0,0,0.97,0.03
+487,tuition fees,58,0,0,0.97,0.00
+488,contact student finance,58,0,0,0.94,0.01
+489,smp1,58,0,0,1.00,0.00
+490,digital tachograph card,58,0,0,0.99,0.00
+491,licence,58,0,0,0.99,0.01
+492,tax office,58,0,0,0.95,0.03
+493,booking theory test,57,0,0,1.00,0.00
+494,tax code,57,0,0,0.92,0.05
+495,special support grant,57,0,0,0.99,0.00
+496,job centre application form,57,0,0,0.98,0.01
+497,local authority,57,0,0,0.99,0.00
+498,job centres,57,0,0,0.99,0.00
+499,nursery,57,0,0,0.91,0.03
+500,ls01,57,0,0,0.95,0.03
+501,housing benefit calculator,57,0,0,0.97,0.03
+502,single parent,57,0,0,0.99,0.00
+503,homeless,57,0,0,0.97,0.00
+504,towing,57,0,0,0.97,0.01
+505,bugeting loan,56,0,0,0.96,0.01
+506,moped,56,0,0,0.99,0.01
+507,National Minimum Wage,56,0,0,0.94,0.03
+508,V14,56,0,0,0.98,0.02
+509,in work credit,56,0,0,0.92,0.02
+510,work experience,55,0,0,0.98,0.00
+511,cv template,55,0,0,0.95,0.01
+512,adoption leave,55,0,0,0.95,0.01
+513,passport offices,55,0,0,0.98,0.02
+514,local office,55,0,0,1.00,0.00
+515,citizenship,54,0,0,0.99,0.00
+516,teaching,54,0,0,1.00,0.00
+517,booking driving test,54,0,0,0.98,0.00
+518,disabled,54,0,0,0.99,0.00
+519,driving test centres,54,0,0,0.98,0.00
+520,journey planner,54,0,0,0.94,0.01
+521,chef,54,0,0,1.00,0.00
+522,capital gains tax,54,0,0,0.97,0.00
+523,nursery nurse,54,0,0,0.92,0.00
+524,motoring forms,54,0,0,1.00,0.00
+525,pass plus,54,0,0,0.88,0.03
+526,admin,53,0,0,0.93,0.00
+527,jobseeker allowance,53,0,0,1.00,0.00
+528,volunteer,53,0,0,0.98,0.00
+529,dvla contact,53,0,0,0.97,0.02
+530,free prescriptions,53,0,0,0.98,0.02
+531,budgeting loan form,53,0,0,0.97,0.01
+532,legal aid,53,0,0,0.93,0.00
+533,surestart,53,0,0,1.00,0.00
+534,electoral roll,53,0,0,0.97,0.01
+535,attendence allowance,53,0,0,0.99,0.00
+536,co1,53,0,0,0.93,0.03
+537,show me tell me questions,53,0,0,1.00,0.00
+538,child protection,53,0,0,0.99,0.00
+539,renew driving licence,53,0,0,1.00,0.00
+540,notice,53,0,0,0.96,0.03
+541,driving theory,52,0,0,0.99,0.00
+542,studentfinance,52,0,0,0.96,0.00
+543,mock theory test,52,0,0,0.96,0.03
+544,support worker,52,0,0,0.96,0.00
+545,lost,52,0,0,1.00,0.00
+546,ipcbr1,52,0,0,0.97,0.02
+547,health,52,0,0,0.97,0.00
+548,PFF1,52,0,0,0.98,0.02
+549,sick,52,0,0,0.99,0.00
+550,employment rights,52,0,0,0.97,0.00
+551,funding,52,0,0,0.95,0.03
+552,redundancy payments,52,0,0,1.00,0.00
+553,childminding,52,0,0,1.00,0.00
+554,new claim,52,0,0,0.96,0.03
+555,care homes,51,0,0,0.96,0.02
+556,basic state pension,51,0,0,0.97,0.00
+557,theroy test,51,0,0,0.99,0.00
+558,counterpart,51,0,0,0.97,0.01
+559,roundabouts,51,0,0,0.93,0.02
+560,statistics,51,0,0,0.97,0.00
+561,book test,51,0,0,0.97,0.02
+562,family allowance,51,0,0,0.96,0.02
+563,lost provisional,51,0,0,0.99,0.00
+564,passport application,51,0,0,0.98,0.00
+565,notice period,51,0,0,1.00,0.00
+566,driving licence renewal,51,0,0,0.98,0.00
+567,tuition fee loan request form,51,0,0,0.95,0.03
+568,CRISIS LOANS,51,0,0,0.98,0.00
+569,mortgage help,51,0,0,0.95,0.02
+570,EMPLOYMENT AND SUPPORT ALLOWANCE,50,0,0,1.00,0.00
+571,tax disk,50,0,0,0.97,0.00
+572,hardship,50,0,0,0.96,0.00
+573,retention,50,0,0,0.96,0.00
+574,back to work bonus,50,0,0,1.00,0.00
+575,deaths,50,0,0,0.97,0.02
+576,form d798,49,0,0,0.94,0.02
+577,social loan,49,0,0,0.99,0.00
+578,ptg1 form,49,0,0,1.00,0.00
+579,heating,49,0,0,0.95,0.00
+580,cscs card,49,0,0,0.95,0.02
+581,pay council tax,49,0,0,0.97,0.00
+582,early retirement,49,0,0,0.97,0.02
+583,lost driving license,49,0,0,1.00,0.00
+584,electrician,49,0,0,0.96,0.02
+585,surestart maternity grant,49,0,0,0.98,0.02
+586,lost tax disc,49,0,0,0.98,0.00
+587,cis,49,0,0,0.96,0.00
+588,severe disablement allowance,49,0,0,0.95,0.03
+589,ca5403,48,0,0,0.98,0.00
+590,google,48,0,0,0.94,0.00
+591,c1,48,0,0,0.98,0.00
+592,driving test cancellations,48,0,0,0.96,0.00
+593,disability benefit,48,0,0,0.96,0.02
+594,disability discrimination act,48,0,0,0.97,0.03
+595,local councils,48,0,0,0.96,0.00
+596,book theory,48,0,0,1.00,0.00
+597,gross misconduct,48,0,0,1.00,0.00
+598,telephone,48,0,0,0.97,0.02
+599,inland revenue,48,0,0,0.92,0.04
+600,human rights act,48,0,0,0.93,0.01
+601,change theory test,48,0,0,1.00,0.00
+602,passport photo,48,0,0,0.93,0.02
+603,pay a court fine,48,0,0,1.00,0.00
+604,nmw,47,0,0,0.94,0.04
+605,v756,47,0,0,0.98,0.02
+606,medical questionnaire,47,0,0,0.99,0.00
+607,interview,47,0,0,0.97,0.02
+608,motorcycle,47,0,0,1.00,0.00
+609,local offices,47,0,0,1.00,0.00
+610,change of circumstance form,47,0,0,0.96,0.02
+611,disability discrimination,47,0,0,1.00,0.00
+612,lost license,47,0,0,0.98,0.02
+613,school profile,47,0,0,0.96,0.00
+614,equal pay,47,0,0,0.94,0.02
+615,pension age,47,0,0,0.96,0.04
+616,speeding,47,0,0,0.93,0.02
+617,mot history,47,0,0,0.98,0.02
+618,minimum wages,47,-1,0,0.46,0.00
+619,contracts,47,0,0,0.97,0.02
+620,school holidays,46,0,0,0.98,0.02
+621,warm front,46,0,0,0.94,0.00
+622,consumer rights,46,0,0,0.94,0.00
+623,administration,46,0,0,0.97,0.00
+624,bereavement leave,46,0,0,1.00,0.00
+625,housing benifits,46,0,0,0.95,0.00
+626,equality,46,0,0,0.91,0.02
+627,police,46,0,0,0.98,0.02
+628,book practical driving test,46,0,0,1.00,0.00
+629,sales assistant,46,0,0,0.96,0.00
+630,leaflets,46,0,0,0.96,0.01
+631,annual leave,46,0,0,0.98,0.02
+632,helpline,46,0,0,0.99,0.00
+633,sign on,46,0,0,0.98,0.00
+634,travel,46,0,0,1.00,0.00
+635,ema bonus,45,0,0,0.95,0.03
+636,sex discrimination act,45,0,0,0.90,0.05
+637,hc1 form,45,0,0,1.00,0.00
+638,benefit adviser,45,0,0,0.98,0.02
+639,job serch,45,0,0,0.98,0.00
+640,starting a business,45,0,0,0.95,0.00
+641,acas,45,0,0,0.94,0.02
+642,writing a cv,45,0,0,0.95,0.02
+643,spp,45,0,0,0.90,0.08
+644,wages,45,0,0,0.95,0.00
+645,diabetes,45,0,0,0.99,0.00
+646,cancelations,45,0,-1,0.02,0.00
+647,STATE PENSION,45,0,0,1.00,0.00
+648,vic1,44,0,0,0.94,0.02
+649,apprentiships,44,0,-1,0.02,0.02
+650,v11,44,0,0,1.00,0.00
+651,births,44,0,0,1.00,0.00
+652,sign in,44,0,0,0.95,0.00
+653,part time student,44,0,0,0.91,0.07
+654,funeral costs,44,0,0,1.00,0.00
+655,single parents,44,0,0,0.97,0.00
+656,sign off,44,0,0,1.00,0.00
+657,vic check,44,0,0,0.97,0.03
+658,race relations act,44,0,0,0.93,0.02
+659,provisional driving license,44,0,0,0.98,0.00
+660,local government,44,0,0,0.96,0.02
+661,search for a job,44,0,0,0.96,0.00
+662,cabinet office,44,0,0,0.93,0.04
+663,milk tokens,44,0,0,0.96,0.00
+664,hairdressing,43,0,0,0.98,0.00
+665,children,43,0,0,0.97,0.02
+666,change test,43,0,0,1.00,0.00
+667,booking practical test,43,0,0,0.96,0.00
+668,iht205,43,0,0,1.00,0.00
+669,eye test,43,0,0,0.98,0.00
+670,test centre,43,0,0,0.94,0.00
+671,starting work,43,0,0,0.96,0.02
+672,european health insurance card,43,0,0,0.98,0.00
+673,retail jobs,43,0,0,0.96,0.00
+674,v55,43,0,0,0.98,0.00
+675,driving tests,43,0,0,0.96,0.00
+676,trading standards,43,0,0,0.98,0.02
+677,car tax bands,42,0,0,1.00,0.00
+678,tax credit calculator,42,0,0,0.95,0.05
+679,social fund loans,42,0,0,0.98,0.02
+680,motorbike,42,0,0,0.98,0.00
+681,sick leave,42,0,0,0.96,0.02
+682,epilepsy,42,0,0,1.00,0.00
+683,dvla offices,42,0,0,1.00,0.00
+684,work,42,0,0,0.98,0.00
+685,search for jobs,42,0,0,0.96,0.02
+686,scotland,42,0,0,0.96,0.00
+687,bereavement allowance,42,0,0,1.00,0.00
+688,alcohol,42,0,0,0.98,0.00
+689,university,42,0,0,0.96,0.00
+690,rent,42,0,0,0.98,0.02
+691,coshh,42,0,0,0.98,0.00
+692,council,42,0,0,0.87,0.00
+693,care assistant,42,0,0,0.99,0.00
+694,cscs,42,0,0,1.00,0.00
+695,court of protection,42,0,0,0.98,0.00
+696,dla form,42,0,0,0.96,0.00
+697,overtime,42,0,0,0.98,0.00
+698,PENSION,42,0,0,1.00,0.00
+699,school meals,42,0,0,0.96,0.00
+700,council tax bands,42,0,0,0.95,0.04
+701,adhd,41,0,0,0.92,0.02
+702,age discrimination,41,0,0,0.98,0.02
+703,practical,41,0,0,1.00,0.00
+704,driver card,41,0,0,1.00,0.00
+705,change practical driving test,41,0,0,0.95,0.00
+706,jury service,41,0,0,0.93,0.02
+707,form,41,0,0,0.98,0.02
+708,Sure Start maternity Grant,41,0,0,0.91,0.00
+709,d100,41,0,0,1.00,0.00
+710,practical test booking,41,0,0,0.96,0.00
+711,inf2,41,0,0,0.95,0.00
+712,prescriptions,41,0,0,0.92,0.02
+713,funeral payment,41,0,0,1.00,0.00
+714,asda,41,0,0,0.98,0.00
+715,local job centre,41,0,0,0.98,0.00
+716,healthy start,41,0,0,0.96,0.00
+717,customer service,40,0,0,1.00,0.00
+718,check and send,40,0,0,0.98,0.02
+719,christmas bonus,40,0,0,0.98,0.02
+720,eyfs,40,0,0,0.98,0.02
+721,nvq,40,0,0,1.00,0.00
+722,bereavement payment,40,0,0,0.89,0.09
+723,employer,40,0,0,1.00,0.00
+724,tv license,40,0,0,0.94,0.00
+725,trade plates,40,0,0,0.93,0.04
+726,pension service,40,0,0,0.96,0.04
+727,eye tests,40,0,0,0.96,0.00
+728,practise theory test,40,0,0,1.00,0.00
+729,london,40,0,0,1.00,0.00
+730,ofsted,40,0,0,0.95,0.00
+731,email,40,0,0,0.98,0.00
+732,inf1d,40,0,0,0.95,0.02
+733,passport application form,40,0,0,0.96,0.02
+734,fines,40,0,0,1.00,0.00
+735,vic test,40,0,0,1.00,0.00
+736,car tax prices,40,0,0,1.00,0.00
+737,european union,40,0,0,1.00,0.00
+738,northern ireland,40,0,0,0.89,0.00
+739,registration certificate,40,0,0,1.00,0.00
+740,carer allowance,40,0,0,0.93,0.02
+741,cleaners,40,0,0,0.98,0.00
+742,change in circumstances,40,0,0,0.98,0.00
+743,book a driving test,40,0,0,0.88,0.00
+744,hazard test,40,0,0,0.95,0.02
+745,b1,39,0,0,1.00,0.00
+746,co1 form,39,0,0,0.98,0.02
+747,career,39,0,0,1.00,0.00
+748,depression,39,0,0,0.98,0.00
+749,pcv,39,0,0,1.00,0.00
+750,tax allowances,39,0,0,0.98,0.00
+751,crisis loan phone number,39,0,0,1.00,0.00
+752,car insurance,39,0,0,1.00,0.00
+753,insurance number,39,0,0,1.00,0.00
+754,income suport,39,0,0,0.97,0.00
+755,v317 form,39,0,0,0.95,0.02
+756,law,39,0,0,0.98,0.00
+757,evidence,39,0,0,0.96,0.02
+758,returning to work,39,0,0,0.98,0.00
+759,environmental health,39,0,0,0.94,0.03
+760,family tax credit,39,0,0,1.00,0.00
+761,cancer,39,0,0,1.00,0.00
+762,fireworks,39,0,0,0.91,0.00
+763,jobseeker,39,0,0,1.00,0.00
+764,parents learning allowance,39,0,0,1.00,0.00
+765,appointee,39,0,0,0.97,0.00
+766,v100,39,0,0,0.95,0.02
+767,disciplinary procedure,38,0,0,0.92,0.00
+768,my account,38,0,0,0.98,0.02
+769,esa50,38,0,-1,0.13,0.03
+770,self employed sick pay,38,0,0,1.00,0.00
+771,business grants,38,0,0,0.91,0.02
+772,dvla telephone number,38,0,0,1.00,0.00
+773,nextstep,38,0,0,0.95,0.05
+774,theory test centres,38,0,0,0.98,0.00
+775,plumbing,38,0,0,0.95,0.00
+776,student finance contact,38,0,0,0.98,0.02
+777,severe disability premium,38,0,0,0.95,0.00
+778,v888/2,38,0,0,1.00,0.00
+779,ma,38,0,0,0.93,0.05
+780,v112,38,0,0,0.98,0.00
+781,welder,38,0,0,0.98,0.00
+782,adult learning,38,0,0,1.00,0.00
+783,part time student finance,38,0,0,0.95,0.05
+784,renew passport,38,0,0,0.95,0.05
+785,job seeker allowance,38,0,0,0.95,0.02
+786,bereavement benefits,38,0,0,1.00,0.00
+787,health and safety at work act,38,0,0,1.00,0.00
+788,changing name,37,0,0,0.96,0.02
+789,sport,37,0,0,0.93,0.00
+790,where to seek help on employment issues,37,0,0,0.91,0.02
+791,logbook,37,0,0,1.00,0.00
+792,eu students,37,0,0,1.00,0.00
+793,adi 3,37,0,0,1.00,0.00
+794,lost v5,37,0,0,1.00,0.00
+795,cost of theory test,37,0,0,0.96,0.00
+796,carers allowence,37,0,0,1.00,0.00
+797,redundency,37,0,-1,0.16,0.00
+798,child care vouchers,37,0,0,0.86,0.00
+799,registration,37,0,0,1.00,0.00
+800,motorbility,37,0,-1,0.13,0.03
+801,company car tax,37,0,0,0.96,0.00
+802,enter the gateway,37,0,0,0.98,0.00
+803,magistrates,37,0,0,0.94,0.02
+804,maternity allowence,36,0,0,1.00,0.00
+805,council housing,36,0,0,0.93,0.00
+806,finance,36,0,0,0.88,0.02
+807,tractor,36,0,0,0.98,0.00
+808,test route,36,0,0,1.00,0.00
+809,state pension calculator,36,0,0,0.89,0.11
+810,death records,36,0,0,0.98,0.00
+811,faq,36,0,0,0.98,0.00
+812,student finace,36,0,0,0.96,0.02
+813,child support,36,0,0,1.00,0.00
+814,theory driving test,36,0,0,1.00,0.00
+815,eu,36,0,0,0.95,0.03
+816,isa,36,0,0,0.98,0.00
+817,car,36,0,0,0.94,0.00
+818,jobcenter,36,0,-1,0.08,0.00
+819,ssp1 form,36,0,0,1.00,0.00
+820,endorsements,36,0,0,0.96,0.00
+821,covering letter,35,0,0,0.97,0.03
+822,fire safety,35,0,0,0.98,0.00
+823,data protection act 1998,35,0,0,0.95,0.00
+824,holiday calculator,35,0,0,0.98,0.00
+825,book a test,35,0,0,0.92,0.00
+826,benefit enquiry line,35,0,0,0.95,0.00
+827,sick note,35,0,0,0.97,0.00
+828,equal pay act,35,0,0,0.95,0.00
+829,local dvla office,35,0,0,0.98,0.02
+830,care allowance,35,0,0,0.95,0.00
+831,care work,35,0,0,0.98,0.00
+832,vehicle registration,35,0,0,1.00,0.00
+833,joiner,35,0,0,0.98,0.00
+834,change bank details,35,0,0,0.98,0.00
+835,glasgow,35,0,0,1.00,0.00
+836,sales,35,0,0,0.88,0.00
+837,work trials,35,0,0,0.95,0.05
+838,employment and support,35,0,0,0.98,0.00
+839,cost,35,0,0,1.00,0.00
+840,jobseekers allowence,35,0,0,0.90,0.00
+841,id,35,0,0,1.00,0.00
+842,visas,35,0,0,0.98,0.00
+843,number plate,35,0,0,0.98,0.02
+844,road tax refund,35,0,0,1.00,0.00
+845,going back to work,35,0,0,0.95,0.00
+846,bank holiday,34,0,0,1.00,0.00
+847,diversity,34,0,0,0.90,0.05
+848,lost national insurance number,34,0,0,0.93,0.04
+849,jobseeker's allowance,34,0,0,1.00,0.00
+850,smoking,34,0,0,0.98,0.02
+851,lost national insurance card,34,0,0,1.00,0.00
+852,local housing allowance,34,0,0,0.98,0.02
+853,postal address,34,0,0,0.98,0.00
+854,passport photos,34,0,0,1.00,0.00
+855,declaration,34,0,0,0.91,0.02
+856,replacement licence,34,0,0,0.98,0.00
+857,employment contracts,34,0,0,1.00,0.00
+858,fuel allowance,34,0,0,1.00,0.00
+859,tax car,34,0,0,1.00,0.00
+860,lha,34,0,0,0.97,0.03
+861,community grant,34,0,0,0.93,0.05
+862,disciplinary,34,0,0,0.93,0.00
+863,health and safety at work,34,0,0,0.96,0.00
+864,ma1,34,0,0,0.95,0.05
+865,pension tracing service,34,0,0,1.00,0.00
+866,tax calculator,34,0,0,0.92,0.00
+867,change my address,34,0,0,1.00,0.00
+868,disability working allowance,34,0,0,0.98,0.02
+869,employment support,34,0,0,0.94,0.03
+870,employment contract,34,0,0,1.00,0.00
+871,loft insulation,34,0,0,0.95,0.02
+872,d1 application form,34,0,0,1.00,0.00
+873,landlords,34,0,0,1.00,0.00
+874,maternity benefit,34,0,0,1.00,0.00
+875,dla rates,34,0,0,0.95,0.00
+876,regional government,34,0,0,0.93,0.00
+877,mortgages,34,0,0,0.97,0.00
+878,stopping distance,34,0,0,0.98,0.03
+879,crb check,34,0,0,0.98,0.00
+880,complaint,33,0,0,1.00,0.00
+881,local jobs,33,0,0,0.89,0.03
+882,leeds,33,0,0,0.96,0.02
+883,RETAIL,33,0,0,0.84,0.00
+884,child passport,33,0,0,1.00,0.00
+885,job center plus,33,0,0,1.00,0.00
+886,personal allowance,33,0,0,0.98,0.00
+887,ccg1,33,0,0,0.97,0.03
+888,liverpool,33,0,0,0.98,0.02
+889,magistrate,33,0,0,1.00,0.00
+890,pay,33,0,0,0.92,0.00
+891,dentist,33,0,0,1.00,0.00
+892,white paper,33,0,0,0.98,0.00
+893,death certificate,33,0,0,0.94,0.02
+894,v750,33,0,0,1.00,0.00
+895,free laptops,33,0,0,0.95,0.00
+896,self certification,33,0,0,1.00,0.00
+897,national insurance rates,33,0,0,0.95,0.03
+898,adress,33,0,-1,0.06,0.00
+899,cover letter,33,0,0,0.94,0.06
+900,married couples pension,33,0,0,1.00,0.00
+901,prices,33,0,0,1.00,0.00
+902,minium wage,33,0,0,0.97,0.00
+903,bankrupcy,33,0,0,1.00,0.00
+904,hc2,33,0,0,0.94,0.06
+905,income,33,0,0,0.98,0.00
+906,building regulations,33,0,0,0.97,0.00
+907,care,33,0,0,0.94,0.00
+908,medical,33,0,0,1.00,0.00
+909,pay fine,33,0,0,1.00,0.00
+910,manchester,32,0,0,0.92,0.00
+911,income support phone number,32,0,0,0.94,0.06
+912,bus passes,32,0,0,1.00,0.00
+913,library,32,0,0,1.00,0.00
+914,landlord,32,0,0,1.00,0.00
+915,court fine,32,0,0,1.00,0.00
+916,v85,32,0,0,0.95,0.00
+917,return to work,32,0,0,0.95,0.02
+918,pa2,32,0,0,0.98,0.03
+919,application,32,0,0,0.96,0.02
+920,publications,32,0,0,1.00,0.00
+921,sda,32,0,0,0.98,0.00
+922,councils,32,0,0,1.00,0.00
+923,theory tests,32,0,0,1.00,0.00
+924,dvla local offices,32,0,0,0.98,0.00
+925,interviews,32,0,0,0.87,0.03
+926,unemployment benefits,32,0,0,0.94,0.06
+927,employers rights,32,0,0,0.98,0.02
+928,Address,32,0,0,0.95,0.00
+929,ds1500,32,0,0,0.97,0.00
+930,maternity grants,32,0,0,0.96,0.02
+931,matb1,32,0,0,0.95,0.00
+932,support allowance,32,0,0,1.00,0.00
+933,deaf,32,0,0,0.97,0.00
+934,attendance,32,0,0,1.00,0.00
+935,policies,31,0,0,0.95,0.00
+936,car registration,31,0,0,1.00,0.00
+937,renting,31,0,0,0.85,0.00
+938,government spending,31,0,0,0.99,0.00
+939,confidentiality,31,0,0,0.95,0.00
+940,lone parents,31,0,0,0.95,0.04
+941,funeral payments,31,0,0,0.97,0.03
+942,social worker,31,0,0,0.94,0.00
+943,passport form,31,0,0,0.97,0.03
+944,international students,31,0,0,0.82,0.00
+945,dss,31,0,0,0.97,0.00
+946,jobcentreplus application form,31,0,0,0.98,0.02
+947,careers allowance,31,0,0,0.98,0.00
+948,incapacity benefits,31,0,0,0.97,0.00
+949,married couple pension,31,0,0,1.00,0.00
+950,d4 form,31,0,0,1.00,0.00
+951,free school dinners,31,0,0,1.00,0.00
+952,glasses,31,0,0,0.94,0.03
+953,independent driving,31,0,0,0.94,0.02
+954,dole,31,0,0,1.00,0.00
+955,state pensions,31,0,0,0.94,0.00
+956,teacher training,31,0,0,1.00,0.00
+957,email address,31,0,0,0.98,0.02
+958,planning applications,31,0,0,1.00,0.00
+959,marriage certificate,31,0,0,1.00,0.00
+960,cvs,31,0,0,0.95,0.03
+961,payment,31,0,0,1.00,0.00
+962,approved document l,31,0,0,0.55,0.00
+963,refund,31,0,0,1.00,0.00
+964,pension profiler,31,0,0,0.90,0.00
+965,parent learning allowance,30,0,0,0.95,0.02
+966,family tax credits,30,0,0,0.97,0.00
+967,redundancy payment,30,0,0,0.97,0.03
+968,lost provisional licence,30,0,0,1.00,0.00
+969,GL24,30,0,0,1.00,0.00
+970,incomesupport,30,0,-1,0.07,0.00
+971,hours of work,30,0,0,1.00,0.00
+972,cancel theory test,30,0,0,0.98,0.00
+973,v33,30,0,0,1.00,0.00
+974,insulation,30,0,0,0.97,0.03
+975,jobs search,30,0,0,0.94,0.03
+976,council house,30,0,0,1.00,0.00
+977,job centre plus application form,30,0,0,0.98,0.00
+978,working abroad,30,0,0,0.97,0.03
+979,bricklayer,30,0,0,0.97,0.00
+980,income support rates,30,0,0,0.98,0.00
+981,marriages,30,0,0,0.94,0.00
+982,work capability assessment,30,0,0,0.98,0.02
+983,p85,30,0,0,0.91,0.00
+984,insolvency,30,0,0,0.97,0.03
+985,esta,30,0,0,0.95,0.05
+986,recycling,30,0,0,0.98,0.00
+987,getting married,30,0,0,1.00,0.00
+988,keeping in touch days,30,0,0,0.98,0.03
+989,tax rates,30,0,0,0.95,0.03
+990,rpi,30,0,0,0.90,0.00
+991,drink driving,30,0,0,1.00,0.00
+992,public holidays,30,0,0,0.97,0.03
+993,maternity calculator,30,0,0,1.00,0.00
+994,tacho,30,0,0,1.00,0.00
+995,councillors,30,0,0,1.00,0.00
+996,work clubs,30,0,0,1.00,0.00
+997,birmingham,30,0,0,1.00,0.00
+998,spending review,29,0,0,0.94,0.00
+999,will,29,0,0,1.00,0.00
+1000,free computers,29,0,0,0.93,0.07
+1001,co2,29,0,0,0.97,0.00
+1002,citizens advice,29,0,0,1.00,0.00
+1003,contact details,29,0,0,0.98,0.00
+1004,work trial,29,0,0,0.91,0.03
+1005,working from home,29,0,0,0.95,0.00
+1006,lgv theory test,29,0,0,0.97,0.03
+1007,childcare costs,29,0,0,0.98,0.03
+1008,V5,29,0,0,0.93,0.03
+1009,back to work grant,29,0,0,1.00,0.00
+1010,e121,29,0,0,0.97,0.03
+1011,pension rates,29,0,0,1.00,0.00
+1012,esol,29,0,0,0.97,0.03
+1013,climate change,29,0,0,0.97,0.00
+1014,self certificate,29,0,0,0.94,0.00
+1015,loan request form,29,0,0,0.94,0.00
+1016,domestic violence,29,0,0,1.00,0.00
+1017,relocation,29,0,0,0.97,0.03
+1018,fire,29,0,0,0.97,0.00
+1019,lpg,29,0,0,1.00,0.00
+1020,asbestos,29,0,0,0.89,0.00
+1021,d798 form,29,0,0,0.95,0.03
+1022,epc,29,0,0,0.91,0.03
+1023,dsa1,29,0,0,1.00,0.00
+1024,comunity care grant,29,0,0,0.97,0.00
+1025,child minder,29,0,0,0.98,0.00
+1026,speed limit,29,0,0,1.00,0.00
+1027,tractor test,29,0,0,1.00,0.00
+1028,driving lessons,29,0,0,1.00,0.00
+1029,forecast,29,0,0,1.00,0.00
+1030,recruitment,29,0,0,1.00,0.00
+1031,tax disc renewal,29,0,0,0.97,0.03
+1032,booking,29,0,0,0.95,0.00
+1033,student fiance,28,0,0,1.00,0.00
+1034,disabled student allowance,28,0,0,0.90,0.03
+1035,probation,28,0,0,1.00,0.00
+1036,labouring,28,0,0,0.95,0.00
+1037,part time students,28,0,0,1.00,0.00
+1038,employment act,28,0,0,1.00,0.00
+1039,driving licence number,28,0,0,1.00,0.00
+1040,Contact,28,0,0,0.94,0.00
+1041,better off calculation,28,0,0,1.00,0.00
+1042,mock test,28,0,0,0.97,0.00
+1043,drugs,28,0,0,0.98,0.03
+1044,harassment,28,0,0,0.98,0.00
+1045,tax allowance,28,0,0,1.00,0.00
+1046,hrp,28,0,0,1.00,0.00
+1047,dvla office,28,0,0,0.92,0.03
+1048,dev_011325.doc,28,0,-1,0.14,0.00
+1049,income support number,28,0,0,0.97,0.00
+1050,social work,28,0,0,1.00,0.00
+1051,change of bank details,28,0,0,0.96,0.00
+1052,adi theory test,28,0,0,1.00,0.00
+1053,invalidity benefit,28,0,0,1.00,0.00
+1054,catering assistant,28,0,0,1.00,0.00
+1055,change of adress,28,0,0,1.00,0.00
+1056,animal care,28,0,0,0.87,0.00
+1057,homelessness,28,0,0,0.98,0.02
+1058,pregnancy benefits,28,0,0,0.95,0.00
+1059,child abuse,28,0,0,0.96,0.00
+1060,bar work,28,0,0,0.97,0.00
+1061,child support agency,28,0,0,1.00,0.00
+1062,trade union,28,0,0,1.00,0.00
+1063,alias id,28,0,0,0.94,0.03
+1064,d46p,28,0,0,1.00,0.00
+1065,notice periods,28,0,0,0.92,0.05
+1066,employment tribunal,28,0,0,0.91,0.03
+1067,replacement driving licence,28,0,0,0.97,0.03
+1068,p,28,0,0,1.00,0.00
+1069,form gl24,28,0,0,0.98,0.00
+1070,speeding fines,28,0,0,0.97,0.00
+1071,interest rates,28,0,0,1.00,0.00
+1072,tax discs,28,0,0,0.97,0.00
+1073,free bus pass,28,0,0,0.97,0.00
+1074,working time,28,0,0,1.00,0.00
+1075,planning permission,28,0,0,1.00,0.00
+1076,mat b1,28,0,0,0.97,0.00
+1077,sf100,28,0,0,1.00,0.00
+1078,lost counterpart,28,0,0,0.98,0.00
+1079,lost log book,28,0,0,1.00,0.00
+1080,contacts,28,0,0,0.97,0.00
+1081,state pension age calculator,28,0,0,0.93,0.07
+1082,sf500,27,0,0,1.00,0.00
+1083,kitchen assistant,27,0,0,0.98,0.00
+1084,travel expenses,27,0,0,0.98,0.00
+1085,industrial injuries disablement benefit,27,0,0,1.00,0.00
+1086,renewing driving licence,27,0,0,1.00,0.00
+1087,living abroad,27,0,0,1.00,0.00
+1088,sure start maternity,27,0,0,0.93,0.07
+1089,maintance grant,27,0,0,0.97,0.00
+1090,widow,27,0,0,0.98,0.00
+1091,electoral register,27,0,0,0.95,0.00
+1092,naturalisation,27,0,0,1.00,0.00
+1093,driving instructor,27,0,0,0.97,0.03
+1094,mortgage interest payments,27,0,0,0.97,0.03
+1095,c.v,27,0,-1,0.07,0.00
+1096,better off calculator,27,0,0,1.00,0.00
+1097,how much,27,0,0,0.96,0.00
+1098,blue badge scheme,27,0,0,1.00,0.00
+1099,rates,27,0,0,0.97,0.00
+1100,birth records,27,0,0,1.00,0.00
+1101,CHANGE PRACTICAL TEST,27,0,0,0.96,0.00
+1102,hardship payment,27,0,0,0.97,0.02
+1103,jobcentres,27,0,0,0.94,0.00
+1104,job seeker,27,0,0,0.93,0.00
+1105,marriage records,27,0,0,0.97,0.03
+1106,eupr1,27,0,0,1.00,0.00
+1107,retail menswear,27,0,0,0.94,0.00
+1108,apprentices,27,0,0,0.91,0.03
+1109,swansea,27,0,0,1.00,0.00
+1110,mature students,27,0,0,0.94,0.03
+1111,future jobs fund,27,0,0,0.91,0.00
+1112,support for mortgage interest,27,0,0,0.94,0.03
+1113,book a theory test,27,0,0,1.00,0.00
+1114,Winter fuel,27,0,0,1.00,0.00
+1115,nino,27,0,0,0.94,0.03
+1116,tax credits calculator,27,0,0,1.00,0.00
+1117,help,27,0,0,1.00,0.00
+1118,v10 form,27,0,0,1.00,0.00
+1119,d27p,27,0,0,0.97,0.00
+1120,employment & support allowance,27,0,0,1.00,0.00
+1121,directgov,27,0,0,0.94,0.03
+1122,student support,26,0,0,1.00,0.00
+1123,payacourtfine,26,0,-1,0.00,0.00
+1124,pss1,26,0,-1,0.07,0.00
+1125,motorcycle test,26,0,0,1.00,0.00
+1126,voluntary contributions,26,0,0,0.97,0.00
+1127,photo,26,0,0,0.97,0.03
+1128,addresses,26,0,0,1.00,0.00
+1129,booking test,26,0,0,0.96,0.00
+1130,lay off,26,0,0,0.97,0.00
+1131,lunch breaks,26,0,0,0.97,0.03
+1132,v14 form,26,0,0,1.00,0.00
+1133,book,26,0,0,0.89,0.04
+1134,pa1,26,0,0,0.97,0.03
+1135,redundancy calculation,26,0,0,0.87,0.07
+1136,new claims,26,0,0,1.00,0.00
+1137,current year income assessment form,26,0,0,1.00,0.00
+1138,disabled parking,26,0,0,1.00,0.00
+1139,additional maternity leave,26,0,0,0.97,0.00
+1140,heating grants,26,0,0,0.97,0.00
+1141,phone,26,0,0,0.97,0.00
+1142,national curriculum,26,0,0,0.95,0.05
+1143,student finance forms,26,0,0,0.94,0.03
+1144,eu10n,26,0,0,0.96,0.00
+1145,map,26,0,0,1.00,0.00
+1146,self assesment,26,0,0,1.00,0.00
+1147,gsa1,26,0,-1,0.08,0.00
+1148,crises loan,26,0,0,0.88,0.09
+1149,www.direct.gov.uk/renewat70,26,0,0,0.94,0.03
+1150,help with mortgage,26,0,0,1.00,0.00
+1151,family history,26,0,0,0.97,0.00
+1152,congestion charge,26,0,0,0.96,0.00
+1153,motorcycle theory test,26,0,0,1.00,0.00
+1154,v5c/2,26,0,0,1.00,0.00
+1155,ins57p,26,0,0,1.00,0.00
+1156,young workers,26,0,0,1.00,0.00
+1157,driver number,26,0,0,1.00,0.00
+1158,rent a room,25,0,0,0.97,0.00
+1159,pratical test,25,0,0,0.97,0.03
+1160,income surport,25,0,0,1.00,0.00
+1161,work permit,25,0,0,1.00,0.00
+1162,postgraduate,25,0,0,1.00,0.00
+1163,jsa3,25,0,-1,0.12,0.00
+1164,p87,25,0,0,1.00,0.00
+1165,v149,25,0,0,1.00,0.00
+1166,corporation tax,25,0,0,1.00,0.00
+1167,change adress,25,0,0,1.00,0.00
+1168,p50,25,0,0,0.96,0.00
+1169,internship,25,0,0,1.00,0.00
+1170,industrial injuries benefit,25,0,0,0.97,0.03
+1171,healthy start vouchers,25,0,0,0.96,0.00
+1172,br20,25,0,0,0.96,0.00
+1173,diab1,25,0,0,1.00,0.00
+1174,hazard perception practice,25,0,0,0.97,0.00
+1175,employment laws,25,0,0,0.90,0.00
+1176,carer's credit,25,0,0,1.00,0.00
+1177,hazard,25,0,0,0.97,0.00
+1178,mod,25,0,0,0.91,0.00
+1179,disability premium,25,0,0,1.00,0.00
+1180,hgv driver,25,0,0,1.00,0.00
+1181,thoery test,25,0,0,1.00,0.00
+1182,jury,25,0,0,0.90,0.03
+1183,warehouse operative,25,0,0,0.97,0.00
+1184,healthy eating grant,25,0,0,0.97,0.03
+1185,offices,25,0,0,0.94,0.06
+1186,government departments,25,0,0,1.00,0.00
+1187,pay a fine,25,0,0,1.00,0.00
+1188,using the internet,25,0,0,1.00,0.00
+1189,driving licence change of address,25,0,0,1.00,0.00
+1190,widows,25,0,0,0.98,0.00
+1191,jobs in glasgow,25,0,0,1.00,0.00
+1192,income tax rates,25,0,0,0.97,0.00
+1193,security guard,25,0,0,0.91,0.00
+1194,compensation,25,0,0,1.00,0.00
+1195,safeguarding,25,0,0,0.90,0.00
+1196,copyright,25,0,0,0.98,0.02
+1197,painter,25,0,0,0.97,0.00
+1198,maternity leave letter,25,0,0,0.97,0.00
+1199,training courses,25,0,0,1.00,0.00
+1200,change address on driving licence,25,0,0,0.92,0.04
+1201,business rates,25,0,0,1.00,0.00
+1202,bonus,25,0,0,0.97,0.00
+1203,download forms,25,0,0,0.91,0.00
+1204,student loan interest,25,0,0,1.00,0.00
+1205,incapacity allowance,25,0,0,1.00,0.00
+1206,application completion form,25,0,0,1.00,0.00
+1207,statutory maternity leave,25,0,0,0.97,0.03
+1208,business link,25,0,0,0.88,0.00
+1209,free laptop,25,0,0,0.93,0.03
+1210,driving instructors,25,0,0,0.96,0.00
+1211,facebook,25,0,0,1.00,0.00
+1212,cancellation,25,0,0,0.97,0.00
+1213,duplicate passport,25,0,0,1.00,0.00
+1214,hardship allowance,25,0,0,1.00,0.00
+1215,maternity letter,25,0,0,0.97,0.00
+1216,taxi,25,0,0,1.00,0.00
+1217,identity documents,25,0,0,1.00,0.00
+1218,passport prices,24,0,0,1.00,0.00
+1219,money,24,0,0,0.97,0.00
+1220,theory test practice,24,0,0,1.00,0.00
+1221,freedom of information,24,0,0,0.97,0.03
+1222,pension age calculator,24,0,0,1.00,0.00
+1223,mechanic,24,0,0,0.93,0.03
+1224,enterprise allowance,24,0,0,0.97,0.03
+1225,d1 application,24,0,0,1.00,0.00
+1226,child allowance,24,0,0,0.96,0.00
+1227,funeral grant,24,0,0,0.94,0.03
+1228,dental,24,0,0,1.00,0.00
+1229,appointeeship,24,0,-1,0.00,0.00
+1230,job vacancy,24,0,0,1.00,0.00
+1231,plastering,24,0,0,0.94,0.03
+1232,company car,24,0,0,0.85,0.07
+1233,gcse,24,0,0,0.93,0.00
+1234,taxdisk,24,0,0,1.00,0.00
+1235,child,24,0,0,0.94,0.00
+1236,child minders,24,0,0,1.00,0.00
+1237,scrap,24,0,0,0.96,0.00
+1238,nica5jp,24,0,-1,0.04,0.00
+1239,widows benefit,24,0,0,0.96,0.00
+1240,cv templates,24,0,0,0.96,0.00
+1241,gro,24,0,0,1.00,0.00
+1242,state second pension,24,0,0,0.94,0.03
+1243,local jobcentre,24,0,0,1.00,0.00
+1244,court fines,24,0,0,1.00,0.00
+1245,payments,24,0,0,1.00,0.00
+1246,statutory redundancy pay,24,0,0,0.92,0.04
+1247,how much is state pension,24,0,0,1.00,0.00
+1248,advertising a job,24,0,0,0.97,0.00
+1249,plasterer,24,0,0,0.94,0.00
+1250,warehouse work,24,0,0,0.97,0.03
+1251,d47p,24,0,0,1.00,0.00
+1252,retail assistant,24,0,0,1.00,0.00
+1253,browne report,24,0,0,0.89,0.00
+1254,over 50,24,0,0,0.97,0.03
+1255,points on licence,24,0,0,0.97,0.00
+1256,taxi test,24,0,0,1.00,0.00
+1257,national insurance numbers,24,0,0,1.00,0.00
+1258,security officer,24,0,0,0.93,0.00
+1259,nursing,24,0,0,0.96,0.00
+1260,braehead,24,0,-1,0.04,0.00
+1261,employee rights,24,0,0,0.97,0.03
+1262,FREE SCHOOL MEALS,23,0,0,0.97,0.00
+1263,sale of goods act,23,0,0,1.00,0.00
+1264,test centers,23,0,0,0.93,0.00
+1265,tax credit helpline,23,0,0,1.00,0.00
+1266,funeral expenses,23,0,0,0.85,0.00
+1267,mortgage rescue scheme,23,0,0,0.93,0.03
+1268,carers premium,23,0,0,1.00,0.00
+1269,reversing,23,0,0,1.00,0.00
+1270,utr,23,0,0,0.92,0.00
+1271,international driving licence,23,0,0,0.96,0.04
+1272,pilon,23,0,0,0.90,0.00
+1273,warehouse jobs,23,0,0,0.96,0.04
+1274,advertise a vacancy,23,0,0,0.94,0.00
+1275,pension tracing,23,0,0,0.97,0.03
+1276,mp,23,0,0,0.96,0.00
+1277,child care grant,23,0,0,1.00,0.00
+1278,international licence,23,0,0,0.96,0.04
+1279,smp1 form,23,0,0,1.00,0.00
+1280,v112g,23,0,0,1.00,0.00
+1281,salary,23,0,0,1.00,0.00
+1282,es5,23,0,-1,0.17,0.00
+1283,disciplinary procedures,23,0,0,0.96,0.00
+1284,book a practical test,23,0,0,0.96,0.00
+1285,local dvla,23,0,0,1.00,0.00
+1286,van driver,23,0,0,0.97,0.00
+1287,passport interview,23,0,0,1.00,0.00
+1288,d2 form,23,0,0,0.96,0.04
+1289,working family tax credit,23,0,0,1.00,0.00
+1290,adi test,23,0,0,1.00,0.00
+1291,license,23,0,0,0.89,0.00
+1292,state pension forcast,23,0,0,1.00,0.00
+1293,opening hours,23,0,0,0.96,0.00
+1294,cctv,23,0,0,1.00,0.00
+1295,fee,23,0,0,1.00,0.00
+1296,budget loan form,23,0,0,0.92,0.04
+1297,age,23,0,0,1.00,0.00
+1298,primary schools,23,0,0,1.00,0.00
+1299,pregnancy and work,23,0,0,1.00,0.00
+1300,solar panels,23,0,0,0.97,0.00
+1301,drivers,23,0,0,0.98,0.00
+1302,independent living fund,23,0,0,1.00,0.00
+1303,benfits,23,0,-1,0.09,0.00
+1304,job description,23,0,0,0.93,0.00
+1305,help with rent,23,0,0,1.00,0.00
+1306,fit note,23,0,0,1.00,0.00
+1307,deposit,23,0,0,0.97,0.00
+1308,preston,23,0,0,1.00,0.00
+1309,ccj,23,0,0,1.00,0.00
+1310,benifit fraud,23,0,0,0.90,0.00
+1311,tribunal,23,0,0,0.79,0.00
+1312,premium bonds,23,0,0,1.00,0.00
+1313,renewal,23,0,0,0.96,0.00
+1314,car check,23,0,0,1.00,0.00
+1315,redundant,23,0,0,1.00,0.00
+1316,claim form,23,0,0,0.97,0.00
+1317,number,22,0,0,0.93,0.04
+1318,ptc12,22,0,-1,0.09,0.00
+1319,yellow lines,22,0,0,1.00,0.00
+1320,hgv theory test,22,0,0,1.00,0.00
+1321,birth certificate form,22,0,0,1.00,0.00
+1322,internships,22,0,0,0.96,0.00
+1323,prescription charges,22,0,0,1.00,0.00
+1324,regional passport offices,22,0,0,1.00,0.00
+1325,income based job seekers allowance,22,0,0,0.95,0.00
+1326,mileage allowance,22,0,0,1.00,0.00
+1327,old age pension,22,0,0,1.00,0.00
+1328,food,22,0,0,0.97,0.00
+1329,hmo,22,0,0,0.97,0.03
+1330,looking for work,22,0,0,0.94,0.00
+1331,removing points,22,0,0,1.00,0.00
+1332,guardians allowance,22,0,0,1.00,0.00
+1333,mobility car,22,0,0,0.97,0.03
+1334,gl24 form,22,0,0,1.00,0.00
+1335,severe disability allowance,22,0,0,0.88,0.00
+1336,www.direct.gov.uk,22,0,0,1.00,0.00
+1337,vic 1,22,0,0,1.00,0.00
+1338,health & safety,22,0,0,0.96,0.00
+1339,pdi,22,0,0,0.96,0.00
+1340,regional passport office,22,0,0,1.00,0.00
+1341,pest control,22,0,0,1.00,0.00
+1342,death certificates,22,0,0,0.93,0.00
+1343,game,22,0,0,1.00,0.00
+1344,tax credit form,22,0,0,0.93,0.04
+1345,driver health,22,0,0,1.00,0.00
+1346,scrapping,22,0,0,1.00,0.00
+1347,rule 130,22,0,0,0.97,0.00
+1348,sentencing,22,0,0,1.00,0.00
+1349,disability living allowance for children,22,0,0,0.97,0.00
+1350,wrs,22,0,0,0.87,0.09
+1351,fixed term contract,22,0,0,0.97,0.00
+1352,hospital,22,0,0,1.00,0.00
+1353,national insurance credits,22,0,0,0.95,0.05
+1354,school admissions,22,0,0,1.00,0.00
+1355,tuition fee loan,22,0,0,0.92,0.04
+1356,baby,22,0,0,0.96,0.00
+1357,latest jobs,22,0,0,1.00,0.00
+1358,teacher,22,0,0,0.87,0.00
+1359,the right to confidentiality,22,0,0,0.97,0.03
+1360,child tax credit form,22,0,0,1.00,0.00
+1361,temporary contracts,22,0,0,1.00,0.00
+1362,graduate,22,0,0,0.96,0.00
+1363,disability benefits,22,0,0,1.00,0.00
+1364,passport interview offices,22,0,0,0.97,0.00
+1365,ministry of defence,22,0,0,0.81,0.00
+1366,change,22,0,0,1.00,0.00
+1367,birth,22,0,0,0.91,0.03
+1368,maintainance grant,22,0,0,0.97,0.00
+1369,opening times,22,0,0,0.93,0.07
+1370,theory test cost,22,0,0,0.97,0.00
+1371,access to learning fund,22,0,0,0.89,0.00
+1372,current year income assessment,22,0,0,1.00,0.00
+1373,british citizenship,22,0,0,0.92,0.08
+1374,all,22,0,0,1.00,0.00
+1375,self employed benefits,22,0,0,0.98,0.00
+1376,blue badge application,22,0,0,1.00,0.00
+1377,prescription,22,0,0,0.82,0.00
+1378,care worker,22,0,0,1.00,0.00
+1379,scrapping a car,22,0,0,1.00,0.00
+1380,social security,22,0,0,0.98,0.00
+1381,mental capacity act,21,0,0,0.94,0.03
+1382,licensing,21,0,0,0.96,0.04
+1383,sp30,21,0,0,1.00,0.00
+1384,stress,21,0,0,1.00,0.00
+1385,inheritance,21,0,0,0.91,0.04
+1386,retirement pension,21,0,0,1.00,0.00
+1387,EHIC,21,0,0,0.92,0.00
+1388,statutory paternity pay,21,0,0,1.00,0.00
+1389,free courses,21,0,0,1.00,0.00
+1390,child benefit form,21,0,0,0.91,0.04
+1391,change practical test date,21,0,0,1.00,0.00
+1392,next steps,21,0,0,0.95,0.05
+1393,shop work,21,0,0,1.00,0.00
+1394,cleaning job,21,0,0,0.94,0.00
+1395,self-employed,21,0,0,0.96,0.00
+1396,crisis loan telephone number,21,0,0,1.00,0.00
+1397,transport,21,0,0,0.96,0.04
+1398,local tax office,21,0,0,0.96,0.00
+1399,disabled badge,21,0,0,1.00,0.00
+1400,jobcenter plus,21,0,0,1.00,0.00
+1401,salary sacrifice,21,0,0,0.97,0.00
+1402,apprentiship,21,0,-1,0.10,0.05
+1403,tax online,21,0,0,0.95,0.05
+1404,parents,21,0,0,0.96,0.00
+1405,paper licence,21,0,0,1.00,0.00
+1406,online theory test,21,0,0,1.00,0.00
+1407,job application forms,21,0,0,1.00,0.00
+1408,gifts,21,0,0,1.00,0.00
+1409,allowance,21,0,0,1.00,0.00
+1410,constant attendance allowance,21,0,0,0.96,0.00
+1411,maintenance,21,0,0,0.96,0.00
+1412,graduated pension,21,0,0,1.00,0.00
+1413,crb checks,21,0,0,1.00,0.00
+1414,additional state pension,21,0,0,0.92,0.08
+1415,small business,21,0,0,0.86,0.00
+1416,clothing allowance,21,0,0,0.98,0.02
+1417,practice theory,21,0,0,0.86,0.05
+1418,pgt1,21,0,-1,0.00,0.00
+1419,claim income support,21,0,0,0.96,0.00
+1420,the pension service,21,0,0,1.00,0.00
+1421,equality and diversity,21,0,0,0.88,0.00
+1422,student loan interest rate,21,0,0,1.00,0.00
+1423,lost theory certificate,21,0,0,0.97,0.00
+1424,bar staff,21,0,0,0.97,0.00
+1425,dla404,21,0,0,1.00,0.00
+1426,motorcycle licence,21,0,0,0.96,0.00
+1427,capital gains,21,0,0,1.00,0.00
+1428,lost paper licence,21,0,0,1.00,0.00
+1429,pension credit calculator,21,0,0,1.00,0.00
+1430,marriage tax,21,0,0,1.00,0.00
+1431,roadtax,21,0,-1,0.05,0.00
+1432,traffic lights,21,0,0,0.97,0.00
+1433,theory test price,21,0,0,1.00,0.00
+1434,abuse,21,0,0,0.97,0.00
+1435,double glazing,21,0,0,1.00,0.00
+1436,s2p,21,0,0,0.88,0.00
+1437,unions,21,0,0,0.93,0.00
+1438,moving abroad,21,0,0,0.92,0.08
+1439,CARERS CREDIT,21,0,0,0.96,0.04
+1440,student finance number,21,0,0,1.00,0.00
+1441,driving test centre,21,0,0,1.00,0.00
+1442,philip green,21,0,0,0.96,0.00
+1443,r85,21,0,0,1.00,0.00
+1444,drivers licence,21,0,0,1.00,0.00
+1445,courts,21,0,0,1.00,0.00
+1446,direct payment,21,0,0,1.00,0.00
+1447,packer,21,0,-1,0.05,0.05
+1448,car tax online,21,0,0,0.91,0.00
+1449,free dental treatment,20,0,0,0.96,0.00
+1450,child care costs,20,0,0,0.95,0.00
+1451,tenancy agreement,20,0,0,0.88,0.00
+1452,student declaration form,20,0,0,1.00,0.00
+1453,test cancellations,20,0,0,1.00,0.00
+1454,sc2,20,0,0,1.00,0.00
+1455,numbers,20,0,0,1.00,0.00
+1456,factory work,20,0,0,0.92,0.00
+1457,business grant,20,0,0,0.96,0.00
+1458,short time working,20,0,0,1.00,0.00
+1459,single parent benefits,20,0,0,1.00,0.00
+1460,replacement driving license,20,0,0,1.00,0.00
+1461,national speed limit,20,0,0,0.97,0.03
+1462,ministry of justice,20,0,0,1.00,0.00
+1463,road markings,20,0,0,0.97,0.00
+1464,registration document,20,0,0,0.92,0.00
+1465,salaries,20,0,0,0.90,0.10
+1466,doctors,20,0,0,1.00,0.00
+1467,driving licences,20,0,0,1.00,0.00
+1468,budgetting loan,20,0,0,0.96,0.04
+1469,right to buy,20,0,0,0.86,0.05
+1470,vacancy,20,0,0,1.00,0.00
+1471,sick notes,20,0,0,0.92,0.04
+1472,reporting fraud,20,0,0,0.93,0.00
+1473,ins160,20,0,0,0.90,0.10
+1474,rights and responsibilities,20,0,0,0.91,0.00
+1475,abroad,20,0,0,0.96,0.00
+1476,county councils,20,0,0,1.00,0.00
+1477,mature student,20,0,0,1.00,0.00
+1478,work related activity group,20,0,0,0.96,0.04
+1479,bristol,20,0,0,0.88,0.00
+1480,renew driving license,20,0,0,1.00,0.00
+1481,apply online,20,0,0,0.96,0.00
+1482,cv help,20,0,0,0.93,0.04
+1483,means tested benefits,20,0,0,1.00,0.00
+1484,declare sorn,20,0,0,0.91,0.04
+1485,theory test certificate,20,0,0,1.00,0.00
+1486,crime,20,0,0,0.92,0.00
+1487,pratical driving test,20,0,0,1.00,0.00
+1488,licence renewal,20,0,0,0.85,0.00
+1489,health and safety act,20,0,0,1.00,0.00
+1490,notice pay,20,0,0,1.00,0.00
+1491,carbon footprint,20,0,0,0.97,0.00
+1492,windows,20,0,0,0.95,0.00
+1493,consumer protection,20,0,0,1.00,0.00
+1494,check mot,20,0,0,1.00,0.00
+1495,goverment gateway,20,0,0,1.00,0.00
+1496,pay council tax online,20,0,0,0.97,0.00
+1497,suspension,20,0,0,0.96,0.00
+1498,riddor,20,0,0,1.00,0.00
+1499,ni contributions,20,0,0,1.00,0.00
+1500,driving abroad,20,0,0,1.00,0.00
+1501,emergency tax,20,0,0,1.00,0.00
+1502,care jobs,20,0,0,1.00,0.00
+1503,change of ownership,20,0,0,1.00,0.00
+1504,probationary period,20,0,0,1.00,0.00
+1505,lower earnings limit,20,0,0,0.96,0.04
+1506,roundabout,20,0,0,0.96,0.04
+1507,deceased,20,0,0,0.92,0.00
+1508,minibus,20,0,0,1.00,0.00
+1509,d740,20,0,0,0.94,0.03
+1510,cb1,20,0,0,1.00,0.00
+1511,paper driving licence,20,0,0,0.88,0.04
+1512,booking practical driving test,20,0,0,0.95,0.00
+1513,hgv licence,20,0,0,0.95,0.05
+1514,statutory redundancy,20,0,0,1.00,0.00
+1515,family,20,0,0,0.84,0.00
+1516,trailer,20,0,0,1.00,0.00
+1517,dementia,20,0,0,0.96,0.00
+1518,european health card,20,0,0,0.95,0.00
+1519,open university,20,0,0,1.00,0.00
+1520,death grant,20,0,0,0.95,0.00
+1521,e301,20,0,0,0.95,0.00
+1522,interest rate,20,0,0,1.00,0.00
+1523,verbal warning,20,0,0,1.00,0.00
+1524,bus lanes,20,0,0,1.00,0.00
+1525,how much is the state pension,20,0,0,1.00,0.00
+1526,car test,20,0,0,0.93,0.00
+1527,routes,20,0,0,0.96,0.00
+1528,dla403,20,0,0,0.90,0.05
+1529,treasury,20,0,0,1.00,0.00
+1530,free eye tests,20,0,0,1.00,0.00
+1531,council jobs,20,0,0,0.83,0.04
+1532,how much is carers allowance,20,0,0,0.97,0.00
+1533,tax forms,20,0,0,1.00,0.00
+1534,senda,19,0,0,0.97,0.00
+1535,home responsibilities protection,19,0,0,0.86,0.00
+1536,doncaster,19,0,0,0.95,0.00
+1537,claims,19,0,0,1.00,0.00
+1538,cf10,19,0,0,0.86,0.05
+1539,engineering,19,0,0,0.95,0.00
+1540,benefit cheats,19,0,0,1.00,0.00
+1541,term dates,19,0,0,0.95,0.00
+1542,student signature form,19,0,0,1.00,0.00
+1543,equality bill,19,0,0,0.94,0.03
+1544,telesales,19,0,0,0.96,0.00
+1545,looking for a job,19,0,0,0.95,0.00
+1546,employer direct,19,0,0,1.00,0.00
+1547,repayment,19,0,0,0.95,0.05
+1548,social funds,19,0,0,0.95,0.00
+1549,dvla change of address,19,0,0,0.95,0.00
+1550,renew tax disc,19,0,0,0.86,0.14
+1551,casual workers,19,0,0,1.00,0.00
+1552,crime and justice,19,0,0,1.00,0.00
+1553,employment act 2002,19,0,0,0.86,0.00
+1554,construction jobs,19,0,0,0.96,0.00
+1555,calculater,19,0,-1,0.05,0.00
+1556,changing your name,19,0,0,0.88,0.00
+1557,skills accounts,19,0,0,0.95,0.00
+1558,additional paternity leave,19,0,0,0.96,0.00
+1559,prize draw,19,0,0,1.00,0.00
+1560,student loan calculator,19,0,0,0.95,0.00
+1561,it,19,0,-1,0.05,0.00
+1562,sc3,19,0,0,0.91,0.00
+1563,paternity rights,19,0,0,1.00,0.00
+1564,why do we pay income tax,19,0,0,0.92,0.00
+1565,public services,19,0,0,0.88,0.00
+1566,passport change of address,19,0,0,0.96,0.00
+1567,crisis,19,0,0,1.00,0.00
+1568,childrens act,19,0,0,1.00,0.00
+1569,refund of vehicle tax,19,0,0,0.91,0.04
+1570,contact income support,19,0,0,1.00,0.00
+1571,disability act,19,0,0,0.96,0.00
+1572,p11d,19,0,0,0.91,0.05
+1573,form v62,19,0,0,0.90,0.00
+1574,home schooling,19,0,0,1.00,0.00
+1575,tacho card,19,0,0,0.95,0.00
+1576,refunds,19,0,0,1.00,0.00
+1577,student tax,19,0,0,1.00,0.00
+1578,forklift,19,0,0,1.00,0.00
+1579,student finance log in,19,0,0,1.00,0.00
+1580,laws,19,0,0,1.00,0.00
+1581,sickness benefits,19,0,0,1.00,0.00
+1582,scrapping a vehicle,19,0,0,1.00,0.00
+1583,kitchen porter,19,0,0,0.98,0.00
+1584,sexual harassment,19,0,0,1.00,0.00
+1585,vehicle information,19,0,0,0.87,0.00
+1586,fuel direct,19,0,0,1.00,0.00
+1587,house of commons,19,0,0,0.87,0.04
+1588,school dinners,19,0,0,0.95,0.05
+1589,psv,19,0,0,1.00,0.00
+1590,autism,19,0,0,1.00,0.00
+1591,customer services,19,0,0,1.00,0.00
+1592,ccg2,19,0,0,0.91,0.00
+1593,child benifits,19,0,0,0.89,0.00
+1594,social care,19,0,0,1.00,0.00
+1595,student finance login,19,0,0,1.00,0.00
+1596,cb2,19,0,0,1.00,0.00
+1597,retraining,19,0,0,1.00,0.00
+1598,post office,19,0,0,1.00,0.00
+1599,renew at 70,19,0,0,1.00,0.00
+1600,tracking,19,0,0,1.00,0.00
+1601,contact telephone number,19,0,0,0.96,0.00
+1602,uk border agency,19,0,0,0.93,0.03
+1603,provisonal,19,0,-1,0.00,0.00
+1604,income support contact number,19,0,0,1.00,0.00
+1605,export,19,0,0,1.00,0.00
+1606,check practical test,19,0,0,0.96,0.00
+1607,population,19,0,0,0.96,0.00
+1608,report,19,0,0,0.95,0.00
+1609,job centre phone number,19,0,0,0.96,0.00
+1610,vehicle details,19,0,0,0.96,0.00
+1611,british passport,19,0,0,0.96,0.00
+1612,Census,19,0,0,1.00,0.00
+1613,plumber,19,0,0,1.00,0.00
+1614,employment section,19,0,0,0.95,0.00
+1615,community care grant form,19,0,0,0.95,0.05
+1616,digital divide,19,0,0,0.86,0.00
+1617,v765,18,0,0,0.92,0.00
+1618,grandparents,18,0,0,0.96,0.00
+1619,provisional lisence,18,0,0,1.00,0.00
+1620,road fund licence,18,0,0,0.95,0.00
+1621,student finance phone number,18,0,0,0.90,0.00
+1622,jobs in leeds,18,0,0,1.00,0.00
+1623,caretaker,18,0,0,1.00,0.00
+1624,hire purchase,18,0,0,1.00,0.00
+1625,replacement birth certificate,18,0,0,1.00,0.00
+1626,short time,18,0,0,1.00,0.00
+1627,cartax,18,0,0,0.94,0.00
+1628,residency,18,0,0,0.93,0.00
+1629,find job,18,0,0,0.95,0.05
+1630,p45 form,18,0,0,1.00,0.00
+1631,lea,18,0,0,0.83,0.11
+1632,vehicle tax bands,18,0,0,0.95,0.05
+1633,connexions,18,0,0,0.95,0.00
+1634,history,18,0,0,0.86,0.00
+1635,lord young,18,0,0,1.00,0.00
+1636,costs,18,0,0,1.00,0.00
+1637,college,18,0,0,1.00,0.00
+1638,local mp,18,0,0,0.95,0.00
+1639,holiday pay calculator,18,0,0,0.86,0.05
+1640,trailer test,18,0,0,1.00,0.00
+1641,volunteer work,18,0,0,0.96,0.00
+1642,mileage,18,0,0,1.00,0.00
+1643,driving test fees,18,0,0,1.00,0.00
+1644,downloads,18,0,0,1.00,0.00
+1645,self employed credit,18,0,0,0.95,0.00
+1646,pff form,18,0,0,0.96,0.04
+1647,council tax band,18,0,0,0.91,0.00
+1648,over 60,18,0,0,1.00,0.00
+1649,psf1,18,0,-1,0.11,0.00
+1650,replace licence,18,0,0,0.96,0.04
+1651,contract,18,0,0,0.97,0.00
+1652,ministers,18,0,0,1.00,0.00
+1653,harrassment,18,0,0,1.00,0.00
+1654,mortgage rescue,18,0,0,1.00,0.00
+1655,help with funeral costs,18,0,0,0.87,0.00
+1656,online declaration form,18,0,0,0.89,0.11
+1657,seat belts,18,0,0,0.95,0.00
+1658,christmas jobs,18,0,0,1.00,0.00
+1659,PR1 form,18,0,0,0.86,0.05
+1660,disabilty,18,0,-1,0.11,0.00
+1661,import,18,0,0,1.00,0.00
+1662,leaving the uk,18,0,0,0.81,0.05
+1663,disabled children,18,0,0,1.00,0.00
+1664,minimun wage,18,0,0,0.93,0.00
+1665,PR1,18,0,0,0.96,0.00
+1666,renewal70,18,0,-1,0.11,0.00
+1667,fixed term contracts,18,0,0,0.96,0.00
+1668,employment rights act,18,0,0,1.00,0.00
+1669,lost provisional license,18,0,0,1.00,0.00
+1670,is8,18,0,0,1.00,0.00
+1671,codes of practice,18,0,0,1.00,0.00
+1672,brain,18,0,0,1.00,0.00
+1673,diploma,18,0,0,0.86,0.00
+1674,credit card,18,0,0,1.00,0.00
+1675,Schools,18,0,0,0.93,0.00
+1676,council tax exemption,18,0,0,1.00,0.00
+1677,starting your own business,18,0,0,1.00,0.00
+1678,passport cost,18,0,0,1.00,0.00
+1679,driver cpc,18,0,0,1.00,0.00
+1680,computers,18,0,0,0.90,0.00
+1681,hardship payments,18,0,0,1.00,0.00
+1682,maintenance loan request form,18,0,0,1.00,0.00
+1683,royal mail,18,0,0,1.00,0.00
+1684,jobsite,18,0,-1,0.17,0.00
+1685,www.direct.gov.uk/taxdisc,18,0,0,1.00,0.00
+1686,CHANGE OF NAME,18,0,0,1.00,0.00
+1687,energy,18,0,0,0.96,0.00
+1688,pathways to work,18,0,0,0.96,0.00
+1689,retention certificate,18,0,0,0.90,0.00
+1690,student finance contact number,18,0,0,1.00,0.00
+1691,ppe,18,0,0,0.91,0.00
+1692,claim forms,18,0,0,1.00,0.00
+1693,highways,18,0,0,0.95,0.00
+1694,voting,18,0,0,0.79,0.00
+1695,incapcity benefit,18,0,0,1.00,0.00
+1696,nurseries,18,0,0,0.96,0.00
+1697,ukba,18,0,0,0.95,0.00
+1698,expired licence,18,0,0,0.91,0.04
+1699,apply for blue badge,18,0,0,1.00,0.00
+1700,free glasses,18,0,0,1.00,0.00
+1701,mental health act,18,0,0,1.00,0.00
+1702,career development loans,18,0,0,0.95,0.05
+1703,tenancy deposit scheme,18,0,0,0.94,0.00
+1704,tacograph,18,0,-1,0.06,0.00
+1705,job kit,18,0,0,0.96,0.00
+1706,compromise agreement,18,0,0,0.95,0.00
+1707,fep1,18,0,0,0.95,0.00
+1708,digital tacho card,18,0,0,1.00,0.00
+1709,voluntary,18,0,0,0.97,0.00
+1710,housing grants,17,0,0,1.00,0.00
+1711,renew licence,17,0,0,1.00,0.00
+1712,health care assistant,17,0,0,0.80,0.00
+1713,contracts of employment,17,0,0,1.00,0.00
+1714,default retirement age,17,0,0,0.96,0.00
+1715,check test,17,0,0,1.00,0.00
+1716,finance calculator,17,0,0,1.00,0.00
+1717,ivf,17,0,0,0.90,0.00
+1718,debt advice,17,0,0,1.00,0.00
+1719,insulation grants,17,0,0,1.00,0.00
+1720,widow pension,17,0,0,1.00,0.00
+1721,procurement,17,0,0,0.92,0.04
+1722,check change or cancell your practical test,17,0,0,1.00,0.00
+1723,gateway id,17,0,0,0.94,0.00
+1724,stolen driving licence,17,0,0,0.89,0.06
+1725,identification,17,0,0,1.00,0.00
+1726,garden leave,17,0,0,1.00,0.00
+1727,criminal record,17,0,0,1.00,0.00
+1728,debt management,17,0,0,1.00,0.00
+1729,deferred pension,17,0,0,1.00,0.00
+1730,tenancy,17,0,0,1.00,0.00
+1731,hiv,17,0,0,0.93,0.03
+1732,care home fees,17,0,0,1.00,0.00
+1733,adult education,17,0,0,1.00,0.00
+1734,nearest job centre,17,0,0,1.00,0.00
+1735,nottingham,17,0,0,0.95,0.05
+1736,taxcredits,17,0,-1,0.06,0.00
+1737,grievance procedure,17,0,0,1.00,0.00
+1738,how much is a theory test,17,0,0,1.00,0.00
+1739,young people,17,0,0,0.89,0.00
+1740,check driving test,17,0,0,0.94,0.00
+1741,Bereavement,17,0,0,1.00,0.00
+1742,work choice,17,0,0,0.95,0.05
+1743,private plate,17,0,0,0.94,0.00
+1744,sickness benifit,17,0,0,1.00,0.00
+1745,health and safety at work act 1974,17,0,0,1.00,0.00
+1746,abortion,17,0,0,0.97,0.00
+1747,cost of driving test,17,0,0,0.94,0.00
+1748,stakeholder pension,17,0,0,1.00,0.00
+1749,part-time,17,0,0,1.00,0.00
+1750,pension increase,17,0,0,1.00,0.00
+1751,married,17,0,0,1.00,0.00
+1752,discrimination act,17,0,0,1.00,0.00
+1753,bugeting loans,17,0,0,1.00,0.00
+1754,healthcare,17,0,0,0.96,0.00
+1755,child benefit rates,17,0,0,0.88,0.06
+1756,work from home,17,0,0,1.00,0.00
+1757,flt,17,0,-1,0.06,0.00
+1758,references,17,0,0,1.00,0.00
+1759,apprentaships,17,0,-1,0.00,0.00
+1760,state pension rates,17,0,0,1.00,0.00
+1761,part time grant,17,0,0,1.00,0.00
+1762,route planner,17,0,0,0.95,0.05
+1763,motoring section,17,0,0,0.97,0.03
+1764,child protection act,17,0,0,0.95,0.00
+1765,student benefits,17,0,0,0.91,0.00
+1766,globalisation,17,0,0,1.00,0.00
+1767,electrical,17,0,0,1.00,0.00
+1768,catchment areas,17,0,0,1.00,0.00
+1769,painter and decorator,17,0,-1,0.11,0.00
+1770,passport costs,17,0,0,0.96,0.04
+1771,poundland,17,0,-1,0.00,0.00
+1772,home education,17,0,0,1.00,0.00
+1773,budgiting loan,17,0,0,0.97,0.00
+1774,incom support,17,0,0,0.96,0.04
+1775,renew,17,0,0,0.95,0.05
+1776,ilf,17,0,0,0.96,0.04
+1777,new address,17,0,0,1.00,0.00
+1778,digital tacho,17,0,0,0.95,0.00
+1779,vehicle identity check,17,0,0,1.00,0.00
+1780,sf200,17,0,0,0.84,0.00
+1781,benefits helpline,17,0,0,1.00,0.00
+1782,expired driving licence,17,0,0,1.00,0.00
+1783,pensions forecast,17,0,0,0.94,0.00
+1784,maternity calendar,17,0,0,1.00,0.00
+1785,vat return,17,0,0,1.00,0.00
+1786,carpentry,17,0,0,0.92,0.04
+1787,esa rates,17,0,0,1.00,0.00
+1788,replace my licence,17,0,0,0.89,0.00
+1789,v55/5 form,17,0,0,1.00,0.00
+1790,eu student,17,0,0,1.00,0.00
+1791,long term care,17,0,0,1.00,0.00
+1792,renewalat70,17,0,0,1.00,0.00
+1793,part time working,17,0,0,1.00,0.00
+1794,carpenter,17,0,0,1.00,0.00
+1795,speeding points,17,0,0,0.92,0.04
+1796,religion,17,0,0,0.84,0.05
+1797,stm/38116,17,0,-1,0.00,0.00
+1798,travel grant,17,0,0,1.00,0.00
+1799,budgeting loan number,17,0,0,0.96,0.00
+1800,driving examiner,17,0,0,1.00,0.00
+1801,trade unions,17,0,0,1.00,0.00
+1802,home responsibilities,17,0,0,1.00,0.00
+1803,council tax benefits,17,0,0,0.90,0.10
+1804,theory test fee,17,0,0,0.95,0.00
+1805,apply,17,0,0,0.95,0.00
+1806,vehicle history,17,0,0,0.94,0.06
+1807,budgeting loan forms,17,0,0,0.89,0.05
+1808,maintenance grants,17,0,0,1.00,0.00
+1809,help line,17,0,0,0.95,0.00
+1810,sickpay,17,0,0,0.94,0.06
+1811,check practical driving test,17,0,0,0.94,0.06
+1812,aa,17,0,0,0.96,0.00
+1813,free eye test,17,0,0,1.00,0.00
+1814,documents,17,0,0,0.92,0.00
+1815,form v317,17,0,0,0.80,0.00
+1816,bereavment,17,0,-1,0.12,0.00
+1817,nic,17,0,0,0.95,0.05
+1818,employment status,17,0,0,1.00,0.00
+1819,spending cuts,17,0,0,0.95,0.05
+1820,policy,17,0,0,1.00,0.00
+1821,student finanace,17,0,0,0.96,0.00
+1822,id cards,17,0,0,1.00,0.00
+1823,tax returns,17,0,0,1.00,0.00
+1824,factory,17,0,0,0.97,0.00
+1825,digi card,17,0,0,1.00,0.00
+1826,funerals,17,0,0,0.95,0.00
+1827,cbt test,17,0,0,1.00,0.00
+1828,stroke,17,0,0,1.00,0.00
+1829,p60 form,17,0,0,1.00,0.00
+1830,l plates,17,0,0,0.94,0.00
+1831,internet safety,17,0,0,1.00,0.00
+1832,jobcentre plus address,17,0,0,0.91,0.04
+1833,agency workers,17,0,0,1.00,0.00
+1834,dla for children,17,0,0,0.97,0.03
+1835,taxes,17,0,0,0.94,0.00
+1836,wage,16,0,0,0.89,0.00
+1837,court,16,0,0,0.95,0.00
+1838,surestart grant,16,0,0,0.89,0.00
+1839,debt relief order,16,0,0,0.89,0.06
+1840,pgce funding,16,0,0,1.00,0.00
+1841,vehicle,16,0,0,0.85,0.00
+1842,employment tribunals,16,0,0,0.95,0.00
+1843,pm2,16,0,0,1.00,0.00
+1844,jobcenterplus,16,0,-1,0.00,0.00
+1845,pss1 form,16,0,0,0.96,0.00
+1846,br1,16,0,0,0.94,0.06
+1847,shared ownership,16,0,0,1.00,0.00
+1848,census 2011,16,0,0,0.91,0.09
+1849,security jobs in london,16,0,0,0.74,0.00
+1850,common law,16,0,0,1.00,0.00
+1851,cavity wall insulation,16,0,0,1.00,0.00
+1852,blue badge application form,16,0,0,1.00,0.00
+1853,track,16,0,0,1.00,0.00
+1854,gardening,16,0,0,0.92,0.00
+1855,claim,16,0,0,0.94,0.00
+1856,payment dates,16,0,0,1.00,0.00
+1857,smoking ban,16,0,0,1.00,0.00
+1858,flexible working hours,16,0,0,0.82,0.12
+1859,kids,16,0,0,0.88,0.00
+1860,replacement provisional,16,0,0,1.00,0.00
+1861,book practical,16,0,0,1.00,0.00
+1862,fast track,16,0,0,1.00,0.00
+1863,speed,16,0,0,0.95,0.05
+1864,hpi check,16,0,0,0.89,0.00
+1865,statuary sick pay,16,0,0,1.00,0.00
+1866,nearest jobcentre,16,0,0,1.00,0.00
+1867,cancellation dates,16,0,0,1.00,0.00
+1868,family credit,16,0,0,1.00,0.00
+1869,child benfit,16,0,0,1.00,0.00
+1870,looked after children,16,0,0,1.00,0.00
+1871,theory test online,16,0,0,1.00,0.00
+1872,mini bus,16,0,0,1.00,0.00
+1873,reading,16,0,0,0.95,0.00
+1874,hip grant,16,0,0,1.00,0.00
+1875,pw1,16,0,-1,0.13,0.06
+1876,resignation,16,0,0,0.88,0.06
+1877,help with mortgage payments,16,0,0,1.00,0.00
+1878,QUANGOS,16,0,0,1.00,0.00
+1879,redundancy notice,16,0,0,0.90,0.00
+1880,heating grant,16,0,0,1.00,0.00
+1881,flexible new deal,16,0,0,0.95,0.00
+1882,c01,16,0,0,0.90,0.10
+1883,online application,16,0,0,1.00,0.00
+1884,security job,16,0,0,1.00,0.00
+1885,maintanance grant,16,0,0,1.00,0.00
+1886,mot history check,16,0,0,1.00,0.00
+1887,personal allowances,16,0,0,0.95,0.00
+1888,income based jsa,16,0,0,1.00,0.00
+1889,teenage mothers,16,0,0,0.95,0.00
+1890,sex,16,0,0,0.94,0.00
+1891,crisis loan contact number,16,0,0,1.00,0.00
+1892,dental charges,16,0,0,1.00,0.00
+1893,redundancy consultation,16,0,0,1.00,0.00
+1894,social loans,16,0,0,1.00,0.00
+1895,tourism,16,0,0,1.00,0.00
+1896,job descriptions,16,0,0,1.00,0.00
+1897,disability living allowence,16,0,0,1.00,0.00
+1898,electoral role,16,0,0,1.00,0.00
+1899,tax refunds,16,0,0,0.95,0.00
+1900,TELEPHONE NUMBER,16,0,0,1.00,0.00
+1901,registered childminders,16,0,0,0.90,0.10
+1902,test fees,16,0,0,1.00,0.00
+1903,help with cv,16,0,0,0.96,0.00
+1904,advertising,16,0,0,1.00,0.00
+1905,change driving test date,16,0,0,1.00,0.00
+1906,cat d,16,0,0,1.00,0.00
+1907,universal credit,16,0,0,1.00,0.00
+1908,braehead jobs,16,0,0,1.00,0.00
+1909,pdf,16,0,0,0.95,0.03
+1910,warmfront,16,0,0,1.00,0.00
+1911,jos,16,0,-1,0.00,0.00
+1912,category c,16,0,0,1.00,0.00
+1913,housing allowance,16,0,0,0.94,0.06
+1914,overpayment,16,0,0,1.00,0.00
+1915,n244,16,0,0,0.94,0.06
+1916,new deal for lone parents,16,0,0,0.96,0.00
+1917,motorbike licence,16,0,0,1.00,0.00
+1918,claiming state pension,16,0,0,1.00,0.00
+1919,dvla local,16,0,0,1.00,0.00
+1920,adr,16,0,0,1.00,0.00
+1921,babysitting,16,0,0,0.95,0.05
+1922,selfemployment,16,0,-1,0.06,0.00
+1923,parking fines,16,0,0,0.95,0.00
+1924,lost theory test certificate,16,0,0,1.00,0.00
+1925,animals,16,0,0,1.00,0.00
+1926,tree,16,0,0,0.89,0.00
+1927,practice test,16,0,0,1.00,0.00
+1928,gmp,16,0,0,1.00,0.00
+1929,moving,16,0,0,0.95,0.05
+1930,freedom pass,16,0,0,0.95,0.00
+1931,charity,16,0,0,0.95,0.00
+1932,disabilty living allowance,16,0,0,0.95,0.00
+1933,motorhome,16,0,0,0.89,0.06
+1934,fixed penalty,16,0,0,0.96,0.00
+1935,state benefits,16,0,0,1.00,0.00
+1936,catering jobs,16,0,0,0.96,0.00
+1937,ema bonuses,16,0,0,0.88,0.00
+1938,unpaid leave,16,0,0,1.00,0.00
+1939,employees rights,16,0,0,1.00,0.00
+1940,car tax exemption,16,0,0,0.83,0.11
+1941,night shift,16,0,0,0.96,0.04
+1942,inf2d,16,0,-1,0.06,0.00
+1943,driving practical test,16,0,0,0.95,0.05
+1944,illness,16,0,0,1.00,0.00
+1945,boots,16,0,0,1.00,0.00
+1946,inflation,16,0,0,1.00,0.00
+1947,school catchment area,16,0,0,1.00,0.00
+1948,horn,16,0,0,1.00,0.00
+1949,work breaks,16,0,0,1.00,0.00
+1950,how much is theory test,15,0,0,1.00,0.00
+1951,fibromyalgia,15,0,-1,0.00,0.00
+1952,sipp,15,0,-1,0.07,0.00
+1953,obesity,15,0,0,1.00,0.00
+1954,asthma,15,0,0,1.00,0.00
+1955,customer compliance,15,0,0,0.88,0.00
+1956,asylum,15,0,0,1.00,0.00
+1957,ict,15,0,0,1.00,0.00
+1958,acts,15,0,0,1.00,0.00
+1959,d42,15,0,0,1.00,0.00
+1960,small claims court,15,0,0,1.00,0.00
+1961,child tax credit rates,15,0,0,0.95,0.00
+1962,c v,15,0,0,1.00,0.00
+1963,dvlalocal,15,0,-1,0.00,0.00
+1964,adi3,15,0,0,1.00,0.00
+1965,mobile phones,15,0,0,0.94,0.00
+1966,bb1,15,0,0,0.95,0.05
+1967,check for cancellations,15,0,0,1.00,0.00
+1968,medical questionaire,15,0,0,1.00,0.00
+1969,np46,15,0,-1,0.00,0.00
+1970,bus lane,15,0,0,1.00,0.00
+1971,change name on driving licence,15,0,0,1.00,0.00
+1972,booking a theory test,15,0,0,1.00,0.00
+1973,unemployment benifit,15,0,0,1.00,0.00
+1974,employment legislation,15,0,0,0.95,0.00
+1975,peterborough,15,0,0,1.00,0.00
+1976,statutory maternity,15,0,0,1.00,0.00
+1977,nhs bursary,15,0,0,0.95,0.00
+1978,tribunals,15,0,0,1.00,0.00
+1979,adi part 3,15,0,0,1.00,0.00
+1980,download,15,0,0,1.00,0.00
+1981,tiger,15,0,0,1.00,0.00
+1982,tachographs,15,0,0,1.00,0.00
+1983,maternity leave calculator,15,0,0,1.00,0.00
+1984,wolverhampton,15,0,0,1.00,0.00
+1985,pff,15,0,-1,0.13,0.00
+1986,international,15,0,0,0.96,0.04
+1987,over 70,15,0,0,1.00,0.00
+1988,redudancy,15,0,-1,0.07,0.00
+1989,supporting people,15,0,0,0.94,0.00
+1990,paycourtfine,15,0,-1,0.00,0.00
+1991,vin check,15,0,0,1.00,0.00
+1992,redundacy,15,0,-1,0.07,0.00
+1993,higher education,15,0,0,1.00,0.00
+1994,how much is the theory test,15,0,0,0.88,0.00
+1995,disabled people,15,0,0,1.00,0.00
+1996,taxable benefits,15,0,0,1.00,0.00
+1997,attendance allowance form,15,0,0,0.94,0.00
+1998,weather,15,0,0,0.88,0.06
+1999,noise,15,0,0,1.00,0.00
+2000,driving licence fees,15,0,0,1.00,0.00
+2001,hse,15,0,0,0.95,0.05
+2002,ucas,15,0,0,1.00,0.00
+2003,apply for national insurance number,15,0,0,1.00,0.00
+2004,dla address,15,0,0,1.00,0.00
+2005,lost ni card,15,0,0,1.00,0.00
+2006,cleaner job,15,0,0,1.00,0.00
+2007,back to work benefits,15,0,0,1.00,0.00
+2008,making a claim,15,0,0,1.00,0.00
+2009,D4,15,0,0,1.00,0.00
+2010,married couples,15,0,0,0.96,0.00
+2011,shrewsbury,15,0,0,1.00,0.00
+2012,sole trader,15,0,0,0.95,0.00
+2013,dvla contacts,15,0,0,1.00,0.00
+2014,forklift driver,15,0,0,0.93,0.04
+2015,code of conduct,15,0,0,0.90,0.00
+2016,warehousing,15,0,0,1.00,0.00
+2017,adult passport,15,0,0,1.00,0.00
+2018,lgv theory,15,0,0,1.00,0.00
+2019,overtaking,15,0,0,1.00,0.00
+2020,care home,15,0,0,0.95,0.05
+2021,long term sick,15,0,0,0.95,0.00
+2022,married pension,15,0,0,0.95,0.05
+2023,painting and decorating,15,0,-1,0.07,0.00
+2024,form pn1,15,0,0,1.00,0.00
+2025,emergency passport,15,0,0,1.00,0.00
+2026,games,15,0,0,1.00,0.00
+2027,child seats,15,0,0,0.94,0.00
+2028,registered keeper,15,0,0,1.00,0.00
+2029,find jobs,15,0,0,0.93,0.00
+2030,changing bank details,15,0,0,1.00,0.00
+2031,tax exempt,15,0,0,1.00,0.00
+2032,utr number,15,0,0,0.96,0.00
+2033,theory test centre,15,0,0,0.94,0.00
+2034,hc11,15,0,0,1.00,0.00
+2035,guaranteed minimum pension,15,0,0,1.00,0.00
+2036,student finance form,15,0,0,0.94,0.00
+2037,nursing homes,15,0,0,0.95,0.00
+2038,census jobs,15,0,0,1.00,0.00
+2039,adif,15,0,-1,0.00,0.00
+2040,mould,15,0,0,1.00,0.00
+2041,homework,15,0,0,1.00,0.00
+2042,job centre locations,15,0,0,1.00,0.00
+2043,self-employment,15,0,0,1.00,0.00
+2044,industrial injury,15,0,0,1.00,0.00
+2045,passport forms,15,0,0,0.95,0.05
+2046,sf300,15,0,0,0.88,0.00
+2047,todays jobs,15,0,0,1.00,0.00
+2048,licence codes,15,0,0,1.00,0.00
+2049,accident at work,15,0,0,1.00,0.00
+2050,fork lift truck,15,0,0,0.94,0.00
+2051,income tax bands,15,0,0,1.00,0.00
+2052,how much is jobseekers allowance,15,0,0,0.94,0.00
+2053,housing benefit form,15,0,0,1.00,0.00
+2054,elderly,15,0,0,1.00,0.00
+2055,student finance declaration form,15,0,0,0.94,0.00
+2056,duplicate tax disc,15,0,0,0.94,0.00
+2057,practical test centres,15,0,0,1.00,0.00
+2058,child benefit helpline,15,0,0,0.95,0.00
+2059,social workers,15,0,0,1.00,0.00
+2060,state pension deferral,15,0,0,1.00,0.00
+2061,pay deductions,15,0,0,0.87,0.00
+2062,hardship fund,15,0,0,1.00,0.00
+2063,tax fraud,15,0,0,1.00,0.00
+2064,children act,15,0,0,0.96,0.00
+2065,financial assessment form,15,0,0,1.00,0.00
+2066,change of address on driving licence,15,0,0,1.00,0.00
+2067,price of theory test,15,0,0,0.94,0.06
+2068,probation period,15,0,0,1.00,0.00
+2069,maintenance grant form,15,0,0,1.00,0.00
+2070,aberdeen,15,0,0,0.95,0.00
+2071,replace driving licence,15,0,0,0.93,0.00
+2072,the highway code,14,0,0,1.00,0.00
+2073,E111,14,0,0,0.94,0.00
+2074,ofsted reports,14,0,0,1.00,0.00
+2075,savings and benefits,14,0,0,1.00,0.00
+2076,carers leave,14,0,0,1.00,0.00
+2077,extended retest,14,0,0,0.86,0.00
+2078,qualifying years,14,0,0,1.00,0.00
+2079,bullying at work,14,0,0,0.93,0.07
+2080,iht206,14,0,0,1.00,0.00
+2081,tax my car,14,0,0,1.00,0.00
+2082,southampton,14,0,0,1.00,0.00
+2083,change details,14,0,0,1.00,0.00
+2084,tuition fee,14,0,0,0.94,0.00
+2085,passport name change,14,0,0,1.00,0.00
+2086,sen,14,0,0,1.00,0.00
+2087,time off,14,0,0,1.00,0.00
+2088,drivers license,14,0,0,1.00,0.00
+2089,cabinet,14,0,0,1.00,0.00
+2090,nhs glasses,14,0,0,1.00,0.00
+2091,buget loan,14,0,0,0.95,0.00
+2092,Inheritance Tax,14,0,0,1.00,0.00
+2093,wedding,14,0,0,1.00,0.00
+2094,attendace allowance,14,0,0,1.00,0.00
+2095,road tax prices,14,0,0,0.96,0.00
+2096,browne review,14,0,0,0.94,0.00
+2097,marriage certificates,14,0,0,1.00,0.00
+2098,anti social behaviour,14,0,0,0.94,0.00
+2099,industrial injury benefit,14,0,0,1.00,0.00
+2100,copy of birth certificate,14,0,0,0.94,0.00
+2101,preschool,14,0,0,1.00,0.00
+2102,show and tell questions,14,0,0,0.86,0.00
+2103,bank holiday entitlement,14,0,0,0.89,0.00
+2104,cv writing,14,0,0,1.00,0.00
+2105,car theory test,14,0,0,0.95,0.00
+2106,parental rights,14,0,0,1.00,0.00
+2107,ib,14,0,0,1.00,0.00
+2108,passport tracking,14,0,0,0.80,0.00
+2109,childcare jobs,14,0,0,0.95,0.00
+2110,central heating,14,0,0,0.95,0.00
+2111,risk assessment,14,0,0,1.00,0.00
+2112,temporary workers,14,0,0,1.00,0.00
+2113,healthy start grant,14,0,0,0.94,0.00
+2114,school catchment areas,14,0,0,1.00,0.00
+2115,curriculum vitae,14,0,0,0.94,0.00
+2116,rp1 form,14,0,0,1.00,0.00
+2117,car tax rates,14,0,0,1.00,0.00
+2118,carers allowance rates,14,0,0,0.95,0.05
+2119,pay in lieu of notice,14,0,0,0.93,0.00
+2120,tesco,14,0,0,1.00,0.00
+2121,est/18184,14,0,-1,0.00,0.00
+2122,sheffield,14,0,0,1.00,0.00
+2123,health and saftey,14,0,-1,0.00,0.00
+2124,defer state pension,14,0,0,1.00,0.00
+2125,widow's pension,14,0,0,1.00,0.00
+2126,county court,14,0,0,1.00,0.00
+2127,pasport,14,0,0,0.86,0.07
+2128,working week,14,0,0,0.80,0.00
+2129,stockport,14,0,0,0.93,0.00
+2130,how much is income support,14,0,0,0.95,0.00
+2131,post office card account,14,0,0,1.00,0.00
+2132,street lighting,14,0,0,1.00,0.00
+2133,make a claim,14,0,0,1.00,0.00
+2134,credit cards,14,0,0,1.00,0.00
+2135,mimimum wage,14,0,0,1.00,0.00
+2136,cardiff,14,0,0,1.00,0.00
+2137,child minding,14,0,0,1.00,0.00
+2138,returning from abroad,14,0,0,1.00,0.00
+2139,white papers,14,0,0,1.00,0.00
+2140,blind,14,0,0,1.00,0.00
+2141,change of address on passport,14,0,0,0.95,0.05
+2142,durham,14,0,0,1.00,0.00
+2143,class 2,14,0,0,0.93,0.00
+2144,change a practical test,14,0,0,0.86,0.14
+2145,new keeper,14,0,0,0.94,0.00
+2146,scooter,14,0,0,1.00,0.00
+2147,job seekers alowance,14,0,0,1.00,0.00
+2148,ccg1 form,14,0,0,1.00,0.00
+2149,cost of passport,14,0,0,0.94,0.06
+2150,sats,14,0,0,1.00,0.00
+2151,sunday working,14,0,0,1.00,0.00
+2152,download form,14,0,0,0.88,0.06
+2153,residential care,14,0,0,0.94,0.00
+2154,back to work credit,14,0,0,0.76,0.00
+2155,income based jobseekers allowance,14,0,0,0.94,0.06
+2156,interest,14,0,0,1.00,0.00
+2157,consultations,14,0,0,1.00,0.00
+2158,replace my license,14,0,0,1.00,0.00
+2159,driving licence application,14,0,0,1.00,0.00
+2160,plymouth,14,0,0,1.00,0.00
+2161,change of address passport,14,0,0,1.00,0.00
+2162,racial discrimination,14,0,0,1.00,0.00
+2163,becoming a childminder,14,0,0,1.00,0.00
+2164,chief executive,14,0,0,0.94,0.00
+2165,probate forms,14,0,0,0.94,0.00
+2166,student loan interest rates,14,0,0,1.00,0.00
+2167,employment equality,14,0,0,0.71,0.00
+2168,sickness pay,14,0,0,1.00,0.00
+2169,pathways,14,0,0,0.94,0.06
+2170,claiming income support,14,0,0,1.00,0.00
+2171,disabilty allowance,14,0,0,1.00,0.00
+2172,government gateway user id,14,0,0,1.00,0.00
+2173,civil service,14,0,0,0.93,0.00
+2174,clothing grant,14,0,0,1.00,0.00
+2175,pa3,14,0,0,0.94,0.00
+2176,change address on driving license,14,0,0,0.94,0.06
+2177,shop worker,14,0,0,0.94,0.00
+2178,reporting benefit fraud,14,0,0,1.00,0.00
+2179,replacement log book,14,0,0,1.00,0.00
+2180,race discrimination,14,0,0,0.88,0.00
+2181,birth cert,14,0,0,0.95,0.00
+2182,sports,14,0,0,1.00,0.00
+2183,derby,14,0,0,0.88,0.13
+2184,second degree,14,0,0,1.00,0.00
+2185,benefits advice,14,0,0,0.94,0.00
+2186,dvla number,14,0,0,0.93,0.00
+2187,christmas,14,0,0,1.00,0.00
+2188,early years,14,0,0,1.00,0.00
+2189,ccg,14,0,0,0.94,0.06
+2190,d4 medical,14,0,0,1.00,0.00
+2191,eu forms,14,0,0,1.00,0.00
+2192,university fees,14,0,0,1.00,0.00
+2193,pre school,14,0,0,1.00,0.00
+2194,further education,14,0,0,0.96,0.00
+2195,national insurance cards,14,0,0,1.00,0.00
+2196,income support form,14,0,0,1.00,0.00
+2197,v778/1,14,0,-1,0.07,0.00
+2198,student calculator,14,0,0,0.94,0.00
+2199,crisi loan,14,0,0,0.94,0.00
+2200,teachers,14,0,0,1.00,0.00
+2201,code of practice,14,0,0,0.93,0.00
+2202,job centre plus address,14,0,0,1.00,0.00
+2203,gifted and talented,14,0,0,1.00,0.00
+2204,tax offices,14,0,0,0.81,0.00
+2205,disability discrimination act 1995,14,0,0,1.00,0.00
+2206,long term sickness,14,0,0,1.00,0.00
+2207,v1,14,0,0,0.93,0.07
+2208,ca3638,14,0,-1,0.00,0.00
+2209,winterfuel,14,0,-1,0.00,0.00
+2210,c,14,0,0,0.96,0.00
+2211,libraries,14,0,0,1.00,0.00
+2212,becoming self employed,14,0,0,1.00,0.00
+2213,break,14,0,0,0.95,0.00
+2214,nkn/6609,14,0,-1,0.00,0.00
+2215,employment and support allowence,14,0,0,1.00,0.00
+2216,sva,14,0,0,1.00,0.00
+2217,child car seats,14,0,0,1.00,0.00
+2218,bricklaying jobs,14,0,0,1.00,0.00
+2219,boiler,14,0,0,0.96,0.00
+2220,jo,14,0,0,0.94,0.00
+2221,unsociable hours,14,0,0,1.00,0.00
+2222,business start up,14,0,0,1.00,0.00
+2223,contact job centre,14,0,0,1.00,0.00
+2224,secondary schools,14,0,0,1.00,0.00
+2225,theory test fees,14,0,0,0.94,0.06
+2226,photo renewal form d798,14,0,0,0.89,0.06
+2227,VOSA,14,0,0,1.00,0.00
+2228,custom and practice,14,0,0,1.00,0.00
+2229,key worker,14,0,0,0.93,0.00
+2230,divorce forms,14,0,0,0.95,0.00
+2231,benifit calculator,14,0,0,1.00,0.00
+2232,classic car tax,14,0,0,0.96,0.04
+2233,location,14,0,0,0.95,0.00
+2234,two jobs,14,0,0,0.89,0.00
+2235,small claims,14,0,0,1.00,0.00
+2236,dvla forms,14,0,0,1.00,0.00
+2237,travel document,14,0,0,1.00,0.00
+2238,auctions,14,0,0,1.00,0.00
+2239,loan form,14,0,0,1.00,0.00
+2240,emissions,14,0,0,1.00,0.00
+2241,learn direct,14,0,0,1.00,0.00
+2242,CONTACT NUMBERS,14,0,0,0.89,0.06
+2243,retirement date,13,0,0,0.77,0.00
+2244,labour,13,0,0,0.93,0.07
+2245,driving licence codes,13,0,0,0.86,0.14
+2246,p161,13,0,0,0.93,0.07
+2247,jcp,13,0,0,1.00,0.00
+2248,driving licence categories,13,0,0,1.00,0.00
+2249,qualifications,13,0,0,0.93,0.00
+2250,e s a,13,0,0,1.00,0.00
+2251,overseas,13,0,0,1.00,0.00
+2252,SSP1,13,0,0,0.93,0.07
+2253,price,13,0,0,1.00,0.00
+2254,change of keeper,13,0,0,0.93,0.00
+2255,race relations,13,0,0,1.00,0.00
+2256,hairdresser,13,0,0,1.00,0.00
+2257,job site,13,0,0,1.00,0.00
+2258,e106,13,0,-1,0.00,0.00
+2259,iidb,13,0,0,1.00,0.00
+2260,apply for job seekers,13,0,0,0.88,0.00
+2261,grievance procedures,13,0,0,0.94,0.00
+2262,local education authority,13,0,0,0.93,0.00
+2263,gift aid,13,0,0,1.00,0.00
+2264,bonds,13,0,0,0.93,0.00
+2265,loan forms,13,0,0,1.00,0.00
+2266,moped licence,13,0,0,1.00,0.00
+2267,co2 emissions,13,0,0,0.92,0.00
+2268,admissions,13,0,0,0.85,0.00
+2269,criminal records,13,0,0,1.00,0.00
+2270,racism,13,0,0,0.93,0.07
+2271,setting up a business,13,0,0,1.00,0.00
+2272,passport number,13,0,0,1.00,0.00
+2273,professional bodies,13,0,0,0.86,0.07
+2274,photo licence,13,0,0,1.00,0.00
+2275,nearest passport office,13,0,0,1.00,0.00
+2276,tenders,13,0,0,1.00,0.00
+2277,applying for national insurance number,13,0,0,1.00,0.00
+2278,poverty,13,0,0,0.93,0.07
+2279,admin jobs,13,0,0,0.95,0.05
+2280,et1,13,0,0,1.00,0.00
+2281,government,13,0,0,0.96,0.00
+2282,having a baby,13,0,0,1.00,0.00
+2283,vc5,13,0,-1,0.00,0.00
+2284,married couple,13,0,0,1.00,0.00
+2285,complain,13,0,0,1.00,0.00
+2286,photorenewal,13,0,-1,0.00,0.00
+2287,swine flu,13,0,0,0.88,0.13
+2288,apprenticships,13,0,-1,0.08,0.00
+2289,personal tax allowance,13,0,0,1.00,0.00
+2290,questions,13,0,0,1.00,0.00
+2291,medical conditions,13,0,0,0.93,0.00
+2292,bereavment benefit,13,0,0,1.00,0.00
+2293,retail in west bromwich,13,-1,0,0.38,0.00
+2294,nanny,13,0,0,0.87,0.00
+2295,prison,13,0,0,0.95,0.00
+2296,v55/4,13,0,0,1.00,0.00
+2297,first aid,13,0,0,1.00,0.00
+2298,digital tachograph cards,13,0,0,1.00,0.00
+2299,childbenefit,13,0,-1,0.00,0.00
+2300,redunancy,13,0,-1,0.15,0.00
+2301,digital tacograph,13,0,0,1.00,0.00
+2302,covering letters,13,0,0,0.88,0.00
+2303,cover letters,13,0,0,1.00,0.00
+2304,theory practice,13,0,0,0.93,0.00
+2305,coventry,13,0,0,0.90,0.00
+2306,d750,13,0,0,1.00,0.00
+2307,direct debit,13,0,0,1.00,0.00
+2308,safeguarding children,13,0,0,0.96,0.00
+2309,SEX DISCRIMINATION,13,0,0,1.00,0.00
+2310,welding,13,0,0,1.00,0.00
+2311,skills for life,13,0,0,1.00,0.00
+2312,print,13,0,0,0.80,0.07
+2313,log books,13,0,0,1.00,0.00
+2314,classic cars,13,0,0,0.93,0.07
+2315,job profile,13,0,0,1.00,0.00
+2316,vehicle tax refund,13,0,0,0.93,0.00
+2317,foreign licence,13,0,0,0.92,0.00
+2318,eu10b,13,0,-1,0.00,0.00
+2319,graduates,13,0,0,0.93,0.00
+2320,watford,13,0,0,0.93,0.07
+2321,education maintenance allowance,13,0,0,1.00,0.00
+2322,scrap car,13,0,0,0.89,0.00
+2323,working alone,13,0,0,1.00,0.00
+2324,alljobs,13,0,-1,0.00,0.00
+2325,paper counterpart,13,0,0,0.94,0.00
+2326,maintenace grant,13,0,0,0.88,0.00
+2327,companies house,13,0,0,0.92,0.00
+2328,current year income form,13,0,0,1.00,0.00
+2329,course,13,0,0,1.00,0.00
+2330,special guardianship,13,0,0,0.93,0.00
+2331,young carers,13,0,0,1.00,0.00
+2332,renewal at 70,13,0,0,0.86,0.10
+2333,property,13,0,0,1.00,0.00
+2334,sunderland,13,0,0,1.00,0.00
+2335,health and safty,13,0,-1,0.00,0.00
+2336,maintanence grant,13,0,0,0.95,0.05
+2337,morgage interest help,13,0,0,0.86,0.14
+2338,leisure,13,0,0,0.71,0.00
+2339,student loan repayment,13,0,0,0.92,0.00
+2340,counterpart licence,13,0,0,0.97,0.03
+2341,postgraduate funding,13,0,0,0.94,0.00
+2342,act on co2,13,0,0,0.93,0.00
+2343,how to write a cv,13,0,0,1.00,0.00
+2344,travel to interview,13,0,0,1.00,0.00
+2345,untaxed vehicles,13,0,0,1.00,0.00
+2346,search jobs,13,0,0,1.00,0.00
+2347,jsa online,13,0,0,1.00,0.00
+2348,driving test cancelations,13,0,0,0.91,0.00
+2349,voluntary national insurance contributions,13,0,0,1.00,0.00
+2350,sexual discrimination,13,0,0,1.00,0.00
+2351,public records,13,0,0,1.00,0.00
+2352,new drivers,13,0,0,1.00,0.00
+2353,wigan,13,0,0,1.00,0.00
+2354,disability living,13,0,0,0.94,0.00
+2355,council tax reduction,13,0,0,0.93,0.00
+2356,show and tell,13,0,0,1.00,0.00
+2357,stamp duty land tax,13,0,0,1.00,0.00
+2358,budgetting loans,13,0,0,1.00,0.00
+2359,Highway Code,13,0,0,1.00,0.00
+2360,pension tax relief,13,0,0,0.88,0.13
+2361,elections,13,0,0,1.00,0.00
+2362,braking distance,13,0,0,0.94,0.00
+2363,council tax benifit,13,0,0,0.93,0.00
+2364,mi12,13,0,-1,0.00,0.00
+2365,tachograph card,13,0,0,1.00,0.00
+2366,nick clegg,13,0,0,0.86,0.07
+2367,form d2,13,0,0,0.94,0.06
+2368,b+e,13,0,0,1.00,0.00
+2369,branches of government,13,0,0,1.00,0.00
+2370,second job,13,0,0,1.00,0.00
+2371,laptops,13,0,0,0.93,0.00
+2372,budgeting loan application,13,0,0,1.00,0.00
+2373,ssmg,13,0,0,0.93,0.07
+2374,absence,13,0,0,0.92,0.04
+2375,home improvement grants,13,0,0,1.00,0.00
+2376,how much is ssp,13,0,0,1.00,0.00
+2377,pension centre,13,0,0,1.00,0.00
+2378,practical test cancellations,13,0,0,1.00,0.00
+2379,benefits checker,13,0,0,1.00,0.00
+2380,pension savings credit,13,0,0,0.94,0.00
+2381,temporary employment,13,0,0,1.00,0.00
+2382,change address on passport,13,0,0,1.00,0.00
+2383,travel insurance,13,0,0,0.92,0.00
+2384,theory booking,13,0,0,1.00,0.00
+2385,form v10,13,0,0,0.93,0.07
+2386,warrington,13,0,0,0.93,0.00
+2387,temporary contract,13,0,0,0.94,0.00
+2388,shopwork,13,0,-1,0.00,0.00
+2389,video,13,0,0,1.00,0.00
+2390,pregnancy grants,13,0,0,0.89,0.06
+2391,inf5d,13,0,0,1.00,0.00
+2392,working 16 hours,13,0,0,1.00,0.00
+2393,motorbike test,13,0,0,0.86,0.07
+2394,functional skills,13,0,0,0.77,0.00
+2395,report fraud,13,0,0,1.00,0.00
+2396,bankrupt,13,0,0,0.77,0.08
+2397,maximum working hours,13,0,0,0.93,0.00
+2398,retirement age calculator,13,0,0,0.93,0.00
+2399,theroy,13,0,-1,0.00,0.00
+2400,find my nearest,13,0,0,0.92,0.00
+2401,looking for job,13,0,0,0.94,0.00
+2402,looking for jobs,13,0,0,0.92,0.00
+2403,bricklayers,13,0,0,0.94,0.06
+2404,laid off,13,0,0,1.00,0.00
+2405,cost of car tax,13,0,0,1.00,0.00
+2406,school term dates,13,0,0,0.77,0.08
+2407,tv,13,0,0,1.00,0.00
+2408,teaching assistant jobs,13,0,0,1.00,0.00
+2409,part time study,13,0,0,1.00,0.00
+2410,belfast,13,0,0,1.00,0.00
+2411,housing association,13,0,0,1.00,0.00
+2412,maternity and paternity leave,13,0,0,0.90,0.05
+2413,claiming benefits,13,0,0,1.00,0.00
+2414,bd8,13,0,0,0.95,0.05
+2415,break entitlement,12,0,0,1.00,0.00
+2416,form c1,12,0,0,1.00,0.00
+2417,form v14,12,0,0,1.00,0.00
+2418,motorcycle theory,12,0,0,1.00,0.00
+2419,secondary school,12,0,0,1.00,0.00
+2420,SELF CERTIFICATION,12,0,0,1.00,0.00
+2421,school profiles,12,0,0,0.92,0.00
+2422,endorsement codes,12,0,0,0.90,0.05
+2423,mortgage support,12,0,0,1.00,0.00
+2424,winter,12,0,0,0.85,0.08
+2425,pm1,12,0,-1,0.00,0.00
+2426,part time job,12,0,0,1.00,0.00
+2427,eviction,12,0,0,1.00,0.00
+2428,mortgage payments,12,0,0,1.00,0.00
+2429,dla phone number,12,0,0,1.00,0.00
+2430,how to claim,12,0,0,1.00,0.00
+2431,key stage 1,12,0,0,1.00,0.00
+2432,car seats,12,0,0,1.00,0.00
+2433,income support contact,12,0,0,1.00,0.00
+2434,access course,12,0,0,1.00,0.00
+2435,access courses,12,0,0,0.86,0.00
+2436,booking a driving test,12,0,0,0.93,0.00
+2437,payslips,12,0,0,0.88,0.00
+2438,holiday allowance,12,0,0,0.92,0.08
+2439,lost logbook,12,0,0,1.00,0.00
+2440,hours,12,0,0,0.92,0.08
+2441,latest vacancies,12,0,0,1.00,0.00
+2442,dvlc,12,0,0,0.93,0.07
+2443,contracted out,12,0,0,0.92,0.00
+2444,contact phone number,12,0,0,1.00,0.00
+2445,ni card,12,0,0,1.00,0.00
+2446,provisional liscence,12,0,0,1.00,0.00
+2447,hounslow,12,0,0,0.93,0.07
+2448,paternity allowance,12,0,0,0.92,0.00
+2449,state retirement age,12,0,0,1.00,0.00
+2450,reduced earnings allowance,12,0,0,0.77,0.00
+2451,www.gateway.gov.uk,12,0,-1,0.00,0.00
+2452,learning to drive,12,0,0,1.00,0.00
+2453,income-related employment and support allowance,12,0,0,1.00,0.00
+2454,new driving licence,12,0,0,1.00,0.00
+2455,drivers card,12,0,0,0.75,0.00
+2456,housing costs,12,0,0,0.96,0.04
+2457,gap year,12,0,0,1.00,0.00
+2458,renew car tax,12,0,0,1.00,0.00
+2459,redundancy pay calculator,12,0,0,0.83,0.08
+2460,brighton,12,0,0,1.00,0.00
+2461,income support calculator,12,0,0,1.00,0.00
+2462,p60u,12,0,-1,0.08,0.00
+2463,counter part,12,0,0,1.00,0.00
+2464,double glazing grants,12,0,0,1.00,0.00
+2465,limited company,12,0,0,1.00,0.00
+2466,contact jobcentre plus,12,0,0,1.00,0.00
+2467,contact jobcentre,12,0,0,1.00,0.00
+2468,check car tax,12,0,0,0.94,0.06
+2469,minimum pay,12,0,0,1.00,0.00
+2470,replacement national insurance card,12,0,0,1.00,0.00
+2471,house of lords,12,0,0,0.93,0.00
+2472,building regs,12,0,0,0.92,0.08
+2473,finance for eu students,12,0,0,0.93,0.00
+2474,interview offices,12,0,0,1.00,0.00
+2475,damp,12,0,0,1.00,0.00
+2476,lost v5c,12,0,0,0.87,0.13
+2477,ada elizabeth walker,12,0,0,1.00,0.00
+2478,lunch break,12,0,0,0.92,0.08
+2479,vat increase,12,0,0,0.92,0.00
+2480,register unemployed,12,0,0,1.00,0.00
+2481,dvla addresses,12,0,0,0.95,0.05
+2482,equal opportunities act,12,0,0,0.95,0.00
+2483,ips,12,0,0,1.00,0.00
+2484,job interviews,12,0,0,1.00,0.00
+2485,course funding,12,-1,0,0.50,0.00
+2486,allotments,12,0,0,1.00,0.00
+2487,PTG1 FORM,12,0,0,1.00,0.00
+2488,p46 forms,12,0,0,0.94,0.00
+2489,new business,12,0,0,1.00,0.00
+2490,allowances,12,0,0,1.00,0.00
+2491,equal opportunity,12,0,0,0.86,0.00
+2492,benefit entitlement,12,0,0,1.00,0.00
+2493,sickness absence,12,0,0,1.00,0.00
+2494,senco,12,0,0,1.00,0.00
+2495,defence,12,0,0,1.00,0.00
+2496,find your nearest,12,0,0,0.92,0.00
+2497,check,12,0,0,1.00,0.00
+2498,replacement,12,0,0,1.00,0.00
+2499,change theory test date,12,0,0,1.00,0.00
+2500,working families tax credit,12,0,0,0.92,0.08
+2501,food hygiene,12,0,0,1.00,0.00
+2502,pensions credit,12,0,0,1.00,0.00
+2503,replace provisional licence,12,0,0,0.92,0.00
+2504,student council tax,12,0,0,0.93,0.00
+2505,swindon,12,0,0,1.00,0.00
+2506,diplomas,12,0,0,1.00,0.00
+2507,incapacity benefit rates,12,0,0,1.00,0.00
+2508,married state pension,12,0,0,1.00,0.00
+2509,hctb1,12,0,0,0.93,0.07
+2510,d4 medical form,12,0,0,1.00,0.00
+2511,cpi,12,0,0,1.00,0.00
+2512,benefit delivery centre,12,0,0,1.00,0.00
+2513,self employed tax,12,0,0,1.00,0.00
+2514,joinery,12,0,-1,0.00,0.00
+2515,media,12,0,0,0.92,0.00
+2516,school governors,12,0,0,1.00,0.00
+2517,d2 pack,12,0,0,1.00,0.00
+2518,paying a fine,12,0,0,1.00,0.00
+2519,tips,12,0,0,0.88,0.00
+2520,tell us once,12,0,0,1.00,0.00
+2521,work programme,12,0,0,0.94,0.00
+2522,pff1 forms,12,0,0,1.00,0.00
+2523,cancel test,12,0,0,0.92,0.00
+2524,animal,12,0,0,0.93,0.07
+2525,adi part 2,12,0,0,0.92,0.00
+2526,hpi,12,0,0,1.00,0.00
+2527,reference,12,0,0,1.00,0.00
+2528,self-employment credit,12,0,0,0.96,0.00
+2529,dea,12,0,0,1.00,0.00
+2530,career profiles,12,0,0,0.92,0.00
+2531,cancel practical test,12,0,0,1.00,0.00
+2532,v5c/3,12,0,0,1.00,0.00
+2533,practise theory,12,0,0,0.85,0.08
+2534,videos,12,0,0,1.00,0.00
+2535,cancel driving test,12,0,0,1.00,0.00
+2536,holiday entitlements,12,0,0,1.00,0.00
+2537,terminal illness,12,0,0,1.00,0.00
+2538,dla appeal,12,0,0,1.00,0.00
+2539,deafness,12,0,0,1.00,0.00
+2540,cancel,12,0,0,1.00,0.00
+2541,tax rebates,12,0,0,0.88,0.06
+2542,maintence grant,12,0,0,0.93,0.00
+2543,working conditions,12,0,0,0.87,0.00
+2544,nearest test centre,12,0,0,1.00,0.00
+2545,school leaving age,12,0,0,1.00,0.00
+2546,solar,12,0,0,0.86,0.14
+2547,civil service pensions,12,0,0,1.00,0.00
+2548,free schools,12,0,0,1.00,0.00
+2549,terminally ill,12,0,0,1.00,0.00
+2550,photo renewal,12,0,0,0.93,0.00
+2551,reception,12,0,0,0.88,0.00
+2552,minimum wages],12,-1,0,0.08,0.00
+2553,work permits,12,0,0,1.00,0.00
+2554,mid,12,0,0,0.93,0.00
+2555,means test,12,0,0,1.00,0.00
+2556,distance learning,12,0,0,0.92,0.08
+2557,home access,12,0,0,1.00,0.00
+2558,secretary,12,0,0,1.00,0.00
+2559,childrens services,12,0,0,1.00,0.00
+2560,returning to uk,12,0,0,0.93,0.00
+2561,student card,12,0,0,1.00,0.00
+2562,identity card,12,0,0,0.96,0.00
+2563,cyber bullying,12,0,0,0.92,0.08
+2564,war pension,12,0,0,0.93,0.07
+2565,applying for a national insurance number,12,0,0,1.00,0.00
+2566,train to gain,12,0,0,1.00,0.00
+2567,undertaking,12,0,0,1.00,0.00
+2568,primary school,12,0,0,1.00,0.00
+2569,passport address change,12,0,0,0.92,0.08
+2570,working tax credit form,12,0,0,1.00,0.00
+2571,Crisis Loan number,12,0,0,1.00,0.00
+2572,stolen licence,12,0,0,1.00,0.00
+2573,ppi,12,0,0,0.87,0.07
+2574,road safety,12,0,0,1.00,0.00
+2575,luton,12,0,0,1.00,0.00
+2576,job vacancys,12,0,0,1.00,0.00
+2577,grievance,12,0,0,1.00,0.00
+2578,usa visa,12,0,0,1.00,0.00
+2579,making a complaint,12,0,0,1.00,0.00
+2580,cleaner jobs,12,0,0,0.94,0.00
+2581,apply for jsa,12,0,0,0.92,0.08
+2582,paid breaks,12,0,0,0.92,0.00
+2583,v5c form,12,0,0,1.00,0.00
+2584,job application,12,0,0,1.00,0.00
+2585,apply for jobseekers,12,0,0,1.00,0.00
+2586,private plates,12,0,0,0.85,0.08
+2587,apply for income support,12,0,0,1.00,0.00
+2588,household income,12,0,0,1.00,0.00
+2589,legislations,12,0,0,1.00,0.00
+2590,driving jobs manchester,12,0,0,1.00,0.00
+2591,tenants,12,0,0,1.00,0.00
+2592,slough,12,0,0,1.00,0.00
+2593,hospital appointments,12,0,0,1.00,0.00
+2594,human rights act 1998,12,0,0,1.00,0.00
+2595,studying abroad,12,0,0,1.00,0.00
+2596,working tax credit calculator,12,0,0,1.00,0.00
+2597,inclusion,12,0,0,1.00,0.00
+2598,dental nurse,12,0,0,1.00,0.00
+2599,imcome support,12,0,0,0.94,0.00
+2600,ombudsman,12,0,0,0.90,0.00
+2601,untaxed,12,0,0,0.83,0.08
+2602,esa 50,12,0,0,1.00,0.00
+2603,download p46,12,0,0,0.94,0.06
+2604,winter heating allowance,12,0,0,1.00,0.00
+2605,widowed parents allowance,12,0,0,0.77,0.08
+2606,parking permits,12,0,0,0.93,0.00
+2607,fine,12,0,0,1.00,0.00
+2608,advertising jobs,12,0,0,0.93,0.00
+2609,when can i retire,12,0,0,0.93,0.07
+2610,renew child passport,12,0,0,1.00,0.00
+2611,terms and conditions,12,0,0,0.93,0.00
+2612,advice,12,0,0,1.00,0.00
+2613,rent deposit scheme,12,0,0,1.00,0.00
+2614,payroll,12,0,0,0.93,0.00
+2615,id card,12,0,0,1.00,0.00
+2616,painter decorator,12,0,0,1.00,0.00
+2617,form ca3638,12,0,0,1.00,0.00
+2618,blackpool,12,0,0,1.00,0.00
+2619,home help,12,0,0,1.00,0.00
+2620,budget 2010,12,0,0,1.00,0.00
+2621,breaks at work,12,0,0,1.00,0.00
+2622,download application form,12,0,0,1.00,0.00
+2623,category,12,0,0,1.00,0.00
+2624,lso1,12,0,-1,0.00,0.00
+2625,lost drivers license,12,0,0,1.00,0.00
+2626,patent,12,0,0,1.00,0.00
+2627,it jobs,12,0,0,0.93,0.00
+2628,disabled facilities grant,12,0,0,1.00,0.00
+2629,pension claim form,12,0,0,0.85,0.00
+2630,working,12,0,0,1.00,0.00
+2631,jobs in wrexham,12,0,0,1.00,0.00
+2632,s1,11,0,0,0.92,0.08
+2633,ipswich,11,0,0,1.00,0.00
+2634,living allowance,11,0,0,0.92,0.00
+2635,picker packer,11,0,0,1.00,0.00
+2636,change of details,11,0,0,1.00,0.00
+2637,second state pension,11,0,0,1.00,0.00
+2638,digital passport,11,0,0,1.00,0.00
+2639,rights,11,0,0,0.92,0.00
+2640,fco,11,0,0,1.00,0.00
+2641,consultation,11,0,0,1.00,0.00
+2642,expired passport,11,0,0,1.00,0.00
+2643,copy birth certificate,11,0,0,0.91,0.00
+2644,how much do i owe,11,0,0,1.00,0.00
+2645,apply for maintenance grant,11,0,0,0.94,0.00
+2646,income based,11,0,0,1.00,0.00
+2647,browne,11,0,0,1.00,0.00
+2648,better off,11,0,0,1.00,0.00
+2649,paper license,11,0,0,0.93,0.00
+2650,theory exam,11,0,0,1.00,0.00
+2651,fsa,11,0,0,1.00,0.00
+2652,pff 2,11,0,0,0.91,0.00
+2653,trees,11,0,0,1.00,0.00
+2654,mopeds,11,0,0,1.00,0.00
+2655,freedom of information act,11,0,0,0.93,0.00
+2656,legal,11,0,0,1.00,0.00
+2657,meals on wheels,11,0,0,0.92,0.00
+2658,community grants,11,0,0,1.00,0.00
+2659,help with childcare costs,11,0,0,1.00,0.00
+2660,cost of practical test,11,0,0,1.00,0.00
+2661,severe disability,11,0,0,0.86,0.14
+2662,pedestrian crossings,11,0,0,1.00,0.00
+2663,change driving licence address,11,0,0,1.00,0.00
+2664,leicester,11,0,0,1.00,0.00
+2665,benefit checker,11,0,0,1.00,0.00
+2666,job serach,11,0,0,0.92,0.00
+2667,passport interviews,11,0,0,0.91,0.09
+2668,working time regulation,11,0,0,1.00,0.00
+2669,full time,11,0,0,1.00,0.00
+2670,driving lisence,11,0,0,1.00,0.00
+2671,citizens advice bureau,11,0,0,0.92,0.08
+2672,vehicle status,11,0,0,1.00,0.00
+2673,selling a car,11,0,0,1.00,0.00
+2674,free theory test,11,0,0,0.91,0.00
+2675,full state pension,11,0,0,1.00,0.00
+2676,decorating grant,11,0,0,1.00,0.00
+2677,apply for jobseekers allowance,11,0,0,0.92,0.00
+2678,smp calculator,11,0,0,0.92,0.08
+2679,disabled students allowances,11,0,0,0.92,0.00
+2680,hgv tax,11,0,0,1.00,0.00
+2681,track application,11,0,0,1.00,0.00
+2682,motobility,11,0,-1,0.09,0.00
+2683,changing address on driving licence,11,0,0,1.00,0.00
+2684,student support number,11,0,0,0.92,0.00
+2685,teenage pregnancy,11,0,0,1.00,0.00
+2686,licences,11,0,0,1.00,0.00
+2687,news,11,0,0,1.00,0.00
+2688,chef jobs,11,0,0,1.00,0.00
+2689,fashion,11,0,0,0.91,0.00
+2690,adi practical test,11,0,0,1.00,0.00
+2691,car tax cost,11,0,0,0.91,0.00
+2692,uniform,11,0,0,0.92,0.00
+2693,what benefits am i entitled to,11,0,0,1.00,0.00
+2694,special rules,11,0,0,0.87,0.07
+2695,photographs,11,0,0,0.92,0.08
+2696,self certification form,11,0,0,0.94,0.06
+2697,cherished transfer,11,0,0,0.83,0.00
+2698,car tax band,11,0,0,0.92,0.08
+2699,milk vouchers,11,0,0,0.91,0.00
+2700,local dvla offices,11,0,0,1.00,0.00
+2701,consumer,11,0,0,1.00,0.00
+2702,university grants,11,0,0,1.00,0.00
+2703,claim benefits,11,0,0,0.88,0.00
+2704,demotion,11,0,0,1.00,0.00
+2705,registration numbers,11,0,0,1.00,0.00
+2706,refuse collection,11,0,0,0.94,0.00
+2707,identity,11,0,0,1.00,0.00
+2708,registration check,11,0,0,0.92,0.00
+2709,cook,11,0,0,1.00,0.00
+2710,nationality,11,0,0,0.92,0.08
+2711,decree absolute,11,0,0,1.00,0.00
+2712,collective passport,11,0,0,0.92,0.00
+2713,school transport,11,0,0,1.00,0.00
+2714,aylesbury,11,0,0,0.88,0.00
+2715,http://www.jobcentreplus.gov.uk/jcp/stellent/groups/jcp/documents/websitecontent/dev_011325.doc,11,0,-1,0.00,0.00
+2716,chester,11,0,0,0.92,0.00
+2717,department for work and pensions,11,0,0,0.92,0.00
+2718,jobs],11,0,0,0.94,0.00
+2719,http://www.jobcentreplus.gov.uk/jcp/stellent/groups/jcp/documents/websitecontent/dev_011325.doc.,11,0,-1,0.09,0.00
+2720,how much is job seekers allowance,11,0,0,1.00,0.00
+2721,loans and grants,11,0,0,1.00,0.00
+2722,endorsments,11,0,-1,0.00,0.00
+2723,matb1 form,11,0,0,0.87,0.00
+2724,shop,11,0,0,0.77,0.00
+2725,barrister,11,0,0,0.92,0.00
+2726,company blogger,11,0,0,1.00,0.00
+2727,employment allowance,11,0,0,0.88,0.06
+2728,night workers,11,0,0,0.91,0.09
+2729,interview tips,11,0,0,1.00,0.00
+2730,elderly care,11,0,0,1.00,0.00
+2731,childrens rights,11,0,0,0.94,0.06
+2732,income assessment,11,0,0,0.85,0.00
+2733,applying for student finance,11,0,0,1.00,0.00
+2734,home,11,0,0,0.92,0.00
+2735,accident,11,0,0,1.00,0.00
+2736,race relations act 1976,11,0,0,1.00,0.00
+2737,bailiffs,11,0,0,1.00,0.00
+2738,vin,11,0,0,1.00,0.00
+2739,bis,11,0,0,0.91,0.09
+2740,selling car,11,0,0,1.00,0.00
+2741,family tree,11,0,0,1.00,0.00
+2742,tax vehicle,11,0,0,1.00,0.00
+2743,incapasity,11,0,-1,0.00,0.00
+2744,parental responsibility,11,0,0,1.00,0.00
+2745,termination of employment,11,0,0,1.00,0.00
+2746,cars,11,0,0,1.00,0.00
+2747,show me,11,0,0,1.00,0.00
+2748,healthy eating,11,0,0,0.95,0.00
+2749,buget loans,11,0,0,1.00,0.00
+2750,do it online,11,0,0,1.00,0.00
+2751,job centreplus,11,0,0,1.00,0.00
+2752,working part time,11,0,0,1.00,0.00
+2753,vehicle recall,11,0,0,1.00,0.00
+2754,minimum,11,0,0,1.00,0.00
+2755,p810,11,0,0,1.00,0.00
+2756,identity theft,11,0,0,1.00,0.00
+2757,part time finance,11,0,0,0.91,0.09
+2758,sexual harrassment,11,0,0,0.95,0.00
+2759,accounts,11,0,0,1.00,0.00
+2760,death benefit,11,0,0,1.00,0.00
+2761,death benefits,11,0,0,1.00,0.00
+2762,global warming,11,0,0,0.92,0.00
+2763,attendanceallowance,11,0,-1,0.00,0.00
+2764,attendance allowence,11,0,0,1.00,0.00
+2765,trade union workers,11,0,0,0.83,0.00
+2766,mi12 form,11,0,0,1.00,0.00
+2767,ill health retirement,11,0,0,1.00,0.00
+2768,minum wage,11,0,0,1.00,0.00
+2769,administration assistant,11,0,0,0.93,0.07
+2770,benifit,11,0,-1,0.09,0.00
+2771,older people,11,0,0,1.00,0.00
+2772,birth/adoption certificate form,11,0,0,1.00,0.00
+2773,jsa rates,11,0,0,1.00,0.00
+2774,benefit helpline,11,0,0,1.00,0.00
+2775,counselling,11,0,0,0.95,0.00
+2776,dsa form,11,0,0,1.00,0.00
+2777,building control,11,0,0,1.00,0.00
+2778,cycle to work,11,0,0,1.00,0.00
+2779,driving test cancellation,11,0,0,1.00,0.00
+2780,ni application,11,0,0,0.93,0.00
+2781,s,11,0,0,0.93,0.00
+2782,winter payment,11,0,0,1.00,0.00
+2783,hgv driving jobs,11,0,0,1.00,0.00
+2784,dropped kerbs,11,0,0,0.94,0.06
+2785,eyesight,11,0,0,1.00,0.00
+2786,exercise,11,0,0,0.96,0.00
+2787,going self employed,11,0,0,1.00,0.00
+2788,chelmsford,11,0,0,1.00,0.00
+2789,claiming tax back,11,0,0,0.94,0.06
+2790,benifits advisor,11,0,0,0.94,0.00
+2791,child benefit number,11,0,0,1.00,0.00
+2792,sure start centres,11,0,0,0.93,0.07
+2793,workers rights,11,0,0,1.00,0.00
+2794,private renting,11,0,0,1.00,0.00
+2795,hartlepool,11,0,0,1.00,0.00
+2796,bank holidays 2011,11,0,0,0.91,0.00
+2797,trade plate,11,0,0,1.00,0.00
+2798,contracting out,11,0,0,0.92,0.08
+2799,v60,11,0,-1,0.09,0.00
+2800,careers and skills advice,11,0,0,0.73,0.00
+2801,tax credits helpline,11,0,0,1.00,0.00
+2802,nhs exemption,11,0,0,1.00,0.00
+2803,ved,11,0,0,1.00,0.00
+2804,lost p60,11,0,0,0.89,0.00
+2805,motorbike tax,11,0,0,1.00,0.00
+2806,benefit forms,11,0,0,1.00,0.00
+2807,hgv drivers,11,0,0,0.93,0.07
+2808,untaxed vehicle,11,0,0,1.00,0.00
+2809,wtc,11,0,0,1.00,0.00
+2810,first mot,11,0,0,1.00,0.00
+2811,pcn,11,0,-1,0.00,0.00
+2812,emergency loan,11,0,0,1.00,0.00
+2813,theory test centers,11,0,0,0.94,0.00
+2814,international pension centre,11,0,0,1.00,0.00
+2815,vehicle search,11,0,0,1.00,0.00
+2816,lost card,11,0,0,1.00,0.00
+2817,family fund,11,0,0,1.00,0.00
+2818,soc,11,0,-1,0.00,0.00
+2819,uk passport,11,0,0,0.91,0.00
+2820,doctor,11,0,0,0.93,0.07
+2821,extended test,11,0,0,1.00,0.00
+2822,employment issues,11,0,0,1.00,0.00
+2823,es5jp,11,0,-1,0.00,0.00
+2824,signs,11,0,0,1.00,0.00
+2825,vat registration,11,0,0,0.92,0.00
+2826,jcp application form,11,0,0,1.00,0.00
+2827,nurse,11,0,0,0.95,0.00
+2828,sex education,11,0,0,0.73,0.00
+2829,beauty,11,0,0,1.00,0.00
+2830,check and send service,11,0,0,0.92,0.00
+2831,teory test,11,0,0,1.00,0.00
+2832,harrasment,11,0,-1,0.00,0.00
+2833,jsa claim,11,0,0,1.00,0.00
+2834,licence categories,11,0,0,1.00,0.00
+2835,shift allowance,11,0,0,1.00,0.00
+2836,school terms,11,0,0,1.00,0.00
+2837,separation,11,0,0,1.00,0.00
+2838,Winter Fuel Payments,11,0,0,1.00,0.00
+2839,find a job now,11,0,0,0.92,0.00
+2840,child care jobs,11,0,0,1.00,0.00
+2841,jobkit,11,0,-1,0.09,0.00
+2842,trainee,11,0,0,1.00,0.00
+2843,premium checking service,11,0,0,1.00,0.00
+2844,fire service,11,0,0,1.00,0.00
+2845,passport charges,11,0,0,1.00,0.00
+2846,maturnity,11,0,-1,0.00,0.00
+2847,check a test,11,0,0,1.00,0.00
+2848,jobs in schools,11,0,0,1.00,0.00
+2849,advertise,11,0,0,1.00,0.00
+2850,driving test new rout for sheildhall glasgow,11,0,0,1.00,0.00
+2851,agenda 21,11,0,0,1.00,0.00
+2852,hackney,11,0,0,0.92,0.08
+2853,return to work credits,11,0,0,0.88,0.06
+2854,usa,11,0,0,1.00,0.00
+2855,defra,11,0,0,1.00,0.00
+2856,learning disability,11,0,0,1.00,0.00
+2857,decleration form,11,0,0,0.69,0.08
+2858,what to do when someone dies,11,0,0,1.00,0.00
+2859,tax rate,11,0,0,0.93,0.00
+2860,sick pay for self employed,11,0,0,1.00,0.00
+2861,dwp address,11,0,0,1.00,0.00
+2862,huddersfield,11,0,0,1.00,0.00
+2863,ncis,11,0,0,1.00,0.00
+2864,medical retirement,11,0,0,1.00,0.00
+2865,wheelchair,11,0,0,1.00,0.00
+2866,chang practical test,11,0,0,1.00,0.00
+2867,d9,11,0,0,1.00,0.00
+2868,job advertising,11,0,0,1.00,0.00
+2869,childcare voucher,11,0,0,1.00,0.00
+2870,money to learn,11,0,0,1.00,0.00
+2871,d798u,11,0,-1,0.00,0.00
+2872,jobseeker direct,11,0,0,1.00,0.00
+2873,jobs in kirkcaldy,11,0,0,1.00,0.00
+2874,temporary,11,0,0,1.00,0.00
+2875,deposit protection scheme,11,0,0,1.00,0.00
+2876,children act 2004,11,0,0,0.94,0.00
+2877,date of liability,11,0,0,1.00,0.00
+2878,iht,11,0,0,0.92,0.00
+2879,renewing passport,11,0,0,1.00,0.00
+2880,changes,11,0,0,1.00,0.00
+2881,change of contract,11,0,0,0.86,0.14
+2882,job centers,11,0,0,1.00,0.00
+2883,fkp,11,0,-1,0.00,0.09
+2884,dvla customer enquiries,11,0,0,1.00,0.00
+2885,children act 1989,11,0,0,1.00,0.00
+2886,career advice,11,0,0,1.00,0.00
+2887,job centre number,11,0,0,1.00,0.00
+2888,reporting,11,0,0,0.94,0.00
+2889,cpc test,11,0,0,1.00,0.00
+2890,mps,11,0,0,1.00,0.00
+2891,consumer protection act,11,0,0,1.00,0.00
+2892,tax credit claim form,11,0,0,1.00,0.00
+2893,ambulance,11,0,0,0.91,0.00
+2894,edinburgh,11,0,0,1.00,0.00
+2895,joint claim,11,0,0,1.00,0.00
+2896,on call,10,0,0,1.00,0.00
+2897,pss2,10,0,-1,0.10,0.00
+2898,age allowance,10,0,0,0.69,0.15
+2899,international driving license,10,0,0,1.00,0.00
+2900,custodial sentences,10,0,0,1.00,0.00
+2901,catchment area,10,0,0,1.00,0.00
+2902,medical forms,10,0,0,0.90,0.00
+2903,guarantee credit,10,0,0,1.00,0.00
+2904,childrens passports,10,0,0,0.92,0.08
+2905,human resources,10,0,0,1.00,0.00
+2906,maps,10,0,0,1.00,0.00
+2907,going into hospital,10,0,0,0.95,0.00
+2908,medical form,10,0,0,0.90,0.00
+2909,leaflet gl24,10,0,0,1.00,0.00
+2910,customer reference number,10,0,0,1.00,0.00
+2911,personal assistant,10,0,0,1.00,0.00
+2912,wiltshire council,10,0,0,1.00,0.00
+2913,jobs in preston,10,0,0,0.94,0.00
+2914,sales of goods act,10,0,0,0.82,0.00
+2915,better off in work,10,0,0,1.00,0.00
+2916,dvla telephone,10,0,0,1.00,0.00
+2917,liquidation,10,0,0,0.92,0.08
+2918,National Insurance numbers,10,0,0,1.00,0.00
+2919,s1 form,10,0,0,0.96,0.00
+2920,app,10,0,0,0.92,0.00
+2921,debts,10,0,0,1.00,0.00
+2922,practice hazard perception,10,0,0,1.00,0.00
+2923,enviromental health,10,0,0,1.00,0.00
+2924,debt help,10,0,0,0.91,0.00
+2925,jobs in hull,10,0,0,1.00,0.00
+2926,incapcity,10,0,-1,0.00,0.10
+2927,york,10,0,0,0.92,0.08
+2928,anti discrimination,10,0,0,0.94,0.00
+2929,agricultural vehicles,10,0,0,0.88,0.06
+2930,occupational health,10,0,0,1.00,0.00
+2931,aimhigher,10,0,0,1.00,0.00
+2932,overpayments,10,0,0,1.00,0.00
+2933,incapasity benefit,10,0,0,0.83,0.00
+2934,animal related,10,0,0,0.73,0.00
+2935,berevement,10,0,-1,0.10,0.00
+2936,foundation learning,10,0,0,1.00,0.00
+2937,redundancies,10,0,0,1.00,0.00
+2938,jobs in bangor,10,0,0,0.94,0.00
+2939,cat c,10,0,0,1.00,0.00
+2940,personalisation,10,0,0,1.00,0.00
+2941,pf1,10,0,-1,0.10,0.00
+2942,hms,10,0,0,1.00,0.00
+2943,right to work,10,0,0,1.00,0.00
+2944,cambridge,10,0,0,0.92,0.00
+2945,seatbelts,10,0,0,1.00,0.00
+2946,mobility component,10,0,0,1.00,0.00
+2947,tax check,10,0,0,1.00,0.00
+2948,quango list,10,0,0,1.00,0.00
+2949,duty of care,10,0,0,1.00,0.00
+2950,jobs available,10,0,0,1.00,0.00
+2951,the monarchy,10,0,0,0.95,0.00
+2952,dada,10,0,0,1.00,0.00
+2953,calendar,10,0,0,1.00,0.00
+2954,graduated retirement benefit,10,0,0,1.00,0.00
+2955,calculating holiday entitlement,10,0,0,1.00,0.00
+2956,jobd,10,0,-1,0.00,0.00
+2957,jobs and skills search,10,0,0,1.00,0.00
+2958,dance and drama awards,10,0,0,0.82,0.00
+2959,damaged passport,10,0,0,0.80,0.10
+2960,savings limit,10,0,0,1.00,0.00
+2961,computer,10,0,0,1.00,0.00
+2962,benifits calculator,10,0,0,1.00,0.00
+2963,tax disc refunds,10,0,0,0.90,0.00
+2964,cashier,10,0,0,1.00,0.00
+2965,hotel,10,0,0,0.64,0.00
+2966,£500 grant,10,0,0,1.00,0.00
+2967,register disabled,10,0,0,0.92,0.00
+2968,theory certificate,10,0,0,1.00,0.00
+2969,employment probation,10,0,0,0.92,0.00
+2970,student funding,10,0,0,1.00,0.00
+2971,trade description act,10,0,0,0.94,0.00
+2972,student finance appeal,10,0,0,1.00,0.00
+2973,child dla,10,0,0,1.00,0.00
+2974,met office,10,0,0,0.90,0.00
+2975,lost mot,10,0,0,1.00,0.00
+2976,mortgage interest relief,10,0,0,1.00,0.00
+2977,is10,10,0,-1,0.10,0.00
+2978,executor,10,0,0,1.00,0.00
+2979,driver license,10,0,0,1.00,0.00
+2980,research,10,0,0,1.00,0.00
+2981,braking distances,10,0,0,1.00,0.00
+2982,contacting dvla,10,0,0,1.00,0.00
+2983,woking,10,0,0,0.90,0.10
+2984,house,10,0,0,0.92,0.00
+2985,break entitlements,10,0,0,0.92,0.08
+2986,house benefit,10,0,0,1.00,0.00
+2987,sign off jobseekers,10,0,0,1.00,0.00
+2988,free milk,10,0,0,0.94,0.06
+2989,hgv theory,10,0,0,1.00,0.00
+2990,speed cameras,10,0,0,1.00,0.00
+2991,tax exemption,10,0,0,1.00,0.00
+2992,2011/2012,10,0,0,1.00,0.00
+2993,zig zag,10,0,-1,0.10,0.00
+2994,free perscriptions,10,0,0,1.00,0.00
+2995,community care,10,0,0,0.92,0.08
+2996,hgv driving licence,10,0,0,1.00,0.00
+2997,maths,10,0,0,0.91,0.00
+2998,contribution based jsa,10,0,0,0.92,0.00
+2999,nhs tax credit exemption certificate,10,0,0,0.92,0.00
+3000,benefit calculater,10,0,0,1.00,0.00
+3001,contributions,10,0,0,0.91,0.00
+3002,state pension claim form,10,0,0,1.00,0.00
+3003,bricklaying,10,0,0,1.00,0.00
+3004,mobility scooter,10,0,0,1.00,0.00
+3005,free training,10,0,0,1.00,0.00
+3006,labouring jobs,10,0,0,0.94,0.00
+3007,student finance telephone,10,0,0,0.75,0.00
+3008,letting,10,0,0,0.93,0.00
+3009,divorce papers,10,0,0,0.91,0.09
+3010,complaints procedure,10,0,0,1.00,0.00
+3011,housekeeper,10,0,0,1.00,0.00
+3012,copd,10,0,0,1.00,0.00
+3013,scraping a car,10,0,0,1.00,0.00
+3014,support group,10,0,0,0.93,0.07
+3015,student declaration,10,0,0,1.00,0.00
+3016,home care,10,0,0,1.00,0.00
+3017,tax back,10,0,0,1.00,0.00
+3018,jersey,10,0,0,1.00,0.00
+3019,leaving school,10,0,0,0.92,0.00
+3020,beauty therapist,10,0,0,0.86,0.00
+3021,reporting child abuse,10,0,0,0.94,0.00
+3022,careassiant,10,0,-1,0.00,0.00
+3023,cornwall,10,0,0,1.00,0.00
+3024,tax band,10,0,0,1.00,0.00
+3025,nuclear power,10,0,0,1.00,0.00
+3026,retail work,10,0,0,1.00,0.00
+3027,fuel,10,0,0,1.00,0.00
+3028,kitchen porter job in london,10,0,0,0.82,0.00
+3029,invalidity,10,0,0,1.00,0.00
+3030,basic pension,10,0,0,1.00,0.00
+3031,driving licence renewal application,10,0,0,1.00,0.00
+3032,book theory test online,10,0,0,1.00,0.00
+3033,care grant,10,0,0,1.00,0.00
+3034,elq,10,0,-1,0.00,0.00
+3035,full passport,10,0,0,0.88,0.00
+3036,pregnancy at work,10,0,0,1.00,0.00
+3037,cost of practical driving test,10,0,0,1.00,0.00
+3038,bar,10,0,0,0.82,0.00
+3039,interest on student loans,10,0,0,0.83,0.00
+3040,solar power,10,0,0,1.00,0.00
+3041,cost of test,10,0,0,1.00,0.00
+3042,ordinary maternity leave,10,0,0,1.00,0.00
+3043,new zealand,10,0,0,1.00,0.00
+3044,check tax,10,0,0,1.00,0.00
+3045,motorbike theory test,10,0,0,1.00,0.00
+3046,self assessment online,10,0,0,1.00,0.00
+3047,a levels,10,0,0,1.00,0.00
+3048,btec,10,0,0,1.00,0.00
+3049,honours,10,0,0,1.00,0.00
+3050,book a practical driving test,10,0,0,0.85,0.00
+3051,rolled up holiday pay,10,0,0,1.00,0.00
+3052,a-z,10,0,0,0.93,0.00
+3053,how to sign off,10,0,0,1.00,0.00
+3054,practical test routes,10,0,0,1.00,0.00
+3055,bailiff,10,0,0,1.00,0.00
+3056,"download birth/adoption certifi cate form 2010/11 (pdf, 36kb)",10,0,0,1.00,0.00
+3057,car tax renewal,10,0,0,1.00,0.00
+3058,driving liscence,10,0,0,1.00,0.00
+3059,registration documents,10,0,0,1.00,0.00
+3060,back to work calculation,10,0,0,1.00,0.00
+3061,rapid response,10,0,0,1.00,0.00
+3062,theory test practise,10,0,0,0.91,0.00
+3063,inf38,10,0,0,1.00,0.00
+3064,icome support,10,0,0,1.00,0.00
+3065,ptci2,10,0,-1,0.00,0.00
+3066,first time buyers,10,0,0,1.00,0.00
+3067,number plate retention,10,0,0,1.00,0.00
+3068,job centre plus offices,10,0,0,1.00,0.00
+3069,b,10,0,0,0.93,0.00
+3070,maintainance loan,10,0,0,1.00,0.00
+3071,student finance wales,10,0,0,1.00,0.00
+3072,part time hours,10,0,0,1.00,0.00
+3073,how much is jsa,10,0,0,0.91,0.09
+3074,council tax credit,10,0,0,1.00,0.00
+3075,ib50,10,0,0,0.91,0.09
+3076,disability symbol,10,0,0,1.00,0.00
+3077,cb2 form,10,0,0,1.00,0.00
+3078,time off work,10,0,0,1.00,0.00
+3079,car practical test,10,0,0,0.91,0.00
+3080,london passport office,10,0,0,1.00,0.00
+3081,booking a test,10,0,0,1.00,0.00
+3082,driverhealth,10,0,-1,0.10,0.00
+3083,mat b1 form,10,0,0,1.00,0.00
+3084,how much is car tax,10,0,0,1.00,0.00
+3085,accountant,10,0,0,1.00,0.00
+3086,pensioncredit,10,0,-1,0.00,0.00
+3087,car history,10,0,0,1.00,0.00
+3088,attendance allowance rates,10,0,0,1.00,0.00
+3089,energy performance certificate,10,0,0,1.00,0.00
+3090,redeployment,10,0,0,1.00,0.00
+3091,car fuel data,10,0,0,0.95,0.05
+3092,motorways,10,0,0,0.94,0.00
+3093,superannuation,10,0,0,0.92,0.00
+3094,builders,10,0,0,0.92,0.08
+3095,building,10,0,0,1.00,0.00
+3096,temporary national insurance number,10,0,0,1.00,0.00
+3097,claim pension,10,0,0,0.90,0.10
+3098,jsa phone number,10,0,0,1.00,0.00
+3099,socail fund,10,0,0,1.00,0.00
+3100,eesa,10,0,-1,0.00,0.00
+3101,pensioners,10,0,0,1.00,0.00
+3102,maintance loan,10,0,0,1.00,0.00
+3103,housing grant,10,0,0,1.00,0.00
+3104,countersignature,10,0,0,1.00,0.00
+3105,telford,10,0,0,1.00,0.00
+3106,replacement license,10,0,0,1.00,0.00
+3107,health and social care,10,0,0,1.00,0.00
+3108,thinking distance,10,0,0,1.00,0.00
+3109,independant driving,10,0,0,1.00,0.00
+3110,check booking,10,0,0,1.00,0.00
+3111,driving test cost,10,0,0,1.00,0.00
+3112,training grants,10,0,0,1.00,0.00
+3113,health and safety regulations,10,0,0,1.00,0.00
+3114,store card,10,0,0,0.96,0.04
+3115,insulation grant,10,0,0,1.00,0.00
+3116,job plus,10,0,0,1.00,0.00
+3117,regional goverment,10,0,0,1.00,0.00
+3118,learning disabilities,10,0,0,1.00,0.00
+3119,asbo,10,0,0,0.91,0.09
+3120,members of parliament,10,0,0,0.70,0.10
+3121,clener,10,0,-1,0.10,0.00
+3122,proof of age,10,0,0,1.00,0.00
+3123,bullying in the workplace,10,0,0,1.00,0.00
+3124,direct gov,10,0,0,1.00,0.00
+3125,eu team,10,0,0,1.00,0.00
+3126,education and learning,10,0,0,1.00,0.00
+3127,temporary work,10,0,0,1.00,0.00
+3128,locations,10,0,0,1.00,0.00
+3129,regional governments,10,0,0,1.00,0.00
+3130,student loans company,10,0,0,0.82,0.09
+3131,joinery jobs,10,0,0,1.00,0.00
+3132,redundancy calculations,10,0,0,1.00,0.00
+3133,digital card,10,0,0,1.00,0.00
+3134,digicard,10,0,-1,0.00,0.00
+3135,married couples state pension,10,0,0,1.00,0.00
+3136,english,10,0,0,1.00,0.00
+3137,tax on gifts,10,0,0,1.00,0.00
+3138,charities,10,0,0,0.91,0.00
+3139,pay tax,10,0,0,0.92,0.00
+3140,income related esa,10,0,0,1.00,0.00
+3141,married couple state pension,10,0,0,0.92,0.00
+3142,chrisis loan,10,0,0,1.00,0.00
+3143,passport renewal fee,10,0,0,0.91,0.00
+3144,photos,10,0,0,1.00,0.00
+3145,home working,10,0,0,1.00,0.00
+3146,credit sale,10,0,0,1.00,0.00
+3147,drivinglicence,10,0,-1,0.10,0.00
+3148,bipolar,10,0,0,1.00,0.00
+3149,ireland,10,0,0,1.00,0.00
+3150,self employment benefits,10,0,0,1.00,0.00
+3151,drivingtest,10,0,0,1.00,0.00
+3152,forced retirement,10,0,0,1.00,0.00
+3153,biometric passport,10,0,0,0.92,0.00
+3154,who pays income tax,10,0,0,0.92,0.08
+3155,school leavers,10,0,0,1.00,0.00
+3156,music,10,0,0,1.00,0.00
+3157,radar key,10,0,0,0.82,0.00
+3158,nearest pension centre,10,0,0,1.00,0.00
+3159,administration jobs,10,0,0,0.94,0.00
+3160,devolution,10,0,0,0.92,0.00
+3161,tax on pensions,10,0,0,0.90,0.00
+3162,nutrition,10,0,0,1.00,0.00
+3163,local jobcentre plus,10,0,0,1.00,0.00
+3164,means tested,10,0,0,1.00,0.00
+3165,stolen tax disc,10,0,0,1.00,0.00
+3166,job seekers benefit,10,0,0,0.90,0.10
+3167,local job centre plus,10,0,0,1.00,0.00
+3168,online forms,10,0,0,1.00,0.00
+3169,tax on redundancy,10,0,0,1.00,0.00
+3170,self emplyed,10,0,0,1.00,0.00
+3171,test center,10,0,0,1.00,0.00
+3172,crisis loans number,10,0,0,0.79,0.00
+3173,whistle blowing,10,0,0,0.82,0.00
+3174,marriage certs,10,0,0,1.00,0.00
+3175,apply for student loan,10,0,0,1.00,0.00
+3176,gift,10,0,0,1.00,0.00
+3177,work hours,10,0,0,1.00,0.00
+3178,rental income,10,0,0,0.90,0.00
+3179,wrexham,10,0,0,1.00,0.00
+3180,test booking,10,0,0,1.00,0.00
+3181,community,10,0,0,1.00,0.00
+3182,P46 FORM,10,0,0,0.93,0.07
+3183,sick benefit,10,0,0,1.00,0.00
+3184,croydon,10,0,0,1.00,0.00
+3185,dental treatment,10,0,0,1.00,0.00
+3186,ppc,10,0,0,1.00,0.00
+3187,advertise job,10,0,0,1.00,0.00
+3188,buy to let,10,0,0,1.00,0.00
+3189,delivery driver,10,0,0,1.00,0.00
+3190,wheelchairs,10,0,0,0.95,0.00
+3191,category a,10,0,0,1.00,0.00
+3192,jobs in worksop,10,0,0,0.95,0.00
+3193,compasionate leave,10,0,0,1.00,0.00
+3194,childs passport,10,0,0,1.00,0.00
+3195,redundancy ready reckoner,10,0,0,1.00,0.00
+3196,rent a room scheme,10,0,0,1.00,0.00
+3197,foster care,10,0,0,1.00,0.00
+3198,joba,10,0,-1,0.00,0.00
+3199,child maintenence,10,0,0,1.00,0.00
+3200,seperation,10,0,-1,0.00,0.00
+3201,pro rata,10,0,0,1.00,0.00
+3202,revoked,10,0,0,1.00,0.00
+3203,oyster card,9,0,0,1.00,0.00
+3204,jods,9,0,-1,0.00,0.00
+3205,social policies,9,0,0,1.00,0.00
+3206,attendance allowance claim form,9,0,0,0.78,0.22
+3207,towing trailers,9,0,0,1.00,0.00
+3208,driver jobs,9,0,0,0.91,0.00
+3209,jobs in birmingham,9,0,0,1.00,0.00
+3210,adf,9,0,-1,0.00,0.00
+3211,box junction,9,0,0,1.00,0.00
+3212,vehicle registration document,9,0,0,0.90,0.10
+3213,passport expiry,9,0,0,1.00,0.00
+3214,solicitors,9,0,0,1.00,0.00
+3215,progress of application,9,0,0,1.00,0.00
+3216,selfemployed,9,0,0,1.00,0.00
+3217,taxation class,9,0,0,0.92,0.00
+3218,brown report,9,0,0,1.00,0.00
+3219,relevant statutory provisions,9,0,0,1.00,0.00
+3220,bus driver,9,0,0,1.00,0.00
+3221,morrisons,9,0,-1,0.00,0.00
+3222,cf411,9,0,0,0.70,0.20
+3223,grants for double glazing,9,0,0,0.93,0.07
+3224,ilford,9,0,0,1.00,0.00
+3225,government grants,9,0,0,1.00,0.00
+3226,first past the post,9,0,0,0.90,0.10
+3227,the equality act,9,0,0,0.78,0.00
+3228,identity fraud,9,0,0,1.00,0.00
+3229,waste,9,0,0,1.00,0.00
+3230,v888 form,9,0,0,1.00,0.00
+3231,statutory holidays,9,0,0,1.00,0.00
+3232,tax free allowance,9,0,0,1.00,0.00
+3233,fork lift,9,0,0,1.00,0.00
+3234,gardener,9,0,0,1.00,0.00
+3235,vacencies,9,0,-1,0.11,0.00
+3236,posters,9,0,0,1.00,0.00
+3237,central goverment,9,0,0,1.00,0.00
+3238,joiners,9,0,0,1.00,0.00
+3239,driving age,9,0,0,1.00,0.00
+3240,pff 1,9,0,0,1.00,0.00
+3241,massage,9,0,0,0.89,0.00
+3242,health care,9,0,0,1.00,0.00
+3243,contact job centre plus,9,0,0,0.92,0.00
+3244,tax road,9,0,0,1.00,0.00
+3245,lawyer,9,0,0,1.00,0.00
+3246,burseries,9,0,-1,0.00,0.00
+3247,126,9,0,0,0.80,0.10
+3248,registering unemployed,9,0,0,1.00,0.00
+3249,VIC Check,9,0,0,1.00,0.00
+3250,low income benefits,9,0,0,1.00,0.00
+3251,maternity pay calculator,9,0,0,1.00,0.00
+3252,borehamwood,9,0,0,0.89,0.11
+3253,theory test prices,9,0,0,1.00,0.00
+3254,unpaid wages,9,0,0,0.78,0.00
+3255,income supprt,9,0,0,1.00,0.00
+3256,licence number,9,0,0,1.00,0.00
+3257,pets,9,0,0,0.95,0.05
+3258,joint claims,9,0,0,1.00,0.00
+3259,risk assessments,9,0,0,1.00,0.00
+3260,hc5,9,0,0,1.00,0.00
+3261,digital taco,9,0,0,1.00,0.00
+3262,morgage,9,0,-1,0.22,0.00
+3263,dla claim form,9,0,0,1.00,0.00
+3264,redbridge,9,0,0,1.00,0.00
+3265,Driving theory test,9,0,0,1.00,0.00
+3266,general register office,9,0,0,1.00,0.00
+3267,southend-on-sea council,9,0,0,0.94,0.00
+3268,casual work,9,0,0,1.00,0.00
+3269,sen code of practice,9,0,0,1.00,0.00
+3270,drivers hours,9,0,0,1.00,0.00
+3271,dance and drama,9,0,0,1.00,0.00
+3272,fax number,9,0,0,1.00,0.00
+3273,rent in advance,9,0,0,1.00,0.00
+3274,employment support allowence,9,0,0,1.00,0.00
+3275,lorry,9,0,0,0.96,0.00
+3276,changing bank account,9,0,0,0.96,0.04
+3277,guardianship,9,0,0,1.00,0.00
+3278,full time work,9,0,0,1.00,0.00
+3279,dental costs,9,0,0,0.94,0.06
+3280,operators licence,9,0,0,1.00,0.00
+3281,worthing,9,0,0,0.80,0.00
+3282,contact dsa,9,0,0,0.75,0.00
+3283,book driving theory test,9,0,0,0.91,0.00
+3284,student finance pn1,9,0,0,1.00,0.00
+3285,gp,9,0,0,1.00,0.00
+3286,work placements,9,0,0,1.00,0.00
+3287,national speed limits,9,0,0,1.00,0.00
+3288,job centre address,9,0,0,0.91,0.00
+3289,lost birth certificate,9,0,0,1.00,0.00
+3290,grant form,9,0,0,1.00,0.00
+3291,taxing car,9,0,0,1.00,0.00
+3292,BANKRUPTCY,9,0,0,1.00,0.00
+3293,resign,9,0,-1,0.44,0.00
+3294,welders,9,0,0,1.00,0.00
+3295,tyres,9,0,0,1.00,0.00
+3296,education act,9,0,0,1.00,0.00
+3297,section 21 notice,9,0,0,1.00,0.00
+3298,all jobs in st helens,9,0,0,1.00,0.00
+3299,pca,9,0,0,0.70,0.00
+3300,DARLINGTON,9,0,0,0.73,0.00
+3301,dvla contact numbers,9,0,0,1.00,0.00
+3302,right to confidentiality,9,0,0,0.91,0.09
+3303,child employment,9,0,0,1.00,0.00
+3304,graduate talent pool,9,0,0,1.00,0.00
+3305,licence fees,9,0,0,1.00,0.00
+3306,allowable expenses,9,0,0,1.00,0.00
+3307,children in care,9,0,0,1.00,0.00
+3308,licence check,9,0,0,1.00,0.00
+3309,workplace regulations,9,0,0,0.91,0.00
+3310,lost paper part of licence,9,0,0,1.00,0.00
+3311,wtd,9,0,-1,0.00,0.00
+3312,written warning,9,0,0,1.00,0.00
+3313,das,9,0,0,1.00,0.00
+3314,data,9,0,0,1.00,0.00
+3315,cold weather,9,0,0,1.00,0.00
+3316,fathers rights,9,0,0,1.00,0.00
+3317,booking your driving test,9,0,0,1.00,0.00
+3318,test dates,9,0,0,0.83,0.00
+3319,change your practical test,9,0,0,1.00,0.00
+3320,pla,9,0,0,1.00,0.00
+3321,me,9,0,0,1.00,0.00
+3322,speeding fine,9,0,0,0.91,0.00
+3323,door supervisor,9,0,0,1.00,0.00
+3324,teaching jobs,9,0,0,1.00,0.00
+3325,fire doors,9,0,0,1.00,0.00
+3326,tax benefits,9,0,0,1.00,0.00
+3327,theory test book,9,0,0,0.90,0.10
+3328,guardian's allowance,9,0,0,1.00,0.00
+3329,tax renewal,9,0,0,1.00,0.00
+3330,register as self employed,9,0,0,1.00,0.00
+3331,calculate redundancy pay,9,0,0,0.89,0.00
+3332,minimum age,9,0,0,0.83,0.00
+3333,pni form,9,0,0,0.92,0.00
+3334,tax prices,9,0,0,1.00,0.00
+3335,imigration,9,0,-1,0.00,0.00
+3336,practice theory tests,9,0,0,1.00,0.00
+3337,changing name on passport,9,0,0,1.00,0.00
+3338,declaration of voluntary surrender,9,0,0,1.00,0.00
+3339,dog,9,0,0,1.00,0.00
+3340,thory test,9,0,0,1.00,0.00
+3341,hair dresser,9,0,0,1.00,0.00
+3342,fitness instructor,9,0,0,1.00,0.00
+3343,mot failure,9,0,0,1.00,0.00
+3344,personal budgets,9,0,0,1.00,0.00
+3345,clydebank,9,0,-1,0.00,0.00
+3346,mobility cars,9,0,0,1.00,0.00
+3347,appealing,9,0,0,1.00,0.00
+3348,dsa application,9,0,0,0.78,0.22
+3349,check road tax,9,0,0,1.00,0.00
+3350,new v5,9,0,0,1.00,0.00
+3351,south africa,9,0,0,1.00,0.00
+3352,dentists,9,0,0,1.00,0.00
+3353,jobs in norwich,9,0,0,0.85,0.00
+3354,buss pass,9,0,0,0.89,0.00
+3355,winter payments,9,0,0,1.00,0.00
+3356,wearhouse,9,0,-1,0.00,0.00
+3357,carbon emissions,9,0,0,1.00,0.00
+3358,cheltenham,9,0,0,1.00,0.00
+3359,e101,9,0,0,1.00,0.00
+3360,houseing benefit,9,0,0,0.92,0.00
+3361,hairdressing jobs,9,0,0,1.00,0.00
+3362,book your driving test,9,0,0,1.00,0.00
+3363,bank accounts,9,0,0,1.00,0.00
+3364,student loan company,9,0,0,0.80,0.00
+3365,retirement calculator,9,0,0,1.00,0.00
+3366,jas,9,0,-1,0.11,0.00
+3367,book your practical test,9,0,0,1.00,0.00
+3368,find a form,9,0,0,0.78,0.00
+3369,police auctions,9,0,0,1.00,0.00
+3370,electrol roll,9,0,0,1.00,0.00
+3371,help with health costs,9,0,0,0.82,0.18
+3372,adult services,9,0,0,0.80,0.10
+3373,study leave,9,0,0,1.00,0.00
+3374,fit notes,9,0,0,1.00,0.00
+3375,appeal form,9,0,0,1.00,0.00
+3376,moe/34557,9,0,-1,0.00,0.00
+3377,driving license renewal,9,0,0,1.00,0.00
+3378,jobs in manchester,9,0,0,1.00,0.00
+3379,coucil tax,9,0,0,1.00,0.00
+3380,safety deposit,9,0,0,1.00,0.00
+3381,jobcentre locations,9,0,0,1.00,0.00
+3382,v33 form,9,0,0,0.92,0.08
+3383,contact address,9,0,0,1.00,0.00
+3384,universities,9,0,0,1.00,0.00
+3385,department of work and pensions,9,0,0,1.00,0.00
+3386,mot exemption,9,0,0,1.00,0.00
+3387,mobilty allowance,9,0,0,0.94,0.00
+3388,departments,9,0,0,1.00,0.00
+3389,identity declaration form,9,0,0,1.00,0.00
+3390,adult learning grants,9,0,0,1.00,0.00
+3391,form pr1,9,0,0,1.00,0.00
+3392,how to sign on,9,0,0,1.00,0.00
+3393,apply for ni,9,0,0,1.00,0.00
+3394,jobs in liverpool,9,0,0,0.92,0.00
+3395,motorcycle license,9,0,0,0.67,0.33
+3396,home buy direct,9,0,0,1.00,0.00
+3397,hgv mot,9,0,0,1.00,0.00
+3398,r,9,0,0,1.00,0.00
+3399,found a job,9,0,0,1.00,0.00
+3400,electrician jobs,9,0,0,0.94,0.06
+3401,verbal warnings,9,0,0,1.00,0.00
+3402,car theory,9,0,0,0.90,0.10
+3403,ni credits,9,0,0,0.89,0.11
+3404,www.jobs.nhs.uk,9,0,-1,0.00,0.00
+3405,migrant worker,9,0,0,0.82,0.00
+3406,leave,9,0,0,1.00,0.00
+3407,nhs direct,9,0,0,0.91,0.09
+3408,50 plus,9,0,0,1.00,0.00
+3409,supplementary grant,9,0,0,1.00,0.00
+3410,cv building,9,0,0,0.92,0.00
+3411,stolen,9,0,0,1.00,0.00
+3412,book lgv theory test,9,0,0,1.00,0.00
+3413,electrican,9,0,-1,0.00,0.00
+3414,quad bike,9,0,0,1.00,0.00
+3415,plumbing jobs,9,0,0,1.00,0.00
+3416,booking theory,9,0,0,1.00,0.00
+3417,v 62 form,9,0,0,1.00,0.00
+3418,2011,9,0,0,0.91,0.09
+3419,kent,9,0,0,1.00,0.00
+3420,ppf2,9,0,-1,0.00,0.00
+3421,ageism,9,0,0,1.00,0.00
+3422,continuous service,9,0,0,1.00,0.00
+3423,sainsburys,9,0,0,1.00,0.00
+3424,foreign office,9,0,0,1.00,0.00
+3425,glasgow passport office,9,0,0,1.00,0.00
+3426,form v55/5,9,0,0,1.00,0.00
+3427,parliament,9,0,0,1.00,0.00
+3428,shift work,9,0,0,1.00,0.00
+3429,council houses,9,0,0,1.00,0.00
+3430,benefits and savings,9,0,0,1.00,0.00
+3431,leaflet,9,0,0,1.00,0.00
+3432,teaching assistants,9,0,0,1.00,0.00
+3433,back to work grants,9,0,0,1.00,0.00
+3434,plumbers,9,0,0,0.82,0.00
+3435,environment,9,0,0,1.00,0.00
+3436,small business grants,9,0,0,1.00,0.00
+3437,tenancy deposits,9,0,0,1.00,0.00
+3438,ncfe,9,0,-1,0.00,0.00
+3439,bike theory test,9,0,0,1.00,0.00
+3440,pension credit form,9,0,0,1.00,0.00
+3441,cencus,9,0,-1,0.20,0.00
+3442,termination,9,0,0,0.92,0.08
+3443,how to pay,9,0,0,1.00,0.00
+3444,benefits calculater,9,0,0,0.91,0.00
+3445,financial help,9,0,0,0.89,0.00
+3446,milton keynes,9,0,0,1.00,0.00
+3447,passport office address,9,0,0,1.00,0.00
+3448,private number plate,9,0,0,0.90,0.00
+3449,low income support,9,0,0,0.90,0.00
+3450,report untaxed vehicle,9,0,0,1.00,0.00
+3451,paid holiday,9,0,0,1.00,0.00
+3452,employers ni,9,0,0,0.89,0.00
+3453,child benefit application form,9,0,0,1.00,0.00
+3454,change address on licence,9,0,0,1.00,0.00
+3455,crisis loan contact,9,0,0,0.93,0.00
+3456,guarantee pay,9,0,0,0.89,0.00
+3457,pension centres,9,0,0,1.00,0.00
+3458,theory test dates,9,0,0,1.00,0.00
+3459,towing a car,9,0,0,1.00,0.00
+3460,Funeral payments,9,0,0,1.00,0.00
+3461,pension estimate,9,0,0,1.00,0.00
+3462,smoking breaks,9,0,0,1.00,0.00
+3463,death register,9,0,0,1.00,0.00
+3464,c1e,9,0,0,1.00,0.00
+3465,dual nationality,9,0,0,0.78,0.00
+3466,fork lift driver,9,0,0,1.00,0.00
+3467,cumbria,9,0,0,1.00,0.00
+3468,book my test,9,0,0,1.00,0.00
+3469,van tax,9,0,0,1.00,0.00
+3470,revoked licence,9,0,0,1.00,0.00
+3471,lgv test,9,0,0,0.83,0.17
+3472,essex,9,0,0,1.00,0.00
+3473,machine operator,9,0,0,0.83,0.00
+3474,micolcjaxun...............................................................................,9,0,-1,0.00,0.00
+3475,applying for a job,9,0,0,0.92,0.00
+3476,budgeting,9,0,0,1.00,0.00
+3477,cy1,9,0,-1,0.00,0.00
+3478,clothing,9,0,0,0.91,0.00
+3479,age discrimination act,9,0,0,1.00,0.00
+3480,post,9,0,0,1.00,0.00
+3481,driving offences,9,0,0,1.00,0.00
+3482,motorcycles,9,0,0,1.00,0.00
+3483,mechanics,9,0,0,0.92,0.08
+3484,culture,9,0,0,0.93,0.00
+3485,sia licence,9,0,0,1.00,0.00
+3486,jobseekers allowance rates,9,0,0,0.90,0.10
+3487,income support telephone number,9,0,0,1.00,0.00
+3488,budgeting loan application form,9,0,0,1.00,0.00
+3489,foster carers,9,0,0,1.00,0.00
+3490,blue badge renewal,9,0,0,1.00,0.00
+3491,kit days,9,0,0,0.89,0.00
+3492,pay rise,9,0,0,1.00,0.00
+3493,jobs on line,9,0,0,1.00,0.00
+3494,harrogate,9,0,0,1.00,0.00
+3495,7111,9,0,0,0.89,0.11
+3496,tesco jobs,9,0,0,1.00,0.00
+3497,carlisle,9,0,0,1.00,0.00
+3498,jobs in essex,9,0,0,0.93,0.00
+3499,renew license,9,0,0,1.00,0.00
+3500,iht400,9,0,0,1.00,0.00
+3501,returning to the uk,9,0,0,1.00,0.00
+3502,binge drinking,9,0,0,1.00,0.00
+3503,selling a vehicle,9,0,0,0.90,0.00
+3504,h,9,0,0,0.90,0.00
+3505,foundation degree,9,0,0,1.00,0.00
+3506,benefits for self employed,9,0,0,0.92,0.00
+3507,school attendance,9,0,0,1.00,0.00
+3508,student visa,9,0,0,1.00,0.00
+3509,obs,9,0,-1,0.00,0.00
+3510,incapasity benifit,9,0,-1,0.00,0.00
+3511,loading,9,0,0,1.00,0.00
+3512,pension tax credits,9,0,0,0.93,0.00
+3513,lasting power of attorney,9,0,0,1.00,0.00
+3514,leaving university,9,0,0,1.00,0.00
+3515,estate agents,9,0,0,0.92,0.00
+3516,domestic,9,0,0,1.00,0.00
+3517,carpenters,9,0,0,1.00,0.00
+3518,trailers,9,0,0,1.00,0.00
+3519,plate transfer,9,0,0,1.00,0.00
+3520,benefits for young people,9,0,0,0.70,0.00
+3521,free dental care,9,0,0,1.00,0.00
+3522,child benefit claim form,9,0,0,1.00,0.00
+3523,retest,9,0,0,1.00,0.00
+3524,jobseekers direct,9,0,0,1.00,0.00
+3525,reference number,9,0,0,1.00,0.00
+3526,safety,9,0,0,1.00,0.00
+3527,payment in lieu of notice,9,0,0,0.89,0.11
+3528,enhanced disability premium,9,0,0,1.00,0.00
+3529,monarchy,9,0,0,0.93,0.00
+3530,ulcerative colitis,9,0,-1,0.00,0.11
+3531,knife crime,9,0,0,1.00,0.00
+3532,curriculum,9,0,0,0.90,0.00
+3533,unpaid work,9,0,0,1.00,0.00
+3534,night work,9,0,0,1.00,0.00
+3535,practical test centre,9,0,0,1.00,0.00
+3536,ctf,9,0,0,0.90,0.10
+3537,carrers,9,0,-1,0.00,0.00
+3538,work focused interview,9,0,0,1.00,0.00
+3539,pension increases,9,0,0,1.00,0.00
+3540,DVLA LOCAL OFFICES,9,0,0,1.00,0.00
+3541,book mot,9,0,0,1.00,0.00
+3542,adif form,9,0,0,1.00,0.00
+3543,plant operator,9,0,0,0.90,0.00
+3544,rnps,9,0,0,1.00,0.00
+3545,public holiday,9,0,0,1.00,0.00
+3546,schools finder,9,0,0,1.00,0.00
+3547,social security number,9,0,0,1.00,0.00
+3548,tenancy deposit protection,9,0,0,0.75,0.00
+3549,DIAB1,9,0,0,0.80,0.00
+3550,water,9,0,0,0.90,0.00
+3551,change bank account,9,0,0,1.00,0.00
+3552,nhs bursaries,9,0,0,1.00,0.00
+3553,www.direct.gov.uk/renewalat70,9,0,-1,0.43,0.00
+3554,cab,9,0,0,1.00,0.00
+3555,bus stops,9,0,0,0.92,0.00
+3556,change pratical test,9,0,0,1.00,0.00
+3557,photograph,9,0,0,1.00,0.00
+3558,salford,9,0,0,1.00,0.00
+3559,barnet,9,0,0,1.00,0.00
+3560,diabetic,9,0,0,1.00,0.00
+3561,disability living allowance rates,9,0,0,0.91,0.00
+3562,find my council,9,0,0,0.89,0.00
+3563,m1,9,0,0,0.92,0.00
+3564,d l a,9,0,0,1.00,0.00
+3565,boc,9,0,0,1.00,0.00
+3566,appointments,9,0,0,1.00,0.00
+3567,training allowance,9,0,0,1.00,0.00
+3568,part time funding,9,0,0,0.89,0.00
+3569,income support helpline,9,0,0,1.00,0.00
+3570,find your local council,9,0,0,1.00,0.00
+3571,claiming dla,9,0,0,1.00,0.00
+3572,energy efficiency,9,0,0,1.00,0.00
+3573,labourers,9,0,0,1.00,0.00
+3574,passport validity,9,0,0,1.00,0.00
+3575,ipc 1394,9,0,0,0.90,0.10
+3576,trial period,9,0,0,1.00,0.00
+3577,minimum wage 2010,9,0,0,1.00,0.00
+3578,freehold,9,0,0,1.00,0.00
+3579,whistleblowing,9,0,0,1.00,0.00
+3580,pace,9,0,0,1.00,0.00
+3581,midwifery,9,0,0,1.00,0.00
+3582,single parent benefit,9,0,0,1.00,0.00
+3583,jobs seekers allowance,9,0,0,1.00,0.00
+3584,photography,9,0,0,1.00,0.00
+3585,fixed penalty notice,9,0,0,1.00,0.00
+3586,dr10,9,0,0,1.00,0.00
+3587,widowers pension,9,0,0,1.00,0.00
+3588,mock theory tests,9,0,0,0.92,0.00
+3589,egypt,9,0,0,1.00,0.00
+3590,contact child benefit,9,0,0,1.00,0.00
+3591,d.l.a,9,0,-1,0.00,0.00
+3592,chicken,9,0,0,1.00,0.00
+3593,ipc br1,9,0,0,0.90,0.00
+3594,religious discrimination,9,0,0,1.00,0.00
+3595,replacement tax disc,9,0,0,1.00,0.00
+3596,apprentice wage,9,0,0,1.00,0.00
+3597,cancel practicle test,9,0,0,1.00,0.00
+3598,school policies,9,0,0,0.93,0.00
+3599,adi part 3 test,9,0,0,1.00,0.00
+3600,birmingham airport jobs,9,0,0,1.00,0.00
+3601,severance,9,0,0,0.92,0.00
+3602,gamestation,9,0,-1,0.00,0.00
+3603,kingston,9,0,0,0.92,0.08
+3604,pregnant women,9,0,0,1.00,0.00
+3605,mortgage benefit,9,0,0,1.00,0.00
+3606,mortgage assistance,9,0,0,1.00,0.00
+3607,prime minister,9,0,0,1.00,0.00
+3608,nhs card,9,0,0,1.00,0.00
+3609,severance pay,9,0,0,1.00,0.00
+3610,paying council tax,9,0,0,1.00,0.00
+3611,statutory paternity leave,9,0,0,1.00,0.00
+3612,personal statement,9,0,0,1.00,0.00
+3613,interview questions,9,0,0,1.00,0.00
+3614,cancelation,9,0,-1,0.11,0.00
+3615,resident,9,0,0,1.00,0.00
+3616,contact number for dvla,9,0,0,1.00,0.00
+3617,advertising a vacancy,9,0,0,1.00,0.00
+3618,communication,9,0,0,1.00,0.00
+3619,16 hours,9,0,0,1.00,0.00
+3620,southport,9,0,0,0.83,0.00
+3621,COUNCILS,9,0,0,1.00,0.00
+3622,freelance,9,0,0,1.00,0.00
+3623,michaelcreak@yahoo.co.uk,9,0,-1,0.00,0.00
+3624,safety questions,9,0,0,1.00,0.00
+3625,fklnp,9,0,-1,0.00,0.00
+3626,pay fines,9,0,0,1.00,0.00
+3627,jobs in bradford,9,0,0,0.90,0.00
+3628,replacement provisional licence,9,0,0,1.00,0.00
+3629,dvla helpline,9,0,0,1.00,0.00
+3630,theory test number,9,0,0,0.91,0.00
+3631,NMW,9,0,0,1.00,0.00
+3632,get britain working,9,0,0,1.00,0.00
+3633,passport interview office,8,0,0,1.00,0.00
+3634,course search,8,0,0,1.00,0.00
+3635,find local jobcentre,8,0,0,1.00,0.00
+3636,equal pay act 1970,8,0,0,1.00,0.00
+3637,insolvancy,8,0,0,1.00,0.00
+3638,DVLA contact number,8,0,0,1.00,0.00
+3639,licence expiry,8,0,0,1.00,0.00
+3640,renewable energy,8,0,0,1.00,0.00
+3641,aspergers,8,0,0,1.00,0.00
+3642,college funding,8,0,0,0.85,0.00
+3643,unclaimed estates,8,0,0,1.00,0.00
+3644,how you are assessed and paid,8,0,0,1.00,0.00
+3645,british citizen,8,0,0,0.89,0.00
+3646,lost mot certificate,8,0,0,1.00,0.00
+3647,all jobs burton on trent,8,0,0,1.00,0.00
+3648,national insurance stamp,8,0,0,1.00,0.00
+3649,address for dvla,8,0,0,1.00,0.00
+3650,jsa 3,8,0,0,1.00,0.00
+3651,jobcentre plus job application form,8,0,0,1.00,0.00
+3652,bumping,8,0,0,0.90,0.10
+3653,book cbt,8,0,0,0.63,0.00
+3654,dvla borehamwood,8,0,0,0.93,0.00
+3655,nhs pension,8,0,0,1.00,0.00
+3656,right of way,8,0,0,1.00,0.00
+3657,penalties under law at work,8,0,0,1.00,0.00
+3658,refund tax disc,8,0,0,1.00,0.00
+3659,consultation period,8,0,0,1.00,0.00
+3660,skills,8,0,0,1.00,0.00
+3661,wandsworth,8,0,0,1.00,0.00
+3662,motoring leaflets,8,0,0,1.00,0.00
+3663,sponsor 2 pff2 form,8,0,0,1.00,0.00
+3664,rule 129,8,0,0,1.00,0.00
+3665,d796,8,0,-1,0.00,0.00
+3666,ashford,8,0,0,1.00,0.00
+3667,consumer direct,8,0,0,1.00,0.00
+3668,basingstoke,8,0,0,1.00,0.00
+3669,passport information,8,0,0,1.00,0.00
+3670,Replacement birth certificate,8,0,0,0.75,0.00
+3671,reclaim,8,0,0,1.00,0.00
+3672,tax relief,8,0,0,0.90,0.00
+3673,mediation,8,0,0,1.00,0.00
+3674,roads,8,0,0,0.90,0.10
+3675,RECEPTIONIST,8,0,0,0.75,0.13
+3676,d8,8,0,0,0.92,0.00
+3677,flooding,8,0,0,0.80,0.10
+3678,direct.gov.uk,8,0,0,1.00,0.00
+3679,leaflet nica5jp,8,0,0,0.91,0.00
+3680,asda jobs,8,0,0,1.00,0.00
+3681,health and safety act 1974,8,0,0,0.75,0.13
+3682,maternity entitlement,8,0,0,1.00,0.00
+3683,pensions and retirement planning,8,0,0,1.00,0.00
+3684,dla appeals,8,0,0,1.00,0.00
+3685,child welfare,8,0,0,1.00,0.00
+3686,trade descriptions act,8,0,0,0.88,0.00
+3687,give way,8,0,0,1.00,0.00
+3688,bank overdraft,8,0,0,1.00,0.00
+3689,divorce certificate,8,0,0,1.00,0.00
+3690,nhs costs,8,0,0,1.00,0.00
+3691,tution fee loan request form,8,0,0,0.70,0.00
+3692,worcester,8,0,0,1.00,0.00
+3693,oxford,8,0,0,1.00,0.00
+3694,part time grants,8,0,0,1.00,0.00
+3695,oap,8,0,0,0.89,0.00
+3696,child tax credit calculator,8,0,0,1.00,0.00
+3697,photocard licence,8,0,0,0.90,0.00
+3698,form ordering service,8,0,0,1.00,0.00
+3699,information technology,8,0,0,1.00,0.00
+3700,support work,8,0,0,1.00,0.00
+3701,Theory Driving test,8,0,0,1.00,0.00
+3702,social fund grant,8,0,0,1.00,0.00
+3703,legal advice,8,0,0,1.00,0.00
+3704,contracting in,8,0,0,0.88,0.00
+3705,help with travel costs,8,0,0,1.00,0.00
+3706,royal mail jobs,8,0,0,1.00,0.00
+3707,lgv driver,8,0,0,1.00,0.00
+3708,shops,8,0,0,1.00,0.00
+3709,disaplinary,8,0,-1,0.00,0.00
+3710,basildon,8,0,0,1.00,0.00
+3711,ceiling fixer,8,0,0,1.00,0.00
+3712,life insurance,8,0,0,1.00,0.00
+3713,declaration forms,8,0,0,0.88,0.00
+3714,job centre contact,8,0,0,1.00,0.00
+3715,rent payments,8,0,0,1.00,0.00
+3716,kitchen work,8,0,0,1.00,0.00
+3717,pension payments,8,0,0,1.00,0.00
+3718,keyworker,8,0,0,1.00,0.00
+3719,statutory,8,0,0,1.00,0.00
+3720,dla forms,8,0,0,1.00,0.00
+3721,motorbikes,8,0,0,1.00,0.00
+3722,financial help for parents in education,8,0,0,1.00,0.00
+3723,change of vehicle ownership,8,0,0,0.78,0.00
+3724,driving record,8,0,0,0.90,0.00
+3725,u turn,8,0,0,0.91,0.00
+3726,slc,8,0,0,0.89,0.00
+3727,time off for bereavement,8,0,0,1.00,0.00
+3728,bank details,8,0,0,1.00,0.00
+3729,polish,8,0,0,1.00,0.00
+3730,automatic transmission,8,0,0,1.00,0.00
+3731,ma1 form,8,0,0,1.00,0.00
+3732,changing address on passport,8,0,0,1.00,0.00
+3733,transparency,8,0,0,1.00,0.00
+3734,unemployed and pregnant,8,0,0,1.00,0.00
+3735,esa appeal,8,0,0,1.00,0.00
+3736,v948,8,0,0,1.00,0.00
+3737,claiming back tax,8,0,0,1.00,0.00
+3738,busking,8,0,0,0.88,0.13
+3739,student finance eu,8,0,0,1.00,0.00
+3740,form pff1,8,0,0,1.00,0.00
+3741,find a school,8,0,0,1.00,0.00
+3742,somerset,8,0,0,0.90,0.00
+3743,care costs,8,0,0,1.00,0.00
+3744,foreign driving licence,8,0,0,1.00,0.00
+3745,refund car tax,8,0,0,0.88,0.00
+3746,driving license number,8,0,0,1.00,0.00
+3747,hgv jobs,8,0,0,0.89,0.11
+3748,social policy,8,0,0,1.00,0.00
+3749,forward work plan,8,0,0,0.91,0.00
+3750,pay cut,8,0,0,1.00,0.00
+3751,dla mobility,8,0,0,1.00,0.00
+3752,Special Support Grant,8,0,0,1.00,0.00
+3753,breavement,8,0,-1,0.00,0.13
+3754,crown court,8,0,0,1.00,0.00
+3755,band b,8,0,0,1.00,0.00
+3756,pension profile,8,0,0,1.00,0.00
+3757,cleaning jobs in ashton under line,8,0,0,1.00,0.00
+3758,MA1,8,0,0,1.00,0.00
+3759,caravan,8,0,0,1.00,0.00
+3760,paint sprayer,8,0,0,1.00,0.00
+3761,water butts,8,0,0,0.89,0.00
+3762,inf46,8,0,0,1.00,0.00
+3763,tax brackets,8,0,0,1.00,0.00
+3764,mobilty,8,0,-1,0.00,0.00
+3765,union membership,8,0,0,1.00,0.00
+3766,photocard renewal,8,0,0,1.00,0.00
+3767,carers credits,8,0,0,1.00,0.00
+3768,dissability living allowance,8,0,0,1.00,0.00
+3769,bradford,8,0,0,1.00,0.00
+3770,e14,8,0,0,1.00,0.00
+3771,where to look for jobs,8,0,0,1.00,0.00
+3772,d,8,0,0,1.00,0.00
+3773,grievances,8,0,0,1.00,0.00
+3774,apply for national insurance,8,0,0,1.00,0.00
+3775,electricity,8,0,0,1.00,0.00
+3776,age to drive,8,0,0,0.88,0.13
+3777,change of surname,8,0,0,1.00,0.00
+3778,feed in tariff,8,0,0,1.00,0.00
+3779,V33,8,0,0,1.00,0.00
+3780,key skills,8,0,0,1.00,0.00
+3781,codes,8,0,0,1.00,0.00
+3782,driving lesson,8,0,0,1.00,0.00
+3783,check progress,8,0,0,1.00,0.00
+3784,firework,8,0,0,1.00,0.00
+3785,nhs exemption certificate,8,0,0,1.00,0.00
+3786,speeding tickets,8,0,0,0.88,0.00
+3787,what date did the mimimum wage go up,8,0,0,1.00,0.00
+3788,pension deferral,8,0,0,1.00,0.00
+3789,changing practical test,8,0,0,1.00,0.00
+3790,carers grant,8,0,0,1.00,0.00
+3791,self cert,8,0,0,1.00,0.00
+3792,welfare,8,0,0,1.00,0.00
+3793,nhs dentist,8,0,0,1.00,0.00
+3794,national insurence number,8,0,0,1.00,0.00
+3795,where is my local job centre,8,0,0,1.00,0.00
+3796,forklift jobs,8,0,0,1.00,0.00
+3797,apply for ni number,8,0,0,1.00,0.00
+3798,exchange licence,8,0,0,1.00,0.00
+3799,e303,8,0,-1,0.00,0.00
+3800,auto credits,8,0,0,1.00,0.00
+3801,speeding ticket,8,0,0,1.00,0.00
+3802,union,8,0,0,1.00,0.00
+3803,national insurence,8,0,0,1.00,0.00
+3804,maternity leave and pay,8,0,0,1.00,0.00
+3805,dependants,8,0,0,1.00,0.00
+3806,disabled students,8,0,0,1.00,0.00
+3807,emergency vehicles,8,0,0,1.00,0.00
+3808,pension forms,8,0,0,1.00,0.00
+3809,over 50s,8,0,0,1.00,0.00
+3810,driving licience,8,0,0,1.00,0.00
+3811,parkinsons,8,0,0,1.00,0.00
+3812,personal finance,8,0,0,1.00,0.00
+3813,bedford,8,0,0,1.00,0.00
+3814,jobs in leicester,8,0,0,0.78,0.00
+3815,accidents,8,0,0,1.00,0.00
+3816,redundancy entitlement,8,0,0,1.00,0.00
+3817,exporting a car,8,0,0,1.00,0.00
+3818,pension credit address,8,0,0,1.00,0.00
+3819,test cancelations,8,0,0,0.95,0.00
+3820,apply for provisional licence,8,0,0,1.00,0.00
+3821,Citizenship,8,0,0,1.00,0.00
+3822,adi theory test booking,8,0,0,1.00,0.00
+3823,jobseeker allowence,8,0,0,1.00,0.00
+3824,jobcentre plus offices,8,0,0,0.90,0.10
+3825,jobs in cornwall,8,0,0,1.00,0.00
+3826,student life,8,0,0,1.00,0.00
+3827,cancel student loan,8,0,0,1.00,0.00
+3828,flexible working request,8,0,0,0.88,0.00
+3829,private pension,8,0,0,1.00,0.00
+3830,book pratical test,8,0,0,1.00,0.00
+3831,deposit protection,8,0,0,1.00,0.00
+3832,childrens centre,8,0,0,0.78,0.00
+3833,cohabitation,8,0,0,0.90,0.10
+3834,book theory driving test,8,0,0,1.00,0.00
+3835,certificate of destruction,8,0,0,1.00,0.00
+3836,track licence,8,0,0,1.00,0.00
+3837,council directory,8,0,0,0.75,0.00
+3838,crissis loan,8,0,0,1.00,0.00
+3839,italian,8,0,0,1.00,0.00
+3840,benefits agency,8,0,0,1.00,0.00
+3841,family law,8,0,0,1.00,0.00
+3842,3 step plan,8,0,0,1.00,0.00
+3843,p plates,8,0,0,1.00,0.00
+3844,jobs in cardiff,8,0,0,0.92,0.00
+3845,budget 2009,8,0,0,0.92,0.00
+3846,scrapped,8,0,0,1.00,0.00
+3847,refugee,8,0,0,1.00,0.00
+3848,student maintenance grant,8,0,0,1.00,0.00
+3849,identity cards,8,0,0,1.00,0.00
+3850,maternity leave calendar,8,0,0,1.00,0.00
+3851,emigration,8,0,0,1.00,0.00
+3852,cheque payable to,8,0,0,1.00,0.00
+3853,scarborough,8,0,0,1.00,0.00
+3854,tax thresholds,8,0,0,1.00,0.00
+3855,apply for working tax credit,8,0,0,1.00,0.00
+3856,bike test,8,0,0,0.89,0.00
+3857,red diesel,8,0,0,1.00,0.00
+3858,breaking distances,8,0,0,1.00,0.00
+3859,confidentiality policy,8,0,0,0.80,0.00
+3860,care standards act 2000,8,0,0,1.00,0.00
+3861,lost drivers licence,8,0,0,1.00,0.00
+3862,form ca5403,8,0,0,1.00,0.00
+3863,beauty therapy,8,0,0,1.00,0.00
+3864,bed bugs,8,0,0,1.00,0.00
+3865,photographer,8,0,0,1.00,0.00
+3866,sick pay self employed,8,0,0,1.00,0.00
+3867,cheques,8,0,0,1.00,0.00
+3868,parental responsibilty,8,0,0,0.80,0.00
+3869,dog warden,8,0,0,1.00,0.00
+3870,waiting list,8,0,0,1.00,0.00
+3871,deferring state pension,8,0,0,1.00,0.00
+3872,free bus passes,8,0,0,1.00,0.00
+3873,jobcentre phone number,8,0,0,0.88,0.13
+3874,expenses,8,0,0,1.00,0.00
+3875,hospital stays,8,0,0,1.00,0.00
+3876,cheques payable to,8,0,0,1.00,0.00
+3877,spanish,8,0,0,1.00,0.00
+3878,victimisation,8,0,0,1.00,0.00
+3879,tax class,8,0,0,1.00,0.00
+3880,civil service pay,8,0,0,1.00,0.00
+3881,how much is child benefit,8,0,0,1.00,0.00
+3882,private number plates,8,0,0,1.00,0.00
+3883,maternity leave entitlement,8,0,0,0.91,0.09
+3884,driving licence expired,8,0,0,0.90,0.00
+3885,passport photograph,8,0,0,1.00,0.00
+3886,second adult rebate,8,0,0,1.00,0.00
+3887,break times,8,0,0,0.80,0.20
+3888,supermarket jobs,8,0,0,1.00,0.00
+3889,colchester,8,0,0,1.00,0.00
+3890,nursing home,8,0,0,1.00,0.00
+3891,events,8,0,0,1.00,0.00
+3892,car tax on line,8,0,0,1.00,0.00
+3893,working time regulations 1998,8,0,0,1.00,0.00
+3894,pregancy,8,0,0,1.00,0.00
+3895,downloadable forms,8,0,0,0.89,0.00
+3896,dual carriageway,8,0,0,1.00,0.00
+3897,nhs jobs,8,0,0,1.00,0.00
+3898,sexual orientation,8,0,0,1.00,0.00
+3899,new passport,8,0,0,1.00,0.00
+3900,redundancy notice period,8,0,0,1.00,0.00
+3901,probate office,8,0,0,1.00,0.00
+3902,171,8,0,0,0.88,0.13
+3903,student finance application form,8,0,0,1.00,0.00
+3904,part time workers,8,0,0,1.00,0.00
+3905,renew blue badge,8,0,0,1.00,0.00
+3906,licencing,8,0,0,0.82,0.00
+3907,cafcass,8,0,0,0.81,0.00
+3908,study abroad,8,0,0,1.00,0.00
+3909,e,8,0,0,0.75,0.00
+3910,adoption pay,8,0,0,1.00,0.00
+3911,jobs in rugeley,8,0,0,0.93,0.00
+3912,blue badges,8,0,0,0.92,0.08
+3913,claim jobseekers,8,0,0,0.90,0.00
+3914,disabled child,8,0,0,1.00,0.00
+3915,lighting,8,0,0,0.88,0.00
+3916,jobcentre plus application,8,0,0,0.70,0.00
+3917,waste collection,8,0,0,0.94,0.06
+3918,disabled car tax,8,0,0,0.82,0.00
+3919,holiday entitlement calculator,8,0,0,0.90,0.00
+3920,waitress,8,0,0,1.00,0.00
+3921,student loan form,8,0,0,1.00,0.00
+3922,death record of john samuel goldacre died in 1866 at lexden essex,8,0,0,0.92,0.00
+3923,practical booking,8,0,0,1.00,0.00
+3924,childcare form,8,0,0,1.00,0.00
+3925,ema contact number,8,0,0,1.00,0.00
+3926,hardship loan,8,0,0,1.00,0.00
+3927,vet,8,0,0,1.00,0.00
+3928,provisional licence application,8,0,0,1.00,0.00
+3929,tax evasion,8,0,0,1.00,0.00
+3930,ni rates,8,0,0,1.00,0.00
+3931,university funding,8,0,0,1.00,0.00
+3932,form hctb1,8,0,0,1.00,0.00
+3933,overseas assessment form,8,0,0,0.89,0.00
+3934,redundancy benefits,8,0,0,1.00,0.00
+3935,nqf,8,0,0,1.00,0.00
+3936,new national insurance card,8,0,0,0.92,0.00
+3937,refund road tax,8,0,0,1.00,0.00
+3938,breach of contract,8,0,0,1.00,0.00
+3939,dvla leeds,8,0,0,0.88,0.00
+3940,cgt,8,0,0,1.00,0.00
+3941,tractor licence,8,0,0,0.90,0.10
+3942,applications,8,0,0,1.00,0.00
+3943,state retirement pension,8,0,0,1.00,0.00
+3944,claim state pension,8,0,0,0.90,0.10
+3945,xmas jobs,8,0,0,0.88,0.00
+3946,middlesbrough,8,0,0,0.91,0.00
+3947,disabled access,8,0,0,1.00,0.00
+3948,career developement loan,8,0,0,1.00,0.00
+3949,replacing provisional,8,0,0,1.00,0.00
+3950,b97 4rd,8,0,-1,0.00,0.00
+3951,hipg,8,0,0,1.00,0.00
+3952,laptop,8,0,0,0.89,0.11
+3953,thoery,8,0,-1,0.13,0.00
+3954,fjf,8,0,-1,0.33,0.00
+3955,icb,8,0,-1,0.38,0.00
+3956,high way code,8,0,0,1.00,0.00
+3957,childtax credit,8,0,0,1.00,0.00
+3958,furniture,8,0,0,1.00,0.00
+3959,jobs now,8,0,0,1.00,0.00
+3960,caring for someone,8,0,0,1.00,0.00
+3961,protected rights,8,0,0,1.00,0.00
+3962,post 16 options,8,0,0,1.00,0.00
+3963,sixth form,8,0,0,1.00,0.00
+3964,what am i entitled to,8,0,0,1.00,0.00
+3965,labourer roadsweeper,8,0,0,0.90,0.00
+3966,wales,8,0,0,1.00,0.00
+3967,free childcare,8,0,0,1.00,0.00
+3968,form d777b,8,0,0,1.00,0.00
+3969,registered blind,8,0,0,0.63,0.13
+3970,unemployment benifits,8,0,0,1.00,0.00
+3971,tax on line,8,0,0,1.00,0.00
+3972,carer jobs,8,0,0,1.00,0.00
+3973,Statutory paternity pay,8,0,0,1.00,0.00
+3974,jobs in braehead,8,0,0,1.00,0.00
+3975,full birth certificate,8,0,0,1.00,0.00
+3976,new log book,8,0,0,1.00,0.00
+3977,photo driving licence,8,0,0,1.00,0.00
+3978,kit,8,0,0,0.90,0.00
+3979,executive government,8,0,0,1.00,0.00
+3980,noisy neighbours,8,0,0,1.00,0.00
+3981,post a job,8,0,0,1.00,0.00
+3982,sorn declaration,8,0,0,1.00,0.00
+3983,insurance check,8,0,0,1.00,0.00
+3984,probate registry,8,0,0,1.00,0.00
+3985,cycle lanes,8,0,0,1.00,0.00
+3986,administrator,8,0,0,1.00,0.00
+3987,road tax bands,8,0,0,1.00,0.00
+3988,student loan application form,8,0,0,1.00,0.00
+3989,respite,8,0,0,0.91,0.00
+3990,leasehold,8,0,0,1.00,0.00
+3991,changing driving test,8,0,0,1.00,0.00
+3992,maintenance loans,8,0,0,1.00,0.00
+3993,dole money,8,0,0,1.00,0.00
+3994,help with deposit,8,0,0,0.88,0.00
+3995,Scotland,8,0,0,1.00,0.00
+3996,cycle to work scheme,8,0,0,1.00,0.00
+3997,hereford,8,0,0,1.00,0.00
+3998,state pension increase,8,0,0,1.00,0.00
+3999,lone parent benefits,8,0,0,0.89,0.00
+4000,replacement v5,8,0,0,1.00,0.00
+4001,roofer,8,0,-1,0.00,0.00
+4002,childcare courses,8,0,0,1.00,0.00
+4003,benefits for students,8,0,0,1.00,0.00
+4004,tax law,8,0,0,1.00,0.00
+4005,j,8,0,0,1.00,0.00
+4006,parish councils,8,0,0,0.91,0.00
+4007,access,8,0,0,0.67,0.00
+4008,librarian,8,0,0,1.00,0.00
+4009,driving  jobs,8,0,0,1.00,0.00
+4010,social fund phone number,8,0,0,0.89,0.00
+4011,respite care,8,0,0,1.00,0.00
+4012,practical test cost,8,0,0,1.00,0.00
+4013,civil service salaries,8,0,0,1.00,0.00
+4014,v 10,8,0,0,1.00,0.00
+4015,check mot status,8,0,0,1.00,0.00
+4016,what is low income,8,0,0,1.00,0.00
+4017,bexley,8,0,0,1.00,0.00
+4018,income surpport,8,0,0,1.00,0.00
+4019,registry office,8,0,0,0.88,0.00
+4020,jsa rapid reclaim,8,0,0,1.00,0.00
+4021,family element,8,0,0,0.93,0.07
+4022,driving test booking,8,0,0,1.00,0.00
+4023,types of tax,8,0,0,0.80,0.00
+4024,changes to child benefit,8,0,0,0.89,0.11
+4025,masters,8,0,0,1.00,0.00
+4026,why do we pay income tax?,8,0,0,0.90,0.00
+4027,tenancy deposit,8,0,0,0.90,0.00
+4028,questionnaire,8,0,0,1.00,0.00
+4029,starting school,8,0,0,1.00,0.00
+4030,kings lynn,8,0,0,1.00,0.00
+4031,dla and working,8,0,0,1.00,0.00
+4032,mortgage interest support,8,0,0,1.00,0.00
+4033,employment rights act 1996,8,0,0,1.00,0.00
+4034,d2 application,8,0,0,1.00,0.00
+4035,scunthorpe,8,0,0,1.00,0.00
+4036,getting back to work,8,0,0,1.00,0.00
+4037,recruitment law,8,0,0,1.00,0.00
+4038,changes to benefits,8,0,0,1.00,0.00
+4039,INF1D,8,0,0,0.89,0.00
+4040,contribution based,8,0,0,1.00,0.00
+4041,learner drivers,8,0,0,1.00,0.00
+4042,tution fees,8,0,0,1.00,0.00
+4043,supreme court,8,0,0,1.00,0.00
+4044,how much is a driving test,8,0,0,1.00,0.00
+4045,overdraft,8,0,0,1.00,0.00
+4046,motor trader,8,0,0,1.00,0.00
+4047,eu driving licence,8,0,0,1.00,0.00
+4048,local councillor,8,0,0,0.88,0.00
+4049,dfg,8,0,-1,0.00,0.00
+4050,post graduate funding,8,0,0,1.00,0.00
+4051,Quango,8,0,0,1.00,0.00
+4052,hgv class 2,8,0,0,1.00,0.00
+4053,Holiday calculator,8,0,0,1.00,0.00
+4054,job finder,8,0,0,1.00,0.00
+4055,change taxation class,8,0,0,0.88,0.00
+4056,starting own business,8,0,0,1.00,0.00
+4057,contact list,8,0,0,1.00,0.00
+4058,50+,8,0,0,1.00,0.00
+4059,eas,8,0,0,1.00,0.00
+4060,nannies,8,0,0,1.00,0.00
+4061,private hire,8,0,0,0.83,0.00
+4062,jobs in redditch,8,0,0,1.00,0.00
+4063,crawley,8,0,0,1.00,0.00
+4064,delivery,8,0,0,1.00,0.00
+4065,start a business,8,0,0,1.00,0.00
+4066,l,8,0,0,1.00,0.00
+4067,hm revenue and customs,8,0,0,0.92,0.00
+4068,smart card,8,0,0,1.00,0.00
+4069,travel to interview scheme,8,0,0,1.00,0.00
+4070,political parties,8,0,0,1.00,0.00
+4071,passport change address,8,0,0,1.00,0.00
+4072,student finance contact details,8,0,0,0.93,0.00
+4073,categories,8,0,0,0.88,0.13
+4074,dividends,8,0,0,1.00,0.00
+4075,jobs today,8,0,0,1.00,0.00
+4076,child care grants,8,0,0,0.89,0.00
+4077,london assembly,8,0,0,0.94,0.06
+4078,boiler replacement,8,0,0,0.88,0.00
+4079,part-time students,8,0,0,0.89,0.00
+4080,science,8,0,0,1.00,0.00
+4081,mystery shopper,8,0,0,1.00,0.00
+4082,residential support scheme,8,0,0,0.88,0.00
+4083,national minimum,8,0,0,1.00,0.00
+4084,countersign,8,0,0,0.88,0.00
+4085,government jobs,8,0,0,1.00,0.00
+4086,mobile phone,8,0,0,1.00,0.00
+4087,contact dla,8,0,0,0.89,0.00
+4088,maternity grant form,8,0,0,1.00,0.00
+4089,national min wage,8,0,0,1.00,0.00
+4090,shropshire,8,0,0,0.89,0.11
+4091,tamworth,8,0,0,1.00,0.00
+4092,travelling abroad,8,0,0,1.00,0.00
+4093,training for work,8,0,0,1.00,0.00
+4094,newham council,8,0,0,1.00,0.00
+4095,practicle test,8,0,0,1.00,0.00
+4096,job allowance,8,-1,0,0.13,0.13
+4097,lay off pay,8,0,0,1.00,0.00
+4098,ca5400,8,0,-1,0.50,0.00
+4099,full driving licence,8,0,0,1.00,0.00
+4100,lay offs,8,0,0,1.00,0.00
+4101,pcdl,8,0,0,1.00,0.00
+4102,assured shorthold tenancy,8,0,0,1.00,0.00
+4103,weddings,8,0,0,1.00,0.00
+4104,career break,8,0,0,1.00,0.00
+4105,benefit enquiries,8,0,0,1.00,0.00
+4106,tuition fee request form,8,0,0,1.00,0.00
+4107,tupee,8,0,-1,0.50,0.00
+4108,vat refund,8,0,0,1.00,0.00
+4109,divorce records,8,0,0,1.00,0.00
+4110,plastering jobs,8,0,0,1.00,0.00
+4111,age exemption certificate,8,0,0,1.00,0.00
+4112,post office account,8,0,0,0.92,0.00
+4113,passport change of name,8,0,0,1.00,0.00
+4114,ill health,8,0,0,1.00,0.00
+4115,part p,8,0,0,1.00,0.00
+4116,horses,8,0,0,1.00,0.00
+4117,Bursaries,8,0,0,1.00,0.00
+4118,trusts,8,0,0,1.00,0.00
+4119,driving test dates,8,0,0,0.82,0.00
+4120,information codes,8,0,0,1.00,0.00
+4121,spent convictions,8,0,0,0.93,0.00
+4122,benefits in kind,8,0,0,1.00,0.00
+4123,joint pension,8,0,0,1.00,0.00
+4124,calculation,8,0,0,0.94,0.00
+4125,zebra crossings,8,0,0,1.00,0.00
+4126,social fund number,8,0,0,1.00,0.00
+4127,provisional drivers license,8,0,0,0.89,0.00
+4128,job seakers allowance,8,0,0,1.00,0.00
+4129,equal opportunites,8,0,0,1.00,0.00
+4130,job seakers,8,0,0,1.00,0.00
+4131,driving test fee,8,0,0,1.00,0.00
+4132,maintenance grant application form,8,0,0,0.88,0.13
+4133,what can i claim,8,0,0,1.00,0.00
+4134,dpa,8,0,0,1.00,0.00
+4135,claim pack,8,0,0,1.00,0.00
+4136,health and safety rights,8,0,0,0.75,0.00
+4137,d46p form,8,0,0,1.00,0.00
+4138,nursing jobs,8,0,0,0.91,0.00
+4139,plasterers,8,0,0,1.00,0.00
+4140,lifetime allowance,8,0,0,1.00,0.00
+4141,television licence,8,0,0,1.00,0.00
+4142,section 21,8,0,0,1.00,0.00
+4143,job seach,8,0,0,1.00,0.00
+4144,lodger,8,0,0,0.91,0.00
+4145,d46pw,8,0,-1,0.00,0.00
+4146,help with morgage,8,0,0,1.00,0.00
+4147,time to train,8,0,0,1.00,0.00
+4148,admin assistant,8,0,0,1.00,0.00
+4149,v5 form,8,0,0,0.92,0.00
+4150,cscs cards,8,0,0,1.00,0.00
+4151,i want to check if there is any cancelion,8,0,0,1.00,0.00
+4152,renew provisional licence,8,0,0,1.00,0.00
+4153,offence codes,8,0,0,1.00,0.00
+4154,stakeholder pensions,8,0,0,0.89,0.00
+4155,dvla adress,8,0,0,1.00,0.00
+4156,indirect discrimination,8,0,0,1.00,0.00
+4157,classroom assistant,8,0,0,1.00,0.00
+4158,jobs and skills,8,0,0,1.00,0.00
+4159,rss,8,0,0,1.00,0.00
+4160,provisonal licence,8,0,0,1.00,0.00
+4161,redundancy rules,8,0,0,1.00,0.00
+4162,clearway,8,0,0,1.00,0.00
+4163,home responsibility protection,8,0,0,1.00,0.00
+4164,jons,8,0,-1,0.00,0.00
+4165,learning difficulties,8,0,0,1.00,0.00
+4166,estrangement,8,0,0,1.00,0.00
+4167,cat,8,0,0,0.44,0.00
+4168,removing endorsements,8,0,0,1.00,0.00
+4169,v,8,0,0,1.00,0.00
+4170,darlington,8,0,0,0.89,0.00
+4171,all jobs in skegness,8,0,0,1.00,0.00
+4172,self-assessment,8,0,0,1.00,0.00
+4173,current vacancies,8,0,0,1.00,0.00
+4174,book theroy test,8,0,0,0.88,0.13
+4175,signing off jsa,8,0,0,1.00,0.00
+4176,toilets,8,0,0,1.00,0.00
+4177,gender reassignment,8,0,0,0.93,0.07
+4178,job vacencies,8,0,0,0.89,0.00
+4179,capital allowance,8,0,0,1.00,0.00
+4180,capital,8,0,0,1.00,0.00
+4181,loft insulation grant,8,0,0,1.00,0.00
+4182,commonwealth,8,0,0,0.89,0.00
+4183,dhss,8,0,0,1.00,0.00
+4184,spd1,7,0,0,1.00,0.00
+4185,dna,7,0,0,1.00,0.00
+4186,free dental,7,0,0,1.00,0.00
+4187,children's centres,7,0,0,1.00,0.00
+4188,lost registration document,7,0,0,1.00,0.00
+4189,taco,7,0,-1,0.00,0.00
+4190,housekeeping,7,0,0,0.88,0.00
+4191,house prices,7,0,0,1.00,0.00
+4192,taunton,7,0,0,1.00,0.00
+4193,skillsaccounts,7,0,-1,0.00,0.00
+4194,disability at work,7,0,0,1.00,0.00
+4195,insolvency service,7,0,0,1.00,0.00
+4196,kitchen fitter,7,0,0,1.00,0.00
+4197,aml,7,0,0,1.00,0.00
+4198,learning,7,0,0,1.00,0.00
+4199,ehic renewal,7,0,0,1.00,0.00
+4200,how much is basic state pension,7,0,0,1.00,0.00
+4201,cb,7,0,0,1.00,0.00
+4202,jobs tn6 2lt,7,0,0,1.00,0.00
+4203,assessment,7,0,0,1.00,0.00
+4204,retail security,7,0,0,1.00,0.00
+4205,derby city council,7,0,0,1.00,0.00
+4206,extended driving test,7,0,0,1.00,0.00
+4207,nursery schools,7,0,0,1.00,0.00
+4208,national insurance no,7,0,0,1.00,0.00
+4209,carework,7,0,-1,0.00,0.00
+4210,council members,7,0,0,1.00,0.00
+4211,coroners,7,0,0,0.80,0.10
+4212,agency work,7,0,0,1.00,0.00
+4213,change course,7,0,0,0.88,0.13
+4214,bbc,7,0,0,1.00,0.00
+4215,pensions service,7,0,0,1.00,0.00
+4216,bath,7,0,0,0.89,0.00
+4217,work together,7,0,0,1.00,0.00
+4218,intestate,7,0,0,1.00,0.00
+4219,dwa,7,0,-1,0.00,0.00
+4220,hm revenue,7,0,0,1.00,0.00
+4221,student finance england address,7,0,0,1.00,0.00
+4222,back pay,7,0,0,1.00,0.00
+4223,www.direct uk.,7,0,0,1.00,0.00
+4224,i.d,7,0,0,1.00,0.00
+4225,dogs,7,0,0,1.00,0.00
+4226,practice hazard perception test,7,0,0,1.00,0.00
+4227,basic minimum wage,7,0,0,1.00,0.00
+4228,any jobs,7,0,0,1.00,0.00
+4229,part-time student,7,0,0,1.00,0.00
+4230,joiners in scotland,7,0,0,1.00,0.00
+4231,housing benefit run on,7,0,0,1.00,0.00
+4232,disabled drivers,7,0,0,1.00,0.00
+4233,letters,7,0,0,1.00,0.00
+4234,be,7,0,-1,0.14,0.00
+4235,caring,7,0,0,0.90,0.00
+4236,practical test price,7,0,0,0.86,0.00
+4237,adoption rights,7,0,0,1.00,0.00
+4238,placement,7,0,0,1.00,0.00
+4239,warehouse operatives,7,0,0,0.91,0.00
+4240,writing cv,7,0,0,1.00,0.00
+4241,cycling,7,0,0,1.00,0.00
+4242,permited work,7,0,0,1.00,0.00
+4243,lgv 2,7,0,0,1.00,0.00
+4244,divorce fees,7,0,0,1.00,0.00
+4245,notification of entitlement,7,0,0,1.00,0.00
+4246,care assistants,7,0,0,1.00,0.00
+4247,for employment as a groundsman,7,0,0,0.78,0.00
+4248,disability rights,7,0,0,1.00,0.00
+4249,practical test questions,7,0,0,1.00,0.00
+4250,change address driving licence,7,0,0,1.00,0.00
+4251,residential homes,7,0,0,1.00,0.00
+4252,leaving work,7,0,0,1.00,0.00
+4253,licence points,7,0,0,1.00,0.00
+4254,register office,7,0,0,1.00,0.00
+4255,returning to work after maternity leave,7,0,0,1.00,0.00
+4256,funeral help,7,0,0,1.00,0.00
+4257,working tax benefit,7,0,0,1.00,0.00
+4258,engineer,7,0,0,1.00,0.00
+4259,dental care,7,0,0,1.00,0.00
+4260,parking on pavements,7,0,0,1.00,0.00
+4261,work place regulations,7,0,0,1.00,0.00
+4262,find a jobcentre,7,0,0,1.00,0.00
+4263,benefits enquiry line,7,0,0,1.00,0.00
+4264,forcast,7,0,0,1.00,0.00
+4265,drivers mate,7,0,0,1.00,0.00
+4266,in10,7,0,0,1.00,0.00
+4267,babysitting age,7,0,0,1.00,0.00
+4268,bursery,7,0,-1,0.00,0.00
+4269,maintence loan,7,0,0,1.00,0.00
+4270,number for budgeting loan,7,0,0,1.00,0.00
+4271,olympics,7,0,0,1.00,0.00
+4272,graphic design,7,0,0,1.00,0.00
+4273,vat returns,7,0,0,1.00,0.00
+4274,form b16,7,0,0,1.00,0.00
+4275,new owner,7,0,0,1.00,0.00
+4276,endorsement,7,0,0,1.00,0.00
+4277,Employee rights,7,0,0,0.89,0.00
+4278,diet and nutrition,7,0,0,1.00,0.00
+4279,counterpart driving licence,7,0,0,1.00,0.00
+4280,convictions,7,0,0,0.86,0.14
+4281,constitution,7,0,0,1.00,0.00
+4282,industrial revolution,7,0,0,1.00,0.00
+4283,severence pay,7,0,0,0.90,0.10
+4284,business loans,7,0,0,0.86,0.00
+4285,workingtaxcredits,7,0,-1,0.00,0.00
+4286,driveing test,7,0,0,1.00,0.00
+4287,keep warm keep well,7,0,0,1.00,0.00
+4288,towing a caravan,7,0,0,0.86,0.00
+4289,how much is smp,7,0,0,1.00,0.00
+4290,registering a vehicle,7,0,0,1.00,0.00
+4291,civil partnership,7,0,0,1.00,0.00
+4292,jobs in reading,7,0,0,1.00,0.00
+4293,languages,7,0,0,1.00,0.00
+4294,fishing licence,7,0,0,1.00,0.00
+4295,ehic card,7,0,0,1.00,0.00
+4296,baby passport,7,0,0,1.00,0.00
+4297,postgraduate study,7,0,0,1.00,0.00
+4298,community order,7,0,0,1.00,0.00
+4299,legislative government,7,0,0,1.00,0.00
+4300,disability allowence,7,0,0,1.00,0.00
+4301,restaurant assistant jobs in hertfordshire,7,0,0,1.00,0.00
+4302,at a glance,7,0,0,1.00,0.00
+4303,driving licence address,7,0,0,1.00,0.00
+4304,education policies,7,0,0,1.00,0.00
+4305,claim jsa,7,0,0,1.00,0.00
+4306,pensions section,7,0,0,1.00,0.00
+4307,change date of test,7,0,0,1.00,0.00
+4308,car tax disc,7,0,0,1.00,0.00
+4309,pay car tax,7,0,0,1.00,0.00
+4310,keep in touch days,7,0,0,1.00,0.00
+4311,cherished number plates,7,0,0,1.00,0.00
+4312,search for job,7,0,0,0.85,0.00
+4313,ca,7,0,0,0.89,0.00
+4314,jobs in sheffield,7,0,0,1.00,0.00
+4315,shotgun,7,0,0,0.86,0.00
+4316,refund tax,7,0,0,1.00,0.00
+4317,child maintainance,7,0,0,0.91,0.00
+4318,state pension amount,7,0,0,1.00,0.00
+4319,hmcs,7,0,0,1.00,0.00
+4320,income suppport,7,0,0,0.80,0.00
+4321,agricultural,7,0,0,1.00,0.00
+4322,pension hospital,7,0,0,1.00,0.00
+4323,evening jobs,7,0,0,0.86,0.00
+4324,mininum wage,7,0,0,1.00,0.00
+4325,sfe/pff1/1011,7,0,-1,0.00,0.00
+4326,child maintance,7,0,0,0.56,0.00
+4327,single yellow lines,7,0,0,1.00,0.00
+4328,reports,7,0,0,0.86,0.00
+4329,dla child,7,0,0,1.00,0.00
+4330,heart attack,7,0,0,0.75,0.00
+4331,occupational therapy,7,0,0,1.00,0.00
+4332,pigs,7,0,0,1.00,0.00
+4333,v65,7,0,-1,0.43,0.00
+4334,deferral,7,0,0,1.00,0.00
+4335,construction vacanies,7,0,0,1.00,0.00
+4336,gym,7,0,0,1.00,0.00
+4337,start own business,7,0,0,1.00,0.00
+4338,divorce proceding,7,0,0,0.78,0.00
+4339,methadone,7,0,-1,0.00,0.00
+4340,geo,7,0,0,1.00,0.00
+4341,hip,7,0,0,1.00,0.00
+4342,hull,7,0,0,1.00,0.00
+4343,warehouse labourer,7,0,0,1.00,0.00
+4344,vic application,7,0,0,1.00,0.00
+4345,conservation,7,0,0,1.00,0.00
+4346,entitlement,7,0,0,1.00,0.00
+4347,hate crime,7,0,0,0.88,0.00
+4348,care allowence,7,0,0,1.00,0.00
+4349,occupational maternity pay,7,0,0,1.00,0.00
+4350,registration number,7,0,0,1.00,0.00
+4351,fair rent,7,0,0,1.00,0.00
+4352,immigrants,7,0,0,1.00,0.00
+4353,mbe,7,0,0,1.00,0.00
+4354,buyerbeware,7,0,-1,0.00,0.00
+4355,race,7,0,0,1.00,0.00
+4356,age limit,7,0,0,1.00,0.00
+4357,tax refund form,7,0,0,0.71,0.00
+4358,otmanhollanda@live.fr,7,0,-1,0.00,0.00
+4359,sleep apnoea,7,0,0,0.88,0.13
+4360,scrapped vehicle,7,0,0,1.00,0.00
+4361,tractor license,7,0,0,1.00,0.00
+4362,b7l,7,0,-1,0.00,0.00
+4363,form s1,7,0,0,1.00,0.00
+4364,national insurance helpline,7,0,0,0.90,0.00
+4365,pff2 forms,7,0,0,1.00,0.00
+4366,carers allowance unit,7,0,0,0.88,0.00
+4367,skills test,7,0,0,1.00,0.00
+4368,first time buyer,7,0,0,1.00,0.00
+4369,booking pratical test,7,0,0,0.89,0.00
+4370,lottery,7,0,0,0.75,0.13
+4371,sorn online,7,0,0,1.00,0.00
+4372,directories section,7,0,0,1.00,0.00
+4373,grants and loans,7,0,0,1.00,0.00
+4374,employers national insurance,7,0,0,1.00,0.00
+4375,civil servants pay,7,0,0,1.00,0.00
+4376,replace driving license,7,0,0,1.00,0.00
+4377,dla children,7,0,0,1.00,0.00
+4378,change date,7,0,0,0.57,0.00
+4379,temporary worker,7,0,0,0.80,0.00
+4380,taxi card,7,0,0,1.00,0.00
+4381,over 80,7,0,0,1.00,0.00
+4382,armed forces,7,0,0,0.91,0.00
+4383,fw8,7,0,-1,0.14,0.00
+4384,jbs,7,0,-1,0.00,0.00
+4385,case studies,7,0,0,1.00,0.00
+4386,"money,tax and benefits",7,0,0,0.75,0.00
+4387,direct access,7,0,0,1.00,0.00
+4388,directions,7,0,0,1.00,0.00
+4389,children centre,7,0,0,1.00,0.00
+4390,additional pension,7,0,0,1.00,0.00
+4391,employer rights,7,0,0,0.89,0.11
+4392,v137,7,0,-1,0.00,0.00
+4393,assault,7,0,0,1.00,0.00
+4394,stl/73748,7,0,-1,0.14,0.00
+4395,redun,7,0,0,0.88,0.00
+4396,nearest dvla,7,0,0,1.00,0.00
+4397,book motorcycle theory test,7,0,0,0.88,0.00
+4398,software,7,0,0,1.00,0.00
+4399,housing associations,7,0,0,1.00,0.00
+4400,gender,7,0,0,1.00,0.00
+4401,bookings,7,0,0,1.00,0.00
+4402,pipe fitter,7,0,0,1.00,0.00
+4403,sap,7,0,0,1.00,0.00
+4404,Fire,7,0,0,0.71,0.00
+4405,nearest dvla office,7,0,0,1.00,0.00
+4406,motor insurance,7,0,0,0.86,0.00
+4407,dvla booking driving test,7,0,0,1.00,0.00
+4408,applying for a second passport,7,0,0,1.00,0.00
+4409,travel costs,7,0,0,1.00,0.00
+4410,calculators,7,0,0,1.00,0.00
+4411,reduced earnings,7,0,0,1.00,0.00
+4412,jobs warehouse,7,0,0,1.00,0.00
+4413,calculate holiday entitlement,7,0,0,1.00,0.00
+4414,the national minimum wage,7,0,0,0.88,0.00
+4415,term time,7,0,0,1.00,0.00
+4416,manager,7,0,0,1.00,0.00
+4417,equal opportunities policy,7,0,0,0.89,0.11
+4418,disability tax credits,7,0,0,0.89,0.11
+4419,independant living fund,7,0,0,1.00,0.00
+4420,payday,7,0,0,0.71,0.00
+4421,taxing vehicle,7,0,0,1.00,0.00
+4422,company cars,7,0,0,0.71,0.00
+4423,statutory notice,7,0,0,1.00,0.00
+4424,secondment,7,0,0,0.86,0.00
+4425,flu,7,0,0,0.90,0.00
+4426,theft,7,0,0,0.78,0.00
+4427,home office asylum and stastics,7,0,-1,0.00,0.00
+4428,disability premium rates,7,0,0,1.00,0.00
+4429,national identity card,7,0,0,0.91,0.09
+4430,southend on sea,7,0,0,1.00,0.00
+4431,wrongful dismissal,7,0,0,1.00,0.00
+4432,how to change your name,7,0,0,1.00,0.00
+4433,birth certificate declaration form,7,0,0,0.90,0.10
+4434,place a vacancy,7,0,0,0.86,0.00
+4435,available jobs,7,0,0,1.00,0.00
+4436,nhs number,7,0,0,1.00,0.00
+4437,email dvla,7,0,0,1.00,0.00
+4438,incap,7,0,-1,0.00,0.00
+4439,buy car tax,7,0,0,1.00,0.00
+4440,fb2,7,0,-1,0.00,0.00
+4441,contact ema,7,0,0,0.86,0.14
+4442,pot/27594,7,0,-1,0.00,0.00
+4443,bulling,7,0,0,0.78,0.11
+4444,print p46,7,0,0,0.71,0.00
+4445,cost of driving licence,7,0,0,1.00,0.00
+4446,driving test prices,7,0,0,1.00,0.00
+4447,arun,7,0,0,0.90,0.00
+4448,widows benefits,7,0,0,1.00,0.00
+4449,iht 205,7,0,0,0.90,0.10
+4450,definition of disability,7,0,0,1.00,0.00
+4451,harrow,7,0,0,1.00,0.00
+4452,lms,7,0,-1,0.00,0.00
+4453,counties,7,0,0,1.00,0.00
+4454,driving test questions,7,0,0,0.91,0.09
+4455,317,7,0,0,1.00,0.00
+4456,direct.gov.uk/taxdisc,7,0,0,1.00,0.00
+4457,work placement,7,0,0,1.00,0.00
+4458,traffic history,7,0,0,1.00,0.00
+4459,apply for benefit,7,0,0,0.86,0.00
+4460,adi check test,7,0,0,1.00,0.00
+4461,in work credits,7,0,0,1.00,0.00
+4462,gl 24,7,0,0,1.00,0.00
+4463,registration plate,7,0,0,1.00,0.00
+4464,new licence,7,0,0,1.00,0.00
+4465,theory test questions,7,0,0,1.00,0.00
+4466,canterbury,7,0,0,1.00,0.00
+4467,age concern,7,0,0,0.88,0.13
+4468,d4 forms,7,0,0,1.00,0.00
+4469,new boiler,7,0,0,1.00,0.00
+4470,harrow council,7,0,0,1.00,0.00
+4471,local jobcentres,7,0,0,1.00,0.00
+4472,national government,7,0,0,1.00,0.00
+4473,grand,7,0,0,1.00,0.00
+4474,jpbs,7,0,-1,0.00,0.00
+4475,change practical,7,0,0,1.00,0.00
+4476,sales assistant jobs,7,0,0,1.00,0.00
+4477,rapid reclaim jsa,7,0,0,1.00,0.00
+4478,proof of id,7,0,0,1.00,0.00
+4479,incpacity benefit,7,0,0,1.00,0.00
+4480,norwich,7,0,0,1.00,0.00
+4481,ware house,7,0,0,1.00,0.00
+4482,morgage help,7,0,0,1.00,0.00
+4483,SOCIAL SECURITY,7,0,0,0.89,0.00
+4484,education funding,7,0,0,1.00,0.00
+4485,jobs online,7,0,0,1.00,0.00
+4486,grandparents rights,7,0,0,1.00,0.00
+4487,vehicle checks,7,0,0,1.00,0.00
+4488,coming off benefits,7,0,0,1.00,0.00
+4489,bluebadge,7,0,0,0.86,0.00
+4490,newcastle,7,0,0,1.00,0.00
+4491,welfare state,7,0,0,1.00,0.00
+4492,refund on tax disc,7,0,0,1.00,0.00
+4493,scrap a car,7,0,0,0.88,0.13
+4494,widows pensions,7,0,0,1.00,0.00
+4495,state pension increases,7,0,0,1.00,0.00
+4496,how to appeal,7,0,0,1.00,0.00
+4497,application form for student finance,7,0,0,1.00,0.00
+4498,council tax form,7,0,0,1.00,0.00
+4499,single yellow line,7,0,0,1.00,0.00
+4500,renewal of driving licence,7,0,0,1.00,0.00
+4501,hazard and perception,7,0,0,1.00,0.00
+4502,minumum wage,7,0,0,1.00,0.00
+4503,bank staff,7,0,0,0.86,0.00
+4504,new driver,7,0,0,1.00,0.00
+4505,driving instructor theory test,7,0,0,1.00,0.00
+4506,statatory sick pay,7,0,0,1.00,0.00
+4507,redundancy table,7,0,0,0.89,0.00
+4508,advanced driving test,7,0,0,1.00,0.00
+4509,disqualified,7,0,0,1.00,0.00
+4510,lord browne,7,0,0,0.88,0.13
+4511,repairs,7,0,0,1.00,0.00
+4512,warm front grant,7,0,0,0.91,0.09
+4513,working tax credits calculator,7,0,0,1.00,0.00
+4514,child in need,7,0,0,0.93,0.00
+4515,pe teacher,7,0,0,1.00,0.00
+4516,inverness,7,0,0,1.00,0.00
+4517,leave to remain,7,0,0,1.00,0.00
+4518,council tax payment,7,0,0,1.00,0.00
+4519,sale of goods,7,0,0,1.00,0.00
+4520,ema application form,7,0,0,1.00,0.00
+4521,student financ,7,0,0,0.90,0.00
+4522,national statistics,7,0,0,1.00,0.00
+4523,income support application form,7,0,0,1.00,0.00
+4524,company sick pay,7,0,0,1.00,0.00
+4525,where to send,7,0,0,1.00,0.00
+4526,hair and beauty,7,0,0,1.00,0.00
+4527,packing,7,0,0,0.75,0.00
+4528,v 14,7,0,0,1.00,0.00
+4529,sir philip green,7,0,0,1.00,0.00
+4530,passport renewal fees,7,0,0,0.88,0.13
+4531,young worker,7,0,0,0.86,0.00
+4532,apply for community care grant,7,0,0,0.88,0.00
+4533,public liability insurance,7,0,0,1.00,0.00
+4534,driving licence name change,7,0,0,1.00,0.00
+4535,conveyancing,7,0,0,1.00,0.00
+4536,pre schools,7,0,0,1.00,0.00
+4537,jobseekers allownace,7,0,0,1.00,0.00
+4538,emergency loans,7,0,0,0.86,0.00
+4539,european government,7,0,0,0.78,0.00
+4540,graduate jobs,7,0,0,0.88,0.13
+4541,vouchers,7,0,0,1.00,0.00
+4542,disability income guarantee,7,0,0,0.89,0.00
+4543,professional and career development loan,7,0,0,1.00,0.00
+4544,when someone dies,7,0,0,1.00,0.00
+4545,redundancey,7,0,-1,0.29,0.14
+4546,free travel,7,0,0,1.00,0.00
+4547,bridgend,7,0,0,1.00,0.00
+4548,professional and career development loans,7,0,0,0.88,0.00
+4549,junctions,7,0,0,1.00,0.00
+4550,contact number student finance,7,0,0,0.86,0.14
+4551,digital tachograph driver card,7,0,0,1.00,0.00
+4552,pn1 forms,7,0,0,1.00,0.00
+4553,philip green report,7,0,0,1.00,0.00
+4554,vehicle registration certificate,7,0,0,1.00,0.00
+4555,statutory notice period,7,0,0,1.00,0.00
+4556,equitable life,7,0,0,1.00,0.00
+4557,workstep,7,0,0,1.00,0.00
+4558,2nd passport,7,0,0,1.00,0.00
+4559,points on license,7,0,0,1.00,0.00
+4560,two passports,7,0,0,1.00,0.00
+4561,student finance contacts,7,0,0,1.00,0.00
+4562,route,7,0,0,1.00,0.00
+4563,unemployed benefits,7,0,0,1.00,0.00
+4564,setting up a charity,7,0,0,0.86,0.00
+4565,giro,7,0,0,1.00,0.00
+4566,auction,7,0,0,0.93,0.07
+4567,hgv driving,7,0,0,1.00,0.00
+4568,withdrawing,7,0,0,1.00,0.00
+4569,th,7,0,0,1.00,0.00
+4570,bank holiday pay,7,0,0,1.00,0.00
+4571,interview techniques,7,0,0,1.00,0.00
+4572,warehouse in leicestershire,7,0,0,1.00,0.00
+4573,hgv driving hours,7,0,0,1.00,0.00
+4574,track passport,7,0,0,1.00,0.00
+4575,replace license,7,0,0,1.00,0.00
+4576,press office,7,0,0,1.00,0.00
+4577,gateshead,7,0,0,1.00,0.00
+4578,jobs in wigan,7,0,0,1.00,0.00
+4579,cu80,7,0,0,1.00,0.00
+4580,repossession,7,0,0,1.00,0.00
+4581,dla fraud,7,0,0,1.00,0.00
+4582,mature student finance,7,0,0,1.00,0.00
+4583,durham passport office,7,0,0,1.00,0.00
+4584,warning signs,7,0,0,1.00,0.00
+4585,hazard perception practice test,7,0,0,1.00,0.00
+4586,highways agency,7,0,0,1.00,0.00
+4587,cancel a claim,7,0,0,1.00,0.00
+4588,car seat,7,0,0,0.86,0.14
+4589,state pension 2011,7,0,0,1.00,0.00
+4590,Bank Holiday,7,0,0,1.00,0.00
+4591,dla application form,7,0,0,1.00,0.00
+4592,age of retirement,7,0,0,1.00,0.00
+4593,jobseekers phone number,7,0,0,1.00,0.00
+4594,private registration,7,0,0,1.00,0.00
+4595,customs,7,0,0,1.00,0.00
+4596,jobs#,7,0,0,0.89,0.00
+4597,discrimination acts,7,0,0,0.94,0.06
+4598,driving jobs m anchester,7,0,0,1.00,0.00
+4599,oldham,7,0,0,0.89,0.11
+4600,WORK TRIALS,7,0,0,0.90,0.10
+4601,online theory,7,0,0,1.00,0.00
+4602,romanian,7,0,0,1.00,0.00
+4603,social fund forms,7,0,0,1.00,0.00
+4604,claiming,7,0,0,1.00,0.00
+4605,stakeholder,7,0,0,1.00,0.00
+4606,budgeting loan phone number,7,0,0,1.00,0.00
+4607,road fund,7,0,0,1.00,0.00
+4608,child benefit changes,7,0,0,1.00,0.00
+4609,p800,7,0,0,1.00,0.00
+4610,free prescription,7,0,0,1.00,0.00
+4611,contact phone numbers,7,0,0,0.90,0.10
+4612,car allowance,7,0,0,0.88,0.00
+4613,working time rights,7,0,0,0.92,0.00
+4614,child benefit contact number,7,0,0,1.00,0.00
+4615,partnership,7,0,0,1.00,0.00
+4616,statutory holiday entitlement,7,0,0,1.00,0.00
+4617,booking a practical test,7,0,0,1.00,0.00
+4618,apply for grant,7,0,0,1.00,0.00
+4619,disablity living allowance,7,0,0,0.85,0.08
+4620,berevment,7,0,-1,0.00,0.00
+4621,community care act,7,0,0,1.00,0.00
+4622,ins115,7,0,0,1.00,0.00
+4623,stillbirth,7,0,0,1.00,0.00
+4624,blocked,7,0,0,1.00,0.00
+4625,scooters,7,0,0,0.86,0.14
+4626,carpenter jobs,7,0,0,0.86,0.00
+4627,vehicle details enquiry,7,0,0,1.00,0.00
+4628,ila,7,0,-1,0.00,0.00
+4629,FAQ,7,0,0,1.00,0.00
+4630,ogc,7,0,0,1.00,0.00
+4631,caravans,7,0,0,1.00,0.00
+4632,age related allowance,7,0,0,0.67,0.00
+4633,student bus pass,7,0,0,1.00,0.00
+4634,sb16,7,0,-1,0.14,0.14
+4635,professional bodies and trade unions,7,0,0,1.00,0.00
+4636,post graduate,7,0,0,1.00,0.00
+4637,pffi,7,0,-1,0.00,0.00
+4638,nhs & british citizen living abroad,7,0,0,0.73,0.09
+4639,social work bursary,7,0,0,1.00,0.00
+4640,disablity,7,0,-1,0.00,0.00
+4641,double yellow lines,7,0,0,0.92,0.00
+4642,benefit check,7,0,0,0.88,0.00
+4643,dvla swansea address,7,0,0,1.00,0.00
+4644,Widow's pension,7,0,0,0.78,0.11
+4645,statory sick pay,7,0,0,0.85,0.00
+4646,bins,7,0,0,1.00,0.00
+4647,council tax rebate,7,0,0,1.00,0.00
+4648,fishing,7,0,0,1.00,0.00
+4649,taco card,7,0,0,1.00,0.00
+4650,own business,7,0,0,1.00,0.00
+4651,premises licence,7,0,0,1.00,0.00
+4652,telephone number for dvla,7,0,0,1.00,0.00
+4653,free road tax,7,0,0,1.00,0.00
+4654,volunteers,7,0,0,0.88,0.00
+4655,parking tickets,7,0,0,1.00,0.00
+4656,speed camera,7,0,0,1.00,0.00
+4657,pcv theory test,7,0,0,1.00,0.00
+4658,carers allowance phone number,7,0,0,1.00,0.00
+4659,computer misuse act,7,0,0,0.75,0.00
+4660,defer pension,7,0,0,0.71,0.00
+4661,jobseekers benefit,7,0,0,1.00,0.00
+4662,replacement theory test certificate,7,0,0,1.00,0.00
+4663,c01 form,7,0,0,0.88,0.00
+4664,vat online,7,0,0,1.00,0.00
+4665,european driving license,7,0,0,1.00,0.00
+4666,urgent passport,7,0,0,1.00,0.00
+4667,care leavers,7,0,0,1.00,0.00
+4668,parking permit,7,0,0,1.00,0.00
+4669,homebuy,7,0,0,1.00,0.00
+4670,medical records,7,0,0,1.00,0.00
+4671,bf56,7,0,0,0.57,0.00
+4672,what can i drive,7,0,0,1.00,0.00
+4673,maternity redundancy,7,0,0,0.86,0.14
+4674,ecdl,7,0,0,0.86,0.14
+4675,v355,7,0,0,1.00,0.00
+4676,comprehensive spending review,7,0,0,1.00,0.00
+4677,inf4d,7,0,0,1.00,0.00
+4678,benefit payments,7,0,0,1.00,0.00
+4679,report benefit fraud,7,0,0,1.00,0.00
+4680,gmail,7,0,-1,0.00,0.00
+4681,jcp5,7,0,-1,0.00,0.00
+4682,full time students,7,0,0,1.00,0.00
+4683,jobseakers allowance,7,0,0,1.00,0.00
+4684,socialfund,7,0,-1,0.00,0.14
+4685,maximum savings,7,0,0,1.00,0.00
+4686,jobs in blackpool,7,0,0,1.00,0.00
+4687,re training,7,0,0,0.89,0.00
+4688,mesothelioma,7,0,0,0.90,0.00
+4689,means testing,7,0,0,1.00,0.00
+4690,jobs in wolverhampton,7,0,0,1.00,0.00
+4691,sia training,7,0,0,1.00,0.00
+4692,dla over 65,7,0,0,1.00,0.00
+4693,new driving test,7,0,0,1.00,0.00
+4694,DDA,7,0,0,1.00,0.00
+4695,waiting days,7,0,0,0.88,0.13
+4696,jobs in rochdale,7,0,0,1.00,0.00
+4697,GOOGLE,7,0,0,0.90,0.00
+4698,et1 form,7,0,0,1.00,0.00
+4699,youth work,7,0,0,0.89,0.00
+4700,google.com,7,0,-1,0.00,0.00
+4701,check vehicle,7,0,0,1.00,0.00
+4702,tv licensing,7,0,0,0.86,0.14
+4703,category a state retirement benefit,7,0,0,1.00,0.00
+4704,make a payment,7,0,0,1.00,0.00
+4705,registrations,7,0,0,1.00,0.00
+4706,minimum holiday entitlement,7,0,0,1.00,0.00
+4707,change of name on passport,7,0,0,0.93,0.07
+4708,wakefield,7,0,0,1.00,0.00
+4709,child benefit phone number,7,0,0,1.00,0.00
+4710,ds700,7,0,0,1.00,0.00
+4711,v5 change of address,7,0,0,1.00,0.00
+4712,pension rate,7,0,0,0.89,0.00
+4713,department of works and pensions,7,0,0,1.00,0.00
+4714,pregancy grant,7,0,0,1.00,0.00
+4715,refuse,7,0,0,1.00,0.00
+4716,fixed term,7,0,0,1.00,0.00
+4717,right to work in uk,7,0,0,1.00,0.00
+4718,yahoo,7,0,0,1.00,0.00
+4719,who is a carer,7,0,0,1.00,0.00
+4720,jobs in london,7,0,0,0.86,0.00
+4721,how to book theory test,7,0,0,1.00,0.00
+4722,jobs in sunderland,7,0,0,1.00,0.00
+4723,capital allowances,7,0,0,0.90,0.00
+4724,pco,7,0,0,1.00,0.00
+4725,part time student grant,7,0,0,1.00,0.00
+4726,lost counterpart licence,7,0,0,0.86,0.14
+4727,registering as disabled,7,0,0,1.00,0.00
+4728,ventilation,7,0,0,1.00,0.00
+4729,sure start vouchers,7,0,0,0.56,0.00
+4730,studentloan,7,0,-1,0.00,0.00
+4731,maintenance loan form,7,0,0,1.00,0.00
+4732,changing practical driving test,7,0,0,1.00,0.00
+4733,ls01 form,7,0,0,1.00,0.00
+4734,road tax costs,7,0,0,0.86,0.14
+4735,tefl,7,0,0,1.00,0.00
+4736,WAREHOUSE OPERATIVE,7,0,0,1.00,0.00
+4737,help with glasses,7,0,0,1.00,0.00
+4738,untaxed car,7,0,0,1.00,0.00
+4739,drainage,7,0,0,0.92,0.08
+4740,cod,7,0,0,1.00,0.00
+4741,practical car test,7,0,0,1.00,0.00
+4742,jobcentre number,7,0,0,1.00,0.00
+4743,care component,7,0,0,0.71,0.00
+4744,border agency,7,0,0,0.86,0.00
+4745,registering a birth,7,0,0,1.00,0.00
+4746,full licence,7,0,0,1.00,0.00
+4747,transfer,7,0,0,0.71,0.14
+4748,for jobs,7,0,0,1.00,0.00
+4749,pay online,7,0,0,1.00,0.00
+4750,d42 form,7,0,0,1.00,0.00
+4751,decorating grants,7,0,0,1.00,0.00
+4752,going on holiday,7,0,0,1.00,0.00
+4753,a2,7,0,0,0.75,0.13
+4754,what benefits can i claim,7,0,0,1.00,0.00
+4755,medical exemption,7,0,0,1.00,0.00
+4756,vehicles,7,0,0,0.86,0.00
+4757,next of kin,7,0,0,1.00,0.00
+4758,ema helpline,7,0,0,1.00,0.00
+4759,freepost address,7,0,0,1.00,0.00
+4760,funding for training,7,0,0,0.94,0.06
+4761,www.direct.gov.uk/drivingtest,7,0,0,1.00,0.00
+4762,art,7,0,0,1.00,0.00
+4763,maternity payments,7,0,0,1.00,0.00
+4764,ecm,7,0,-1,0.00,0.00
+4765,maternity rights and responsibilities,7,0,0,1.00,0.00
+4766,bridlington,7,0,0,1.00,0.00
+4767,ordit,7,0,0,1.00,0.00
+4768,rapid claim,7,0,0,0.92,0.00
+4769,photocard,7,0,0,1.00,0.00
+4770,help with child care costs,7,0,0,0.86,0.00
+4771,ppf1,7,0,-1,0.00,0.00
+4772,nuclear,7,0,0,1.00,0.00
+4773,mot helpline,7,0,0,1.00,0.00
+4774,how to apply for a blue badge,7,0,0,1.00,0.00
+4775,gos3,7,0,-1,0.00,0.00
+4776,horse,7,0,0,1.00,0.00
+4777,attendence allowence,7,0,0,1.00,0.00
+4778,tax credit forms,7,0,0,1.00,0.00
+4779,youtube,7,0,0,1.00,0.00
+4780,v52,7,0,-1,0.00,0.00
+4781,print form,7,0,0,1.00,0.00
+4782,create a cv,7,0,0,0.89,0.11
+4783,help with child care,7,0,0,1.00,0.00
+4784,business start up grants,7,0,0,0.70,0.10
+4785,c1 form,7,0,0,1.00,0.00
+4786,advertise jobs,7,0,0,1.00,0.00
+4787,business start up grant,7,0,0,1.00,0.00
+4788,find my nearest test centre,7,0,0,1.00,0.00
+4789,disability car,7,0,0,1.00,0.00
+4790,status blocked,7,0,0,1.00,0.00
+4791,jobseekers claim,7,0,0,1.00,0.00
+4792,houseing,7,0,-1,0.14,0.00
+4793,accidents at work,7,0,0,1.00,0.00
+4794,health and saftey at work act,7,0,-1,0.14,0.00
+4795,holiday lets,7,0,0,1.00,0.00
+4796,adult education bursaries,7,0,0,0.86,0.14
+4797,bike,7,0,0,1.00,0.00
+4798,track my application,7,0,0,1.00,0.00
+4799,check if a car is taxed,7,0,0,1.00,0.00
+4800,income support change of circumstances,7,0,0,1.00,0.00
+4801,student finance appeals,7,0,0,1.00,0.00
+4802,swimming,7,0,0,1.00,0.00
+4803,how to complain,7,0,0,1.00,0.00
+4804,widows allowance,7,0,0,1.00,0.00
+4805,become a childminder,7,0,0,1.00,0.00
+4806,motability allowance,7,0,0,1.00,0.00
+4807,water rates,7,0,0,1.00,0.00
+4808,childrens centres,7,0,0,1.00,0.00
+4809,disability student allowance,7,0,0,1.00,0.00
+4810,co2 emmissions,7,0,0,1.00,0.00
+4811,weekend,7,0,0,1.00,0.00
+4812,contract law,7,0,0,0.89,0.00
+4813,plumbing vacancies,7,0,0,1.00,0.00
+4814,statement,7,0,0,1.00,0.00
+4815,social fund telephone number,7,0,0,1.00,0.00
+4816,parks,7,0,0,0.80,0.00
+4817,annualised hours,7,0,0,1.00,0.00
+4818,self employment credits,7,0,0,1.00,0.00
+4819,course grant,7,0,0,1.00,0.00
+4820,inf26,7,0,-1,0.00,0.00
+4821,statutory holiday pay,7,0,0,1.00,0.00
+4822,personal number plates,7,0,0,1.00,0.00
+4823,apr,7,0,0,1.00,0.00
+4824,personal statements,7,0,0,0.86,0.00
+4825,Pension Tracing Service,7,0,0,1.00,0.00
+4826,c1 licence,7,0,0,1.00,0.00
+4827,apply for student finance,7,0,0,1.00,0.00
+4828,child poverty,7,0,0,1.00,0.00
+4829,psychology,7,0,0,1.00,0.00
+4830,incapicity benefit,7,0,0,1.00,0.00
+4831,rule 141,7,0,0,1.00,0.00
+4832,phone number to sign on,7,-1,0,0.14,0.00
+4833,vehicle excise duty,7,0,0,0.88,0.00
+4834,vandriver,7,0,-1,0.00,0.00
+4835,trade,7,0,0,1.00,0.00
+4836,income related employment and support allowance,7,0,0,0.90,0.00
+4837,claiming jsa,7,0,0,1.00,0.00
+4838,refund of road tax,7,0,0,1.00,0.00
+4839,van,7,0,0,0.88,0.00
+4840,passport address,7,0,0,1.00,0.00
+4841,ealing,7,0,0,1.00,0.00
+4842,student finances,7,0,0,1.00,0.00
+4843,hgv tax bands,7,0,0,1.00,0.00
+4844,porter,7,0,0,1.00,0.00
+4845,find your way back to work,7,0,0,1.00,0.00
+4846,blue badge parking,7,0,0,1.00,0.00
+4847,form p161,7,0,0,1.00,0.00
+4848,electrical safety,7,0,0,1.00,0.00
+4849,a,7,0,0,0.56,0.00
+4850,bus,7,0,0,1.00,0.00
+4851,module 2,7,0,0,1.00,0.00
+4852,adult dependants grant,7,0,0,1.00,0.00
+4853,cost of a passport,7,0,0,1.00,0.00
+4854,injury at work,7,0,0,1.00,0.00
+4855,backdating,7,0,0,0.90,0.00
+4856,m o t,7,0,0,1.00,0.00
+4857,ms90,7,0,0,1.00,0.00
+4858,adi number,7,0,0,1.00,0.00
+4859,hgv test,7,0,0,1.00,0.00
+4860,applying for national insurance,7,0,0,1.00,0.00
+4861,free computer,7,0,0,1.00,0.00
+4862,rent deposit,7,0,0,1.00,0.00
+4863,name change on passport,7,0,0,0.86,0.14
+4864,fraud hotline,7,0,0,1.00,0.00
+4865,14-19 prospectus,7,0,0,1.00,0.00
+4866,pss2 form,7,0,0,1.00,0.00
+4867,clamping,7,0,0,1.00,0.00
+4868,cinema,7,0,0,0.89,0.00
+4869,accountancy,7,0,0,1.00,0.00
+4870,jobcentre application forms,7,0,0,0.89,0.11
+4871,renew provisional,7,0,0,1.00,0.00
+4872,bury st edmunds,7,0,0,0.71,0.00
+4873,pension contributions,7,0,0,0.89,0.11
+4874,replacement p60,7,0,0,1.00,0.00
+4875,lost registration certificate,7,0,0,1.00,0.00
+4876,new employee,7,0,0,1.00,0.00
+4877,lodgers,7,0,0,1.00,0.00
+4878,frequently asked questions,7,0,0,1.00,0.00
+4879,pregnancy benifits,7,0,0,0.88,0.00
+4880,advertise job vacancy,7,0,0,1.00,0.00
+4881,painterdecorator,7,0,-1,0.00,0.00
+4882,travel documents,7,0,0,1.00,0.00
+4883,driving routes,7,0,0,1.00,0.00
+4884,LOST THEORY TEST CERTIFICATE,7,0,0,1.00,0.00
+4885,dundee,7,0,0,1.00,0.00
+4886,search,7,0,0,1.00,0.00
+4887,definition of a carer,7,0,0,1.00,0.00
+4888,tell me show me questions,7,0,0,1.00,0.00
+4889,internet,7,0,0,1.00,0.00
+4890,back to work session,7,0,0,0.89,0.00
+4891,consumer credit act,7,0,0,1.00,0.00
+4892,redundancy rights,7,0,0,1.00,0.00
+4893,disability grants,7,0,0,1.00,0.00
+4894,pa2 booklet,7,0,0,1.00,0.00
+4895,disability grant,7,0,0,1.00,0.00
+4896,nursing home fees,7,0,0,1.00,0.00
+4897,part time student loan,7,0,0,0.86,0.00
+4898,hgv training,7,0,0,1.00,0.00
+4899,renewing a childs passport,7,0,0,1.00,0.00
+4900,voluntary jobs,7,0,0,1.00,0.00
+4901,continuous employment,7,0,0,1.00,0.00
+4902,advocacy,7,0,0,1.00,0.00
+4903,portsmouth,7,0,0,0.89,0.00
+4904,e m a,7,0,0,1.00,0.00
+4905,lone working,7,0,0,1.00,0.00
+4906,what do you do if your tax code is wrong,7,0,0,0.86,0.00
+4907,holiday rights,7,0,0,0.89,0.00
+4908,double glazing grant,7,0,0,1.00,0.00
+4909,change a driving test,7,0,0,1.00,0.00
+4910,cares allowance,7,0,0,1.00,0.00
+4911,test centre routes,7,0,0,1.00,0.00
+4912,business plan,7,0,0,1.00,0.00
+4913,merthyr tydfil,7,0,0,1.00,0.00
+4914,tc600,7,0,0,0.86,0.00
+4915,cg1,7,0,0,0.88,0.13
+4916,application status,7,0,0,0.89,0.00
+4917,rule 174,7,0,0,1.00,0.00
+4918,casual worker,7,0,0,1.00,0.00
+4919,licence renewal 70,7,0,0,1.00,0.00
+4920,phone number for crisis loan,7,0,0,1.00,0.00
+4921,liverpool jobs,7,0,0,1.00,0.00
+4922,133,7,0,0,0.57,0.14
+4923,deed of variation,7,0,0,1.00,0.00
+4924,jobs in ayrshire,7,0,0,1.00,0.00
+4925,job seekers allowance rates,7,0,0,0.92,0.08
+4926,environment agency,7,0,0,0.82,0.00
+4927,hnd,7,0,0,1.00,0.00
+4928,right to be accompanied,7,0,0,1.00,0.00
+4929,enfield,7,0,0,1.00,0.00
+4930,handyman,7,0,0,1.00,0.00
+4931,blue card,7,0,0,1.00,0.00
+4932,travel and transport,7,0,0,1.00,0.00
+4933,power of attourney,7,0,0,1.00,0.00
+4934,support group -esa,6,0,0,1.00,0.00
+4935,houseing benifit,6,0,-1,0.00,0.00
+4936,foreign,6,0,0,1.00,0.00
+4937,houseing benefits,6,0,0,0.90,0.00
+4938,home buy,6,0,0,1.00,0.00
+4939,ema contact,6,0,0,1.00,0.00
+4940,"check,change or cancel driving practical test",6,0,0,0.86,0.00
+4941,student disability allowance,6,0,0,0.83,0.00
+4942,student bursaries,6,0,0,1.00,0.00
+4943,divorce pension,6,0,0,1.00,0.00
+4944,pre-school,6,0,0,0.90,0.10
+4945,nhs medical card,6,0,0,1.00,0.00
+4946,change bank account details,6,0,0,1.00,0.00
+4947,help with mortgages,6,0,0,1.00,0.00
+4948,Theory Test Practice,6,0,0,0.88,0.13
+4949,application progress,6,0,0,1.00,0.00
+4950,leaving home,6,0,0,1.00,0.00
+4951,student finance telephone number,6,0,0,1.00,0.00
+4952,pregnacy,6,0,-1,0.17,0.00
+4953,tests,6,0,0,1.00,0.00
+4954,ema BONUS,6,0,0,1.00,0.00
+4955,provisional driving,6,0,0,1.00,0.00
+4956,tax credits telephone number,6,0,0,0.88,0.00
+4957,ownership,6,-1,0,0.50,0.00
+4958,rosalind nunn,6,0,0,1.00,0.00
+4959,state pension forecast e-service,6,0,0,1.00,0.00
+4960,police caution,6,0,0,0.92,0.00
+4961,bridging the gap,6,0,0,1.00,0.00
+4962,civil courts,6,0,0,0.83,0.17
+4963,social security benefit,6,0,0,1.00,0.00
+4964,bridging loan,6,0,0,1.00,0.00
+4965,nhs pensions,6,0,0,1.00,0.00
+4966,registered disabled,6,0,0,1.00,0.00
+4967,child protection policy,6,0,0,1.00,0.00
+4968,motor bike,6,0,0,1.00,0.00
+4969,help with heating,6,0,0,1.00,0.00
+4970,pension forecasts,6,0,0,1.00,0.00
+4971,maternity exemption,6,0,0,1.00,0.00
+4972,647l,6,0,0,1.00,0.00
+4973,reg,6,0,0,1.00,0.00
+4974,polish driving licence,6,0,0,1.00,0.00
+4975,claiming job seekers allowance,6,0,0,1.00,0.00
+4976,child tax benefit,6,0,0,1.00,0.00
+4977,national minimum wage act,6,0,0,1.00,0.00
+4978,low income families,6,0,0,1.00,0.00
+4979,instructor,6,0,0,0.86,0.14
+4980,KITCHEN PORTER,6,0,0,1.00,0.00
+4981,nhs prescriptions,6,0,0,0.88,0.00
+4982,v5 check,6,0,0,0.83,0.00
+4983,shop work harrogate,6,0,0,1.00,0.00
+4984,careres allowance,6,0,0,1.00,0.00
+4985,registered childminder,6,0,0,1.00,0.00
+4986,driving licence photo,6,0,0,1.00,0.00
+4987,retirement allowance,6,0,0,1.00,0.00
+4988,survey,6,0,0,1.00,0.00
+4989,ware house man,6,0,0,1.00,0.00
+4990,suspended,6,0,0,1.00,0.00
+4991,benefit advice,6,0,0,1.00,0.00
+4992,dla 404,6,0,0,1.00,0.00
+4993,driveing,6,0,-1,0.17,0.00
+4994,civil service pension,6,0,0,1.00,0.00
+4995,cctv operator,6,0,0,1.00,0.00
+4996,magistrates court,6,0,0,1.00,0.00
+4997,retirement ages,6,0,0,0.89,0.00
+4998,savings account,6,0,0,0.92,0.00
+4999,kitchen   assistants,6,0,0,1.00,0.00
+5000,70+,6,0,0,1.00,0.00

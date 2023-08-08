@@ -1,0 +1,5 @@
+Gender,Enrolments (Enrolments Dataset),Completers (Enrolments Dataset),Retention Rate,Qualifications (awarding organisation dataset),Achievment Rate,Success Rate
+Male,205459,185619,1,131081,1,1
+Female,182760,158753,1,111586,1,1
+Unknown,0,0,N/A,31,N/A,N/A
+Total,388219,344372,1,242698,1,1

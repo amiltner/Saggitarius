@@ -1,0 +1,26 @@
+Company,Transaction Date,Transaction Amount,Tax Amount,Merchant,Cost Centre,Account Code,MCC,Description
+Health & Safety Executive,29/12/2015,"£6,447.60",£0.00,ABB LIMITED,285812,52113000,8911,Training Event
+Health & Safety Executive,21/12/2015,"£1,413.60",£0.00,CAPITA BUSINESS SERVS,285812,52113000,9399,Training Event
+Health & Safety Executive,21/12/2015,"£2,779.20",£0.00,CAPITA BUSINESS SERVS,287622,52113000,9399,Training Event
+Health & Safety Executive,21/12/2015,"£3,858.00",£0.00,CAPITA BUSINESS SERVS,285812,52113000,9399,Training Event
+Health & Safety Executive,04/01/2016,£535.00,£0.00,BLACKPOOL & FYLDE,285812,52113000,8220,Training Event
+Health & Safety Executive,04/01/2016,"£1,090.00",£0.00,BLACKPOOL & FYLDE,285812,52113000,8220,Training Event
+Health & Safety Executive,05/01/2016,£840.00,£0.00,CAPITA BUSINESS SERVS,285561,52113000,9399,Training Event
+Health & Safety Executive,08/01/2016,"£1,716.00",£0.00,CAPITA BUSINESS SERVS,285561,52113000,9399,Training Event
+Health & Safety Executive,11/01/2016,"£1,680.00",£280.00,VALE ENGINEERING (YORK,287182,52113000,7394,Training Event
+Health & Safety Executive,12/01/2016,£504.00,£84.00,GOVERNMENT KNOWLEDGE L,285482,52113000,7399,Training Event
+Health & Safety Executive,12/01/2016,"£3,660.00",£610.00,DIAMOND ENVIRONMENTAL,287622,52113000,7399,Training Event
+Health & Safety Executive,21/12/2015,£657.12,£0.00,RS COMPONENTS,280025,52241017,5065,Scientific Consumables
+Health & Safety Executive,07/01/2016,£739.20,£0.00,SOLARWINDS,280061,52183001,5734,Training Event
+Health & Safety Executive,29/12/2015,£944.40,£0.00,ROYAL MAIL GROUP,285351,52171002,9402,Postal Charges
+Health & Safety Executive,05/01/2016,£648.00,£108.00,WP-CII TRAINING TECH,287622,52113000,8299,Training Event
+Health & Safety Executive,05/01/2016,"£2,103.60",£350.60,PETROFAC TRAINING LTD,285812,52113000,8299,Training Event
+Health & Safety Executive,07/01/2016,£648.00,£108.00,WP-CII TRAINING TECH,287622,52113000,8299,Training Event
+Health & Safety Executive,12/01/2016,£648.00,£108.00,WP-CII TRAINING TECH,287622,52113000,8299,Training Event
+Health & Safety Executive,14/01/2016,"£2,054.40",£600.72,CAPITA BUSINESS SERVS,285812,52113000,9399,Training Event
+Health & Safety Executive,18/12/2015,£603.72,£0.00,TC LIMITED,280025,52241017,5085,Scientific Consumables
+Health & Safety Executive,08/01/2016,£557.95,£0.00,LOVE2SHOP.CO.UK,280026,52241017,8641,Consumables
+Health & Safety Executive,24/12/2015,"£1,287.21",£0.00,FEDEX ECOMM,280061,52183001,4215,Postal Charges
+Health & Safety Executive,31/12/2015,"£3,000.00",£0.00,MSFT  <E08001QDGW>,280061,52183001,4816,Computer Software
+Health & Safety Executive,13/01/2016,£656.77,£0.00,HYDROTECHNIK UK LTD,280025,52241017,8911,Scientific Consumables
+Health & Safety Executive,19/01/2016,"£1,032.00",£0.00,WWW.FINDLAY.CO.UK,280067,52113000,8999,Training Event

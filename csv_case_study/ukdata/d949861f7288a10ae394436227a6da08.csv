@@ -1,0 +1,81 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,Amount,,
+Department of Health,East Cheshire NHS Trust,01/09/2010,Medical Staffing,Junior Medical Staff Recharge,ROYAL LIVERPOOL AND BROADGREEN UNIVERSITY HOSPITALS NHS TRUST,2,"60,000.00",,
+Department of Health,East Cheshire NHS Trust,01/09/2010,Blood Products,BLOOD BUDGET,NHS BLOOD & TRANSPLANT,7,"40,453.70",,
+Department of Health,East Cheshire NHS Trust,01/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,10,"56,044.84",,
+Department of Health,East Cheshire NHS Trust,01/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,11,"49,950.78",,
+Department of Health,East Cheshire NHS Trust,01/09/2010,Medical Staffing,Junior Medical Staff Recharge,WARRINGTON & HALTON HOSPITALS NHS FOUNDATION TRUST,22,"105,000.00",,
+Department of Health,East Cheshire NHS Trust,01/09/2010,Medical Staffing,Junior Medical Staff Recharge,ST HELENS AND KNOWSLEY HOSPITALS NHS TRUST,29,"60,000.00",,
+Department of Health,East Cheshire NHS Trust,01/09/2010,Medical Staffing,Junior Medical Staff Recharge,ROYAL LIVERPOOL AND BROADGREEN UNIVERSITY HOSPITALS NHS TRUST,30,"42,000.00",,
+Department of Health,East Cheshire NHS Trust,02/09/2010,Med & Surg Equip General,Cardio Respiratory,PHILIPS HEALTHCARE,1,"187,456.90",,
+Department of Health,East Cheshire NHS Trust,02/09/2010,Pathology Services,Pathology Services,MID CHESHIRE HOSPITALS NHS FOUNDATION TRUST,27,289587.38,,
+Department of Health,East Cheshire NHS Trust,02/09/2010,Ext Contr Catering,Catering Contract,ISS MEDICLEAN LTD,31,"109,578.36",,
+Department of Health,East Cheshire NHS Trust,02/09/2010,Ext Contr Domestics,Rad - MR Scanner,ISS MEDICLEAN LTD,32,111.43,,
+Department of Health,East Cheshire NHS Trust,02/09/2010,Ext Contr Domestics,Theatre Services,ISS MEDICLEAN LTD,32,219.5,,
+Department of Health,East Cheshire NHS Trust,02/09/2010,Ext Contr Domestics,Cross Charges,ISS MEDICLEAN LTD,32,542.79,,
+Department of Health,East Cheshire NHS Trust,02/09/2010,Ext Contr Domestics,Domestic Contract,ISS MEDICLEAN LTD,32,"139,564.68",,
+Department of Health,East Cheshire NHS Trust,08/09/2010,Ext Contr Domestics,Theatre Services,ISS MEDICLEAN LTD,5,212.76,,
+Department of Health,East Cheshire NHS Trust,08/09/2010,Ext Contr Domestics,Cross Charges,ISS MEDICLEAN LTD,5,445.11
+Department of Health,East Cheshire NHS Trust,08/09/2010,Ext Contr Domestics,Domestic Contract,ISS MEDICLEAN LTD,5,"135,459.61"
+Department of Health,East Cheshire NHS Trust,08/09/2010,Ext Contr Catering,Catering Contract,ISS MEDICLEAN LTD,6,"106,211.44"
+Department of Health,East Cheshire NHS Trust,09/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,33,"49,672.51"
+Department of Health,East Cheshire NHS Trust,09/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,34,"47,781.74"
+Department of Health,East Cheshire NHS Trust,09/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,35,"69,074.52"
+Department of Health,East Cheshire NHS Trust,14/09/2010,Services Received - NHSTs,Patient Transport Service,NORTH WEST AMBULANCE SERVICE NHS TRUST,37,"36,072.00"
+Department of Health,East Cheshire NHS Trust,15/09/2010,Blood Products,BLOOD BUDGET,NHS BLOOD & TRANSPLANT,3,"40,453.70"
+Department of Health,East Cheshire NHS Trust,15/09/2010,Medical Staffing,Junior Medical Staff Recharge,ROYAL LIVERPOOL AND BROADGREEN UNIVERSITY HOSPITALS NHS TRUST,4,"60,000.00"
+Department of Health,East Cheshire NHS Trust,15/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,8,"43,990.01"
+Department of Health,East Cheshire NHS Trust,15/09/2010,Junior Doctor Rotational Training,"PGME, Surgery & Orthopaedic Speciality",WIRRAL UNIVERSITY TEACHING HOSPITAL NHS FOUNDATION TRUST,9,44241.09
+Department of Health,East Cheshire NHS Trust,15/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,12,"61,633.80"
+Department of Health,East Cheshire NHS Trust,15/09/2010,Laboratory External Tests,Laboratory External Tests,CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,18,"-35,422.23"
+Department of Health,East Cheshire NHS Trust,15/09/2010,Laboratory External Tests,Laboratory External Tests,CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,19,"3,388.83"
+Department of Health,East Cheshire NHS Trust,15/09/2010,Laboratory External Tests,Laboratory External Tests,CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,19,"53,133.35"
+Department of Health,East Cheshire NHS Trust,15/09/2010,Miscellaneous Expenditure,EEG,CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,19,122.6
+Department of Health,East Cheshire NHS Trust,15/09/2010,Miscellaneous Expenditure,Paddock Land Car Park,TPS PLANT & GROUNDWORKS LTD,21,"23,121.30"
+Department of Health,East Cheshire NHS Trust,16/09/2010,Computer Software/License,Medical Divn Sec + Relief,SPEECH RECOGNITION COMPANY LTD,39,"73,087.50"
+Department of Health,East Cheshire NHS Trust,17/09/2010,Blood Products,BLOOD BUDGET,NHS BLOOD & TRANSPLANT,43,"40,453.70"
+Department of Health,East Cheshire NHS Trust,20/09/2010,Miscellaneous Expenditure,Finance Misc,STANDING ORDER- SBS SLA,55,"43,358.77"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Oth Hotel Srv,Pharmacy Services,ISS MEDICLEAN LTD,13,528.97
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Oth Hotel Srv,Portering Contract,ISS MEDICLEAN LTD,13,"52,052.39"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Rad - MR Scanner,ISS MEDICLEAN LTD,14,111.43
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Theatre Services,ISS MEDICLEAN LTD,14,219.5
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Cross Charges,ISS MEDICLEAN LTD,14,542.79
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Domestic Contract,ISS MEDICLEAN LTD,14,"139,564.68"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Catering,Catering Contract,ISS MEDICLEAN LTD,14,"109,578.36"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Rad - MR Scanner,ISS MEDICLEAN LTD,15,111.43
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Theatre Services,ISS MEDICLEAN LTD,15,219.5
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Cross Charges,ISS MEDICLEAN LTD,15,542.79
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Domestic Contract,ISS MEDICLEAN LTD,15,"139,564.68"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Oth Hotel Srv,Pharmacy Services,ISS MEDICLEAN LTD,16,528.97
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Oth Hotel Srv,Portering Contract,ISS MEDICLEAN LTD,16,"52,052.39"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Laundry,Linen Contract,SUNLIGHT SERVICE GROUP LTD,17,"41,113.67"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Catering,Catering Contract,ISS MEDICLEAN LTD,24,"109,578.36"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Oth Hotel Srv,Pharmacy Services,ISS MEDICLEAN LTD,25,528.97
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Oth Hotel Srv,Portering Contract,ISS MEDICLEAN LTD,25,"52,052.39"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Theatre Services,ISS MEDICLEAN LTD,26,219.5
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Rad - MR Scanner,ISS MEDICLEAN LTD,26,654.22
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Domestics,Domestic Contract,ISS MEDICLEAN LTD,26,"139,564.68"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Rates,Rates and Rents,CHESHIRE EAST BOROUGH COUNCIL,38,"44,811.26"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Catering,Catering Contract,ISS MEDICLEAN LTD,41,"109,578.36"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Miscellaneous Expenditure,Bronchoscope,OLYMPUS KEYMED,42,"26,280.80"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Oth Hotel Srv,Pharmacy Services,ISS MEDICLEAN LTD,44,528.97
+Department of Health,East Cheshire NHS Trust,22/09/2010,Ext Contr Oth Hotel Srv,Portering Contract,ISS MEDICLEAN LTD,44,"52,052.39"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Contr Other External,IT Services,CENTRAL & EASTERN CHESHIRE PCT,45,"43,925.00"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Medical Staffing,Junior Medical Staff Recharge,ST HELENS AND KNOWSLEY HOSPITALS NHS TRUST,46,"41,000.00"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,47,"71,320.93"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Consumables,Trustwide - General,NHS SUPPLY CHAIN,48,"33,272.92"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Contr Other External,IT Services,CENTRAL & EASTERN CHESHIRE PCT,49,"43,925.00"
+Department of Health,East Cheshire NHS Trust,22/09/2010,Medical Staffing,Junior Medical Staff Recharge,ROYAL LIVERPOOL AND BROADGREEN UNIVERSITY HOSPITALS NHS TRUST,50,"42,000.00"
+Department of Health,East Cheshire NHS Trust,27/09/2010,Urology Services,Urology,STOCKPORT NHS FOUNDATION TRUST,51,27807.77
+Department of Health,East Cheshire NHS Trust,28/09/2010,Ext Contr Laundry,Linen Contract,SUNLIGHT SERVICE GROUP LTD,52,"31,167.30"
+Department of Health,East Cheshire NHS Trust,28/09/2010,Miscellaneous Expenditure,Orthopaedics X Ray - Enabling,PHILIPS HEALTHCARE,54,"31,725.00"
+Department of Health,East Cheshire NHS Trust,29/09/2010,FM Computer Contracts,IT Services,CSC COMPUTER SCIENCE,20,"95,597.68"
+Department of Health,East Cheshire NHS Trust,29/09/2010,Miscellaneous Expenditure,Fibroscan,CAREFUSION UK 223 LTD,23,"43,460.63"
+Department of Health,East Cheshire NHS Trust,29/09/2010,Electricity,Energy MDGH,SOUTHERN ELECTRIC PLC,36,"45,245.63"
+Department of Health,East Cheshire NHS Trust,29/09/2010,FM Computer Contracts,IT Services,CSC COMPUTER SCIENCE,53,"23,899.41"
+
+
+,,,,,,,
+
+
+,,,,,,,
+ 

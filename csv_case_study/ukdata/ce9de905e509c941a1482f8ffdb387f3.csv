@@ -1,0 +1,63 @@
+,,Indicator set,,Metadata,,Data Sets,,Services,,,
+Member State: ,,Indicator,,Existence,Compliance,Extend,Compliance,MD Accesibility,DS Accesibility,Use,Compliance
+,,,,,,,,,,,
+,,,Indicator Name,MDi1,MDi2,DSi1,DSi2,NSi1,NSi2,NSi3,NSi4
+,,,Indicator Value,101%,101%,0%,0%,101%,0%,"796,112",100%
+,,,Numerator,"2,923","2,923",0,0,"2,923",0,"265,105,139",333
+,,,Denominator,"2,895","2,895",0,"2,562","2,895","2,562",333,333
+,,,,,,,,,,,
+Spatial Data Sets,,,,,,,,,,,
+,,,,,,,,,,,
+,All Annexes,,SubInd. Name,,,,,NSi1.1,, , 
+,,,SubInd. Value,,,,,101%,,,
+,,,Numerator,,,,,"2,590",,,
+,,,Denominator,,,,,"2,562",,,
+,,,,,,,,,,,
+,Annex I,,SubInd. Name,MDi1.1,MDi2.1,DSi1.1,DSi2.1,,, , 
+,,,SubInd. Value,100%,100%,0%,0%,,,,
+,,,Numerator,633,633,0,0,,,,
+,,,Denominator,632,632,0,632,,,,
+,,,,,,,,,,,
+,Annex II,,SubInd. Name,MDi1.2,MDi2.2,DSi1.2,DSi2.2,,,,
+,,,SubInd. Value,100%,100%,0%,0%,,,,
+,,,Numerator,446,446,0,0,,,,
+,,,Denominator,446,446,0,446,,,,
+,,,,,,,,,,,
+,Annex III,,SubInd. Name,MDi1.3,MDi2.3,DSi1.3,DSi2.3,,,,
+,,,SubInd. Value,102%,102%,0%,0%,,,,
+,,,Numerator,"1,511","1,511",0,0,,,,
+,,,Denominator,"1,484","1,484",0,"1,484",,,,
+,,,,,,,,,,,
+Spatial Data Services,,,,,,,,,,,
+,,,,,,,,,,,
+,All services,,SubInd. Name,MDi1.4,MDi2.4,,,NSi1.2,,NSi3,NSi4
+,,,SubInd. Value,100%,100%,,,100%,,"796,112",100%
+,,,Numerator,333,333,,,333,,"265,105,139",333
+,,,Denominator,333,333,,,333,,333,333
+,,,,,,,,,,,
+,Discovery services,,SubInd. Name,,,,,,,NSi3.1,NSi4.1
+,,,SubInd. Value,,,,,,,"146,578",100%
+,,,Numerator,,,,,,,"146,578",1
+,,,Denominator,,,,,,,1,1
+,,,,,,,,,,0,0
+,View services,,SubInd. Name,,,,,,,NSi3.2,NSi4.2
+,,,SubInd. Value,,,,,,,"966,995",100%
+,,,Numerator,,,,,,,"264,956,555",274
+,,,Denominator,,,,,,,274,274
+,,,,,,,,,,0,0
+,Download services,,SubInd. Name,,,,,,,NSi3.3,NSi4.3
+,,,SubInd. Value,,,,,,,35,100%
+,,,Numerator,,,,,,,"2,006",58
+,,,Denominator,,,,,,,58,58
+,,,,,,,,,,0,0
+,Transformation services,,SubInd. Name,,,,,,,NSi3.4,NSi4.4
+,,,SubInd. Value,,,,,,,0,0%
+,,,Numerator,,,,,,,0,0
+,,,Denominator,,,,,,,0,0
+,,,,,,,,,,0,0
+,Invoke services,,SubInd. Name,,,,,,,NSi3.5,NSi4.5
+,,,SubInd. Value,,,,,,,0,0%
+,,,Numerator,,,,,,,0,0
+,,,Denominator,,,,,,,0,0
+,,,,,,,,,,,
+,Other services,,,,,,,,,,

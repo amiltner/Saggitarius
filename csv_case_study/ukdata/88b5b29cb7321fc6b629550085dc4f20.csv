@@ -1,0 +1,966 @@
+Table 1. Overview of potential indicators ,,
+,Essential indicators,Desirable indicators
+,Participation,Wider impacts on the local economy
+,Success rates,On and off site GLH
+,Retention rates,Capital estate condition and impact of not investing 
+,Achievement rates ,Environmental sustainability
+,Number of apprentices trained by colleges ,Staff recruitment and retention 
+,College ability to generate fee income,Efficiency and estate rationalisation
+,Amount of capital expenditure and dates,
+,Ability to engage with employers ,
+,Learner satisfaction with learning environment and experience,
+
+
+
+Table 2. Overview of potential indicators,,
+
+,Indicator required for analysis,Dataset and variable identified,Assessment of fitness for purpose
+,Participation,"ILR (Number of Learner Responsive Learners, Number of Learner Responsive Learners excluding franchised and long distance learners, Number of LSC / Skills Funding Agency funded learner responsive learners)","Category 2 - available ILR data contained variables of relevance but idiosyncracies, inconsistencies and missing information meant specific data needed to be verified, edited and/or completed by colleges"
+,Success rates,NSRT (Proportion of students achieving),Category 1 - available NSRT data was fit for purpose
+,Retention rates,NSRT (Proportion of students completing),Category 1 - available NSRT data was fit for purpose
+,Achievement rates ,NSRT (Proportion of learning aims completed),Category 1 - available NSRT data was fit for purpose
+,Number of apprentices trained by colleges ,ILR [Number of Employer Responsive Learners) ,"Category 2 - available ILR data contained variables of relevance but idiosyncracies, inconsistencies and missing information meant specific data needed to be verified, edited and/or completed by colleges"
+,College ability to generate fee income,"College Financial Records (tuition fee income, LSC / Skills Funding Agency income, total income)","Category 2 - available College Financial Records data contained variables of relevance but idiosyncracies, inconsistencies and missing information meant specific data needed to be verified, edited and/or completed by colleges"
+,Amount of capital expenditure and dates,"Capital expenditure records (project number, project description, date of approval, date of completion, total cost of project (initial projection), total cost of project (ex post))","Category 2 - available capital expenditure records contained variables of relevance but idiosyncracies, inconsistencies and missing information meant specific data needed to be verified, edited and/or completed by colleges"
+,Ability to engage with employers ,ILR (Proportion of learners employed and released by employer to learn),Category 3 - available ILR data not adequately capturing employer engagement. Decision taken that this was better explored through the qualitative case studies.
+,Learner satisfaction with learning environment and experience,NLSS,Category 3 - available NLSS data not generally reported at college level as sample sizes too small for results to be considered robust. Decision taken that this was better explored through the qualitative case studies.
+,Wider impacts on the local economy,-,Category 3 - no suitable variable identified. Decision taken that this was better explored through the qualitative case studies.
+,On and off site GLH,ILR (GLH for FE learners (not apprentices) ,Category 3 - no suitable variable identified to make an appropriate on and off site split. Decision taken that this variable should be excluded from analysis.
+,Capital estate condition and impact of not investing ,"EMandate (Breakdown of estate into category A, B,C and D)","Category 3 - suitable variables identified but issues with coverage and reliability at the beginning and end points of the time period. On balance, decision taken to explore this variable through the qualitative case studies rather than making the census template too cumbersome."
+,Environmental sustainability,"EMandate (NIA, electricity consumption, energy costs)","Category 3 - suitable variables identified but issues with coverage and reliability at the beginning and end points of the time period. On balance, decision taken to explore this variable through the qualitative case studies rather than making the census template too cumbersome."
+,Staff recruitment and retention ,"SIR (recruitment - N/A, retention - proportion of all staff still employed at year end)","Category 3 - Recruitment - deriving a recruitment variable is problematic from a conceptual perspective. We want to know whether capital expenditure has made it easier for a college to recruit but the observed recruitment rate will reflect a combination of factors (i) effort undertaken to recruit (ii) replacing lost staff - if capital expenditure improves retention, fewer vacancies would need filling (iii) changes to staffing requirements - capex could increase the scale of the college. Decision taken to explore within case studies. Retention - variable identified in SIR but idiosyncracies observed in the variable over time. On balance, decision taken to explore this variable through the case studies rather than making the census template too cumbersome."
+,Efficiency and estate rationalisation,-,Category 3 - no suitable variable identified. Decision taken that this variable should be excluded from analysis. Unlikely that this measure specifically collected in the context of a capital expenditure project and wanted to ensure that searching for this information did not have a negative impact on case study overall.
+
+Table 3. Variables used in census,,
+
+,Variable,Definition
+,Participation data – from ILR (available 2002/03 to 2010/11),
+,Number of Employer Responsive learners,"Total number of learners appearing in Employer Responsive ILR return, including apprenticeships and Train To Gain / workplace learning.  Does not include Adult Safeguarded Learning / Adult Community Learning.  "
+,Number of apprenticeships,"Employer Responsive learners studying either Advanced apprenticeship; Apprenticeship; Higher level apprenticeship.  Programmes such as Entry 2 Employment, Progression Pathway, Foundation Learning Programme and Diploma are not in scope."
+,Number of Learner Responsive  learners,This is the total number of learners who appear in the Learner Responsive ILR return.  
+,Number of Learner Responsive learners excluding franchised and long-distance ,"As above, but excluding learners who are franchised out and learners whose main method of delivery is distance learning or accreditation of prior learning."
+,Number of LSC/Skills Funding Agency funded Leaner Responsive learners ,These will include both learners who are funded only by the LSC / Skills Funding Agency  and those who are co-financed by the LSC / Skills Funding Agency  and by the ESF Co-Financing.  
+,College financial data – collated by SFA (available 2000/01 to 2010/11),
+,Tuition fee income,This includes tuition fees and educational contracts.
+,LSC / Skills Funding Agency  income,"This is income from the LSC / Skills Funding Agency , excluding release of capital grants."
+,Total Income,Total income of the college.
+,Capital expenditure data – grant and consent approvals from 2000 to 2011,
+,Project number,
+,Project description,,,
+,Date of approval,The date on which LSC / Skills Funding Agency approved the project.,,
+,Date of completion,"The date on which the project was completed.  For projects that are still on-going, the projected completion date is used.",,
+,Date of operational use,"The date on which the infrastructure came into operational use.  For projects not yet operational, projected date of operational use is used.",,
+,Cost (initial projection),"The projected total cost of the project, as at the date of approval.",,
+,Cost  (ex post),"The total ex-post cost of the project, after completion. For ongoing projects the latest estimate is used.",,
+
+Table 4. Variables in our final dataset,,,,
+
+,Variable,Source,Time period,Definition
+,Number of Employer Responsive learners,"ILR, verified, corrected and completed in Census",2002/03 - 2010/11,"Total number of learners appearing in Employer Responsive ILR return, including apprenticeships and  Train To Gain / workplace learning.  Does not include Adult Safeguarded Learning / Adult Community Learning.  "
+,Number of Learner Responsive  learners (with and without franchised and long distance),"ILR, verified, corrected and completed in Census",2002/03 - 2010/11 ,This is the total number of learners who appear in the Learner Responsive ILR return.  
+,All learner participation,"ILR, verified, corrected and completed in Census",2002/03 - 2010/11 ,Total number of Employer Responsive learners and Learner Responsive learners.
+,Apprenticeships,"ILR, verified, corrected and completed in Census", 2002/03 - 2010/11,"Employer Responsive learners studying either Advanced apprenticeship; Apprenticeship; Higher level apprenticeship.  Programmes such as Entry 2 Employment, Progression Pathway, Foundation Learning Programme and Diploma are not in scope."
+,Participation by 16-18 year olds,"ILR, verified, corrected and completed in Census, proportions applied", 2002/03 - 2010/11,"Using the ILR we calculate the percentage of LSC / Skills Funding Agency LR learners in each age group and apply these weights to the corresponding total from the census, therefore using any adjustment made by the college."
+,Participation by 19+year olds,"ILR, verified, corrected and completed in Census, proportions applied",2002/03 - 2010/11 ,
+,"Success rate, achievement rate, retention rate data",NSRT tables, 2002/03 - 2010/11,"Success rates, achievement rates and retention rates for the following groups; all ages, 16-18 and 19 plus.  Where a college merged, we took the weighted average using the number of starters."
+,Tuition fees as % of income,"College Financial Data, verified, corrected and completed in Census",2000/01 - 2010/11,Calculated by dividing tuition fee income by total income.
+,Dependency on LSC / Skills Funding Agency income,"College Financial Data, verified, corrected and completed in Census",2000/01 - 2010/11,Calculated by dividing LSC / Skills Funding Agency income by total income.
+,Total capital expenditure by college,"Capital expenditure records, verified, corrected and completed in Census",2002/03 - 2010/11 ,Total capital expenditure in real terms (inflated by RPI) from 2002/03 to 2010/11.
+,College characteristics,SFA,2002/03 - 2010/11 ,"Dummy variables measuring the region the college is located, the type of college, and whether it merged during the time period of analysis."
+
+Table 5. Observations on variables to be used in analysis,,,,
+
+,Variable,Sample representativeness,,
+,All learner participation,Slightly higher in sample,,
+,Apprenticeships,Slightly higher in sample,,
+,Success rates,No difference,,
+,Tuition fees as % of income,No difference,,
+,Dependency on LSC / Skills Funding Agency income,No difference,,
+,Total capital expenditure by college,No consistent difference,,
+,College characteristics,No consistent difference,,
+
+Table 6. Impact on change in number of learners,,,,,,
+
+,,All participation,Learner Responsive learners,Government funded LR learners aged 16 to 18,Government funded LR learners aged 19 plus,Apprenticeships
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),62**,54*,13***,28,8
+,Proportion of learners aged 16-18,6394*,7409**,1092*,5600**,431
+,Number of learners in 2002/03,-0.448***,-0.507***,0,-0.487***,0.022
+,East of England,-87,97,864**,594,421
+,London,-774,1235,-359*,2505***,-324**
+,North East ,-3477***,-2450**,-538*,-750,-126
+,North West ,148,1837,232,2625,337
+,South East,-1426,229,-22,1146,-145
+,South West,-2075,-328,-32,-67,-97
+,West Midlands,-1383,-888,-158,-106,-72
+,Yorkshire,-1793,-296,-54,1002,-191
+,Specialist College,772,2170*,-2,1067,82
+,Merged college,1104,1456,374,373,93
+,"Constant (base case = FE college, East Midlands)",399,-2447,103,-2258,-84
+,Number of observations,142,142,142,142,142
+,R-squared,0.5254,0.6175,0.3399,0.6813,0.2366
+,Root mean squared error,5599.1,5350.7,768.87,4529.8,894.62
+,Source: Frontier analysis of combined ILR (R08 collection)  / Skills Funding Agency capital expenditure approvals data / college census data,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+Table 7. Impact on percentage point change in success rate,,,,,,
+
+,Variable,All learners,Learners aged 16 to 18,Adult learners,All learners (college above median success rate),All learners (college below median success rate)
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),0.002,0.005,0.008,-0.061,-0.002
+,Proportion of learners aged 16-18,0.968,-18.738***,6.199,0.163,10.488
+,Number of learners in 2002/03,0,0,0,0,0
+,East of England,3.134*,4.402*,0.939,-2.723,5.796**
+,London,-0.626,-2.707,0.712,-2.899,2.09
+,North East,2.343*,0.103,1.93,0.535,4.502**
+,North West ,2.038,4.419**,0.352,0.18,4.719
+,South East,1.076,1.586,1.309,-0.762,3.597
+,South West,4.698***,5.21**,3.572*,1.597,12.797***
+,West Midlands,1.429,1.58,1.733,-1.539,4.31**
+,Yorkshire,2.864**,1.024,2.96,2.863**,3.751**
+,Specialist College,2.858**,5.344***,1.733,2.895*,4.952***
+,Merged,-1.014,-0.979,-1.964,-0.504,-1.133
+,Capital expenditure exceeded £60m,-0.104,0.184,-1.068,4.917,-0.041
+,Success rate in 2002,-0.883***,-0.721***,-0.938***,-0.739***,-0.803***
+,"Constant (base case = FE college, East Midlands)",71.764***,68.813***,72.679***,63.36***,62.421***
+,Number of observations,140,137,140,70,70
+,R-squared,0.73,0.52,0.62,0.44,0.67
+,Root mean squared error,4.29,6.13,6,4.49,4.15
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+Table 8. Impact on percentage point change in proportion of college income,,,,,
+
+,Variable,Dependence on LSC / Skills Funding Agency income (1) - using linear capital expenditure variable,Dependence on LSC / Skills Funding Agency income (2) using linear capex variable and large capex dummy,Dependence on LSC / Skills Funding Agency income (3) using large capex dummy only,Percentage point change in Tuition fee income as a proportion of college income
+,Capital expenditure completed from 2002/03 to 2009/10,-0.06**,-0.017,Omitted,0.014
+,Proportion of learners aged 16-18,-2.991,-2.139,-2.056,1.812
+,Number of learners in 2002/03,0,0,0,0
+,East of England,1.1,1.106,1.135,2.107
+,London,-2.767,-2.711,-2.675,3.247**
+,North East,-0.02,-0.168,-0.192,5.316***
+,North West ,1.436,1.466,1.527,1.5
+,South East,4.355,4.47,4.519,1.801
+,South West,-3.058,-3.262,-3.323,1.624
+,West Midlands,2.303,2.667,2.719,2.371
+,Yorkshire,-0.596,-0.397,-0.378,4.904***
+,Specialist College,-2.112,-2.018,-1.949,3.018*
+,Merged,-2.057,-2.172,-2.222,-1.058,,
+,Capital expenditure exceeded £60m,Omitted,-4.392,-5.522***,-0.177,,
+,"Constant (base case = FE college, East Midlands)",2.722,2.032,1.827,-5.787***,,
+,Number of observations,142,142,142,142,,
+,R-squared,0.13,0.13,0.13,0.12,,
+,Root mean squared error,8.31,8.3,8.28,5.42,,
+,Source: Frontier analysis of combined ILR (R08 collection) / Skills Funding Agency college accounts data / Skills Funding Agency capital expenditure approvals data / college census data ,,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,,
+
+Table 9. Impact on change in number of learners from 2002/03 to 2005/06 using two datasets,,,,,,,
+
+,,2012 study,,,2008 study,,
+,,Learner Responsive learners,LSC / Skills Funding Agency funded LR learners aged 16 to 18,LSC / Skills Funding Agency funded LR learners aged 19 plus,Learner Responsive learners,LSC / Skills Funding Agency funded LR learners aged 16 to 18,LSC / Skills Funding Agency funded LR learners aged 19 plus
+,Capital expenditure completed from 2002/03 to 2004/05 (£m),225**,18*,137*,190.7***,27.6***,160.3**
+,Proportion of learners aged 16-18,309,24,2686,3955,1184*,2990
+,Number of learners in 2002/03,-0.416***,-0.005,-0.381***,-0.461***,-0.012,-0.451***
+,East of England,-3854*,216,-1903,3939,595,3278
+,London,-391,-33,999,3504,-176,3748
+,North East,-4713,-145,-2968,-1091,-227,-849
+,North West ,1943,324,1841,2131,149,2154
+,South East,373,294,51,4176,486,3790
+,South West,-664,-104,-237,4844,341,4562*
+,West Midlands,-2124,-124,-1534,3948,123,3860
+,Yorkshire,84,68,748,3136,272,2847
+,Specialist College,795,-8,38,794,15,866
+,Merged college,1873,501**,229,-267,223,-462
+,"Constant (base case = FE college, East Midlands)",9,13,-376,-4257,-332,-4129
+,Number of observations,84,84,84,76,76,76
+,R-squared,0.58,0.38,0.67,0.7558,0.7729,0.7729
+,Root mean squared error,4929,535,3615,3102.6,2871.2,2871.2
+,Source: Frontier analysis of combined ILR (R08 collection)  / Skills Funding Agency capital expenditure approvals data / college census data,,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,,
+
+"Table 10. Impact on change in success rates, retention rates and achievement rates from 2002/03 to 2005/06 using two datasets",,,,,,,,
+
+,Variable,2012 study,,,2008 study,,,
+,,Success,Retention,Achievement,Success,Retention,,Achievement
+,Capital expenditure completed from 2002/03 to 2004/05 (£m),-0.04,-0.019,-0.011,0.147***,0.113***,,0.046
+,Number of learners in 2002/03,0,0,0,0,0,,0
+,Success rate / retention rate / achievement rate,-0.459***,-0.338**,-0.679***,-0.843***,-0.827***,,-0.896***
+,East of England,3.122,2.168,1.013,3.57*,3.02**,,0.86
+,London,1.346,0.908,-0.132,3.68,4.25*,,-0.05
+,North East,3.685,2.709,1.081,9.12***,6.95***,,3.14*
+,North West ,-1.498,-0.664,-0.608,5.21***,2.94**,,3.31*
+,South East,-2.009,-1.154,-1.323,5.77***,3.14**,,3.41*
+,South West,2.241,0.426,1.729,3.02*,1.14,,2.04
+,West Midlands,4.391,3.037*,1.618,6.68***,4.3***,,3.34*
+,Yorkshire,1.794,1.614,0.18,2.81,2.3,,0.78
+,Specialist College,0.934,-0.253,1.654,2.96,2.33*,,1.75
+,Merged college,-2.333,-0.83,-1.845*,-0.35,-0.63,,0.35
+,Proportion of learners aged 16-18,9.445,2.321,10.306,12.6,1.95,,11.36
+,"Constant (base case = FE college, East Midlands)",37.343***,31.091**,59.542***,60.35***,70.23***,,76.38***
+,Number of observations,84,84,84,73,73,,73
+,R-squared,0.4,0.34,0.6,0.75,0.75,,0.84
+,Root mean squared error,5.884,4.081,3.85,4.57,3.04,,3.23
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,,,
+
+"Table 11. Impact on change in success rates, retention rates and achievement rates from 2002/03 to 2005/06 using overlapping observations in the two datasets",,,,,,,,
+
+,Variable,2012 study,,,2008 study,,,
+,,Success,Retention,Achievement,Success,Retention,,Achievement
+,Capital expenditure completed from 2002/03 to 2004/05 (£m),0.131**,0.091**,0.044,0.17***,0.10***,,0.08**
+,Success rate / retention rate / achievement rate Number of learners in 2002/03,-0.756***,-0.783***,-0.661***,-0.667***,-0.714***,,-0.626***
+,Constant,59.6***,68.4***,60.2***,53.5***,63.0***,,57.0***
+,Number of observations,30,30,30,30,30,,30
+,R-squared,0.5,0.51,0.6,0.53,0.53,,0.61
+,Root mean squared error,5.18,3.5,3.22,4.83,3.19,,3.15
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,,,
+
+
+Table 12. Impact of £m capital expenditure on participation measures when using different sample cuts,,,,,,,,
+,Regression sample,All learners,Learner Responsive learners,LSC / Skills Funding Agency funded LR learners aged 16 to 18,LSC / Skills Funding Agency funded LR learners aged 19 plus,Apprenticeships,,
+,"Census only, include large capex colleges",62**,54*,13***,28,8,,
+,[Sample size  = 142],[0-120],[-6-113],[6-20],[-19-76],[-2-18],,
+,"Whole population, include large capex colleges",42**,38**,9***,22,4,,
+,[Sample size  = 250],[10-80],[3-73],[4-14],[-6-49],[-3-10],,
+,"Census only, exclude large capex colleges",86***,56**,14***,20,6,,
+,[Sample size  = 125],[37-134],[10-102],[6-21],[-10-50],[-2-13],,
+,"Whole population, exclude large capex colleges",44**,29*,7**,5,2
+,[Sample size = 222],[7-81],[-1-58],[0-14],[-16-25],[-4-7]
+,Source: Frontier analysis of combined ILR (R08 collection)  / Skills Funding Agency capital expenditure approvals data / college census data,,,,,
+," Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+Table 13. Impact of £1m capital expenditure on percentage points change in success rates under different sample cuts,,,,,,
+,Regression Sample,Learner group:,,,,
+,,All learners,Learners aged 16 to 18,Adult learners,,
+,"Census only, include large capex colleges",0.002,0.005,0.008,,
+,"[Sample sizes= 140, 137, 140]",[-4.945-5.391],[-7.371-8.424],[-5.337-6.903],,
+,"Whole population, include large capex colleges",-0.016,-0.016,0.002,,
+,"[Sample sizes= 248, 242, 248]",[-5.118-1.888],[-7.246-4.018],[-4.072-4.514],,
+,"Census only, exclude large capex colleges",0.018,0.024,0.026,,
+,"[Sample sizes= 126, 123, 126]",[-4.58-8.228],[-7.474-12.228],[-5.205-10.459],,
+,"Whole population, exclude large capex colleges",-0.005,-0.002,0.009,,
+,"[Sample sizes= 226, 220, 226] ",[-4.454-3.46],[-6.576-6.148],[-4.252-5.961],,
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 14. Impact of £1m capital expenditure on percentage points change in proportion of college income,,,,
+
+,Regression Sample,Fee income measure:,,
+,,Dependence on LSC / Skills Funding Agency income (1) - using linear capital expenditure variable,Dependence on LSC / Skills Funding Agency income (2) using linear capex variable and large capex dummy,Percentage point change in Tuition fee income as a proportion of college income
+,"Census only, include large capex colleges",-0.06**,-0.017,0.014
+,[Sample size = 142],[-11.314--0.626],[-11.983-8.679],[-4.995-7.765]
+,"Whole population, include large capex colleges",-0.052*,-0.064*,0.046**
+,[Sample size = 250],[-10.688-0.286],[-13.257-0.407],[0.076-9.056]
+,"Census only, exclude large capex colleges",0.004,0.004,0.003
+,[Sample size = 128],[-11.773-12.565],[-11.773-12.565],[-7.554-8.081]
+,"Whole population, exclude large capex colleges",-0.048,-0.048,0.04
+,[Sample size = 228],[-12.573-2.875],[-12.573-2.875],[-1.298-9.202]
+,Source: Frontier analysis of combined ILR (R08 collection)  / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,,
+
+"Table 15. Impact of £m capital expenditure on all learner participation, controlling for year of last project completion",,,,,,,
+,Regression sample,Including dummies,,,,,Excluding dummies
+,,£m capex,Year of last completion,,,,£m capex
+,,,2008-2010,2005-2007,2002-2004,<2002 ,
+,"Census only, include large project colleges",63**,580,170,5234**,700,62**
+,[Sample size = 142],[6-111],,,,,[0-120]
+,"Whole population, include large project colleges",46**,171,390,1702,917,42**
+,[Sample size = 250],[10-82],,,,,[10-80]
+,"Census only, exclude large project colleges",87***,-712,-451,4090*,364,86***
+,[Sample size = 128],[32-140],,,,,[37-134]
+,"Whole population, exclude large project colleges",52***,-551,118,1763,447,44**
+,[Sample size = 228],[13-92],,,,,[7-81]
+,Source: Frontier analysis of combined ILR (R08 collection)  / Skills Funding Agency capital expenditure approvals data / college census data,,,,,,
+," Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,,
+
+Table 16. Overview of case study colleges,,,,,,,
+,Region,Urban / Non-Urban,Size of college,Type of build,Relocation,Value of project,% of LSC support
+,Greater London,Urban,Medium,New build,No,Medium,Medium
+,East Midlands,Urban,Large,New build/ Refurb.,Yes,Large,Large
+,Yorkshire & the Humber,Non-Urban,Medium,New build,Yes,Medium,Small
+,North West,Non-Urban,Large,New build/ Refurb.,No,Medium,Medium
+,North East,Urban,Medium,New build,Yes,Large,Large
+,South East,Urban,Small,New build/ Refurb.,No,Medium,Large
+,South East ,Non-Urban,Medium,New build,Yes,Large,Large
+,East of England,Non-Urban,Small,New build,No,Large,Medium
+
+,South West ,Urban,Large,New build,No,Medium,Medium
+,South West ,Non-Urban,Large,New build/ Refurb.,No,Medium,Large
+
+
+Table 17. Simulation of impact of not investing,,,,,,,,,,
+,Total participation,"10,000",,,,,,,,
+,Capital expenditure (£m),5,,,10,,,15,,
+,Assumed loss if no investment,5%,15%,25%,5%,15%,25%,5%,15%,25%
+,Observed impact (62 per £m),310,310,310,620,620,620,930,930,930
+,Impact of not investing,-500,-1500,-2500,-500,-1500,-2500,-500,-1500,-2500
+,Total impact,810,1810,2810,1120,2120,3120,1430,2430,3430
+,Total impact per £m,162,362,562,112,212,312,95,162,229
+,Source: stylised example,,,,,,,,,
+
+
+Table 18. Impact on change in number of learners (census colleges),,,,,,,,,,
+,,All participation,Learner Responsive learners,Government funded LR learners aged 16 to 18,Government funded LR learners aged 19 plus,Apprenticeships,,,,
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),62**,54*,13***,28,8,,,,
+,Proportion of learners aged 16-18,6394*,7409**,1092*,5600**,431,,,,
+,Number of learners in 2002/03,-0.448***,-0.507***,0,-0.487***,0.022,,,,
+,East of England,-87,97,864**,594,421
+,London,-774,1235,-359*,2505***,-324**
+,North East,-3477***,-2450**,-538*,-750,-126
+,North West ,148,1837,232,2625,337
+,South East,-1426,229,-22,1146,-145
+,South West,-2075,-328,-32,-67,-97
+,West Midlands,-1383,-888,-158,-106,-72
+,Yorkshire,-1793,-296,-54,1002,-191
+,Specialist College,772,2170*,-2,1067,82
+,Merged college,1104,1456,374,373,93
+,"Constant (base case = FE college, East Midlands)",399,-2447,103,-2258,-84
+,Number of observations,142,142,142,142,142
+,R-squared,0.5254,0.6175,0.3399,0.6813,0.2366
+,Root mean squared error,5599.1,5350.7,768.87,4529.8,894.62
+,Source: Frontier analysis of combined ILR (R08 collection)  / Skills Funding Agency capital expenditure approvals data / college census data,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+Table 19. Impact on percentage point change in success rate (census colleges),,,,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners,All learners (college above median success rate),All learners (college below median success rate)
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),0.002,0.005,0.008,-0.061,-0.002
+,Proportion of learners aged 16-18,0.968,-18.738***,6.199,0.163,10.488
+,Number of learners in 2002/03,0,0,0,0,0
+,East of England,3.134*,4.402*,0.939,-2.723,5.796**
+,London,-0.626,-2.707,0.712,-2.899,2.09
+,North East,2.343*,0.103,1.93,0.535,4.502**
+,North West ,2.038,4.419**,0.352,0.18,4.719
+,South East,1.076,1.586,1.309,-0.762,3.597
+,South West,4.698***,5.21**,3.572*,1.597,12.797***
+,West Midlands,1.429,1.58,1.733,-1.539,4.31**
+,Yorkshire,2.864**,1.024,2.96,2.863**,3.751**
+,Specialist College,2.858**,5.344***,1.733,2.895*,4.952***
+,Merged,-1.014,-0.979,-1.964,-0.504,-1.133
+,Capital expenditure exceeded £60m,-0.104,0.184,-1.068,4.917,-0.041
+,Success rate in 2002,-0.883***,-0.721***,-0.938***,-0.739***,-0.803***
+,"Constant (base case = FE college, East Midlands)",71.764***,68.813***,72.679***,63.36***,62.421***
+,Number of observations,140,137,140,70,70
+,R-squared,0.73,0.52,0.62,0.44,0.67
+,Root mean squared error,4.29,6.13,6,4.49,4.15
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+
+
+Table 20. Impact on percentage point change in retention rate (census colleges),,,,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners,,
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),0.012,0.034,0.013,,
+,Proportion of learners aged 16-18,0.868,-5.387,3.458,,
+,Number of learners in 2002/03,0,0,0,,
+,East of England,1.006,2.213,-0.285
+,London,0.362,-0.006,0.763
+,North East,0.778,-1.316,1.029
+,North West,-0.052,2.011,-1.507
+,South East,0.282,-0.155,1.18
+,South West,1.905,2.252,0.85
+,West Midlands,0.871,0.045,1.368
+,Yorkshire,0.949,-0.637,0.898
+,Specialist College,0.753,1.809,0.81
+,Merged,-0.554,0.387,-1.169
+,Capital expenditure exceeded £60m,-0.622,-1.011,-1.516
+,Retention rate in 2002,-0.869***,-0.723***,-0.944***
+,"Constant (base case = FE college, East Midlands)",77.518***,68.278***,82.459***
+,Number of observations,140,137,140
+,R-squared,0.78,0.58,0.64
+,Root mean squared error,2.95,4.34,4.45
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 21. Impact on percentage point change in achievement rate (census colleges),,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),-0.011,-0.026,-0.009
+,Proportion of learners aged 16-18,0.785,-17.802***,4.968
+,Number of learners in 2002/03,0,0,0
+,East of England,2.511**,2.811,1.276
+,London,-1.158,-3.027,0.073
+,North East,1.697,0.862,1.078
+,North West ,2.279**,3.508**,1.779
+,South East,0.812,2.189,0.307
+,South West,3.145**,3.238,3.065**
+,West Midlands,0.632,1.855,0.561
+,Yorkshire,2.169**,1.414,2.592*
+,Specialist College,2.352**,4.856***,0.934,
+,Merged,-0.499,-1.277,-1.065,
+,Capital expenditure exceeded £60m,0.75,1.408,0.615,
+,Achievement rate in 2002,-0.894***,-0.775***,-0.919***,
+,"Constant (base case = FE college, East Midlands)",81.396***,78.536***,81.418***,
+,Number of observations,140,137,140,
+,R-squared,0.8,0.54,0.73,
+,Root mean squared error,2.89,4.78,3.79,
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,
+
+Table 22. Impact on percentage point change in proportion of college income  (census colleges),,,,,
+,Variable,Dependence on LSC / Skills Funding Agency income (1)  using linear capital expenditure variable,Dependence on LSC / Skills Funding Agency income (2) using linear capex variable and large capex dummy,Dependence on LSC / Skills Funding Agency income (3) using large capex dummy only,Percentage point change in tuition fee income as a proportion of college income
+,Capital expenditure completed from 2002/03 to 2009/10,-0.06**,-0.017,Omitted,0.014
+,Proportion of learners aged 16-18,-2.991,-2.139,-2.056,1.812
+,Number of learners in 2002/03,0,0,0,0
+,East of England,1.1,1.106,1.135,2.107
+,London,-2.767,-2.711,-2.675,3.247**
+,North East,-0.02,-0.168,-0.192,5.316***
+,North West ,1.436,1.466,1.527,1.5
+,South East,4.355,4.47,4.519,1.801
+,South West,-3.058,-3.262,-3.323,1.624
+,West Midlands,2.303,2.667,2.719,2.371
+,Yorkshire,-0.596,-0.397,-0.378,4.904***
+,Specialist College,-2.112,-2.018,-1.949,3.018*
+,Merged,-2.057,-2.172,-2.222,-1.058
+,Capital expenditure exceeded £60m,Omitted,-4.392,-5.522***,-0.177
+,"Constant (base case = FE college, East Midlands)",2.722,2.032,1.827,-5.787***
+,Number of observations,142,142,142,142
+,R-squared,0.13,0.13,0.13,0.12
+,Root mean squared error,8.31,8.3,8.28,5.42
+,Source: Frontier analysis of combined ILR (R08 collection) / Skills Funding Agency college accounts data / Skills Funding Agency capital expenditure approvals data / college census data ,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+Table 23. Impact on change in number of learners (whole population),,,,,,
+,,All participation,Learner Responsive learners,Government funded LR learners aged 16 to 18,Government funded LR learners aged 19 plus,Apprenticeships
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),42**,38**,9***,22,4
+,Proportion of learners aged 16-18,6100**,6944***,1092**,4418***,244
+,Number of learners in 2002/03,-0.464***,-0.543***,0.001,-0.506***,0.026**
+,East of England,-290,1298,675***,1473,-169
+,London,-155,2451**,-263,3175***,-598**
+,North East,-2469**,-861,-354,-213,-323
+,North West ,-94,2111,102,2557,-142
+,South East,-937,1244,147,1456*,-438
+,South West,-418,1795**,140,1636**,-451*
+,West Midlands,-812,507,-21,637,-400
+,Yorkshire,436,1908*,153,1980**,-272
+,Specialist College,367,1648*,-77,642,17
+,Merged college,2327*,1879*,412**,797,145
+,"Constant (base case = FE college, East Midlands)",12,-2979,47,-2296,243
+,Number of observations,250,250,250,250,250
+,R-squared,0.5291,0.6859,0.2492,0.7426,0.2235
+,Root mean squared error,5064.3,4454.6,720.88,3633.4,792.49
+,Source: Frontier analysis of combined ILR (R08 collection) Skills Funding Agency capital expenditure approvals data / college census data,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+Table 24. Impact on percentage point change in success rate (whole population),,,,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners,,
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),-0.016,-0.016,0.002,,
+,Proportion of learners aged 16-18,0.555,-17.985***,0.635,,
+,Number of learners in 2002/03,0,0,0,,
+,East of England,1.065,0.73,0.194,,
+,London,-1.293,-3.746*,0.813,,
+,North East,2.025*,1.682,2.338*,,
+,North West ,1.781,2.594,2.022
+,South East,0.963,1.101,1.486
+,South West,2.058*,0.025,2.988**
+,West Midlands,0.091,-0.565,1.086
+,Yorkshire,1.63,0.072,1.57
+,Specialist College,2.482**,0.913,2.292
+,Merged,-0.403,-1.142,-0.656
+,Capital expenditure exceeded £60m,0.57,1.577,-0.902
+,Success rate in 2002,-0.893***,-0.65***,-1.002***
+,"Constant (base case = FE college, East Midlands)",73.758***,66.488***,78.536***
+,Number of observations,248,242,248
+,R-squared,0.77,0.43,0.7
+,Root mean squared error,4.23,6.66,5.75
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 25. Impact on percentage point change in retention rate (whole population),,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),-0.002,0.017,-0.003
+,Proportion of learners aged 16-18,-0.779,-3.18,-3.117
+,Number of learners in 2002/03,0,0,0
+,East of England,0.427,0.1,0.255
+,London,0.308,-0.78,1.218
+,North East,0.449,-0.925,1.218
+,North West ,-0.248,0.561,-0.139
+,South East,0.655,-0.241,1.355
+,South West,1.025,-1.13,2.093*
+,West Midlands,0.166,-0.253,0.777
+,Yorkshire,0.143,-1.158,-0.184
+,Specialist College,1.158,-0.623,1.497
+,Merged,-0.303,-0.031,-0.271
+,Capital expenditure exceeded £60m,0.043,-0.16,-0.139
+,Retention rate in 2002,-0.915***,-0.706***,-1.023***
+,"Constant (base case = FE college, East Midlands)",82.268***,67.888***,90.503***
+,Number of observations,248,242,248
+,R-squared,0.79,0.49,0.7
+,Root mean squared error,3,4.82,4.22
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 26. Impact on percentage point change in achievement rate (whole population),,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),-0.017,-0.033,0.004
+,Proportion of learners aged 16-18,1.367,-20.476***,5.201
+,Number of learners in 2002/03,0,0,0
+,East of England,0.699,0.313,-0.013
+,London,-1.827*,-3.6**,-0.121
+,North East,1.786*,2.661,1.423
+,North West ,2.172***,2.675*,2.296**
+,South East,0.389,1.67,0.333
+,South West,1.232,0.816,1.441
+,West Midlands,-0.155,-0.478,0.485
+,Yorkshire,1.604*,0.867,2.165*
+,Specialist College,1.639*,1.815,0.971
+,Merged,-0.119,-1.204,-0.536
+,Capital expenditure exceeded £60m,0.668,2.072,-0.768
+,Achievement rate in 2002,-0.898***,-0.72***,-0.951***
+,"Constant (base case = FE college, East Midlands)",82.455***,76.482***,84.073***
+,Number of observations,248,242,248
+,R-squared,0.81,0.49,0.75
+,Root mean squared error,2.97,5.21,3.89
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 27. Impact on percentage point change in proportion of college income  (whole population),,,,,,,,,,,,,,,,,,,,,,,
+,Variable,Dependence on LSC / Skills Funding Agency income (1)  using linear capital expenditure variable,Dependence on LSC / Skills Funding Agency income (2) using linear capex variable and large capex dummy,Dependence on LSC / Skills Funding Agency income (3) using large capex dummy only,Percentage point change in tuition fee income as a proportion of college income,,,,,,,,,,,,,,,,,,
+,Capital expenditure completed from 2002/03 to 2009/10,-0.052*,-0.064*,Omitted,0.046**,,,,,,,,,,,,,,,,,,
+,Proportion of learners aged 16-18,-4.913,-5.161,-4.814,6.931,,,,,,,,,,,,,,,,,,
+,Number of learners in 2002/03,0,0,0,0,,,,,,,,,,,,,,,,,,
+,East of England,2.653,2.588,2.579,-0.386,,,,,,,,,,,,,,,,,,
+,London,-1.573,-1.612,-1.553,1.723,,,,,,,,,,,,,,,,,,
+,North East,1.732,1.8,1.256,1.622,,,,,,,,,,,,,,,,,,
+,North West ,1.336,1.337,1.264,-0.165,,,,,,,,,,,,,,,,,,
+,South East,0.815,0.776,0.659,0.001,,,,,,,,,,,,,,,,,,
+,South West,-1.209,-1.204,-1.29,0.072,,,,,,,,,,,,,,,,,,
+,West Midlands,1.508,1.379,1.563,1.702,,,,,,,,,,,,,,,,,,
+,Yorkshire,0.011,-0.072,-0.018,2.409*,,,,,,,,,,,,,,,,,,0
+,Specialist College,-5.699***,-5.717***,-5.541,4.183***,,,,,,,,,,,,,,,,,,0
+,Merged,-0.717,-0.705,-0.741***,-0.374,,,,,,,,,,,,,,,,,,0
+,Capital expenditure exceeded £60m,Omitted,1.26,-2.915,-3.703**,,,,,,,,,,,,,,,,,,0
+,"Constant (base case = FE college, East Midlands)",3.501,3.706,3.098,-6.849***,,,,,,,,,,,,,,,,,,0
+,Number of observations,250,250,250,250,,,,,,,,,,,,,,,,,,0
+,R-squared,0.08,0.08,0.07,0.1,,,,,,,,,,,,,,,,,,0
+,Root mean squared error,8.7,8.72,8.75,5.46,,,,,,,,,,,,,,,,,,0
+,Source: Frontier analysis of combined ILR (R08 collection) / Skills Funding Agency college accounts data / Skills Funding Agency capital expenditure approvals data / college census data ,,,,,,,,,,,,,,,,,,,,,,0
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,,,,,,,,,,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,,,0
+Table 28. Impact on change in number of learners - census colleges (excluding those with very large capital expenditure),,,,,,,,,,,,,,,,,,,,,,,0
+,,All participation,Learner Responsive learners,Government funded LR learners aged 16 to 18,Government funded LR learners aged 19 plus,Apprenticeships,,,,,,,,,,,,,,,,,0
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),86***,56**,14***,20,6,,,,,,,,,,,,,,,,,0
+,Proportion of learners aged 16-18,3667,4557*,739,4499*,-295,,,,,,,,,,,,,,,,,
+,Number of learners in 2002/03,-0.522***,-0.575***,-0.005,-0.523***,0.011,,,,,,,,,,,,,,,,,
+,East of England,378,174,727***,420,241,,,,,,,,,,,,,,,,,
+,London,656,1898*,-252,2222***,-266**,,,,,,,,,,,,,,,,,
+,North East,-2410***,-1697**,-609**,-315,-63,,,,,,,,,,,,,,,,,
+,North West ,-930,-137,138,330,25,,,,,,,,,,,,,,,,,
+,South East,-56,914,171,1237,-38
+,South West,-603,651,201,459,3
+,West Midlands,361,-429,83,-130,70
+,Yorkshire,817,1141,328,1715*,-12
+,Specialist College,113,1458,-89,574,-46
+,Merged college,-515,-319,218,-893,-111
+,"Constant (base case = FE college, East Midlands)",1158,-803,181,-857,285
+,Number of observations,125,125,125,125,125
+,R-squared,0.7574,0.8589,0.3483,0.8955,0.1505
+,Root mean squared error,3600,2904.4,568.82,2244.1,552.19
+,Source: Frontier analysis of combined ILR (R08 collection) Skills Funding Agency capital expenditure approvals data / college census data,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+
+Table 29. Impact on percentage point change in success rate - census colleges (excluding those with very large capital expenditure),,,,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners,,
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),0.018,0.024,0.026
+,Proportion of learners aged 16-18,1.363,-14.89**,6.375
+,Number of learners in 2002/03,0,0*,0
+,East of England,3.193*,3.925,2.194
+,London,-0.529,-2.974,1.232
+,North East,1.989,-0.168,1.852
+,North West ,2.102,3.623,1.041
+,South East,1.007,1.033,1.614
+,South West,4.982***,4.967*,4.274*
+,West Midlands,0.713,0.31,1.698
+,Yorkshire,3.679***,2.507,3.742**
+,Specialist College,3.114**,5.324***,1.989
+,Merged,-1.303,-1.358,-2.247*
+,Capital expenditure exceeded £60m,Dropped,Dropped , Dropped
+,Success rate in 2002,-0.889***,-0.697***,-0.954***
+,"Constant (base case = FE college, East Midlands)",71.522***,65.996***,72.972***
+,Number of observations,123,120,123
+,R-squared,0.71,0.46,0.6
+,Root mean squared error,4.29,6.16,6.04
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 30. Impact on percentage point change in retention rate - census colleges (excluding those with very large capital expenditure)  ,,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),0.024,0.048,0.023
+,Proportion of learners aged 16-18,0.876,-2.535,3.185
+,Number of learners in 2002/03,0,0**,0
+,East of England,1.282,2.084,0.78
+,London,0.188,-0.85,0.852
+,North East,0.474,-2.158,1.019
+,North West ,-0.191,0.893,-1.183
+,South East,0.234,-0.882,1.496
+,South West,1.797,1.623,1.088
+,West Midlands,0.259,-1.297,1.144
+,Yorkshire,1.539*,-0.135,1.847
+,Specialist College,0.691,1.692,0.748
+,Merged,-0.76,-0.094,-1.296
+,Capital expenditure exceeded £60m,Dropped,Dropped,Dropped
+,Retention rate in 2002,-0.855***,-0.6***,-0.974***
+,"Constant (base case = FE college, East Midlands)",76.363***,57.48***,84.989***
+,Number of observations,123,120,123
+,R-squared,0.69,0.4,0.55
+,Root mean squared error,2.94,4.2,4.56
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 31. Impact on percentage point change in achievement rate - census colleges (excluding those with very large capital expenditure)  ,,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),-0.008,-0.015,-0.005
+,Proportion of learners aged 16-18,1.324,-16.19***,5.488
+,Number of learners in 2002/03,0*,0,0*
+,East of England,2.363*,2.542,1.773
+,London,-0.792,-2.847,0.875
+,North East,1.714,1.483,1.171
+,North West ,2.407*,3.385*,2.196*
+,South East,0.829,2.292,0.413
+,South West,3.554***,3.318,3.736***
+,West Midlands,0.476,1.904,0.882
+,Yorkshire,2.466**,2.998,2.393*
+,Specialist College,2.564**,4.77***,1.188
+,Merged,-0.649,-1.372,-1.271
+,Capital expenditure exceeded £60m,Dropped,Dropped,Dropped
+,Achievement rate in 2002,-0.883***,-0.8***,-0.88***
+,"Constant (base case = FE college, East Midlands)",79.77***,80.165***,77.105***
+,Number of observations,123,120,123
+,R-squared,0.81,0.57,0.74
+,Root mean squared error,2.91,4.76,3.61
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 32. Impact on percentage point change in proportion of college income - census colleges (excluding those with very large capital expenditure),,,,
+,Variable,Dependence on LSC/Skills Funding Agency income ,"Percentage point change in tuition fee income as a proportion of total income
+
+",
+,Capital expenditure completed from 2002/03 to 2009/10,0.004,0.003,
+,Proportion of learners aged 16-18,-2.973,2.27,
+,Number of learners in 2002/03,0,0,
+,East of England,1.158,1.965,
+,London,-1.816,3.192*,
+,North East,2.098,5.63***,
+,North West ,0.886,2.356,
+,South East,5.115,1.91,
+,South West,-3.086,1.482,,,
+,West Midlands,3.685,1.689,,,
+,Yorkshire,0.386,5.318***,,,
+,Specialist College,-2.039,3.086*,,,
+,Merged,-1.709,-0.846,,,
+,Capital expenditure exceeded £60m,Omitted ,Dropped,,,
+,"Constant (base case = FE college, East Midlands)",1.599,-6.191***,,,
+,Number of observations,125,125,,,
+,R-squared,0.12,0.12,,,
+,Root mean squared error,8.26,5.43,,,
+,Source: Frontier analysis of combined ILR (R08 collection) / Skills Funding Agency college accounts data / Skills Funding Agency capital expenditure approvals data / college census data ,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,
+
+Table 33. Impact on change in number of learners - Whole population (excluding colleges with very large capital expenditure),,,,,,
+,,All participation,Learner Responsive learners,Government funded LR learners aged 16 to 18,Government funded LR learners aged 19 plus,Apprenticeships
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),44**,29*,7**,5,2
+,Proportion of learners aged 16-18,3146,4390**,619,3140*,-347
+,Number of learners in 2002/03,-0.526***,-0.601***,-0.005,-0.54***,0.017**
+,East of England,-124,1205,625***,979,-330
+,London,459,2649***,-260*,2732***,-647**
+,North East,-2175**,-881,-385**,-145,-349
+,North West ,-1196,575,48,956,-423
+,South East,-469,1248,223,1240,-442
+,South West,-53,1790**,215,1484**,-512*
+,West Midlands,-605,20,6,150,-452
+,Yorkshire,148,1560**,228,1562*,-432
+,Specialist College,-450,840,-167**,126,-112
+,Merged college,492,241,225,-168,-75
+,"Constant (base case = FE college, East Midlands)",1692,-960,258*,-703,653**
+,Number of observations,222,222,222,222,222
+,R-squared,0.7269,0.8707,0.2269,0.8978,0.1969
+,Root mean squared error,3559.3,2685.3,580.8,2114.4,558.99
+,Source: Frontier analysis of combined ILR (R08 collection) Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+
+Table 34. Impact on percentage point change in success rate - Whole population (excluding colleges with very large capital expenditure),,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),-0.005,-0.002,0.009
+,Proportion of learners aged 16-18,0.024,-17.473***,0.796
+,Number of learners in 2002/03,0,0,0
+,East of England,1.787,0.429,2
+,London,-1.306,-3.764*,1.148
+,North East,1.813,2.035,2.254
+,North West ,1.798,1.966,2.479*
+,South East,0.967,0.504,1.896
+,South West,2.047*,-0.263,3.268**
+,West Midlands,-0.334,-1.036,0.935
+,Yorkshire,1.997*,1.191,1.601
+,Specialist College,2.384**,0.987,2.12
+,Merged,-0.377,-0.875,-0.776
+,Capital expenditure exceeded £60m,Dropped,Dropped ,Dropped 
+,Success rate in 2002,-0.888***,-0.649***,-0.991***
+,"Constant (base case = FE college, East Midlands)",73.451***,66.168***,77.556***
+,Number of observations,220,214,220
+,R-squared,0.76,0.42,0.69
+,Root mean squared error,4.28,6.72,5.79
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 35. Impact on percentage point change in retention rate - Whole population (excluding colleges with very large capital expenditure),,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),0.005,0.024,-0.001
+,Proportion of learners aged 16-18,-1.088,-2.208,-3.154
+,Number of learners in 2002/03,0,0,0
+,East of England,1.027,0.352,1.3
+,London,0.084,-1.044,1.05
+,North East,0.32,-0.981,1.165
+,North West ,-0.411,-0.078,-0.077
+,South East,0.577,-0.99,1.691
+,South West,0.884,-1.511,2.161*
+,West Midlands,-0.345,-0.913,0.42
+,Yorkshire,0.39,-0.407,-0.135
+,Specialist College,1.03,-0.73,1.411
+,Merged,-0.29,-0.026,-0.23
+,Capital expenditure exceeded £60m,Dropped,Dropped ,Dropped 
+,Retention rate in 2002,-0.908***,-0.648***,-1.038***
+,"Constant (base case = FE college, East Midlands)",81.855***,62.945***,91.827***
+,Number of observations,220,214,220
+,R-squared,0.77,0.41,0.68
+,Root mean squared error,3.04,4.79,4.27
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 36. Impact on percentage point change in achievement rate - Whole population (excluding colleges with very large capital expenditure),,,,
+,Variable,All learners,Learners aged 16 to 18,Adult learners
+,Capital expenditure completed from 2002/03 to 2009/10 (£m),-0.011,-0.023,0.007
+,Proportion of learners aged 16-18,1.074,-20.735***,5.323
+,Number of learners in 2002/03,0,0,0
+,East of England,0.91,-0.384,0.984
+,London,-1.634,-3.586**,0.487
+,North East,1.671*,3.14,1.369
+,North West ,2.363***,2.35,2.797***
+,South East,0.484,1.604,0.514
+,South West,1.358,0.655,1.791*
+,West Midlands,-0.106,-0.286,0.688
+,Yorkshire,1.765**,1.536,2.094
+,Specialist College,1.66*,1.884,0.954
+,Merged,-0.092,-0.877,-0.742
+,Capital expenditure exceeded £60m,Dropped,Dropped ,Dropped 
+,Achievement rate in 2002,-0.895***,-0.753***,-0.928***
+,"Constant (base case = FE college, East Midlands)",82.031***,79.263***,81.675***
+,Number of observations,220,214,220
+,R-squared,0.81,0.52,0.76
+,Root mean squared error,3.02,5.24,3.86
+,Source: Frontier analysis of combined ILR (R08 collection) / National Success Rate Tables / Skills Funding Agency capital expenditure approvals data / college census data,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,
+
+Table 37. Impact on percentage point change in proportion of college income - Whole population (excluding colleges with very large capital expenditure),,,,
+,Variable,Dependence on LSC/Skills Funding Agency income ,Percentage point change in tuition fee income as a proportion of total income ,
+,Capital expenditure completed from 2002/03 to 2009/10,-0.049,0.04,
+,Proportion of learners aged 16-18,-4.517,7.417,
+,Number of learners in 2002/03,0,0
+,East of England,0.691,0.658
+,London,-1.179,1.635
+,North East,2.409,1.842
+,North West ,0.782,0.679
+,South East,1.858,0.03
+,South West,-0.927,0.159
+,West Midlands,2.115,1.262
+,Yorkshire,0.524,2.668*
+,Specialist College,-5.619***,4.391***
+,Merged,-0.29,-0.249
+,Capital expenditure exceeded £60m,Dropped,Dropped 
+,"Constant (base case = FE college, East Midlands)",2.994,-7.397***
+,Number of observations,222,222
+,R-squared,0.09,0.09
+,Root mean squared error,8.09,5.42
+,Source: Frontier analysis of combined ILR (R08 collection) / Skills Funding Agency college accounts data / Skills Funding Agency capital expenditure approvals data / college census data ,,,,,,,
+,"Significance levels: *** = 1 per cent, **=5 per cent, *=10 per cent",,,,,,,
+
+
+
+Table 38: Displacement in the base case,,,,,,,,
+,Capital ,,Participation,,,,,
+College,before,added,after,Students before,Contestables: before   after,New students,Net change,
+A,200,100,300,5000,2500,3000,1000,1500
+B,200,0,200,5000,2500,2000,0,-500
+Source: stylised example,,,,,,,,
+
+Table 39: Displacement with increased competitive overlap,,,,,,,,
+,Capital ,,Participation,,,,,
+College,before,added,after,Students before,Contestables: before   after,New students,Net change,
+A,200,100,300,5000,5000,6000,1000,2000
+B,200,0,200,5000,5000,4000,0,-1000
+Source: stylised example,,,,,,,,
+
+Table 40: Displacement with decreased competitive overlap,,,,,,,,
+,Capital ,,Participation,,,,,
+College,before,added,after,Students before,Contestables: before   after,New students,Net change,
+A,200,100,300,5000,1250,1500,1000,1250
+B,200,0,200,5000,1250,1000,0,-250
+Source: stylised example,,,,,,,,
+
+Table 41: Displacement with two towns and uneven capital expenditure,,,,,,,,
+,Capital ,,Participation,,,,,
+College,before,added,after,Students before,Contestables: before   after,New students,Net change,
+A1,200,100,300,5000,2500,3000,1000,1500
+B1,200,0,200,5000,2500,2000,0,-500
+A2,100,50,150,2500,1250,1500,500,750
+B2,100,0,100,2500,1250,1000,0,-250
+Source: stylised example,,,,,,,,
+
+Table 42: Displacement with two towns and more even pattern of capital expenditure,,,,,,,,
+,Capital ,,Participation,,,,,
+College,before,added,after,Students before,Contestables: before   after,New students,Net change,
+A1,200,60,260,5000,2500,2600,600,700
+B1,200,40,240,5000,2500,2400,400,300
+A2,100,30,130,2500,1250,1300,300,350
+B2,100,20,120,2500,1250,1200,200,150
+Source: stylised example,,,,,,,,
+
+Table 43: Displacement with two towns and even pattern of capital expenditure,,,,,,,,
+,Capital ,,Participation,,,,,
+College,before,added,after,Students before,Contestables: before   after,New students,Net change,
+A1,200,50,250,5000,2500,2500,500,500
+B1,200,50,250,5000,2500,2500,500,500,,,
+A2,100,25,125,2500,1250,1250,250,250,,,
+B2,100,25,125,2500,1250,1250,250,250,,,
+Source: stylised example,,,,,,,,,,,
+
+"Figure 1. Total capital expenditure by year of approval across all colleges, £ million",,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+population,60,537,572,600,718,520,895,1391,1346,487,261
+Source:  Frontier analysis of Skills Funding  Agency  capital expenditure approvals data,,,,,,,,,,,
+
+"Figure 2. Average capital expenditure per project by year of approval across all colleges, £ million",,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+population,4,8,7,9,13,10,24,26,34,11,7
+Source:  Frontier analysis of Skills Funding  Agency  capital expenditure approvals data,,,,,,,,,,,
+
+"Figure 3. Bar chart of total capital expenditure approved per college across all colleges, £ million",,,,,,,,,,,
+
+Bucket,<10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200
+Proportion,46%,12%,8%,7%,6%,3%,5%,4%,2%,3%,0%,1%,1%,0%,0%,0%,0%,0%,0%,0%
+Source:  Frontier analysis of Skills Funding  Agency  capital expenditure approvals data,,,,,,,,,,,,,,,,,,,,
+
+"Figure 4. Median total learners, total employer responsive learners and total learner responsive learners per college across the sample of colleges",,,,,,,,,,,,,,,,,,,,
+,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011,,,,,,,,,,,
+Total Number of Employer Responsive Learners,254,303,306,307,615,905,2063,2215,2212,,,,,,,,,,,
+Total Number of Learner Responsive Learners,13277,12960,12428,11172,9536,8870,8159,8276,7224,,,,,,,,,,,
+Total Number of Learners,13598,13474,12728,11692,10248,10205,10306,10736,9589,,,,,,,,,,,
+Source: Frontier analysis of ILR learner and learner aims data (R08 collection),,,,,,,,,,,,,,,,,,,,
+
+Figure 5. Median total learners by age per college across the sample of colleges,,,,,,,,,,,,,,,,,,,,
+,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011,,,,,,,,,,,
+16-18,1849,1873,1927,1975,2000,2089,2176,2283,2296,,,,,,,,,,,
+19 and over,8778,8627,8131,6687,4626,4070,3627,3056,2456,,,,,,,,,,,
+Source: Frontier analysis of ILR learner and learner aims data (R08 collection),,,,,,,,,,,
+
+Figure 6. Median number of apprenticeships per college across the sample of colleges,,,,,,,,,,,
+
+,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011,,
+Sample Median,189,207,235,258,294,315,332,373,553,,
+Source: Frontier analysis of ILR learner and learner aims data (R08 collection),,,,,,,,,,,
+
+Figure 7. Median and quartiles of success rates per college across colleges in the sample,,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+Sample Upper Quartile,0.656,0.703,0.722,0.762,0.78,0.8,0.808,0.83,0.831,0.828,0.847
+Sample Median,0.599,0.658,0.684,0.714,0.741,0.76,0.77,0.795,0.803,0.797,0.82
+Sample Lower Quartile,0.55,0.605,0.634,0.675,0.707,0.72,0.73,0.767,0.769,0.767,0.798
+Source: Frontier analysis of National Success Rate Tables data,,,,,,,,,,,
+
+"Figure 8. Median success rate, achievement rate and retention rate per college across colleges in the sample",,,,,,,,,,,
+,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011,,
+Sample Success Rate,0.684,0.714,0.741,0.76,0.77,0.795,0.803,0.797,0.82,,
+Sample Retention Rate,0.83,0.849,0.861,0.862,0.87,0.885,0.889,0.888,0.893,,
+Sample Achievement Rate,0.83,0.85,0.869,0.88,0.89,0.901,0.903,0.904,0.921,,
+Source: Frontier analysis of National Success Rate Tables data,,,,,,,,,,,
+
+Figure 9: Median and quartiles of distribution of dependence on LSC and/or Skills Funding Agency income per college across colleges in the sample,,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+Sample Upper Quartile,0.756,0.787,0.798,0.805,0.814,0.814,0.814,0.811,0.824,0.774,0.825
+Sample Median,0.679,0.735,0.744,0.765,0.757,0.775,0.782,0.77,0.784,0.705,0.782
+Sample Lower Quartile,0.604,0.677,0.688,0.698,0.693,0.716,0.724,0.707,0.714,0.636,0.693
+Source: Frontier analysis of Skills Funding Agency college accounts data,,,,,,,,,,,
+
+Figure 10. Illustrative example of the impact of a capital project on learner satisfaction,,,,,,,,,,,
+,2006/07,2007/08,2008/09,2009/10,2010/11,,,,,,
+Induction feedback,0.615,0.63,0.71,0.71,0.725,,,,,,
+Course feedback,0.7,0.655,0.66,0.695,0.72,,,,
+Source: Frontier analysis of College [x] data,,,,,,,,,
+
+Figure 11. Impact of not investing (assuming illustrative 15 per cent decline),,,,,,,,,
+,Participation,Impact of not investing,Observed change,,,,,,
+Before,10000,0,0,,,,,,
+After (no investment),8500,0,0,,,,,,
+After invetsment,8500,1500,621,,,,,,
+Source: hypothetical example using illustrative figures from ILR and Frontier analysis ,,,,,,,,,
+
+Figure 12. Average of total learner numbers,,,,,,,,,
+,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+Population,16588,15602,15027,13302,11519,11413,12056,12188,10842
+Sample,16978,16244,15599,13917,12191,12101,12859,12995,11560
+Source: Frontier analysis of ILR learner and learner aims data (R08 collection),,,,,,,,,
+
+Figure 13. Average of number of apprenticeships,,,,,,,,,,,
+,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011,,
+Population,256,298,355,360,361,389,438,480,705,,
+Sample,260,302,358,368,383,416,481,526,735,,
+Source: Frontier analysis of ILR learner and learner aims data (R08 collection),,,,,,,,,,,
+
+Figure 14. Average of success rates (all ages),,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+Population,0.594,0.653,0.673,0.704,0.735,0.758,0.763,0.794,0.797,0.799,0.818
+Sample,0.599,0.656,0.681,0.708,0.742,0.763,0.769,0.799,0.8,0.799,0.822
+Source: Frontier analysis of National Success Rate Tables data,,,,,,,,,,,
+
+Figure 15. Average of retention rates (all ages),,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+Population,0.801,0.827,0.823,0.842,0.854,0.863,0.863,0.88,0.886,0.885,0.892
+Sample,0.806,0.829,0.83,0.846,0.858,0.867,0.867,0.886,0.887,0.887,0.893
+Source: Frontier analysis of National Success Rate Tables data,,,,,,,,,,,
+
+Figure 16. Average of achievement rates (all ages),,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+Population,0.742,0.789,0.816,0.836,0.86,0.877,0.883,0.902,0.899,0.902,0.917
+Sample,0.743,0.79,0.821,0.837,0.864,0.879,0.886,0.902,0.901,0.901,0.919
+Source: Frontier analysis of National Success Rate Tables data,,,,,,,,,,,
+
+Figure 17. Average of tuition fee income as a percentage of income,,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+Population,0.086,0.115,0.11,0.107,0.106,0.107,0.084,0.077,0.075,0.073,0.074
+Sample,0.086,0.112,0.109,0.106,0.103,0.102,0.085,0.081,0.078,0.077,0.079
+Source: Frontier analysis of Skills Funding Agency college accounts data ,,,,,,,,,,,
+
+Figure 18. Average of LSC / Skills Funding Agency income as a percentage of total income,,,,,,,,,,,
+,2000-01,2001-02,2002-03,2003-04,2004-05,2005-06,2006-07,2007-08,2008-09,2009-10,2010-2011
+Population,0.673,0.716,0.732,0.76,0.737,0.78,0.755,0.751,0.754,0.685,0.755,,,,,,,,,
+Sample,0.669,0.712,0.726,0.767,0.745,0.746,0.75,0.741,0.746,0.691,0.749,,,,,,,,,
+Source: Frontier analysis of Skills Funding Agency college accounts data ,,,,,,,,,,,,,,,,,,,,
+
+"Figure 19.  Bar chart of total capital expenditure approved per college from 2002/03 to 2010/11 across all colleges, £ million",,,,,,,,,,,,,,,,,,,,
+
+Bucket,<10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200
+Population,0.46,0.12,0.08,0.07,0.06,0.03,0.05,0.04,0.02,0.03,0,0.01,0.01,0,0,0,0,0,0,0
+Sample,0.44,0.12,0.11,0.05,0.08,0.04,0.05,0.04,0.01,0.04,0,0.01,0.01,0,0.01,0,0,0,0,0.01
+Source: Frontier analysis of Skills Funding Agency capital expenditure approvals data,,,,,,,,,,,,,,,,,,,,
+
+Figure 20. Distribution of college locations,,,,,,,,,,,,,,,,,,,,
+,Population,Sample,,,,,,,,,,,,,,,,,,
+Central Eastern,0.089,0.077,,,,,,,,,,,,,,,,,,
+East Midlands,0.06,0.07,,,,,,,,,,,,,,,,,,
+"Liverpool, Cumbria and Lancashire",0.081,0.092,,,,,,,,,,,,,,,,,,
+London North and East,0.069,0.085
+"Manchester, Cheshire, Warrington and Staffordshire",0.089,0.077
+South Central,0.093,0.099
+South East,0.065,0.042
+South West,0.065,0.056
+North East,0.065,0.07
+London South and West,0.081,0.085
+Yorkshire and the Humber,0.077,0.07
+Yorkshire and Humber,0.012,0.014
+West Midlands,0.105,0.113
+Thames Valley,0.052,0.049
+Source: Frontier analysis of Skills Funding Agency college contact details list,,
+
+Figure 21. Distribution of types of colleges,,
+,Sample,Population
+FE college,0.88,0.892
+FE - Special college - Agriculture and Horticulture,0.063,0.06
+"FE - Special college - Art, Design and Performing Arts",0.014,0.012
+FE - Specialist Designated Institute,0.042,0.036
+Source: Frontier analysis of Skills Funding Agency college contact details list,,

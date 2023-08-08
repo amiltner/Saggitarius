@@ -1,0 +1,33 @@
+Department Family,Entity,Payment Date,Expense Type,Expense Area,Supplier,Transaction Number,GL Code,Sum of Amount,
+Department of Health,Black Country Partnership NHS Foundation Trust,22-11-2013,ORTHOTICS,Supplies & Services-General,THE DUDLEY GROUP OF HOSPITALS,0020000140,A10112N84899,101.58,
+Department of Health,Black Country Partnership NHS Foundation Trust,22-11-2013,ORTHOTICS,Supplies & Services-General,THE DUDLEY GROUP OF HOSPITALS,0020000140,D40106N84899,906.58,
+Department of Health,Black Country Partnership NHS Foundation Trust,22-11-2013,IMAGING AND PATHOLOGY,Supplies & Services-Clinical:,THE DUDLEY GROUP OF HOSPITALS,0020000140,D10106N88299,968.3,
+Department of Health,Black Country Partnership NHS Foundation Trust,22-11-2013,DIETICIANS BAND 7,"Scientific, therapeutic & Tech",THE DUDLEY GROUP OF HOSPITALS,0020000140,D10107P05402,1488.2,
+Department of Health,Black Country Partnership NHS Foundation Trust,22-11-2013,ORTHOTICS,Supplies & Services-General,THE DUDLEY GROUP OF HOSPITALS,0020000140,D40102N84899,4571.25,
+Department of Health,Black Country Partnership NHS Foundation Trust,22-11-2013,DGOH CAU Accomodation,,THE DUDLEY GROUP OF HOSPITALS,0020000140,D80301N14999,7564.07,
+Department of Health,Black Country Partnership NHS Foundation Trust,22-11-2013,DUDLEY GROUP HOSP PHARMACY,Services from Foundation NHS T,THE DUDLEY GROUP OF HOSPITALS,0020000140,6D3020N88199,13791.88,29391.86
+Department of Health,Black Country Partnership NHS Foundation Trust,01-11-2013,ADD-07-BDG-PENN HOSPITAL,Buildings Excluding Dwellings-,RICHARD BURROWS BUILDERS,0030016461,9ABSPHA21895,29556.87,29556.87
+Department of Health,Black Country Partnership NHS Foundation Trust,27-11-2013,RECHARGES,Premises & fixed plant,THE ROYAL WOLVERHAMPTON HOSPITAL,0010000548,W10104N68699,584.22,
+Department of Health,Black Country Partnership NHS Foundation Trust,27-11-2013,OCCUPATIONAL HEALTH,Services from Other NHS Trusts,THE ROYAL WOLVERHAMPTON HOSPITAL,0010000548,6C2550N88899,1622.25,
+Department of Health,Black Country Partnership NHS Foundation Trust,27-11-2013,AP DRUGS,Supplies & Services-Clinical:,THE ROYAL WOLVERHAMPTON HOSPITAL,0010000548,W70102N58099,37427.55,39634.02
+Department of Health,Black Country Partnership NHS Foundation Trust,18-11-2013,FACILITIES MANAGEMENT SERVICES,Premises & fixed plant,NORLAND MANAGED SERVICES LIMTED,0030016307,7A0481N40799,40685.42,
+Department of Health,Black Country Partnership NHS Foundation Trust,18-11-2013,FACILITIES MANAGEMENT SERVICES,Premises & fixed plant,NORLAND MANAGED SERVICES LIMTED,0030018205,7A0481N40799,40685.42,
+Department of Health,Black Country Partnership NHS Foundation Trust,01-11-2013,ADD-01-BDG-EDWARD ST MAIN HOSP,Buildings Excluding Dwellings-,SWIFT BUILDING SERVICES LTD,0030015644,9ABSESA20195,44100,
+Department of Health,Black Country Partnership NHS Foundation Trust,15-11-2013,OAP DRUGS,Supplies & Services-Clinical:,THE DUDLEY GROUP OF HOSPITALS,0010000511,W70102N58499,2072.99,
+Department of Health,Black Country Partnership NHS Foundation Trust,15-11-2013,LD DRUGS,Supplies & Services-Clinical:,THE DUDLEY GROUP OF HOSPITALS,0010000511,1T8005N58299,2674.23,
+Department of Health,Black Country Partnership NHS Foundation Trust,15-11-2013,CAMHS DRUGS,Supplies & Services-Clinical:,THE DUDLEY GROUP OF HOSPITALS,0010000511,4T8005N58899,3864.39,
+Department of Health,Black Country Partnership NHS Foundation Trust,15-11-2013,OAP DRUGS,Supplies & Services-Clinical:,THE DUDLEY GROUP OF HOSPITALS,0010000511,3T8005N58499,4514.59,
+Department of Health,Black Country Partnership NHS Foundation Trust,15-11-2013,AP DRUGS,Supplies & Services-Clinical:,THE DUDLEY GROUP OF HOSPITALS,0010000511,2T8005N58099,38495.93,51622.13
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,Recharges - RWHT IT,Establishment,THE ROYAL WOLVERHAMPTON HOSPITAL,0010000338,6D3075N98799,52802.01,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,DRUG & ALCOHOL,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,W10104N58599,75.96,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,CAMHS DRUGS - FP10,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,4T8005N59299,740.63,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,CAMHS DRUGS,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,W40108N58899,1091.82,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,LD DRUGS - FP10,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,1T8005N58799,1193.02,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,LD DRUGS,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,D10104N58299,1353.55,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,AP DRUGS - FP10,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,2T8005N58199,2482.77,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,DRUG & ALCOHOL,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,W70102N58599,2668.77,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,OAP DRUGS - FP10,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,3T8005N58999,2802.76,
+Department of Health,Black Country Partnership NHS Foundation Trust,08-11-2013,DRUG & ALCOHOL,Supplies & Services-Clinical:,NHS BUSINESS SERVICES AUTHORITY,0010000516,W50117N58599,47709.98,60119.26
+Department of Health,Black Country Partnership NHS Foundation Trust,01-11-2013,RYHURST - MANAGEMENT,Premises & fixed plant,BLACK COUNTRY PPP HEALTH SERVICE,0040002240,7A8076N85299,83946.62,
+Department of Health,Black Country Partnership NHS Foundation Trust,12-11-2013,ADD-01-BDG-EDWARD ST MAIN HOSP,Buildings Excluding Dwellings-,INTERGRATED HEALTH PROJECTS,0030017318,9ABSESA20195,97095.05,
+,,,,,,,,569638.66,

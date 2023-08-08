@@ -1,0 +1,33 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
+DCLG,STANDARDS FOR ENGLAND,14/09/2011,Office Cleaning,Facilties,CLEANING NORTHWEST,59053,"1,033.92",Monthly charge for office cleaning,M32 0PA,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,02/09/2011,Outplacement Support,Human Resource,CMC PARTNERSHIP,58990,966,Outplacement support for staff being made redundant,SW1V 2AJ,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,08/09/2011,Press Office Services,Strategic Relations Directorate,COPYRIGHT LICENSING AGENCY,59011,"1,263.60",Annual charge for copyright licence,EC1N 8TS,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,07/09/2011,Professional Fees,Closure Programme Directorate,DTZ DEBENHAM TIE LEUNG LTD,58991,924,Costs incurred for professional fees on lease break,EH3 9QG,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,06/09/2011,Press Office Services,Strategic Relations Directorate,DURRANTS PRESS CUTTINGS LTD,58987,"1,063.57",Monthly charge for media monitoring service,EC1Y 8QE,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,09/09/2011,Professional Fees,Closure Programme Directorate,EMAP LIMITED,59018,900,Costs incurred for professional fees on lease break,NW1W 8DH,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,09/09/2011,Professional Fees,Strategic Relations Directorate,GREATER MANCHESTER PENSIONFUND,59010,"4,800.00",Actuary fees required for production of annual accounts,OL6 6DL,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,14/09/2011,Legal fees,Chief Executive Office,IRWIN MITCHELL SOLICITORS,59049,"1,491.00",Costs incurred for professional fees on lease break,S3 8DT,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,14/09/2011,Electricity,Facilties,JD WILLIAMS,59050,"1,384.68",Monthly electricity charge,M60 6ES,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,05/09/2011,Train,Regulation Directorate,LONSDALE TRAVEL LTD/CAPITA BUS,59012,-49.5,Monthly business travel and accomodation charges,DE21 6BF,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,05/09/2011,Train,Strategic Relations Directorate,LONSDALE TRAVEL LTD/CAPITA BUS,59012,"1,813.60",Monthly business travel and accomodation charges,DE21 6BF,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,05/09/2011,Train,Chief Executive Office,LONSDALE TRAVEL LTD/CAPITA BUS,59012,422.35,Monthly business travel and accomodation charges,DE21 6BF,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,05/09/2011,Train,Human Resource,LONSDALE TRAVEL LTD/CAPITA BUS,59012,139.2,Monthly business travel and accomodation charges,DE21 6BF,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,05/09/2011,Hotel,Regulation Directorate,LONSDALE TRAVEL LTD/CAPITA BUS,59012,213,Monthly business travel and accomodation charges,DE21 6BF,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,05/09/2011,Train,Regulation Directorate,LONSDALE TRAVEL LTD/CAPITA BUS,59012,449.75,Monthly business travel and accomodation charges,DE21 6BF,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,07/09/2011,Rates,Facilties,MANCHESTER CITY COUNCIL -RATES,59061,"5,124.00",Monthly charge for business rates,M60 2JR,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,26/09/2011,Rent,Facilties,N BROWN FUNDING LTD,59099,"52,860.00",Quarterly charge for office rent,M60 6ES,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,20/09/2011,Press Office Services,Strategic Relations Directorate,NEWSPAPER LICENSING AGENCY,59084,"6,248.09",Annual charge for licence to copy from newspapers,TN1 1NL,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,02/09/2011,Rent,Information and Systems,NODE 4 LIMITED,58994,"2,498.40",Monthly charge for data connection charge to DR site,DE24 8HZ,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,07/09/2011,Mobile Charges,Chief Executive Office,ORANGE,59015,19.46,Monthly blackberry mobile charges for remote workers,S98 1DX,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,07/09/2011,Mobile Charges,Human Resource,ORANGE,59015,17.41,Monthly blackberry mobile charges for remote workers,S98 1DX,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,07/09/2011,Mobile Charges,Information and Systems,ORANGE,59015,185.83,Monthly blackberry mobile charges for remote workers,S98 1DX,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,07/09/2011,Mobile Charges,Regulation Directorate,ORANGE,59015,218.72,Monthly blackberry mobile charges for remote workers,S98 1DX,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,07/09/2011,Mobile Charges,Strategic Relations Directorate,ORANGE,59015,98.21,Monthly blackberry mobile charges for remote workers,S98 1DX,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,07/09/2011,Mobile Charges,Board,ORANGE,59015,25.51,Monthly blackberry mobile charges for remote workers,S98 1DX,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,12/09/2011,Departmental Training,Information and Systems,QA TRAINING,59019,703.8,Cost for staff training course,LS12 6BD,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,01/09/2011,Data Destruction and Asset Disposal,Facilties,SHRED-IT LTD,58981,"1,154.16",Data destruction charge,M33 7JQ,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,19/09/2011,Data Destruction and Asset Disposal,Facilties,SHRED-IT LTD,59060,861.84,Data destruction charge,M33 7JQ,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,19/09/2011,Records Storage,Regulation Directorate,SQUIRREL STORAGE,59085,928.63,Monthly charge for off site records storage,LS2 7QA,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,19/09/2011,Records Storage,Strategic Relations Directorate,SQUIRREL STORAGE,59085,103.38,Monthly charge for off site records storage,LS2 7QA,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,19/09/2011,Records Storage,Human Resource,SQUIRREL STORAGE,59085,26.32,Monthly charge for off site records storage,LS2 7QA,,,,Administration
+DCLG,STANDARDS FOR ENGLAND,01/09/2011,IT Software - Support,Information and Systems,TERMINAL FOUR,58993,"3,543.60",Annual charge for website support,SL2 5AG,,,,Administration

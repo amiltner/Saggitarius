@@ -1,0 +1,199 @@
+Year,EWC-STAT code,EWC-STAT description,Hazardous/ Non-hazardous ,"A: Agriculture, forestry and fishing",B: Mining and quarrying,"C10-C12: Manufacture of food products, beverages and tobacco products","C13-C15: Manufacture of textiles, wearing apparel, leather and related products","C16: Manufacture of wood and of products of wood and cork, except furniture, manufacture of articles of straw and plaiting materials","C17_C18: Manufacture of paper and paper products, printing and reproduction or recorded media",C19: Manufacture of coke and refined petroleum products,"C20-C22: Manufacture of chemical, pharmaceutical, rubber and plastic products",C23: Manufacture of other non-metallic mineral products,"C24_C25: Manufacture of basic metals and fabricated metal products, except machinery and equipment","C26-C30: Manufacture of computer, electronic and optical products, electrical equipment, motor vehicles and other transport equipment","C31-C33: Manufacture of furniture, jewellery, musical instruments, toys, repair and installation or machinery and equipment","D: Electricity, gas, steam and air conditioning supply","E36_E37_E39: Water collection, treatment and supply, sewerage, remediation activities and other waste management services",F: Construction,G-U_X_G4677: Services (except wholesale of waste and scrap),EP_HH: Households
+2010,1.1,Spent solvents,Hazardous,0,0,413,165,173,3202,31950,204286,283,1145,2504,751,103,55,0,32007,0
+2010,1.1,Spent solvents,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,1.2,"Acid, alkaline or saline wastes",Hazardous,0,722,258,145,2,1038,7690,18785,844,50197,4561,129,8,210,0,8711,0
+2010,1.2,"Acid, alkaline or saline wastes",Non-hazardous,0,465,3339,2,15,6359,757,47358,2216,15376,4016,922,29,119,0,10964,0
+2010,1.3,Used oils,Hazardous,31992,11876,5691,618,281,2678,12021,31656,11302,20410,31464,3163,30008,2010,0,144948,7575
+2010,1.3,Used oils,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,"1.4, 2, 3.1",Chemical wastes,Hazardous,163248,16750,1997,1878,1561,16206,42742,233224,4302,49962,19375,1162,9406,2216,0,137208,2638
+2010,"1.4, 2, 3.1",Chemical wastes,Non-hazardous,0,1261,15404,5707,2813,10682,2838,74588,1245,18758,6266,588,305,3173,0,29787,2877
+2010,3.2,Industrial effluent sludges,Hazardous,0,20551,5542,72,22,2869,5572,3594,93,4259,2099,1619,1360,424,0,2677,0
+2010,3.2,Industrial effluent sludges,Non-hazardous,0,657,86620,2506,20,87142,1109,42109,13143,30545,2761,181,5969,19352,0,14509,0
+2010,3.3,Sludges & liquid wastes from waste treatment,Hazardous,0,0,0,0,0,13,1315,558,9,0,99,0,0,4440,0,1960,0
+2010,3.3,Sludges & liquid wastes from waste treatment,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3302,1203,0
+2010,5,Health care & biological wastes,Hazardous,285,45,1998,5,2,43,1,1057,2,114,917,1,229,9,0,241312,0
+2010,5,Health care & biological wastes,Non-hazardous,1511,0,11,1,1,12,9,370,0,6,17,702,0,0,0,155872,1222
+2010,6.1,"Metallic wastes, ferrous",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,6.1,"Metallic wastes, ferrous",Non-hazardous,0,1833,1173,122,115,887,114,15607,1707,191731,20111,780,13911,21,1817633,1294787,17937
+2010,6.2,"Metallic wastes, non-ferrous",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,6.2,"Metallic wastes, non-ferrous",Non-hazardous,0,83,98,6,420,71,9,143,22,29470,3488,61,98,1,197972,136989,4033
+2010,6.3,"Metallic wastes, mixed",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,6.3,"Metallic wastes, mixed",Non-hazardous,1475,30968,26402,161,5249,3912,2232,6071,4205,190258,57760,22097,9982,130,1139712,2739581,366569
+2010,7.1,Glass wastes,Hazardous,0,0,28,0,2,104,0,30,15,0,0,0,0,0,0,71,0
+2010,7.1,Glass wastes,Non-hazardous,0,39,28107,107,271,319,4,5947,70915,225,614,2710,18,1,15511,640862,867974
+2010,7.2,Paper & cardboard wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,7.2,Paper & cardboard wastes,Non-hazardous,9271,1532,64480,6942,1403,223480,97,22483,4583,7290,21316,9342,1484,280,3,1625927,1512558
+2010,7.3,Rubber wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,7.3,Rubber wastes,Non-hazardous,29580,89,27,0,4,3,3,5385,8,197,27,0,12,1,0,418605,11950
+2010,7.4,Plastic wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,7.4,Plastic wastes,Non-hazardous,138364,126,42252,6042,2774,17314,4298,128389,3651,7239,22176,16761,928,2172,46972,482467,115350
+2010,7.5,Wood wastes,Hazardous,0,0,59,6,353,116,1,96,22,139,134,230,6,2,0,1180,0
+2010,7.5,Wood wastes,Non-hazardous,0,2594,15138,1634,283573,49531,213,23328,6977,27169,34047,28440,2109,318,533369,235308,742885
+2010,7.6,Textile wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,7.6,Textile wastes,Non-hazardous,0,0,8348,26797,3,787,9,845,5,374,576,2787,70,0,0,22700,139266
+2010,7.7,Waste containing PCB,Hazardous,0,0,0,23,0,0,0,6,0,0,2180,0,1979,311,71,181,0
+2010,7.7,Waste containing PCB,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,8,Discarded equipment,Hazardous,15,437,1940,2685,71,5070,61,1473,639,3445,3742,4200,719,131,0,153031,344242
+2010,8,Discarded equipment,Non-hazardous,0,138,2169,3076,75,5859,29,1112,722,1808,2227,5179,489,110,0,226952,0
+2010,8.1,Discarded vehicles,Hazardous,42682,0,10,2,0,0,0,15,0,77,3,0,10,0,0,167920,1278101
+2010,8.1,Discarded vehicles,Non-hazardous,0,0,10,0,0,0,0,1,0,0,0,0,19,0,0,273226,280
+2010,8.41,Batteries & accumulators wastes,Hazardous,4223,191,67,182,9,15,56,186,296,1312,3892,34,962,16,0,97921,9987
+2010,8.41,Batteries & accumulators wastes,Non-hazardous,0,48,4,2,2,1,0,56,1,2,288,43,105,1,0,18573,1298
+2010,9.1,Animal & mixed food waste,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,9.1,Animal & mixed food waste,Non-hazardous,31587,46,1422258,1,0,404,1,1338,3,3004,386,50,7744,0,0,1021225,343787
+2010,9.2,Vegetal wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,9.2,Vegetal wastes,Non-hazardous,0,0,396189,0,12,581,4,297,3,1,51,3,153,1,0,220076,3954758
+2010,9.3,"Animal faeces, urine & manure",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,9.3,"Animal faeces, urine & manure",Non-hazardous,0,0,7919,0,0,0,0,0,0,0,0,0,0,0,0,1722,0
+2010,10.1,Household & similar wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,10.1,Household & similar wastes,Non-hazardous,2547,18772,278324,17072,14359,93261,770,256586,28668,166182,115738,39406,11465,19993,0,7265234,16385596
+2010,10.2,Mixed & undifferentiated materials,Hazardous,0,3171,688,49,251,200,540,2294,130,599,1785,79,334,48,10123,5033,0
+2010,10.2,Mixed & undifferentiated materials,Non-hazardous,7086,15889,368489,6645,9575,191445,2164,1249326,13569,78186,38586,16201,14937,85354,9689,958190,2371984
+2010,10.3,Sorting residues,Hazardous,0,0,1,0,0,100,54,1497,95,3686,1141,0,0,62,0,6906,0
+2010,10.3,Sorting residues,Non-hazardous,0,0,2368,0,0,6445,2,4711,469,6701,447,1,262,848,112645,18166,0
+2010,11,Common sludges,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,11,Common sludges,Non-hazardous,0,6,60642,42,93,4492,12,1845,462,2817,1086,103,669,1409234,0,149155,0
+2010,12.1,Mineral waste from construction & demolition,Hazardous,0,0,227,0,83,252,329,1220,1022,185,355,18,547,3,349303,4078,0
+2010,12.1,Mineral waste from construction & demolition,Non-hazardous,0,1477,811,36,3009,67,16,6571,16724,28781,703,66,1887,4099,46058083,114064,174130
+2010,"12.2, 12.3, 12.5",Other mineral wastes,Hazardous,0,253,1154,517,162,340,2129,1842,2764,43202,2230,129,4480,271,43858,19923,430
+2010,"12.2, 12.3, 12.5",Other mineral wastes,Non-hazardous,0,24644756,60848,34,110,8,779,108489,178210,145294,27492,53,2045,132738,15,17127,0
+2010,12.4,Combustion wastes,Hazardous,0,0,7,1122,2070,3044,110,175,14605,49985,1199,0,609,0,0,86,0
+2010,12.4,Combustion wastes,Non-hazardous,0,0,13,0,72,71,0,80,5194,263631,26,25,2835104,39,0,10338,0
+2010,12.6,Soils,Hazardous,0,0,16,0,0,168,3425,151,49,174,180,21,6006,359,282282,8839,0
+2010,12.6,Soils,Non-hazardous,0,17,56,0,0,0,0,2876,2888,49,0,0,85351,2504,41135034,874694,14075
+2010,12.7,Dredging spoils,Hazardous,0,0,0,0,4,0,0,1,0,0,0,0,0,0,2670,0,0
+2010,12.7,Dredging spoils,Non-hazardous,0,0,73,0,0,0,0,266,0,0,0,0,0,0,15357152,0,0
+2010,"12.8, 13",Mineral waste from waste treatment & stabilised waste,Hazardous,31502,0,0,0,0,34095,1604,21,3849,2622,30,0,208,797,0,865,0
+2010,"12.8, 13",Mineral waste from waste treatment & stabilised waste,Non-hazardous,0,0,1041,0,0,0,0,0,152,21,6,0,0,0,23811,4889,0
+2012,1.1,Spent solvents,Hazardous,2,1235,963,607,1585,2959,15905,159887,330,1077,1082,107,130,3,2496,33285,0
+2012,1.1,Spent solvents,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,1.2,"Acid, alkaline or saline wastes",Hazardous,2,142,165,896,30,626,20538,11230,200,47244,5123,36,86,492,0,11700,0
+2012,1.2,"Acid, alkaline or saline wastes",Non-hazardous,0,6,3490,2,17,7150,153,51656,2590,19210,5696,1002,31,129,0,8189,0
+2012,1.3,Used oils,Hazardous,35995,30005,1507,4271,246,1693,5654,12623,4177,27123,34467,950,16694,762,2,163708,6293
+2012,1.3,Used oils,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,"1.4, 2, 3.1",Chemical wastes,Hazardous,158200,22702,4173,3378,4725,13314,26171,223136,3342,42714,27658,1325,8442,2295,290,131822,2504
+2012,"1.4, 2, 3.1",Chemical wastes,Non-hazardous,97,253,687,3037,342,14391,3729,90802,2939,45193,5347,1323,456,1243,84,40518,5255
+2012,3.2,Industrial effluent sludges,Hazardous,102,57716,2307,170,393,2181,2294,4708,229,5397,1693,11,5704,845,99,4382,0
+2012,3.2,Industrial effluent sludges,Non-hazardous,0,4285,112385,2128,458,125534,1600,46707,12955,30317,4405,252,7034,33662,0,13989,0
+2012,3.3,Sludges & liquid wastes from waste treatment,Hazardous,0,0,0,10,0,6,252,1872,8895,3,1363,0,0,5,0,2328,0
+2012,3.3,Sludges & liquid wastes from waste treatment,Non-hazardous,0,0,0,0,8,0,0,0,0,0,0,0,0,423,0,139,0
+2012,5,Health care & biological wastes,Hazardous,30,23,7039,31,2,11,2,946,13,58,815,45,3131,50,0,227179,0
+2012,5,Health care & biological wastes,Non-hazardous,1459,13,20,2,1,4,0,27,3,4,10,4,1,0,0,161429,300
+2012,6.1,"Metallic wastes, ferrous",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,6.1,"Metallic wastes, ferrous",Non-hazardous,4339,2658,6663,33,0,0,0,2,1273,252904,9071,14,6,1280,1383720,967101,18260
+2012,6.2,"Metallic wastes, non-ferrous",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,6.2,"Metallic wastes, non-ferrous",Non-hazardous,1358,432,6734,0,240,0,0,359,0,43338,14183,0,1915,1610,288504,125632,5136
+2012,6.3,"Metallic wastes, mixed",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,6.3,"Metallic wastes, mixed",Non-hazardous,19654,25292,52277,426,14773,6475,1577,15386,10438,282639,90587,12376,8861,7456,541867,2880741,303953
+2012,7.1,Glass wastes,Hazardous,0,0,0,0,0,0,8,24,0,0,10,0,0,0,0,1,0
+2012,7.1,Glass wastes,Non-hazardous,101,1018,11793,84,3691,240,0,5690,75173,196,513,1858,234,101,88055,468541,734441
+2012,7.2,Paper & cardboard wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,7.2,Paper & cardboard wastes,Non-hazardous,9350,4344,25479,3975,3784,102377,33,10332,1230,3354,13147,14122,2240,1928,18674,803262,1350237
+2012,7.3,Rubber wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,7.3,Rubber wastes,Non-hazardous,13209,0,58,0,0,0,0,2004,0,10,207,1649,3,3,1044,462234,9598
+2012,7.4,Plastic wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,7.4,Plastic wastes,Non-hazardous,138788,1882,39123,4671,4208,19110,4488,102883,3616,37372,29481,24767,1164,2702,79834,420385,136957
+2012,7.5,Wood wastes,Hazardous,0,0,71,7,1855,138,1,104,16,149,156,348,3,2,0,2092,0
+2012,7.5,Wood wastes,Non-hazardous,324,7054,18375,1586,116300,75710,195,19037,3627,28612,30184,31094,3518,596,538601,238222,770401
+2012,7.6,Textile wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,7.6,Textile wastes,Non-hazardous,72,74,16270,44486,72,1494,22,1204,38,901,2093,3305,164,87,135,25758,111236
+2012,7.7,Waste containing PCB,Hazardous,6,52,2,9,0,0,5,2,1,0,402,5,962,0,251,1516,0
+2012,7.7,Waste containing PCB,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,8,Discarded equipment,Hazardous,403,810,1842,2973,393,4646,79,1363,707,1474,4073,3742,3150,431,786,137451,317393
+2012,8,Discarded equipment,Non-hazardous,673,1133,3243,4148,767,7859,37,2195,956,2384,4478,6926,1163,2652,1638,281001,0
+2012,8.1,Discarded vehicles,Hazardous,45373,49,2984,0,49,1,0,49,0,1,201,56,54,49,78,86972,972420
+2012,8.1,Discarded vehicles,Non-hazardous,1256,0,389,0,0,0,0,0,0,0,0,0,22,0,17,383690,393
+2012,8.41,Batteries & accumulators wastes,Hazardous,4501,449,1276,73,47,23,19,240,229,417,2549,68,497,69,1077,54434,7353
+2012,8.41,Batteries & accumulators wastes,Non-hazardous,1,25,2,1,3,0,0,26,0,215,98,2,3,1,153,2000,195
+2012,9.1,Animal & mixed food waste,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,9.1,Animal & mixed food waste,Non-hazardous,27985,8583,1116540,0,2987,0,0,3043,155,28,3218,0,2955,3315,90,989136,491494
+2012,9.2,Vegetal wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,9.2,Vegetal wastes,Non-hazardous,16914,766,737698,0,719,1048,0,770,9,79,226,22,797,737,7033,272383,4236260
+2012,9.3,"Animal faeces, urine & manure",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,9.3,"Animal faeces, urine & manure",Non-hazardous,133566,0,21190,0,0,0,0,0,0,0,0,0,799,0,0,976,0
+2012,10.1,Household & similar wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,10.1,Household & similar wastes,Non-hazardous,14026,44480,275758,5863,34791,86827,1751,244460,9674,176984,103959,16373,20664,23198,67822,5861745,15181601
+2012,10.2,Mixed & undifferentiated materials,Hazardous,153,1798,664,65,200,166,256,1692,405,341,909,44,365,323,1,7248,0
+2012,10.2,Mixed & undifferentiated materials,Non-hazardous,15779,39119,131004,15428,4059,151000,669,2108577,7636,16227,24042,11747,2687,110810,3457,428586,2705089
+2012,10.3,Sorting residues,Hazardous,0,12,0,0,11,0,4,730,93,9371,738,0,0,0,0,85661,0
+2012,10.3,Sorting residues,Non-hazardous,0,1,1191,0,754,1049,0,2140,244,2973,529,1302,407,51,8747,31461,0
+2012,11,Common sludges,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,11,Common sludges,Non-hazardous,1,95,89987,107,256,10019,452,2107,841,2413,1781,141,87,1147121,63,188310,0
+2012,12.1,Mineral waste from construction & demolition,Hazardous,0,19,17,74,69,69,101,157,717,183,203,27,1176,0,296579,53739,0
+2012,12.1,Mineral waste from construction & demolition,Non-hazardous,1,394,1042,0,8252,0,89,2483,4368,39463,274,0,492,596,47911701,20155,18643
+2012,"12.2, 12.3, 12.5",Other mineral wastes,Hazardous,26846,8191,2949,462,357,637,1517,4004,6913,7967,3779,90,2273,397,21011,28237,0
+2012,"12.2, 12.3, 12.5",Other mineral wastes,Non-hazardous,391,23778209,40665,1,455,7,120,118492,109348,190884,537,317,2240,126205,1884,32830,0
+2012,12.4,Combustion wastes,Hazardous,0,0,7,0,3579,0,26,20,8786,24788,455,0,3323,0,0,24296,0
+2012,12.4,Combustion wastes,Non-hazardous,0,0,30,0,31,0,0,200,2279,373940,0,0,4609059,0,0,1,0
+2012,12.6,Soils,Hazardous,0,18,1459,139,13,73,775,2432,367,2101,723,0,3931,348,596495,8059,0
+2012,12.6,Soils,Non-hazardous,1072,230,105,0,105,5,0,1577,1361,431,0,0,156,753,42234857,767232,2958
+2012,12.7,Dredging spoils,Hazardous,0,0,0,0,0,231,31,811,0,0,0,0,0,4,29,309,0
+2012,12.7,Dredging spoils,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14718631,634,0
+2012,"12.8, 13",Mineral waste from waste treatment & stabilised waste,Hazardous,0,5,0,3314,0,35285,1501,28,35725,2653,63,32,5454,160,0,7573,0
+2012,"12.8, 13",Mineral waste from waste treatment & stabilised waste,Non-hazardous,0,405,0,0,596,0,0,0,0,0,0,219,2150,0,22220,44,0
+2014,1.1,Spent solvents,Hazardous,14,3583,830,135,111,2594,23346,155964,235,1168,2223,288,105,30,2639,26248,0
+2014,1.1,Spent solvents,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,1.2,"Acid, alkaline or saline wastes",Hazardous,1,5398,98,431,28,524,19099,8147,687,26098,5060,113,42,246,0,10316,0
+2014,1.2,"Acid, alkaline or saline wastes",Non-hazardous,0,15,2541,1,11,4495,155,35355,1586,13090,3755,651,20,85,0,5368,0
+2014,1.3,Used oils,Hazardous,30430,19240,3379,2161,213,1515,5477,17132,6279,32180,35070,1550,26974,572,1,140636,5801
+2014,1.3,Used oils,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,"1.4, 2, 3.1",Chemical wastes,Hazardous,170649,32470,3040,3230,4397,9936,35325,230109,3609,36656,22313,868,7097,1652,288,113676,3074
+2014,"1.4, 2, 3.1",Chemical wastes,Non-hazardous,103,303,3281,1993,419,8029,3077,56775,2375,28623,4271,878,283,7078,78,27964,7005
+2014,3.2,Industrial effluent sludges,Hazardous,49,68391,4714,160,73,1627,7072,5387,158,4844,3158,37,2762,340,100,5773,0
+2014,3.2,Industrial effluent sludges,Non-hazardous,0,4986,114390,3931,1698,117391,1644,43537,10352,29989,4838,278,9635,39414,0,17334,0
+2014,3.3,Sludges & liquid wastes from waste treatment,Hazardous,0,0,0,0,0,4,4682,334,14,0,95,0,7,0,0,808,0
+2014,3.3,Sludges & liquid wastes from waste treatment,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,5,Health care & biological wastes,Hazardous,31,7,7383,139,3,165,3,611,42,44,22,28,2864,123,0,239195,0
+2014,5,Health care & biological wastes,Non-hazardous,1471,5,33,2,1,6,2,318,3,5,27,503,1,0,0,185902,1374
+2014,6.1,"Metallic wastes, ferrous",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,6.1,"Metallic wastes, ferrous",Non-hazardous,6712,2795,505,36,0,0,0,391,0,406170,9731,16,794,0,1356963,811091,16151
+2014,6.2,"Metallic wastes, non-ferrous",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,6.2,"Metallic wastes, non-ferrous",Non-hazardous,416,510,0,0,0,0,0,0,0,44383,3821,0,4,0,374094,126928,5181
+2014,6.3,"Metallic wastes, mixed",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,6.3,"Metallic wastes, mixed",Non-hazardous,23084,23294,12843,323,7993,4466,2094,10382,9853,242051,88450,12572,4802,243,468043,1736440,315997
+2014,7.1,Glass wastes,Hazardous,0,0,30,0,1,0,9,51,15,0,11,0,0,0,0,119,0
+2014,7.1,Glass wastes,Non-hazardous,181,220,19629,94,440,239,11,5591,55814,214,589,1928,165,149,86976,462457,645936
+2014,7.2,Paper & cardboard wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,7.2,Paper & cardboard wastes,Non-hazardous,8192,2076,36576,4171,3147,106269,218,15037,2181,4668,19071,18746,1234,993,18553,927871,1209722
+2014,7.3,Rubber wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,7.3,Rubber wastes,Non-hazardous,14373,7,60,0,2,1,9,3225,1,47,254,1708,3,5,1176,478562,8711
+2014,7.4,Plastic wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,7.4,Plastic wastes,Non-hazardous,138091,766,35702,4118,3527,16932,4542,102296,3445,35286,26982,22631,940,2479,58599,436949,132595
+2014,7.5,Wood wastes,Hazardous,2,2,131,14,2637,252,2,203,39,284,291,169,16,6,0,3127,0
+2014,7.5,Wood wastes,Non-hazardous,2204,4821,17608,1623,136630,112710,328,22984,3908,30937,34058,33028,2985,2557,768833,308627,836640
+2014,7.6,Textile wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,7.6,Textile wastes,Non-hazardous,3,11,19820,43295,3,1709,48,1805,43,1059,2261,3940,192,20,121,33516,138302
+2014,7.7,Waste containing PCB,Hazardous,1,4,1,6,0,0,0,8,0,1,95,2,3543,0,2,864,0
+2014,7.7,Waste containing PCB,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,8,Discarded equipment,Hazardous,173,564,2489,3345,197,10532,67,1463,2337,3365,7909,5459,3813,300,758,181291,312762
+2014,8,Discarded equipment,Non-hazardous,192,468,2324,3491,270,6618,34,1528,879,2081,2784,5995,621,304,1580,187156,0
+2014,8.1,Discarded vehicles,Hazardous,32474,0,0,0,0,0,0,0,10,470,5711,21,4,1,72,51079,918125
+2014,8.1,Discarded vehicles,Non-hazardous,2254,0,2,0,0,0,0,1,0,0,0,0,23,0,16,431744,474
+2014,8.41,Batteries & accumulators wastes,Hazardous,4379,315,74,63,34,417,18,174,60,3363,3604,5,295,30,1039,60220,8986
+2014,8.41,Batteries & accumulators wastes,Non-hazardous,5,336,2,1,1,0,0,72,0,207,138,2,3,0,148,2279,242
+2014,9.1,Animal & mixed food waste,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,9.1,Animal & mixed food waste,Non-hazardous,22712,1758,1196573,0,124,91,4,909,5,1651,665,97,24552,849,84,1234137,465428
+2014,9.2,Vegetal wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,9.2,Vegetal wastes,Non-hazardous,16346,1400,964704,0,1372,1296,15,1714,11,77,273,28,1478,1390,6444,401305,4548966
+2014,9.3,"Animal faeces, urine & manure",Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,9.3,"Animal faeces, urine & manure",Non-hazardous,127416,0,27088,0,0,0,0,0,0,0,0,0,730,0,0,2422,0
+2014,10.1,Household & similar wastes,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,10.1,Household & similar wastes,Non-hazardous,5387,15467,190931,2134,5729,59854,3435,175330,3382,119223,69494,8724,8211,4642,63621,4739278,14807073
+2014,10.2,Mixed & undifferentiated materials,Hazardous,213,2354,728,35,220,137,523,1463,415,244,953,79,755,234,3,6856,0
+2014,10.2,Mixed & undifferentiated materials,Non-hazardous,17645,5783,130509,16315,4083,126253,1031,674972,8815,16929,28943,13165,3241,108348,3317,543104,3326112
+2014,10.3,Sorting residues,Hazardous,0,59,1,1,0,59,32,1731,3112,2313,1047,0,1,0,0,152,0
+2014,10.3,Sorting residues,Non-hazardous,0,1,2123,0,759,2338,6,3822,248,2927,984,1286,994,2491,15521,39092,0
+2014,11,Common sludges,Hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,11,Common sludges,Non-hazardous,713,312,90552,208,19,11908,514,1942,781,3204,2675,206,865,1109836,55,264377,0
+2014,12.1,Mineral waste from construction & demolition,Hazardous,0,0,336,67,31,90,143,969,244,216,574,47,1184,88,418589,10585,0
+2014,12.1,Mineral waste from construction & demolition,Non-hazardous,0,84,1388,1,6323,2,114,3230,10319,36167,451,113,822,478,51700882,30276,0
+2014,"12.2, 12.3, 12.5",Other mineral wastes,Hazardous,25254,16272,1291,640,303,391,1473,2233,5587,11609,5446,95,2798,625,27095,20775,0
+2014,"12.2, 12.3, 12.5",Other mineral wastes,Non-hazardous,75,26071378,27877,2,125,5,868,184924,135219,141482,723,310,2048,48790,0,20162,0
+2014,12.4,Combustion wastes,Hazardous,0,0,18,16,3541,4485,31,15,5176,25847,192,0,6654,0,0,17940,0
+2014,12.4,Combustion wastes,Non-hazardous,0,0,12,0,31,2,0,0,2107,288476,0,42,2998562,46,0,14093,0
+2014,12.6,Soils,Hazardous,0,53,307,46,16,2,272,1839,84,2515,1914,0,8469,185,295799,17621,0
+2014,12.6,Soils,Non-hazardous,6850,5640,5640,0,5640,5,0,6987,6744,475,0,0,5658,5663,53175861,673628,0
+2014,12.7,Dredging spoils,Hazardous,0,0,0,0,0,234,32,758,0,0,2,0,0,0,757,325,0
+2014,12.7,Dredging spoils,Non-hazardous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11503261,0,0
+2014,"12.8, 13",Mineral waste from waste treatment & stabilised waste,Hazardous,0,0,0,0,0,9004,390,8,12130,10,9,0,3872,37,0,4286,0
+2014,"12.8, 13",Mineral waste from waste treatment & stabilised waste,Non-hazardous,0,0,971,0,0,0,0,0,138,2,0,0,0,0,42508,19,0

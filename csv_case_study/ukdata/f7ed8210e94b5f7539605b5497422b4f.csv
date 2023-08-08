@@ -1,0 +1,9 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction number,Amount,VAT reg no.
+
+Department of Health,Oxfordshire Learning Disability NHS Trust,16/08/2011,Additions,Capital Spend,D.C Builders & Sons (Coventry) Ltd,40732,"£25,495.67",
+Department of Health,Oxfordshire Learning Disability NHS Trust,26/08/2011,Additions,Capital Spend,SPV Road Carpet Ltd,11098,"£52,125.36",
+Department of Health,Oxfordshire Learning Disability NHS Trust,26/08/2011,Consultancy,Management Support,Grant Thornton,6504884,"£55,080.00",
+Department of Health,Oxfordshire Learning Disability NHS Trust,08/08/2011,Systems Development,Management Support,Oxford Radcliffe Hosp NHS Trust,8129162,"£68,603.86",
+Department of Health,Oxfordshire Learning Disability NHS Trust,08/08/2011,Systems Development,Management Support,Oxford Radcliffe Hosp NHS Trust,8129163,"£68,603.86",
+
+,,,,,,,"£269,908.75",

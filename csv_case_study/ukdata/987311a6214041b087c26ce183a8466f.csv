@@ -1,0 +1,181 @@
+Table,Notes
+1.1,IBAm = Incinerator bottom ash metal
+1.1,Source: WasteDataFlow
+1.1,UK estimates for ‘Waste from households’ have been calculated in accordance with the Waste Framework Directive.  
+1.1,‘Waste from households’ includes waste from:
+1.1,     Regular household collection
+1.1,     Civic amenity sites
+1.1,     ‘Bulky waste’
+1.1,     ‘Other household waste’
+1.1,‘Waste from households’ excludes waste from:
+1.1,     Street cleaning/sweeping
+1.1,     Gully emptying
+1.1,     Separately collected healthcare waste
+1.1,"     Soil, Rubble, Plasterboard & Asbestos wastes"
+1.1,"Whilst the general approach is consistent across UK countries, aggregation method and the wording of some questions completed by Local Authorities varies.  "
+1.1,Users should be aware that individual UK countries other than England publish household recycling estimates using alternative measures and as such may differ from the estimates published here. 
+1.1,Local Authorities in England may also use an alternative measure to 'Waste from Households'.
+1.1,The NI waste from households data previously reported in Dec 2015 used the England WfH calculation for the years 2013 and 2014.                                                                                                                                                                                                                        
+1.1,A new WfH calculation specific to NI has been used for 2015 which now correctly excludes certain Construction & Demolition wastes from the Recycled tonnage.     
+1.1,In order to provide a uniform comparison ALL previous years for NI have been recalculated.
+1.1,England figure for 2015 revised in February 2018 due to minor methodological changes.
+1.1,"Incineration bottom ash (IBA) metals are now included within the recycling rate calculations, though the date from which these have been included varies for each country:"
+1.1,"     England and Scotland have both included IBA metals for data from 2015 onwards, when Q100 was introduced. England data only includes IBA metals from April 2015, when Q100 came into full use by all local authorities."
+1.1,"     For Wales, Q100 was introduced in 2012. Wales figures for 2012-2014 have been revised in this release to remove IBA metals. These are included for 2015 and 2016 in line with the other UK countries."
+1.1,"     NI did not have any incinerators that burnt municipal waste collected by local authorities in this period, so no WfH IBA metal was counted as recycled."
+2.1,"Source: Waste Data Interrogator, Defra Statistics"
+2.1,UK estimates for biodegradable municipal waste (BMW) to landfill have been calculated in accordance with the Landfill Directive and a consistent approach is used by all UK countries
+2.1,"Within the Landfill Directive the UK has three targets to meet, measured as a percentage of the tonnage of BMW generated in 1995 (‘the 1995 baseline’).  These require the tonnage of BMW to landfill to be:"
+2.1,     No greater than 75% of the 1995 baseline by 2010
+2.1,     No greater than 50% of the 1995 baseline by 2013
+2.1,     No greater than 35% of the 1995 baseline by 2020 
+2.1,     The 2010 and 2013 targets have already been met by the UK
+2.1,'Municipal waste' is defined here using a list of EWC (European Waste Classification) codes agreed across the UK
+2.1,"Countries use broadly similar, but non-identical sets of factors to estimate the proportion of municipal waste to landfill that is biodegradable"
+2.1,Wales introduced new biodegradability factors in 2013 and have backdated 2010-12 accordingly
+2.1,Scotland have revised figures for 2010-14 to reflect an improvement in methodology
+2.1,"New factors were adopted by England in 2014 for the two EWC codes that dominate Municipal Waste, based upon a commissioned study of landfill waste composition"
+2.1,The 1995 target baseline was modelled and agreed in 2010
+2.1,"Waste here is categorised using European Wast Catalogue (EWC) codes, as part of the Waste Framework Directive"
+2.2,BMW = Biodegradable municipal waste
+2.2,"19 12 12 = Wastes from mechanical treatment of wastes including mixtures of materials, other than those mentioned in EWC code 19 11 11"
+2.2,20 03 01 = Mixed municipal waste
+2.2,Other' includes all EWC codes included in the BMW to landfill calculations other than  19 12 12 and 20 03 01
+2.2,"Source: Waste Data Interrogator, Defra Statistics"
+2.2,UK estimates for biodegradable municipal waste (BMW) to landfill have been calculated in accordance with the Landfill Directive and a consistent approach is used by all UK countries
+2.2,"Within the Landfill Directive the UK has three targets to meet, measured as a percentage of the tonnage of BMW generated in 1995 (‘the 1995 baseline’).  These require the tonnage of BMW to landfill to be:"
+2.2,     No greater than 75% of the 1995 baseline by 2010
+2.2,     No greater than 50% of the 1995 baseline by 2013
+2.2,     No greater than 35% of the 1995 baseline by 2020 
+2.2,     The 2010 and 2013 targets have already been met by the UK
+2.2,'Municipal waste' is defined here using a list of EWC (European Waste Classification) codes agreed across the UK
+2.2,"Countries use broadly similar, but non-identical sets of factors to estimate the proportion of municipal waste to landfill that is biodegradable"
+2.2,Wales introduced new biodegradability factors in 2013 and have backdated 2010-12 accordingly
+2.2,Scotland have revised figures for 2010-14 to reflect an improvement in methodology
+2.2,"New factors were adopted by England in 2014 for the two EWC codes that dominate Municipal Waste, based upon a commissioned study of landfill waste composition"
+2.2,The 1995 target baseline was modelled and agreed in 2010
+2.2,"Waste here is categorised using European Waste Catalogue (EWC) codes, as part of the Waste Framework Directive"
+3.1,Source: Defra Statistics
+3.1,UK estimates of recovery rates from non-hazardous construction & demolition (C&D) waste have been calculated for reporting against the EC Waste Framework Directive.
+3.1,Under this Directive there is a target for the UK to recover at least 70 per cent of non-hazardous C&D waste by 2020.
+3.1,"Accurately quantifying C&D waste is challenging and whilst the absolute tonnage figures are subject to a relatively high level of uncertainty, there is not a significant impact on the final recovery rate.   "
+3.1,Excludes excavation waste
+3.1,"From 2012, Northern Ireland and Wales only produce C&D recovery rate estimates for even years, which matches the requirements of the Waste Framework Directive.  Therefore the average of their 2012 and 2014 estimates have been used for 2013."
+3.1,Figures for 2010-12 were revised in the update published on 15 December 2016 to reflect improvements to the England methodology
+4.1,Source: Defra Statistics
+4.1,Commercial & industrial (C&I) waste generation represents a subset of the estimates prepared in order to comply with Waste Statistics Regulation reporting requirements
+4.1,'Commercial & Industrial' here is defined as a specific collection of economic activities described by NACE (‘statistical classification of economic activities in the European Community’) 
+4.1,"Those considered to be C&I here are: C, D, E36-37, E39 and G-U (excluding G46.7.7)."
+4.1,"Data sources and detailed approaches may differ slightly between UK countries, but overarching principles will be consistent. "
+4.1,"Methodology used for England is based on that provided by Defra Science and Research Project EV0804.  This has been reviewed internally and several adjustments made, resulting in significant differences to the 2010 and 2012 estimates that were originally published from the project."
+4.1,"Devolved administrations only produce C&I estimates on this basis for even years, which matches the requirements of the Waste Statistics Regulation."
+4.1,All figures have been revised substantially from previous publications following a thorough review of the England methodology. 
+4.1,"All figures are provisional and subject to change until the revisions have been approved by Eurostat following the WStatR submission in June 2018. Additionally, minor revisions may be necessary when the waste type breakdown is produced for the WStatR, e.g. owing to differences in point of tonnage recording between WasteDataFlow and Waste Data Interrogator."
+5.1,All figures are in tonnes
+5.1,EWC STAT code 08 shown here excludes 08.1 and 08.41
+5.1,Source: Waste Statistics Regulation return
+5.1,EWC-STAT is the European Waste Classification for Statistics.  It consolidates European Waste Classification (EWC) codes as described in COMMISSION REGULATION (EU) No 849/2010
+5.1,Link to COMMISSION REGULATION (EU) No 849/2010
+5.1,More information on the EWC-STAT waste type categorisation can be found on p24 of the Eurostat publication 'Manual on Waste Statistics'
+5.1,Link to 'Manual on Waste Statistics'
+5.1,Link to full list of the components of each EWC-STAT waste type classification.
+5.1,The waste category (row) 'Household & similar' refers to waste type and may be generated by any industry.  Similarly 'Mineral waste from construction & demolition' may be generated by any industry.
+5.1,Waste material categories report materials where they are separately identifiable.  Residual waste categories may also include a proportion of the same materials in an unidentified form.
+5.1,NACE: the ‘General Industrial Classification of Economic Activities’. 
+5.1,Link to the official list of NACE codes
+5.1,Industry column 'F Construction' includes excavation waste and dreding spoils
+5.1,"Industry column 'EP_HH Households' is based on the 'Waste from Households' measure used for household recycling reporting, but is also subject to minor additional adjustments"
+5.1,"Defra Statistics define 'Commercial & Industrial' waste to be NACE C + NACE D + NACE E36_E37_E39 + NACE G-U_X_G4677, with NACE G-U_X_G4677 representing the 'Commercial' element (leaving the remainder as 'Industrial)."
+5.1,More information on industry categorisation can be found on p21 of the Eurostat publication 'Manual on Waste Statistics'
+5.1,Link to 'Manual on Waste Statistics'
+5.1,The categorisation of waste by type and the generating industry is difficult and can be subjective.  Therefore users should exercise caution when using breakdowns of these statistics
+5.1,Excludes 'secondary waste' (waste leaving treatment facilities).  Some estimates of 'Total waste' published by Eurostat from the same dataset may include 'secondary waste'
+5.1,Sludges and dredging spoils are reported as dry weight.  In some cases raw data assumed to be wet weight has been adjusted to a dry weight equivalent
+5.1,Includes waste that may go on to be exported
+5.1,Some figures for 2012 were revised in December 2016 to reflect methodological improvements to England construction waste estimates.
+5.1,"Waste here is categorised using European Wast Catalogue (EWC) codes, as part of the Waste Framework Directive"
+5.2,All figures are in tonnes
+5.2,EWC STAT code 08 shown here excludes 08.1 and 08.41
+5.2,Source: Waste Statistics Regulation return
+5.2,EWC-STAT is the European Waste Classification for Statistics.  It consolidates European Waste Classification (EWC) codes as described in COMMISSION REGULATION (EU) No 849/2010
+5.2,Link to COMMISSION REGULATION (EU) No 849/2010
+5.2,More information on the EWC-STAT waste type categorisation can be found on p24 of the Eurostat publication 'Manual on Waste Statistics'
+5.2,Link to 'Manual on Waste Statistics'
+5.2,Link to full list of the components of each EWC-STAT waste type classification.
+5.2,The waste category (row) 'Household & similar' refers to waste type and may be generated by any industry.  Similarly 'Mineral waste from construction & demolition' may be generated by any industry.
+5.2,Waste material categories report materials where they are separately identifiable.  Residual waste categories may also include a proportion of the same materials in an unidentified form.
+5.2,NACE: the ‘General Industrial Classification of Economic Activities’. 
+5.2,Link to the official list of NACE codes
+5.2,Industry column 'F Construction' includes excavation waste and dreding spoils
+5.2,"Industry column 'EP_HH Households' is based on the 'Waste from Households' measure used for household recycling reporting, but is also subject to minor additional adjustments"
+5.2,"Defra Statistics define 'Commercial & Industrial' waste to be NACE C + NACE D + NACE E36_E37_E39 + NACE G-U_X_G4677, with NACE G-U_X_G4677 representing the 'Commercial' element (leaving the remainder as 'Industrial)."
+5.2,More information on industry categorisation can be found on p21 of the Eurostat publication 'Manual on Waste Statistics'
+5.2,Link to 'Manual on Waste Statistics'
+5.2,The categorisation of waste by type and the generating industry is difficult and can be subjective.  Therefore users should exercise caution when using breakdowns of these statistics
+5.2,Excludes 'secondary waste' (waste leaving treatment facilities).  Some estimates of 'Total waste' published by Eurostat from the same dataset may include 'secondary waste'
+5.2,Sludges and dredging spoils are reported as dry weight.  In some cases raw data assumed to be wet weight has been adjusted to a dry weight equivalent
+5.2,Includes waste that may go on to be exported
+5.2,Some figures for 2012 were revised in December 2016 to reflect methodological improvements to England construction waste estimates.
+5.2,"Waste here is categorised using European Wast Catalogue (EWC) codes, as part of the Waste Framework Directive"
+5.3,All figures are in tonnes
+5.3,EWC STAT code 08 shown here excludes 08.1 and 08.41
+5.3,Source: Waste Statistics Regulation return
+5.3,EWC-STAT is the European Waste Classification for Statistics.  It consolidates European Waste Classification (EWC) codes as described in COMMISSION REGULATION (EU) No 849/2010
+5.3,Link to COMMISSION REGULATION (EU) No 849/2010
+5.3,More information on the EWC-STAT waste type categorisation can be found on pg24 of the Eurostat publication 'Manual on Waste Statistics'
+5.3,Link to 'Manual on Waste Statistics'
+5.3,Link to full list of the components of each EWC-STAT waste type classification.
+5.3,The waste category (row) 'Household & similar' refers to waste type and may be generated by any industry.  Similarly 'Mineral waste from construction & demolition' may be generated by any industry.
+5.3,Waste material categories report materials where they are separately identifiable.  Residual waste categories may also include a proportion of the same materials in an unidentified form
+5.3,NACE: the ‘General Industrial Classification of Economic Activities’. 
+5.3,Link to the official list of NACE codes
+5.3,The categorisation of waste by type is difficult and can be subjective.  Therefore users should exercise caution when using breakdowns of these statistics
+5.3,There is no direct reconciliation between generation (detailed in other templates in this dataset) and final treatment of total waste.  Different methodology is used to estimate generation and final treatment and therefore caution should be exercised if the two are compared  
+5.3,Sludges and dredging spoils are reported as dry weight.  In some cases raw data assumed to be wet weight has been adjusted to a dry weight equivalent
+5.3,Includes waste that may have been imported
+5.3,Some figures for 2012 were revised in December 2016 to reflect methodological improvements to England construction waste estimates
+5.3,"Waste here is categorised using European Wast Catalogue (EWC) codes, as part of the Waste Framework Directive"
+5.4,All figures are in tonnes
+5.4,EWC STAT code 08 shown here excludes 08.1 and 08.41
+5.4,Source: Waste Statistics Regulation return
+5.4,EWC-STAT is the European Waste Classification for Statistics.  It consolidates European Waste Classification (EWC) codes as described in COMMISSION REGULATION (EU) No 849/2010
+5.4,Link to COMMISSION REGULATION (EU) No 849/2010
+5.4,More information on the EWC-STAT waste type categorisation can be found on pg24 of the Eurostat publication 'Manual on Waste Statistics'
+5.4,Link to 'Manual on Waste Statistics'
+5.4,Link to full list of the components of each EWC-STAT waste type classification.
+5.4,The waste category (row) 'Household & similar' refers to waste type and may be generated by any industry.  Similarly 'Mineral waste from construction & demolition' may be generated by any industry.
+5.4,Waste material categories report materials where they are separately identifiable.  Residual waste categories may also include a proportion of the same materials in an unidentified form
+5.4,NACE: the ‘General Industrial Classification of Economic Activities’. 
+5.4,Link to the official list of NACE codes
+5.4,The categorisation of waste by type is difficult and can be subjective.  Therefore users should exercise caution when using breakdowns of these statistics
+5.4,There is no direct reconciliation between generation (detailed in other templates in this dataset) and final treatment of total waste.  Different methodology is used to estimate generation and final treatment and therefore caution should be exercised if the two are compared  
+5.4,Sludges and dredging spoils are reported as dry weight.  In some cases raw data assumed to be wet weight has been adjusted to a dry weight equivalent
+5.4,Includes waste that may have been imported
+5.4,Some figures for 2012 were revised in December 2016 to reflect methodological improvements to England construction waste estimates
+5.4,"Waste here is categorised using European Wast Catalogue (EWC) codes, as part of the Waste Framework Directive"
+6.1,*includes closed facilities
+6.1,MSW = Municipal solid waste
+6.1,"Source: Waste Statistics Regulation return, Defra Statistics"
+6.1,"'Energy recovery' refers to facilities where the main purpose is generation of energy, or formal R1 accreditation has been awarded"
+6.1,Defra collates summaries from the environment agencies of all four UK countries of facilities authorised by mandatory permit or license.  
+6.1,The data excludes facilities that were formally closed throughout the reference year but does not identify permitted facilities which were non-operational in the reference year.  
+6.1,Facilities permitted only for treatment operations identified as intermediate (which include anaerobic digestion) are excluded from Table 6.1.  
+6.1,"Capacity is based on the level authorised by permit or license with the exception of some small scale incinerators where the permit did not feature capacity.  In these cases, operational capacity is used.  "
+6.1,Small scale ‘LAPPC’ (Local Authority Pollution Prevention and Control) incinerators have not been included for England.
+6.1,"Only facilities that have R1 accreditation have been included as ‘Energy Recovery’, in accordance with EU definitions.  R1 accreditation is an EC standard based on efficiency factors.  Application is voluntary, so the number of plants meeting R1 standards may be in excess of the number that are actually accredited."
+6.1,"In 2012, no Municipal Waste Incinerators had formal R1 status.  These have been included as 'Incineration'."
+6.1,Recovery operations covered by simple exemptions or simple registrations are not included.  These operations are classed as low risk or low volume and do not have to report activity to Environment Agencies. 
+6.1,"The permitted capacity of Energy Recovery and Incineration facilities includes municipal, commercial and industrial waste, and will be higher than the actual volume of waste treated."
+6.1,Excludes recovery facilities operating solely under a waste exemption
+6.1,For 2012 data:
+6.1,"     UK Number of facilities for 'Recovery other than energy recovery' revised from 3,614 on 10 October 2014"
+6.1,"     England Number of facilities for 'Recovery other than energy recovery' revised from 1,971 on 10 October 2014"
+6.1,     Revised on 25 March 2015 to reflect more accurate classification of energy recovery facilities 
+7.1,2016 figures are provisional and subject to change
+7.1,Source: Defra Statistics
+7.1,These statistics have been calculated to fulfil a reporting requirement to Eurostat at UK level in relation to the EC Packaging and Packaging Waste Directive (94/62/EC).  Calendar year figures are submitted to Eurostat in the June of the year after next. 2016 figures will be submitted in June 2018 and will remain provisional until these have been approved by Eurostat.
+7.1,Figures are compiled from the National Packaging Waste Database (NPWD) and industry reports.
+7.1,Only includes obligated packaging producers (handle 50 tonnes of packaging materials or packaging and have a turnover more than £2 million a year)
+7.1,'Recovery' in these tables refer specifically to waste used for energy recovery.
+7.1,"The recovery figure includes waste sent to facilities that did not meet the R1 recovery energy efficiency thresholds, but were considered eligible based on the Packaging Directive, which states “‘energy recovery’ shall mean the use of combustible packaging waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat”."
+7.1,"In 2013, 72.7% of packaging waste was either recycled or recovered. The main driver for the drop after 2013 was the adoption of a new paper and cardboard ‘placed on market’ estimate published in a bespoke industry report. This represents a significant increase in the estimated level of waste arisings compared to that assumed for 2012 and 2013. "

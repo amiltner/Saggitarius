@@ -1,0 +1,657 @@
+Payment Date,Transaction id,Supplier,Expense Type,Expense Area,Amount in Sterling,Supplier VAT Registration Number
+05/10/2010,2650602,3M Health Care Ltd,Contractor Costs,Health Directorate - Payment by Results,35810,362586629
+26/10/2010,2650992,42 Bedford Row,Legal & Professional Fees,Legal Directorate,16600,872278594
+28/10/2010,2651258,Anglia Ruskin University,Student Training,Graduate Trading Account,925,637150940
+26/10/2010,2651095,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Regional Director - Ops Northern,4894.27,334331879
+26/10/2010,2651099,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Housing Southern,3635.6,334331879
+26/10/2010,2651098,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,3599.32,334331879
+26/10/2010,2651097,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,East Midlands Sub-Region - Ops Central,3466.08,334331879
+26/10/2010,2651100,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,North East and Humberside,2932.99,334331879
+26/10/2010,2651096,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of Ops - South West - Ops Southern,2766.99,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,London operational staff,669.31,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Regional Director - Ops Central,636.73,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Ops - South West - Ops Southern,541.26,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Housing Central,493.28,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Regional Costs - Ops Southern,466.96,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,HR Training and Development,416.84,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Technical Support Team,408.05,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,371.63,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Regional Director - Ops Central,360.78,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South Central - Ops Southern,334.32,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,324.38,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,302.22,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,235.29,334331879
+26/10/2010,2651096,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of Ops - South West - Ops Southern,54.6,334331879
+26/10/2010,2651100,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,North East and Humberside,53.4,334331879
+26/10/2010,2651097,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,East Midlands Sub-Region - Ops Central,52.8,334331879
+26/10/2010,2651095,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Regional Director - Ops Northern,52.32,334331879
+26/10/2010,2651098,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Head of North West Management - Ops Northern,50.28,334331879
+26/10/2010,2651099,Arnold Clark Finance Ltd,Car Lease Costs - Purchases,Housing Southern,40.92,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,London operational staff,17,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Regional Director - Ops Central,14.39,334331879
+14/10/2010,2650749,Arnold Clark Finance Ltd,Car Termination Penalties,Head of Operations - South East - Ops Southern,12.22,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,11.89,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Housing Central,10.81,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Ops - South West - Ops Southern,8.96,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of North West Management - Ops Northern,8.5,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South Central - Ops Southern,7.67,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,6.83,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,HR Training and Development,5.79,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Regional Costs - Ops Southern,5.74,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Regional Director - Ops Central,5.73,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Technical Support Team,5.67,334331879
+14/10/2010,2650733,Arnold Clark Finance Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,5.62,334331879
+14/10/2010,2650749,Arnold Clark Finance Ltd,Car Termination Penalties,Head of Operations - South East - Ops Southern,0.18,334331879
+14/10/2010,2650749,Arnold Clark Finance Ltd,Car Termination Penalties,Head of Operations - South East - Ops Southern,-10.65,334331879
+14/10/2010,2650749,Arnold Clark Finance Ltd,Car Termination Penalties,Head of Operations - South East - Ops Southern,-704.32,334331879
+07/10/2010,2650577,Ashridge Consulting Group Ltd,Staff Training,Studies,726,596272403
+28/10/2010,2651249,Atlantic Business Centre,Rent Licences (Not Leased),Asset Management & Sustainability,1580,875028705
+28/10/2010,2651229,Auditware Systems Ltd,Software Support & Maintenance,Core IT,5910,472876113
+26/10/2010,2650991,Automotive Leasing,Car Lease Costs - Purchases,Housing Northern,3759.97,442558739
+19/10/2010,2650929,Automotive Leasing,Car Lease Costs - Purchases,North East and Humberside,3518.75,442558739
+26/10/2010,2650982,Automotive Leasing,Car Lease Costs - Purchases,HR Policy and Advice,2812.28,442558739
+05/10/2010,2650631,Banner Managed Communication,Publications (External),Communications - Marketing,1105.33,880987073
+12/10/2010,2650756,Banner Managed Communication,Corporate Subscriptions,Communications - Marketing,750,880987073
+19/10/2010,2650890,Bates Wells & Braithwaite,Legal Fees for advice to Auditors,London operational staff,1760,244270186
+19/10/2010,2650922,Bevan Brittan LLP,Legal & Professional Fees,Legal Directorate,827.91,840723148
+19/10/2010,2650922,Bevan Brittan LLP,Legal & Professional Fees,Legal Directorate,484.55,840723148
+14/10/2010,2650876,BPP Professional Education,Legal & Professional Fees,HR Training and Development,1000,466451629
+14/10/2010,2650796,British Gas Business,"Heat, Light & Power",Asset Management & Sustainability,5307.7,684966762
+14/10/2010,2650800,British Gas Business,"Heat, Light & Power",Asset Management & Sustainability,1556.09,684966762
+14/10/2010,2650804,British Gas Business,"Heat, Light & Power",Asset Management & Sustainability,985.42,684966762
+14/10/2010,2650803,British Gas Business,"Heat, Light & Power",Asset Management & Sustainability,712.17,684966762
+14/10/2010,2650802,British Gas Business,"Heat, Light & Power",Asset Management & Sustainability,590.02,684966762
+26/10/2010,2650949,BT Business Comm,Telecommunications Rental & Maintenance,Core IT,17445.17,245719348
+12/10/2010,2650720,BT Conferencing,Other Supplies & Services Expenses,Regional Support Costs - Ops Central,857.22,245719348
+26/10/2010,2651191,BT Lynx Engage IT,IT Equipment Repairs & Maintenance,Core IT,12208,245719348
+26/10/2010,2651194,BT Lynx Engage IT,IT Equipment Repairs & Maintenance,Core IT,9740,245719348
+19/10/2010,2650924,BT Lynx Engage IT,IT Equipment Repairs & Maintenance,Core IT,1849.07,245719348
+26/10/2010,2651193,BT Lynx Engage IT,IT Equipment Repairs & Maintenance,Core IT,1353,245719348
+26/10/2010,2651192,BT Lynx Engage IT,IT Equipment Repairs & Maintenance,Core IT,1249.6,245719348
+01/10/2010,GPCOCT14,Butterworth Tolley,Printing (Internal),HR Training and Development,703.83,
+14/10/2010,2650793,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,18398.36,232303710
+14/10/2010,2650847,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,14272.14,232303710
+14/10/2010,2650122,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,4143.51,232303710
+14/10/2010,2650794,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,3293.65,232303710
+14/10/2010,2650750,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,1696,232303710
+14/10/2010,2650814,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,727.17,232303710
+14/10/2010,2650849,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,602.84,232303710
+14/10/2010,2650850,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,558.58,232303710
+14/10/2010,2650067,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,-4171,232303710
+14/10/2010,2650252,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,-7718.26,232303710
+14/10/2010,2650068,Cable & Wireless Communications,Telecommunications Rental & Maintenance,Core IT,-8489,232303710
+07/10/2010,2650630,Canada Life Ltd,Rent Licences (Not Leased),Asset Management & Sustainability,750,231505504
+19/10/2010,2650973,Cannon Hygiene Ltd,Cleaning & Hygiene,Westward House,736.68,238034379
+19/10/2010,2650974,Cannon Hygiene Ltd,Cleaning & Hygiene,Millbank - Facilities,711.75,238034379
+14/10/2010,2650567,Care Quality Commission,Contractor Costs,Health and Wellbeing,8444.47,948043217
+14/10/2010,2650567,Care Quality Commission,Contractor Mileage,Health and Wellbeing,143.4,948043217
+14/10/2010,2650567,Care Quality Commission,Contractor Travel & Subsistence Expenses,Health and Wellbeing,5,948043217
+05/10/2010,2650552,Carillion,Service Charges,Asset Management & Sustainability,1629.16,
+19/10/2010,2650921,Carillion,Service Charges,Asset Management & Sustainability,1007.05,
+05/10/2010,2650552,Carillion,Service Charges,Asset Management & Sustainability,428.37,
+21/10/2010,GPCOCT15,CCH Professional Development,Books,HR Training and Development,820.15,
+26/10/2010,2651107,Cedar Consulting (UK) Ltd,Software Support & Maintenance,Core IT,2500,864438889
+19/10/2010,2650944,CIPFA,Student Training,Graduate Trading Account,20980,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,8745,627390725
+26/10/2010,2651123,CIPFA,Student Training,Graduate Trading Account,7560,627390725
+26/10/2010,2651124,CIPFA,Student Training,Graduate Trading Account,4270,627390725
+19/10/2010,2650944,CIPFA,Student Training,Graduate Trading Account,4185,627390725
+19/10/2010,2650942,CIPFA,Student Training,Graduate Trading Account,3930,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,2805,627390725
+26/10/2010,2651123,CIPFA,Student Training,Graduate Trading Account,2695,627390725
+19/10/2010,2650943,CIPFA,Student Training,Graduate Trading Account,2135,627390725
+19/10/2010,2650942,CIPFA,Student Training,Graduate Trading Account,1375,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1295,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1240,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1240,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1130,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,1100,627390725
+19/10/2010,2651024,CIPFA,Student Training,Graduate Trading Account,1080,627390725
+19/10/2010,2651028,CIPFA,Student Training,Graduate Trading Account,1080,627390725
+19/10/2010,2651029,CIPFA,Student Training,Graduate Trading Account,1080,627390725
+19/10/2010,2651030,CIPFA,Student Training,Graduate Trading Account,1080,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,1000,627390725
+26/10/2010,2651124,CIPFA,Student Training,Graduate Trading Account,930,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,900,627390725
+05/10/2010,2650616,CIPFA,Student Training,Graduate Trading Account,780,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,780,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,780,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,780,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,780,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,780,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,780,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,620,627390725
+05/10/2010,2650591,CIPFA,Student Training,Graduate Trading Account,540,627390725
+19/10/2010,2651031,CIPFA,Student Training,Graduate Trading Account,540,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,520,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,520,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,515,627390725
+19/10/2010,2650943,CIPFA,Student Training,Graduate Trading Account,465,627390725
+12/10/2010,2650779,CIPFA,Student Training,Graduate Trading Account,440,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2651028,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2651029,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2651030,CIPFA,Student Training,Graduate Trading Account,385,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,285,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,275,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,275,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,260,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,260,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,260,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,260,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,260,627390725
+19/10/2010,2650945,CIPFA,Student Training,Graduate Trading Account,220,627390725
+19/10/2010,2651024,CIPFA,Student Training,Graduate Trading Account,220,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,200,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,200,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,200,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,200,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,200,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,180,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,180,627390725
+05/10/2010,2650591,CIPFA,Student Training,Graduate Trading Account,165,627390725
+19/10/2010,2651031,CIPFA,Student Training,Graduate Trading Account,165,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,135,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,100,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,100,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,100,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,100,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,90,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,90,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,90,627390725
+26/10/2010,2651123,CIPFA,Student Training,Graduate Trading Account,75,627390725
+19/10/2010,2650960,CIPFA,Student Training,Graduate Trading Account,45,627390725
+26/10/2010,2651062,CIPFA,Student Training,Graduate Trading Account,-110,627390725
+26/10/2010,2651060,CIPFA,Student Training,Graduate Trading Account,-165,627390725
+21/10/2010,1024425,City of Westminster S/O,Business Rates,Estate Management,"66,731.00",
+19/10/2010,2650903,Clarke Willmott,Property Services Professional Fees,Asset Management & Sustainability,1320,N/A
+21/10/2010,2651081,Computacenter (UK) Ltd,IT Disks & Consumables,Core IT,1038.6,490334648
+19/10/2010,2650134,Connect Water Systems Central Ltd,Office Equipment Repairs & Maintenance,Business Unit - Ops Northern,1058.43,795114416
+26/10/2010,2650898,Connect Water Systems Central Ltd,Office Equipment Repairs & Maintenance,Business Unit - Ops Northern,509.7,795114416
+07/10/2010,2650715,Corporate Media Supplies Ltd,Sundry Debtors,Audit Policy Division,823.2,614075562,Eurorai
+07/10/2010,2650714,Corporate Media Supplies Ltd,Sundry Debtors,Audit Policy Division,536,614075562,Eurorai
+05/10/2010,2650560,Countdown,Printing (Internal),HR Service Centre,551.49,852966096,
+05/10/2010,2650615,D&A Consultancy,Contractor Costs,Health Directorate - Payment by Results,27125,831208657,
+19/10/2010,2650907,Davitt Jones Bould - MAIN ACCOUNT,Property Services Professional Fees,Asset Management & Sustainability,1464,729159704,
+19/10/2010,2650904,Davitt Jones Bould - MAIN ACCOUNT,Property Services Professional Fees,Asset Management & Sustainability,602.67,729159704,
+19/10/2010,2650904,Davitt Jones Bould - MAIN ACCOUNT,Property Services Professional Fees,Asset Management & Sustainability,5,729159704,
+26/10/2010,2651070,Deloitte LLP No 2 Account,Contractor Costs,Technical Support Team,8557,809707706,
+14/10/2010,2650556,Deloitte LLP No 2 Account,Contractor Costs,Studies,2550,809707706,
+19/10/2010,2650977,Dish,Sundry Debtors,Audit Policy Division,4425,805345152,Eurorai
+21/10/2010,2651086,Dotted Eyes Ltd,Corporate Subscriptions,Analysis and Statistics,600,551428257,
+19/10/2010,2650969,Edenred (UK Group) Ltd,Health & Safety (Non Furniture),HR Service Centre,2549.75,649503520,
+07/10/2010,2650657,EDF Energy,"Heat, Light & Power",Asset Management & Sustainability,3715.74,523041202,
+07/10/2010,2650658,EDF Energy,"Heat, Light & Power",Asset Management & Sustainability,1292.88,523041202,
+19/10/2010,2650932,Essential Energy Ltd,Sustainability Fees,Asset Management & Sustainability,439.98,664475311,
+07/10/2010,2650669,Evans Easyspace Limited,Rent Licences (Not Leased),Asset Management & Sustainability,1469.85,827569487,
+05/10/2010,2650553,Expotel Hotel Reservations Ltd,Expotel BIF Control Account,All,5689.77,
+07/10/2010,2650708,Expotel Hotel Reservations Ltd,Expotel BIF Control Account,All,5004.89,
+19/10/2010,2651007,Expotel Hotel Reservations Ltd,Expotel BIF Control Account,All,8811.46,
+26/10/2010,2651115,Expotel Hotel Reservations Ltd,Expotel BIF Control Account,All,2483.79,
+26/10/2010,2651114,Expotel Hotel Reservations Ltd,Expotel BIF Control Account,All,1115.66,
+05/10/2010,2650651,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,364,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,280,927183118
+05/10/2010,2650651,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,276,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,237,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,155,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,122,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,116.5,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,101.4,927183118
+05/10/2010,2650651,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,96.7,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,65,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,56.6,927183118
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,42,927183118,
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,40,927183118,
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,35,927183118,
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,31.5,927183118,
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,31,927183118,
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,26,927183118,
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,23,927183118,
+05/10/2010,2650650,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,14,927183118,
+05/10/2010,2650651,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,5,927183118,
+05/10/2010,2650651,Flora-Tec Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,5,927183118,
+19/10/2010,2650979,Frank Thompson Photographics,Sundry Debtors,Audit Policy Division,700,N/A,Eurorai
+07/10/2010,2650718,FTC Kaplan,Staff Training,HR Training and Development,8000,830420767,
+05/10/2010,2650614,Gerald Eve LLP,Legal Fees for advice to Auditors,Professional Standards Division,1350,239254159,
+05/10/2010,2650614,Gerald Eve LLP,Legal Fees for advice to Auditors,Professional Standards Division,1200,239254159,
+05/10/2010,2650614,Gerald Eve LLP,Legal Fees for advice to Auditors,Professional Standards Division,800,239254159,
+07/10/2010,2650721,Gillards Worldwide Warehousing ICAEW,Staff Training,HR Training and Development,595,437097532,
+05/10/2010,2650442,Grant Thornton UK LLP (Northampton),Contractor Costs,Business Unit - Ops Northern,13500,835586102
+07/10/2010,2650717,Greensand Public Finance Consulting Ltd,Consultants (Non Time Sheet User),Audit Policy Division,5500,935056719
+19/10/2010,2650995,GVA Grimley LLP,Property Services Professional Fees,Asset Management & Sustainability,18804,897389636
+19/10/2010,2650993,GVA Grimley LLP,Property Services Professional Fees,Asset Management & Sustainability,2760,897389636
+26/10/2010,2651106,GVA Grimley LLP,Property Services Professional Fees,Asset Management & Sustainability,2652,897389636
+28/10/2010,2651212,GVA Grimley LLP,Property Services Professional Fees,Asset Management & Sustainability,1700,897389636
+26/10/2010,2650574,Hays Accountancy Personnel,Recruitment,Recruitment - Talent,5670,
+26/10/2010,2650573,Hays Accountancy Personnel,Recruitment,Recruitment - Talent,1402.1,
+14/10/2010,2650759,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,45340.23,
+14/10/2010,2650759,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,7936.16,
+28/10/2010,2650757,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,2798.58,
+12/10/2010,2650760,Hitachi Capital Vehicle Solutions Ltd,Hitachi BIF Control Account,All,2461.94,
+28/10/2010,2650757,Hitachi Capital Vehicle Solutions Ltd,Hitachi Lease BIF Suspense Account,All,2272.69,
+28/10/2010,2651160,Hitachi Capital Vehicle Solutions Ltd,Car Termination Penalties,Core IT,1210.23,823824822
+05/10/2010,2650425,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of North West Management - Ops Northern,979,823824822
+19/10/2010,2650838,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Ops - South West - Ops Southern,946.17,823824822
+05/10/2010,2650425,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Ops - South West - Ops Southern,209,823824822
+19/10/2010,2650838,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of North West Management - Ops Northern,153,823824822
+19/10/2010,2650838,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Ops - South West - Ops Southern,141,823824822
+05/10/2010,2650425,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,124,823824822
+19/10/2010,2650838,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,120,823824822
+19/10/2010,2650838,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Ops - South West - Ops Southern,120,823824822
+19/10/2010,2650838,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of North West Management - Ops Northern,120,823824822
+05/10/2010,2650425,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,72,823824822
+05/10/2010,2650425,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,52,823824822
+05/10/2010,2650425,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,West Midlands Sub-Region - Ops Central,44,823824822
+05/10/2010,2650425,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,West Midlands Sub-Region - Ops Central,16,823824822
+28/10/2010,2651163,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,-1.22,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Analysis and Statistics,-5,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Operations - South East - Ops Southern,-5,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,-5,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,London operational staff,-5,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Regional Core Team - Ops Southern,-5,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,AP&P Directorate Management,-5,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,East Midlands Sub-Region - Ops Central,-5,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,West Midlands Sub-Region - Ops Central,-5,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Audit Policy Division,-5,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Audit Regulations,-5,823824822
+28/10/2010,2651164,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Eastern Sub-Region - Ops Central,-5.15,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Operations - South East - Ops Southern,-10,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,LGH&CS management,-10,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,West Midlands Sub-Region - Ops Central,-10,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of North West Management - Ops Northern,-10,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,London operational staff,-10,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of North West Management - Ops Northern,-10,823824822
+14/10/2010,2650777,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of North West Management - Ops Northern,-10,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Operations - South East - Ops Southern,-10,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Operations - South East - Ops Southern,-10,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of North West Management - Ops Northern,-10,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,North East and Humberside,-10,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,West Midlands Sub-Region - Ops Central,-10,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Head of Operations - South East - Ops Southern,-10,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Research,-10,823824822
+14/10/2010,2650782,Hitachi Capital Vehicle Solutions Ltd,Car Miscellaneous Invoices,Information Management,-10,823824822
+14/10/2010,2650778,Hitachi Capital Vehicle Solutions Ltd,Car Lease Costs - Recharges & Extensions,AP&P Directorate Management,-100.69,823824822
+14/10/2010,2650791,Hitachi Capital Vehicle Solutions Ltd,Car Lease Costs - Recharges & Extensions,Governance and Counter Fraud Practice,-149.06,823824822
+14/10/2010,2650791,Hitachi Capital Vehicle Solutions Ltd,Car Lease Costs - Recharges & Extensions,Head of Operations - South East - Ops Southern,-154.96,823824822
+14/10/2010,2650778,Hitachi Capital Vehicle Solutions Ltd,Car Lease Costs - Recharges & Extensions,AP&P Directorate Management,-684.57,823824822
+14/10/2010,2650791,Hitachi Capital Vehicle Solutions Ltd,Car Lease Costs - Recharges & Extensions,Governance and Counter Fraud Practice,-1388.42,823824822
+12/10/2010,2650751,Hodgson Elkington & Co,Fixtures & Fittings (Revenue),Asset Management & Sustainability,18292.87,555494021
+19/10/2010,GPCOCT11,ILX Group,Staff Training,HR Training and Development,556.95,
+21/10/2010,2651084,Imago at Loughborough University,Staff Training,HR Training and Development,6705.77,558362124
+07/10/2010,2650626,ING Lease (UK) Ltd,Estates Winding Up Costs,Asset Management & Sustainability,2523.46,577613314
+19/10/2010,2651035,ING Lease (UK) Ltd,Office Equipment Rental,Millbank - Facilities,823.68,577613314
+05/10/2010,2650605,ING Lease (UK) Ltd,Office Equipment Rental,Regional Costs - Ops Northern,750.88,577613314
+19/10/2010,2650968,ING Lease (UK) Ltd,Office Equipment Rental,Head of Operations - South Central - Ops Southern,468.39,577613314
+19/10/2010,2651035,ING Lease (UK) Ltd,Office Equipment Repairs & Maintenance,Millbank - Facilities,29.79,577613314
+26/10/2010,GPCOCT12,Institute of Chartered Accountants,Other Supplies & Services Expenses,HR Training and Development,609.83,
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,8011.08,862309916
+05/10/2010,2650547,Integral Ltd,PPM Management Fee,Asset Management & Sustainability,7415.34,862309916
+19/10/2010,2651042,Integral Ltd,PPM Management Fee,Asset Management & Sustainability,7415.34,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,3741.47,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,3741.47,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,3631.16,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,2598.62,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,2598.62,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,2431.52,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,1817.03,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,1817.03,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,1555.53,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,1314.02,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,1314.02,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,1244.37,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,1244.37,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,1229.16,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,1229.16,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,1160.94,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,1160.94,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,1003.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,1003.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,1003.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,1003.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,1003.18,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,941.23,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,939.39,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,933.24,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,929.49,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,929.49,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,929.49,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,929.49,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,919.39,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,919.39,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,828.78,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,828.78,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,814.27,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,792.55,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,792.55,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,714.03,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,704.11,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,620.06,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,620.06,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,559.9,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,559.9,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,555.75,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,555.75,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,544.53,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,544.53,862309916
+07/10/2010,2650692,Integral Ltd,Unplanned Maintenance Work,Millbank - Facilities,518.06,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,480.76,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,460.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,460.18,862309916
+05/10/2010,2650565,Integral Ltd,Reactive Building Maintenance,Millbank - Facilities,435.4,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,383.51,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,383.51,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,372.29,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,369.82,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,369.82,862309916
+05/10/2010,2650545,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,360.06,862309916
+05/10/2010,2650545,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,360.06,862309916
+19/10/2010,2651041,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,360.06,862309916
+19/10/2010,2651041,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,360.06,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,354.01,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,353.18,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,353.18,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,339.76,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,329.01,862309916
+05/10/2010,2650545,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,320.71,862309916
+19/10/2010,2651041,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,320.71,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,302.54,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,302.54,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,299.49,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,299.49,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,289.63,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,276.95,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,276.95,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,275,862309916
+05/10/2010,2650545,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,270,862309916
+19/10/2010,2651041,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,270,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,257.03,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,257.03,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,256.79,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,256.79,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,254.49,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,254.49,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,253.32,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,237.77,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,237.77,862309916
+05/10/2010,2650545,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,229.57,862309916
+19/10/2010,2651041,Integral Ltd,"Planting, Grounds and Pests",Asset Management & Sustainability,229.57,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,227,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,225.12,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,214.79,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,208.81,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,208.81,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,205.79,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,205.79,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,205.41,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,204,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,199.09,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,199.09,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,195.87,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,192.49,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,192.49,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,190.59,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,190.59,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,185.25,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,185.25,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,179.7,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,179.7,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,178.06,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,178.06,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,172.89,862309916
+05/10/2010,2650550,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,172.75,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,168.59,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,166.67,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,166.67,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,156.65,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,156.65,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,151.88,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,151.88,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,149.09,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,149.09,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,137.14,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,137.14,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,127.73,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,127.73,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,108.91,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,108.91,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,96.93,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,96.93,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,92.03,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,92.03,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,83.04,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,83.04,862309916
+05/10/2010,2650548,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,80.67,862309916
+19/10/2010,2651038,Integral Ltd,Planned Preventative Building Maintenance (PPM),Asset Management & Sustainability,80.67,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,75.18,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,74.98,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,64.34,862309916
+05/10/2010,2650549,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,52,862309916
+19/10/2010,2651040,Integral Ltd,Reactive Building Maintenance,Asset Management & Sustainability,52,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,50.52,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,45.24,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,45.24,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,35.64,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+05/10/2010,2650546,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651039,Integral Ltd,Security Guarding/Keyholding,Asset Management & Sustainability,26.18,862309916
+19/10/2010,2651043,Integral Ltd,Cleaning & Hygiene,Asset Management & Sustainability,18.6,862309916
+19/10/2010,2651020,IPL Information Processing Limited,Contractor Costs,Business Change (Projects & Change),11035.2,601293183
+19/10/2010,2651023,IPL Information Processing Limited,Contractor Costs,Business Change (Projects & Change),9405,601293183
+19/10/2010,2651019,IPL Information Processing Limited,Contractor Costs,Business Change (Projects & Change),9363.2,601293183
+19/10/2010,2651021,IPL Information Processing Limited,Contractor Costs,Business Change (Projects & Change),5624,601293183
+12/10/2010,2650768,Ipsos MORI,Consultants (Non Time Sheet User),Health - NEU,10050,443932151
+12/10/2010,2650765,Iron Mountain (UK) Ltd,Archiving and CD Scanning,Core IT,731.48,607937516
+05/10/2010,2650604,IT Works Recruitment LTD,Contractor Costs,Assistant MD,2750,833840721
+12/10/2010,2650754,IT Works Recruitment LTD,Contractor Costs,Assistant MD,2750,833840721
+25/10/2010,1024448,J Smaill,Contractor Costs,Audit Regulations,"10,036.83",
+07/10/2010,2650719,Jodi Berg,Consultants (Non Time Sheet User),Complaints Unit,2500,751775019
+21/10/2010,2651036,John Wiley & Sons Ltd,Leased Property Rent Invoices,Asset Management & Sustainability,6253,376766987
+21/10/2010,2651036,John Wiley & Sons Ltd,Business Rates,Asset Management & Sustainability,1708.57,376766987
+21/10/2010,2651036,John Wiley & Sons Ltd,Service Charges,Asset Management & Sustainability,1518.73,376766987
+05/10/2010,2650592,Kaplan Financial Ltd - Bristol,Student Training,HR Training and Development,2519.13,719008837
+05/10/2010,2650592,Kaplan Financial Ltd - Bristol,Student Training,HR Training and Development,561,719008837
+05/10/2010,2650600,Keith Dixon,Consultants (Non Time Sheet User),Governance and Counter Fraud Practice,2250,
+05/10/2010,2650601,Keith Dixon,Consultants (Non Time Sheet User),Governance and Counter Fraud Practice,1125,
+26/10/2010,2651183,KPMG LLP,Contractor Costs,London operational staff,41125,791788859
+26/10/2010,2651209,KPMG LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,26085,791788859
+26/10/2010,2651148,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,25027.5,791788859
+14/10/2010,2650880,KPMG LLP,Contractor Costs,North East and Humberside,20210,791788859
+26/10/2010,2651108,KPMG LLP,Contractor Costs,Head of North West Management - Ops Northern,17037.5,791788859
+26/10/2010,2651199,KPMG LLP,Contractor Costs,East Midlands Sub-Region - Ops Central,4347.5,791788859
+26/10/2010,2650952,KPMG LLP,Contractor Costs,Head of North West Management - Ops Northern,870,791788859
+26/10/2010,2651128,KPMG LLP,Contractor Costs,North East and Humberside,-415.95,791788859
+26/10/2010,2651127,KPMG LLP,Contractor Costs,Head of North West Management - Ops Northern,-467.65,791788859
+26/10/2010,2651131,KPMG LLP,Contractor Costs,East Midlands Sub-Region - Ops Central,-472.35,791788859
+26/10/2010,2651130,KPMG LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,-808.9,791788859
+26/10/2010,2651184,KPMG LLP,Contractor Costs,London operational staff,-979.95,791788859
+26/10/2010,2651129,KPMG LLP,Contractor Costs,Eastern Sub-Region - Ops Central,-1225.9,791788859
+26/10/2010,2651209,KPMG LLP,Contractor Costs,West Midlands Sub-Region - Ops Central,-2212.5,791788859
+26/10/2010,2651185,KPMG LLP,Contractor Costs,London operational staff,-2350,791788859
+12/10/2010,2650561,Lance Edynbry Partnership,Staff Training,HR Training and Development,1068,620795438
+05/10/2010,2650637,Law Society,Professional Subscriptions,Legal Directorate,438,239214763
+05/10/2010,2650637,Law Society,Professional Subscriptions,Legal Directorate,438,239214763
+05/10/2010,2650637,Law Society,Professional Subscriptions,Legal Directorate,438,239214763
+05/10/2010,2650637,Law Society,Professional Subscriptions,Legal Directorate,438,239214763
+05/10/2010,2650637,Law Society,Professional Subscriptions,Legal Directorate,438,239214763
+05/10/2010,2650637,Law Society,Professional Subscriptions,Legal Directorate,438,239214763
+05/10/2010,2650478,Leeming Pilkington Ltd,Food & Bererages Charges,Millbank - Facilities,4135.01,788086865
+05/10/2010,2650479,Leeming Pilkington Ltd,Food & Bererages Charges,Millbank - Facilities,556.57,788086865,
+14/10/2010,2650865,Leith's At The Centre,Sundry Debtors,Audit Policy Division,1218.05,466477701,Eurorai
+26/10/2010,2651000,Lex Autolease Ltd,Car Lease Costs - Recharges & Extensions,North East and Humberside,551.6,244155576,
+28/10/2010,2651013,LexisNexis Butterworths,Online Information Sources,Information Management,1789,730859520,
+26/10/2010,2650951,London Borough of Ealing,Contractor Costs,Research,12469.45,226670070,
+28/10/2010,GPCOCT16,Manchester Metropolitan University,Staff Training,HR Training and Development,998.75,,
+19/10/2010,2650962,Marco Longhi Ltd,Contractor Costs,Local Government,450,978062484,
+26/10/2010,2651195,Mazars LLP,Contractor Costs,Head of Operations - South East - Ops Southern,11162,839835673,
+26/10/2010,2651197,Mazars LLP,Contractor Costs,Head of Operations - South East - Ops Southern,8743.5,839835673,
+26/10/2010,2651196,Mazars LLP,Contractor Costs,Head of Operations - South East - Ops Southern,6016.5,839835673,
+26/10/2010,2651125,Mercer Human Resources Consulting Limited,Consultants (Non Time Sheet User),HR Service Centre,1763.5,244251779,
+14/10/2010,2650874,Michael Page UK Ltd,Contractor Costs,Finance Reporting Standards,1195.74,354259936,
+05/10/2010,2650612,Michael Page UK Ltd,Contractor Costs,Communications - Internal,1123.88,354259936,
+21/10/2010,2651046,Michael Page UK Ltd,Contractor Costs,Communications - Internal,1123.88,354259936,
+26/10/2010,2651198,Michael Page UK Ltd,Contractor Costs,Communications - Internal,1123.88,354259936,
+14/10/2010,2650873,Michael Page UK Ltd,Contractor Costs,Communications - Internal,1093.91,354259936,
+05/10/2010,2650611,Michael Page UK Ltd,Contractor Costs,Finance Reporting Standards,917.28,354259936,
+21/10/2010,1024429,MWB Room Charges,Rent Licences (Not Leased),Estate Management,"11,380.18",,
+21/10/2010,2651044,NCC Services Ltd,Consultants (Non Time Sheet User),National Fraud Initiative - Ops Central Investment,2375,732334556,
+14/10/2010,2650887,Nedstat Ltd,Software Support & Maintenance,Core IT,9820,766179783,
+26/10/2010,2651189,NGS Secure Limited,Consultants (Non Time Sheet User),Core IT,2375,793855569,
+21/10/2010,2651054,Oracle Corporation UK Ltd,Software Support & Maintenance,Core IT,14063.15,391313073,
+12/10/2010,2650781,Orange Personal Communications Services Ltd,Telecommunications Rental & Maintenance,Core IT,23516.38,771592016,
+26/10/2010,2648730,Orange Personal Communications Services Ltd,Telecommunications Rental & Maintenance,Core IT,7880,771592016,
+12/10/2010,2650780,Orange Personal Communications Services Ltd,Telecommunications Rental & Maintenance,Core IT,1624.59,771592016,
+26/10/2010,2649798,Orange Personal Communications Services Ltd,Telecommunications Rental & Maintenance,Core IT,1200,771592016,
+12/10/2010,2650781,Orange Personal Communications Services Ltd,Telecommunications Rental & Maintenance,Core IT,99.88,771592016,
+26/10/2010,2650955,Orange Personal Communications Services Ltd,Telecommunications Rental & Maintenance,Core IT,-7880,771592016,
+26/10/2010,2651147,Park Plaza Westminster Bridge,Sundry Debtors,Audit Policy Division,3002.07,974871761,Eurorai
+19/10/2010,2650981,Pitney Bowes MapInfo Limited,Software Support & Maintenance,Core IT,2548,669468471,
+21/10/2010,2650747,Premier Inn,Conferences Hosted & Attended,Graduate Trading Account,2637.4,N/A,
+07/10/2010,2650713,PricewaterhouseCooper LLP,Consultants (Non Time Sheet User),Professional Standards Division,45352,243823957,
+26/10/2010,2651103,PricewaterhouseCooper LLP,Consultants (Non Time Sheet User),Studies,2000,243823957
+26/10/2010,2651104,PricewaterhouseCooper LLP,Consultants (Non Time Sheet User),Studies,2000,243823957
+14/10/2010,2650815,Profund Solutions Limited,Contractor Costs,HR Service Centre,15625,244232196
+05/10/2010,2650543,QA IQ Ltd,Staff Training,HR Training and Development,440,864455303
+05/10/2010,2650543,QA IQ Ltd,Staff Training,HR Training and Development,88,864455303
+07/10/2010,2650691,QSR International Pty Ltd,Software Support & Maintenance,Core IT,1740,972050923
+26/10/2010,2651057,Reed Business Information,Online Information Sources,Asset Management & Sustainability,2060,235723565
+05/10/2010,2650491,Reed Managed Services Ltd,Contractor Costs,Business Change (Projects & Change),2300,835515525
+05/10/2010,2650492,Reed Managed Services Ltd,Contractor Costs,Business Change (Projects & Change),2300,835515525
+05/10/2010,2650620,Reed Managed Services Ltd,Contractor Costs,Business Change (Projects & Change),2070,835515525
+05/10/2010,2650493,Reed Managed Services Ltd,Contractor Costs,Business Change (Projects & Change),1840,835515525
+05/10/2010,2650495,Reed Managed Services Ltd,Contractor Costs,Assistant MD,1840,835515525
+07/10/2010,2650622,Reed Managed Services Ltd,Contractor Costs,London operational staff,1780,835515525
+07/10/2010,2650624,Reed Managed Services Ltd,Contractor Costs,London operational staff,1324.23,835515525
+07/10/2010,2650623,Reed Managed Services Ltd,Contractor Costs,London operational staff,1312.43,835515525
+21/10/2010,2650996,Reed Managed Services Ltd,Contractor Costs,London operational staff,1237.43,835515525
+19/10/2010,2650789,Reed Managed Services Ltd,Contractor Costs,London operational staff,1158.85,835515525
+19/10/2010,2650816,Reed Managed Services Ltd,Contractor Costs,London operational staff,1158.85,835515525
+19/10/2010,2650817,Reed Managed Services Ltd,Contractor Costs,London operational staff,1158.85,835515525
+28/10/2010,2651141,Reed Managed Services Ltd,Contractor Costs,London operational staff,1158.85,835515525
+28/10/2010,2651143,Reed Managed Services Ltd,Contractor Costs,London operational staff,1158.85,835515525
+19/10/2010,2650790,Reed Managed Services Ltd,Contractor Costs,London operational staff,1049.94,835515525
+19/10/2010,2650818,Reed Managed Services Ltd,Contractor Costs,London operational staff,993.3,835515525
+21/10/2010,2650997,Reed Managed Services Ltd,Contractor Costs,Asset Management & Sustainability,949.23,835515525
+26/10/2010,2651144,Reed Managed Services Ltd,Contractor Costs,Asset Management & Sustainability,949.23,835515525
+26/10/2010,2651145,Reed Managed Services Ltd,Contractor Costs,Asset Management & Sustainability,949.23,835515525
+12/10/2010,2650619,Reed Managed Services Ltd,Contractor Costs,Asset Management & Sustainability,867.87,835515525
+14/10/2010,2650819,Reed Managed Services Ltd,Contractor Costs,Asset Management & Sustainability,800.08,835515525
+14/10/2010,2650820,Reed Managed Services Ltd,Contractor Costs,Communications - E Comms,765.9,835515525
+05/10/2010,2650621,Reed Managed Services Ltd,Contractor Costs,Communications - E Comms,760.73,835515525
+07/10/2010,2650625,Reed Managed Services Ltd,Contractor Costs,London operational staff,590.54,835515525
+29/10/2010,GPCOCT10,Registrationline,Planned Preventative Building Maintenance (PPM),HR Training and Development,546.38,
+28/10/2010,2651251,Restore,Archiving and CD Scanning,Regional Costs - Ops Southern,10317.5,771177029
+28/10/2010,2651251,Restore,Archiving and CD Scanning,Regional Support Costs - Ops Central,5297.5,771177029
+28/10/2010,2651251,Restore,Archiving and CD Scanning,Regional Costs - Ops London,3730,771177029
+28/10/2010,2651251,Restore,Archiving and CD Scanning,Millbank - Facilities,927.5,771177029
+28/10/2010,2651251,Restore,Archiving and CD Scanning,Regional Costs - Ops Northern,345,771177029
+28/10/2010,2651251,Restore,Archiving and CD Scanning,Westward House,150,771177029
+19/10/2010,2650926,ROK Building LTD,Fixtures and Fittings Capital Purchases,Asset Management & Sustainability,4388.22,141359678
+12/10/2010,2650761,Sanderson Weatherall,"Heat, Light & Power",Asset Management & Sustainability,527.83,945674483
+12/10/2010,2650705,Selecta UK Ltd,Estates Winding Up Costs,Asset Management & Sustainability,2877.93,911021490
+12/10/2010,2650842,Selecta UK Ltd,Food & Bererages Charges,Nicholson House,850.9,911021490
+12/10/2010,2650840,Selecta UK Ltd,Food & Bererages Charges,Westward House,676.16,911021490
+12/10/2010,2650840,Selecta UK Ltd,Office Equipment Repairs & Maintenance,Westward House,200,911021490
+12/10/2010,2650842,Selecta UK Ltd,Office Equipment Repairs & Maintenance,Nicholson House,200,911021490
+14/10/2010,2650870,Selecta UK Ltd,Office Equipment Repairs & Maintenance,Head of Operations - South East - Ops Southern,-45,911021490
+12/10/2010,2650839,Selecta UK Ltd,Food & Beverages Charges,Westward House,-90,911021490
+12/10/2010,2650841,Selecta UK Ltd,Food & Beverages Charges,Nicholson House,-90,911021490
+26/10/2010,2650891,Serco Limited,Health & Safety (Non Furniture),HR Policy and Advice,563.04,207523388
+26/10/2010,2650891,Serco Limited,Health & Safety (Non Furniture),HR Policy and Advice,540.96,207523388
+12/10/2010,2650734,SITA Uk Limited,Recycling and Refuse,Nicholson House,447.67,444085847
+12/10/2010,2650734,SITA Uk Limited,Recycling and Refuse,Westward House,447.67,444085847
+21/10/2010,1024425,South Gloucestershire Council S/O,Business Rates,Estate Management,"21,029.00",
+26/10/2010,2650892,SPSS (UK) Ltd,Software Support & Maintenance,Core IT,10990.41,927189785
+26/10/2010,2651047,Surlyn Protection Systems,Reactive Building Maintenance,Millbank - Facilities,965,923452730
+19/10/2010,2650827,Swets Information Services Ltd,Newspapers & Magazines,Information Management,995.28,577873965
+14/10/2010,2650834,Swets Information Services Ltd,Newspapers & Magazines,Chief Executive's Office,602.7,577873965
+26/10/2010,2651109,Synectics Solutions Ltd,Data management Services,National Fraud Initiative - Ops Central Investment,190332,592436323
+21/10/2010,2651079,Talentfirst,Staff Training,HR Training and Development,1084.48,883399565
+21/10/2010,2651078,Talentfirst,Staff Training,HR Training and Development,1048,883399565
+19/10/2010,2651034,Talentfirst,Staff Training,HR Training and Development,500,883399565
+05/10/2010,2650526,Tamar Science Park Limited,Leased Property Rent Invoices,Asset Management & Sustainability,681.72,675822503
+05/10/2010,2650526,Tamar Science Park Limited,Rent Licences (Not Leased),Asset Management & Sustainability,496,675822503
+19/10/2010,2650805,Tamar Science Park Limited,Postage & Delivery Charges,Head of Ops - South West - Ops Southern,332.79,675822503
+05/10/2010,2650526,Tamar Science Park Limited,Service Charges,Asset Management & Sustainability,261.08,675822503,
+19/10/2010,2650805,Tamar Science Park Limited,Meetings,Head of Ops - South West - Ops Southern,112.5,675822503,
+19/10/2010,2650805,Tamar Science Park Limited,Cleaning & Hygiene,Asset Management & Sustainability,70.37,675822503,
+19/10/2010,2650805,Tamar Science Park Limited,"Heat, Light & Power",Asset Management & Sustainability,57.2,675822503,
+19/10/2010,2650730,The Gym Repair Company,WH Gym Expenditure,Westward House,650,656149811,
+14/10/2010,2650875,The Information Centre,Data management Services,Health Directorate - Payment by Results,5763.97,654434435,
+19/10/2010,2650946,The Queen Elizabeth II Conference Centre,Sundry Debtors,Audit Policy Division,20480.69,503337774,Eurorai
+26/10/2010,2651121,Trainline.com Ltd,Trainline BIF Control Account,All,20639,,
+05/10/2010,2650554,Trainline.com Ltd,Trainline BIF Control Account,All,19202.6,,
+14/10/2010,2650851,Trainline.com Ltd,Trainline BIF Control Account,All,17558.15,,
+07/10/2010,2650706,Trainline.com Ltd,Trainline BIF Control Account,All,15154.7,,
+05/10/2010,2650555,Trainline.com Ltd - Season Tickets,London Travelcards Holiding Code,HR Service Centre,13252.9,791726106,
+14/10/2010,2650854,Trainline.com Ltd - Season Tickets,London Travelcards Holiding Code,HR Service Centre,13192.6,791726106,
+26/10/2010,2651092,Trainline.com Ltd - Season Tickets,London Travelcards Holiding Code,HR Service Centre,5226,791726106,
+12/10/2010,2650707,Trainline.com Ltd - Season Tickets,London Travelcards Holiding Code,HR Service Centre,4287.1,791726106,
+12/10/2010,2650693,Turner & Townsend,Property Services Professional Fees,Asset Management & Sustainability,750,764244132,
+21/10/2010,2651082,Ultima Risk Management,Staff Training,HR Training and Development,1589,864823888
+21/10/2010,2651083,Ultima Risk Management,Staff Training,HR Training and Development,1589,864823888
+12/10/2010,2650564,Unit 4 Business Software Ltd (Agresso),Staff Training,HR Training and Development,3010,567554796
+05/10/2010,2650610,University of Portsmouth,Student Training,HR Training and Development,1580,
+14/10/2010,2650579,University of Warwick,Staff Training,HR Training and Development,7560,
+05/10/2010,2650589,University of West of England,Student Training,HR Training and Development,3200,520137788
+05/10/2010,2650590,University of West of England,Student Training,HR Training and Development,3200,520137788
+19/10/2010,2650927,University of West of England,Student Training,HR Training and Development,3200,520137788
+26/10/2010,2651187,University of West of England,Student Training,HR Training and Development,2400,520137788
+19/10/2010,2650735,Viridor Waste Management Ltd,Recycling and Refuse,Millbank - Facilities,1516.92,736636511
+26/10/2010,2650528,Warwick University Training,Student Training,Graduate Trading Account,20889.98,
+07/10/2010,2650655,Westminster Business Centre,Rent Licences (Not Leased),Asset Management & Sustainability,5000,886766156
+14/10/2010,2650811,Willis Corroon Corporate,Imprests - Car Insurance,Procurement & Financial Services,33820.35,334128970
+12/10/2010,2650736,Willis Corroon Corporate,Imprests - Car Insurance,Procurement & Financial Services,2085.93,334128970
+28/10/2010,2651259,Work Communications,Recruitment,Recruitment - Talent,4000,805685121
+04/10/2010,GPCOCT13,XMA Ltd,Non-Asset IT Equipment Purchases (Revenue),Regional Costs - Ops Northern,823.97,
+,,,,,1651319.33

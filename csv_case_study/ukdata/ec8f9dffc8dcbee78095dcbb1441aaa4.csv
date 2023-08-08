@@ -1,0 +1,53 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction,Amount,Additional Narrative
+HMRC,VOA,16.01.14,Asset Requisition Clearing Account,Corporate,Capgemini Uk Plc,1700001322,"(£82,401.40)",Refund of In-house software development costs
+HMRC,VOA,16.01.14,Input VAT (ST),Corporate,Capgemini Uk Plc,1700001322,"(£16,480.28)",VAT
+HMRC,VOA,16.01.14,Management of Agreement,Corporate,Capgemini Uk Plc,5100005251,"£41,085.82",IT support and maintenance
+HMRC,VOA,16.01.14,Business Application,Corporate,Capgemini Uk Plc,5100005251,"£160,191.33",IT support and maintenance
+HMRC,VOA,16.01.14,Data Centre Operations,Corporate,Capgemini Uk Plc,5100005251,"£261,552.26",IT support and maintenance
+HMRC,VOA,16.01.14,Desktop Services,Corporate,Capgemini Uk Plc,5100005251,"£58,404.76",IT support and maintenance
+HMRC,VOA,16.01.14,WAN,Corporate,Capgemini Uk Plc,5100005251,"£97,975.27",IT support and maintenance
+HMRC,VOA,16.01.14,Business Continuity & Disaster Recovery,Corporate,Capgemini Uk Plc,5100005251,"£39,992.05",IT support and maintenance
+HMRC,VOA,16.01.14,Aspire Other Costs,Corporate,Capgemini Uk Plc,5100005251,"£5,961.32",IT support and maintenance
+HMRC,VOA,16.01.14,I.T.-Software & Support,Corporate,Capgemini Uk Plc,5100005251,"£47,103.12",IT support and maintenance
+HMRC,VOA,16.01.14,Asset Requisition Clearing Account,Corporate,Capgemini Uk Plc,5100005251,"£94,570.05",In-house software development costs
+HMRC,VOA,16.01.14,Asset Requisition Clearing Account,Corporate,Capgemini Uk Plc,5100005251,"£69,595.80",In-house software development costs
+HMRC,VOA,16.01.14,Telephones-Mobile,Corporate,Capgemini Uk Plc,5100005251,"£11,287.97",Telephony Charges
+HMRC,VOA,16.01.14,Telephones-Landline,Corporate,Capgemini Uk Plc,5100005251,"£131,788.56",Telephony Charges
+HMRC,VOA,16.01.14,Input VAT (ST),Corporate,Capgemini Uk Plc,5100005251,"£177,089.85",VAT
+HMRC,VOA,15.01.14,Rates,Corporate,City of Westminster,5100005205,"£72,013.00",Business Rates
+HMRC,VOA,28.01.14,Subscriptions,Corporate,EGi - Reed Business Information Limited,5100005527,"£29,003.10",Estate Gazette Subscription Fees
+HMRC,VOA,28.01.14,Input VAT (ST),Corporate,EGi - Reed Business Information Limited,5100005527,£396.90,VAT
+HMRC,VOA,09.01.14,VOA High Court Costs,Corporate,Grant Thornton LLP,5100005076,"£23,462.00",Legal Costs
+HMRC,VOA,09.01.14,Input VAT (ST),Corporate,Grant Thornton LLP,5100005076,"£4,692.40",VAT
+HMRC,VOA,15.01.14,Recruitment,Corporate,HMRC,5100005217,"£25,306.00",Recruitment Costs
+HMRC,VOA,20.01.14,VOA High Court Costs,Corporate,HMRC,1900026702,"£35,175.67",Legal Costs
+HMRC,VOA,13.01.14,Electricity,Corporate,HMRC,5100005106,"£37,515.95",Accommodation Charges
+HMRC,VOA,09.01.14,STEPS PFI Unitary Charges - VAT Recoverable,Corporate,HMRC,5100005090,"£718,305.59",Accommodation Charges
+HMRC,VOA,07.01.14,Contracted out services,Corporate,Ipsos MORI,5100005056,"£29,517.00",Customer Surveys
+HMRC,VOA,24.01.14,Contracted out services,Corporate,Ipsos MORI,5100005439,"£44,904.00",Customer Surveys
+HMRC,VOA,21.01.14,Telephones-Landline,Corporate,MAIN-TEL (NE) LTD,5100005402,"£25,442.17",Telephony Charges
+HMRC,VOA,21.01.14,Input VAT (ST),Corporate,MAIN-TEL (NE) LTD,5100005402,£348.17,VAT
+HMRC,VOA,20.01.14,Car Parking,Corporate,NCP,5100005386,"£25,000.92",Car Parking
+HMRC,VOA,20.01.14,Input VAT (ST),Corporate,NCP,5100005386,£342.13,VAT
+HMRC,VOA,17.01.14,I.T.-Hardware Maintenance,Corporate,OCSL,5100005297,"£23,877.25",Hardware Maintenance
+HMRC,VOA,17.01.14,Input VAT (ST),Corporate,OCSL,5100005297,"£4,775.45",VAT
+HMRC,VOA,29.01.14,PS Subcontractor Costs,Corporate,Peter Brett Associates LLP,1900026733,"£176,617.32",Professional Services (to be recharged)
+HMRC,VOA,29.01.14,Input VAT (ST),Corporate,Peter Brett Associates LLP,1900026733,"£35,146.85",VAT
+HMRC,VOA,29.01.14,Government Procurement Service (GPS) Fees,Corporate,Peter Brett Associates LLP,1900026733,(£883.09),Refund on Professional Services (to be recharged)
+HMRC,VOA,31.01.14,Rates,Corporate,Planning Inspectorate,5100005622,"£4,383.60",Accommodation Charges
+HMRC,VOA,31.01.14,Accommodation rent,Corporate,Planning Inspectorate,5100005622,"£76,255.46",Accommodation Charges
+HMRC,VOA,23.01.14,Royal mail postage,Corporate,Royal Mail,1900026718,"£46,499.91",Postage Charges
+HMRC,VOA,31.01.14,Accommodation Domestic Supplies,Corporate,Senator International Ltd,5100005602,"£31,065.23",Purchase of  Office Furniture
+HMRC,VOA,31.01.14,Input VAT (ST),Corporate,Senator International Ltd,5100005602,£425.12,VAT
+HMRC,VOA,13.01.14,Postage,Corporate,TNT UK LTD,5100005140,"£37,183.67",Postage Charges
+HMRC,VOA,13.01.14,Input VAT (ST),Corporate,TNT UK LTD,5100005140,"£7,436.73",VAT
+HMRC,VOA,27.01.14,Postage,Corporate,TNT UK LTD,5100005460,"£37,183.67",Postage Charges
+HMRC,VOA,27.01.14,Input VAT (ST),Corporate,TNT UK LTD,5100005460,"£7,436.73",VAT
+HMRC,VOA,27.01.14,Postage,Corporate,TNT UK LTD,5100005461,"£37,183.67",Postage Charges
+HMRC,VOA,27.01.14,Input VAT (ST),Corporate,TNT UK LTD,5100005461,"£7,436.73",VAT
+HMRC,VOA,06.01.14,Software Licence Renewals,Corporate,Trustmarque Solutions Limited,5100005014,"£806,878.08",Software Licences
+HMRC,VOA,06.01.14,Input VAT (ST),Corporate,Trustmarque Solutions Limited,5100005014,"£11,041.92",VAT
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

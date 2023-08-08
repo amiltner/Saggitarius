@@ -1,0 +1,9 @@
+Departmental Family,Entity,Input Date,Expense Type,Expense Area,Supplier,Transaction No,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
+Charity Commission,Charity Commission,07/11/2013,Hotels/Trains/Flights,General Expenditure,Redfern Travel Ltd,45011,"33,328.99","Oct13 - Hotel, Train & Flight",,SME,,,Administration
+Charity Commission,Charity Commission,08/11/2013,Hardware Maintenance & Software Support,Business Services,SCC,OP/L747618,"69,036.29",IS Maintenance service,,Large,,STDW0199,Administration
+Charity Commission,Charity Commission,08/11/2013,Contract computer services,Business Services,Fujitsu Services Ltd,175835,"27,222.00",Nov13 Agile Development CRM,,Large,SC00001487,CHA0033,Administration
+Charity Commission,Charity Commission,08/11/2013,Contract computer services,Business Services,Fujitsu Services Ltd,175835,"11,196.00",AR OLS Chnage to CIO,,Large,SC00001487,CHA0085,Administration
+Charity Commission,Charity Commission,08/11/2013,Contract computer services,Business Services,Fujitsu Services Ltd,175781,"47,019.00",Application Dev Support,,Large,SC00001487,CHA0094,Administration
+Charity Commission,Charity Commission,19/11/2013,Contract computer services,Business Services,Fujitsu Services Ltd,176301,"95,578.42",Oct13 Support charges,,Large,SC00001487,,Administration
+Charity Commission,Charity Commission,19/11/2013,Hardware Maintenance & Software Support,Business Services,Fujitsu Services Ltd,176301,"12,400.09",Oct13 Support charges,,Large,SC00001487,,Administration
+Charity Commission,Charity Commission,19/11/2013,Computer Current,Business Services,Fujitsu Services Ltd,176301,743.87,Oct13 Support charges,,Large,SC00001487,,Administration

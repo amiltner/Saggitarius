@@ -1,0 +1,1290 @@
+﻿Purchased quantities of eating out food & drink by income quintile Averages per person per week Quintile 1	Code	Description			Units	2001-02	2002-03	2003-04	2004-05	2005-06	2006	2007	2008	2009	2010	2011	2012	2013
+	eo100101			Meat or fish based curry with sauce	g	3	3	3	5	3	5	4	3	4	2	4	4	6
+	eo100102			Meat or fish based curry without sauce	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100103			Vegetable or fruit based curry	g	0	0	0	0	1	0	1	0	1	0	1	0	0
+	eo100104			Dhal and dhal dishes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100105			Samosas	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100106			Other Indian dishes	g	0	0	0	0	0	0	0	0	1	0	0	0	0
+	eo100107			Indian breads	g	0	0	0	0	0	1	1	0	0	0	0	1	1
+	eo100108			Indian buffet or shared meal or unspecified indian meal	g	0	0	0	0	1	1	0	1	2	1	3	1	2
+	eo100201			Chinese or Thai meat or fish based dishes excluding curry	g	2	2	3	2	1	1	3	2	2	2	2	1	1
+	eo100202			Chop suey and fu yung dishes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100203			Chinese or Thai vegetable based main course dishes excluding curry	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100204			Chinese or Thai curry	g	0	0	1	0	0	0	0	0	0	1	0	1	0
+	eo100205			Spring rolls	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100206			Other Chinese or Thai dishes	g	1	1	0	0	0	0	0	0	0	0	0	0	0
+	eo100207			Chinese or Thai buffet or shared meal or unspecified Chinese or Thai meal	g	0	1	2	1	3	2	3	2	2	1	7	3	4
+	eo1003		All other ethnic meals		g	0	0	0	1	0	1	1	1	1	0	0	2	1
+	eo110101			Steak - without sauce e.g. braised, sirloin	g	1	1	2	2	2	1	2	1	1	2	2	2	2
+	eo110102			Roast meat with sauce or gravy	g	4	4	3	4	3	4	4	4	4	3	5	4	4
+	eo110103			Pork chops with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110104			Lamb chops with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110105			Spare ribs	g	0	0	0	0	0	0	0	0	0	0	1	0	0
+	eo110106			Bacon	g	1	1	2	2	1	2	1	2	2	2	2	1	1
+	eo110107			Gammon or ham	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo110108			All offal including liver, kidney, tongue	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110201			Chicken or turkey with sauce or gravy	g	5	3	6	6	6	6	5	7	5	6	5	12	7
+	eo110202			Chicken or turkey in breadcrumbs or batter	g	4	3	2	3	3	2	2	5	3	3	3	5	2
+	eo110203			Duck with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110204			Game with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110301			Small or single burgers	g	5	4	5	4	4	5	3	4	3	4	3	3	3
+	eo110302			Large or double burgers	g	5	5	6	6	5	5	4	5	3	3	5	4	3
+	eo110303			Chicken burger	g	3	3	3	3	3	3	2	2	3	1	2	2	2
+	eo110401			Kebabs - all types including chicken	g	2	1	2	2	4	2	3	3	2	4	2	5	1
+	eo110402			Plain sausages e.g. beef, pork	g	5	4	4	5	4	4	4	5	4	4	4	3	3
+	eo110403			Other sausages	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110404			Hot dogs and sausage sandwiches	g	2	2	3	2	1	2	2	1	2	1	2	2	2
+	eo110501			Meat pies (pastry topped) and pasties	g	6	7	6	6	8	6	7	4	7	4	4	5	3
+	eo110502			Meat pies (potato topped e.g. shepherd's pie)	g	1	1	1	1	1	0	1	1	1	1	0	1	0
+	eo110503			Sausage roll (pastry)	g	2	2	2	2	2	2	2	1	2	1	2	1	1
+	eo110601			Meat and vegetable stews, casseroles or hotpots	g	1	1	1	1	1	1	2	1	1	1	1	1	0
+	eo110602			Chicken or turkey stews, casseroles or hotpots	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110603			Meat lasagne, cannelloni, moussaka and other meat-based oven baked dishes	g	2	2	1	3	3	2	1	2	2	3	2	1	2
+	eo1107		Pate		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo1108		Other meat and meat products		g	1	1	0	1	1	1	1	1	1	1	1	1	0
+	eo120101			White fish - grilled, steamed, baked or boiled - without sauce	g	1	1	1	1	1	1	0	0	0	0	0	1	0
+	eo120102			White fish - fried (incl in batter/breadcrumbs) - without sauce	g	7	5	6	6	6	6	6	7	6	6	6	7	6
+	eo120201			Trout, tuna and salmon only - fresh - without sauce or dressing	g	1	0	0	0	1	0	0	0	0	0	0	0	0
+	eo120202			Other fatty fish - without sauce or dressing e.g. herring, mackerel, sardines	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120301		Shellfish - without sauce or dressing e.g. prawns, shrimps, oysters, crab		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120401		Kippers and other smoked fish e.g. smoked salmon		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120501		Other fish products and unspecified 'fish' e.g. squid, sushi, crabsticks		g	0	0	0	0	0	0	0	0	0	0	0	1	0
+	eo120601			Fish, processed, in breadcrumbs (fish fingers, fish cakes, scampi) - without sauce or dressing	g	1	1	1	1	1	1	1	1	1	0	1	1	1
+	eo120602			Fish burgers (in bun)	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120603			Fish based pie or other dish e.g. paella, kedgeree, tuna pasta bake	g	0	0	1	0	0	0	0	1	1	1	0	0	0
+	eo130101			Cottage cheese including with pineapple	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130102			Soft, continental or processed cheese e.g. brie	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130103			Cheddar, blue or other hard cheese and unspecified 'cheese'	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130104			Quiche and cheese pies or pasties	g	1	1	1	1	1	1	1	1	0	1	1	1	1
+	eo130105			Other cheese dishes e.g. Welsh rarebit, cheese and biscuits	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130201			Pizza - cheese and tomato, vegetable or unspecified 'pizza'	g	3	3	4	5	3	4	3	3	2	4	4	4	4
+	eo130202			Pizza - meat, fish or poultry	g	1	1	2	1	1	1	2	2	2	2	1	1	1
+	eo130301			Eggs - boiled or poached	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130302			Eggs - scrambled, fried, omelettes or unspecified 'egg'	g	5	5	5	6	5	5	4	5	5	6	4	4	5
+	eo130303			Other egg dishes e.g. egg mayonnaise	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo140101		Chips and french fries - from fast food outlet e.g. McDonalds		g	8	6	6	8	7	7	5	6	5	5	6	7	5
+	eo140102		Chips - served with meal e.g. from restaurant or chip shop		g	31	26	31	29	28	26	23	25	19	24	22	25	21
+	eo140103		Potatoes - boiled or unspecified 'potato'		g	6	4	5	7	4	5	5	4	4	3	2	5	3
+	eo140104		Potatoes - mashed		g	2	2	2	2	2	2	2	1	2	1	1	1	2
+	eo140105		Potatoes - roast		g	4	4	4	5	4	4	5	5	5	4	6	5	4
+	eo140106		Sautéed potatoes, potato croquettes, hash browns etc.		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo140107		Baked or jacket potatoes - without filling		g	3	3	4	4	4	3	4	2	3	2	2	2	2
+	eo140108		Other potato dishes (e.g. wedges, potato salad) including unspecified 'potato dish'		g	1	0	1	1	1	0	0	0	1	1	0	1	0
+	eo150101			Lettuce and cress	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150102			Other green vegetables e.g. spinach, cabbage, sprouts	g	3	3	4	4	2	2	2	3	3	2	3	3	2
+	eo150201			Peppers - raw or cooked	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150202			Courgettes, marrow, aubergine, pumpkin, plantain, cucumbers	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150203			Peas and sweetcorn	g	4	4	5	4	4	4	3	4	4	2	3	3	2
+	eo150204			Baked beans and other beans (not green beans) and pulses	g	3	3	4	5	4	3	3	4	3	4	4	3	3
+	eo150205			Tomato - fresh or raw	g	0	0	0	0	0	0	0	0	0	0	1	0	0
+	eo150206			Tomato - cooked or processed	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo150301			Carrots	g	2	2	3	2	2	2	1	2	2	1	2	2	1
+	eo150302			Onions - raw, cooked or unspecified 'onions'	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150303			Onions - fried	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150304			Other root vegetables or tubers e.g. turnip, parsnip, radish, beetroot	g	0	0	0	0	0	0	0	0	1	0	0	0	0
+	eo1504		Mushrooms		g	1	0	1	0	1	1	1	0	1	0	0	1	1
+	eo150501			Mixed vegetables or unspecified 'vegetable'	g	2	2	2	3	3	3	4	2	3	2	3	4	3
+	eo150502			Other vegetables e.g. artichoke, asparagus	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150503			Vegetables in batter or breadcrumbs and deep fried vegetables e.g. onion rings	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150504			Onion and other vegetable bhajis and pakora	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150601			Veggie burger, bean burger, veggie sausage, nut roast	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150602			Vegetable lasagne, vegetable cannelloni, vegetable moussaka and other oven baked vegetable based dishes	g	1	2	1	1	1	1	3	2	1	1	2	1	0
+	eo150603			Stuffed vegetables (e.g. stuffed pepper) and vegetable based starter	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150604			Vegetable based stews and casseroles and vegetable based pies	g	2	1	1	1	1	1	1	0	0	1	0	0	0
+	eo160101			Mixed salad, main course  - without dressing	g	0	0	0	0	0	0	0	0	0	0	0	0	1
+	eo160102			Mixed salad, side dish - without dressing - including unspecified 'salad'	g	3	4	4	4	5	5	4	2	5	4	4	5	3
+	eo160103			Green salad - without dressing	g	1	1	1	0	0	0	0	0	0	0	0	0	0
+	eo160201			Vegetable or fruit and nut salad - with dressing	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160202			Pasta, rice, mixed bean or cereal-based salads - with dressing	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160301			Meat salad e.g. beef, lamb salads	g	1	1	0	1	1	1	0	1	0	1	0	0	0
+	eo160302			Chicken or turkey salad	g	1	1	0	1	1	1	1	1	1	1	1	0	1
+	eo160303			Fish salad e.g. tuna, salmon salads	g	1	1	0	0	1	1	0	0	1	0	1	0	0
+	eo160401			Cheese salad including ploughmans	g	0	1	0	0	1	1	1	1	1	0	1	0	1
+	eo160402			Egg salad	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160501		Other salads e.g. Greek, Florida, Russian		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160601		Salad buffet or buffet meal where items not specified		g	0	0	0	1	1	0	0	0	0	0	0	0	0
+	eo170101		Fried rice and risotto		g	1	1	1	1	1	1	1	0	1	1	1	1	1
+	eo170102		All cooked rice exluding fried rice e.g. boiled, pilau, savoury		g	2	2	2	4	2	3	3	1	2	2	3	4	3
+	eo170103		Pasta - not filled and plain noodles (including pot noodle) - without sauce		g	2	2	1	2	2	2	2	2	1	3	4	2	2
+	eo170104		Pasta - filled e.g. ravioli, tortellini - without sauce		g	0	0	0	0	1	0	0	0	0	0	1	0	0
+	eo170105		Noodles with meat, vegetables etc.		g	1	0	0	0	0	0	0	0	0	1	1	1	0
+	eo180101		Meat & fish soups		g	1	0	0	1	0	0	0	0	0	0	0	0	0
+	eo180102		Vegetable based soups		g	3	2	2	2	3	2	2	2	2	2	1	3	2
+	eo180103		Chinese soups, consommé (meat, fish or veg)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo180104		Other soups including unspecified 'soup'		g	3	2	3	2	3	1	3	2	2	2	2	3	4
+	eo190101		Muesli and oat crunch cereals		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190102		Other high fibre breakfast cereals e.g. Allbran, Weetabix		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190103		Sweetened breakfast cereals e.g. Frosties, Sugar Puffs		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190104		Hot breakfast cereals e.g. porridge, Ready Brek		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190105		Other breakfast cereals and unspecified 'cereal' e.g. Cornflakes, Rice Krispies, Special K		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200101			All citrus fruit, fresh e.g. orange, grapefruit	g	1	0	0	0	0	0	0	0	0	0	1	0	0
+	eo200102			Banana, fresh	g	1	0	1	1	1	1	0	0	0	0	0	0	1
+	eo200103			Apples, fresh	g	1	0	0	1	1	1	1	1	0	0	0	0	0
+	eo200104			Pears, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200105			Stone fruit, fresh e.g. apricot, plum, peach, cherry, avocado	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200106			Grapes, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200107			Soft fruit or berries, fresh e.g. strawberries, blackberries - without cream or ice cream	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200108			Melon, fresh	g	0	0	1	0	1	0	0	0	0	0	0	0	0
+	eo200109			Pineapple, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200110			Fresh fruit salad - without cream or ice cream	g	0	0	0	1	1	1	0	1	0	1	1	0	0
+	eo200111			Other fresh fruit (kiwi, passion) and unspecified 'fruit'	g	0	0	0	0	0	0	0	0	0	0	0	0	1
+	eo200112			Free school fruit	g	3	2	4	5	5	5	4	2	4	4	3	3	4
+	eo200201		Dried fruit e.g. sultanas, raisins		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200301		Tinned, stewed, baked or processed fruit - without cream or ice cream		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo210	Yoghurt and fromage frais			g	2	1	0	1	1	1	1	0	0	0	1	1	1
+	eo220101		White bread, with or without butter or margarine (toasted or untoasted)		g	2	2	2	2	2	1	2	1	2	1	1	0	1
+	eo220102		Brown or wholemeal bread, with or without butter or margarine (toasted or untoasted)		g	0	0	0	0	1	0	1	0	0	0	0	0	0
+	eo220103		White rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	2	1	1	1	1	0	0	1	0	1	1	0	0
+	eo220104		Brown or wholemeal rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo220105		Garlic bread		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo220106		Croissant		g	0	0	0	1	0	0	0	0	0	0	0	0	0
+	eo220107		Continental breads e.g. pitta, ciabatta, focaccio		g	0	0	0	0	0	0	0	0	0	1	0	0	0
+	eo220108		Muffins, crumpets		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo220109		Fried bread, including croutons		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo220110		Other bread, rolls, toast, unspecified 'bread' etc.		g	0	0	0	0	0	0	0	0	0	0	1	2	2
+	eo230101			Meat based sandwich on white bread or roll	g	7	10	10	7	7	7	7	7	6	7	5	2	2
+	eo230102			Meat based sandwich on brown bread or roll	g	2	1	1	1	1	1	2	2	2	1	1	1	0
+	eo230103			Meat based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	2	5	5
+	eo230104			Chicken or turkey based sandwich on white bread or roll	g	3	5	4	6	5	5	4	3	3	4	3	2	1
+	eo230105			Chicken or turkey based sandwich on brown bread or roll	g	1	1	1	1	0	1	1	1	0	1	1	1	0
+	eo230106			Chicken or turkey based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	5	4
+	eo230107			Bacon and egg based sandwich on white bread or roll including Bacon and Egg McMuffin	g	1	1	1	0	1	0	0	0	1	1	0	0	0
+	eo230108			Bacon and egg based sandwich on brown bread or roll	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230109			Bacon and egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230110			Fish based sandwich on white bread or roll	g	2	2	2	5	2	2	3	2	2	3	1	1	0
+	eo230111			Fish based sandwich on brown bread or roll	g	1	1	1	2	1	1	1	1	1	1	1	1	1
+	eo230112			Fish based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	2	1
+	eo230201			Cheese based sandwich on white bread or roll	g	4	5	4	5	5	4	3	3	3	2	2	1	0
+	eo230202			Cheese based sandwich on brown bread or roll	g	1	1	1	0	1	1	1	1	1	1	2	0	0
+	eo230203			Cheese based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	3	2
+	eo230204			Egg based sandwich on white bread or roll including Egg McMuffin	g	2	1	1	1	1	1	1	1	1	1	1	1	0
+	eo230205			Egg based sandwich on brown bread or roll	g	0	0	1	0	0	0	0	0	1	0	0	0	0
+	eo230206			Egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	1
+	eo230207			Vegetarian based sandwich on white bread or roll	g	1	1	2	2	1	1	2	1	1	1	0	0	0
+	eo230208			Vegetarian based sandwich on brown bread or roll	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230209			Vegetarian based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230210			Sweet-filled sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230211			Unspecified sandwiches or rolls	g	0	1	2	4	6	4	5	4	4	5	8	7	6
+	eo240101			Cheese or cream based sauce e.g. carbonara, cauliflower cheese	g	0	0	0	0	0	0	0	0	0	0	1	0	0
+	eo240102			Meat-based sauce e.g. bolognese, chilli con carne	g	1	1	1	2	1	1	1	1	1	1	1	1	1
+	eo240103			Fish or seafood based sauce	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240104			Tomato based sauce containing vegetables including ratatouille	g	0	0	0	0	1	0	0	0	0	0	0	0	0
+	eo240105			Other savoury sauce or unspecified 'sauce'	g	1	1	2	1	1	1	1	1	1	1	1	1	1
+	eo240106			Sweet sauce e.g. syrup, treacle, chocolate sauce	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240107			Fruit or vegetable based condiments	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240108			Other condiments or sauces	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240201			Salad dressings and dips	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240202			Mayonnaise	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240203			Coleslaw	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240301			Fruit filling e.g. peaches for pancakes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240302			Vegetable filling	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240303			Cheese filling including cheddar cheese, cottage cheese	g	0	0	0	0	0	0	1	0	1	0	0	0	0
+	eo240304			Fish based filling e.g. tuna mayonnaise	g	0	0	0	0	0	0	0	0	0	0	1	0	0
+	eo240401			Butter and margarine	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240402			Jam, marmalade and honey	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240403			Cream - single, double, sour etc.	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240404			Custard	g	2	1	2	1	1	1	1	1	1	1	1	1	1
+	eo240405			Sugar (as an addition to tea, coffee etc.)	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240501		Commercial baby food in a jar or can		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo2406		Yorkshire puddings and dumplings		g	1	1	1	1	1	1	1	1	1	1	2	2	1
+	eo240701		Unspecified meal e.g. 'meal', 'school meal' or 'meal at work'		g	138	139	126	111	123	143	131	98	106	136	99	86	89
+	eo250101		Coffee, black including espresso		ml	2	4	2	1	2	2	2	3	2	3	3	3	2
+	eo250102		Coffee, white including cappuccino, latte		ml	19	17	16	22	16	16	16	16	19	15	19	27	21
+	eo250103		Coffee, black or white not specified		ml	22	24	25	29	27	24	25	27	22	20	27	23	22
+	eo250104		Tea, white (including black or white not specified)		ml	40	40	35	36	36	35	39	29	26	24	36	28	26
+	eo250105		Tea, black including Chinese tea, herbal tea, fruit tea		ml	0	1	1	1	0	1	1	1	1	1	1	1	0
+	eo250106		Hot chocolate or cocoa, with milk or water		ml	5	3	4	7	4	3	3	5	5	3	4	3	3
+	eo260201			Mineral water	ml	15	16	20	32	35	41	27	18	20	17	27	18	30
+	eo260202			Soft drink (incl carbonates and still) - low calorie	ml	19	16	21	18	21	21	14	13	11	15	18	18	18
+	eo260203			Soft drink (incl carbonates & still) - not low calorie (including drinks where calorie content unspecified)	ml	133	119	131	132	126	126	99	97	86	82	89	91	75
+	eo260204			Pure fruit juices	ml	8	9	9	8	8	11	8	7	6	6	9	6	6
+	eo260205			Vegetable juices e.g. tomato juice, carrot juice	ml	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo260206			Soft drink where pure juice or juice drink not specified	ml	0	0	0	0	0	0	0	0	0	0	1	3	5
+	eo260301			Milk as a drink	ml	4	2	4	3	3	3	2	1	2	2	1	1	1
+	eo260302			Milk on cereal	ml	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo260303			Milkshake and flavoured milk	ml	5	4	5	4	3	5	4	2	2	4	4	3	4
+	eo260304			Free school milk	ml	19	20	19	13	17	12	7	14	11	12	8	15	11
+	eo270101			Spirits	ml	1	1	1	1	0	2	1	1	1	0	0	1	0
+	eo270102			Liqueurs	ml	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo270103			Cocktails	ml	0	0	0	0	1	0	0	0	0	0	1	1	0
+	eo270104			Spirits or liqueurs with mixer e.g. gin & tonic, Bacardi & coke	ml	4	7	9	9	10	7	9	5	6	6	4	4	5
+	eo270201			Wine (not sparkling) including unspecified 'wine'	ml	6	7	7	8	7	6	6	4	11	9	10	9	7
+	eo270202			Sparkling wines (e.g. Champagne) and wine with mixer (e.g. Bucks Fizz)	ml	1	1	0	1	0	0	2	0	0	0	0	0	0
+	eo270203			Fortified wine e.g. sherry, port, vermouth	ml	0	0	0	0	0	0	1	0	0	0	0	0	0
+	eo270204			Cider or perry - half pint or bottle	ml	2	2	1	1	3	2	2	2	1	3	1	1	2
+	eo270205			Cider or perry - pint or can or size not specified	ml	2	5	7	18	10	12	25	4	17	35	24	5	4
+	eo270206			Alcoholic soft drinks (alcopops), and ready-mixed bottled drinks	ml	13	16	10	13	4	5	2	2	4	3	3	1	0
+	eo270301			Bitter - half pint or bottle	ml	13	8	9	5	8	14	6	4	3	10	2	3	5
+	eo270302			Bitter - pint or can or size not specified	ml	160	147	147	124	124	99	100	71	101	52	119	98	71
+	eo270303			Lager or other beers including unspecified 'beer' - half pint or bottle	ml	28	24	26	15	16	31	16	11	12	12	13	8	10
+	eo270304			Lager or other beers including unspecified 'beer' - pint or can or size not specified	ml	190	179	193	174	148	155	151	119	162	119	89	122	52
+	eo270401		Round of drinks, alcohol not otherwise specified		ml	8	7	5	10	11	8	9	10	11	9	18	11	6
+	eo280101		Solid, unfilled chocolate bars and sweets and unspecified 'chocolate'		g	3	3	3	2	3	3	2	3	2	2	2	1	1
+	eo280102		Filled chocolate-coated bars and sweets e.g. Mars, Snickers, Minstrels		g	5	3	5	3	3	2	3	2	2	2	2	2	1
+	eo280103		Single chocolate (after dinner)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo280104		Chewing gum and bubble gum		g	0	0	1	0	0	1	0	0	0	0	0	0	0
+	eo280105		Mints e.g. Polo, Extra Strong		g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo280106		Boiled sweets, jellies and unspecified 'sweets' e.g. fruit gums		g	3	2	2	2	2	2	2	2	1	1	1	1	1
+	eo280107		Uncoated toffee or fudge, uncoated e.g. Toffos, chocolate eclairs, caramels		g	0	0	0	0	0	0	0	0	1	0	0	0	0
+	eo280108		Pick 'n' mix, nougat, liquorice and other sweets		g	2	2	5	1	3	1	1	0	0	0	0	0	0
+	eo290101			Ice cream in a cone, cornet or wafer and ice cream desserts	g	4	4	3	3	3	4	2	3	3	2	2	2	3
+	eo290103			Ice cream scoop or tub including ice cream served with dessert	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo290104			Iced lollies and sorbets	g	1	1	1	1	0	1	0	0	0	0	1	0	0
+	eo290201			Doughnut	g	1	2	2	1	1	1	1	1	1	0	1	1	1
+	eo290202			Cream pastries e.g. chocolate eclairs, profiteroles	g	1	1	1	1	1	1	1	1	0	0	0	0	0
+	eo290203			Cream sponge or gateau (not chocolate) e.g. Victoria sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290204			Rich chocolate cake or chocolate gateau e.g. Death by Chocolate	g	1	0	0	0	0	0	0	0	0	0	1	1	0
+	eo290205			Fruit and other pies or pastries	g	3	2	2	3	2	2	3	2	2	3	2	2	3
+	eo290206			Fruit cake	g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo290207			Other sponge cakes or desserts (not cream cakes)	g	3	3	3	2	3	3	3	2	2	3	2	2	2
+	eo290208			Custard desserts or sweet soufflé	g	0	0	0	1	0	0	0	0	0	0	0	1	0
+	eo290209			Meringue desserts including pavlova	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290210			Cheesecake	g	0	0	0	0	0	0	0	0	1	0	0	0	0
+	eo290211			Fool, trifle and mousse desserts	g	0	0	0	1	0	1	0	0	0	0	0	0	0
+	eo290212			Jelly	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290213			Milk and rice puddings including tapioca, semolina	g	1	0	0	1	1	1	0	0	1	0	0	0	0
+	eo290214			Other cakes and desserts, unspecified 'cake' or 'dessert'	g	2	1	1	1	1	1	2	1	1	2	3	2	2
+	eo2903		Waffles and pancakes		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290401		Teacakes, scones, currant buns, iced buns		g	2	2	2	2	2	2	2	2	2	1	1	1	1
+	eo300101		Fully-coated chocolate biscuits or wafers		g	1	1	1	0	0	1	0	0	0	0	1	0	0
+	eo300102		Sweet biscuits including half-coated chocolate biscuits		g	1	1	1	1	1	1	1	1	1	1	1	1	0
+	eo300103		Cereal bars and cereal based cakes		g	0	0	0	0	1	1	0	0	0	0	1	0	0
+	eo300104		Savoury biscuits		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310101			Nuts, nut products and seeds	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310102			Potato crisps or snacks including unspecified 'crisps', prawn crackers	g	6	5	6	5	5	4	4	3	3	3	3	3	2
+	eo310103			Cornsnacks, based on maize	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310104			Wheat based savoury snack	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310201		Popcorn		g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo310301		Other savoury snacks (including hors d'oeuvres)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+Purchased quantities of eating out food & drink by income quintile Averages per person per week Quintile 2	Code	Description			Units	2001-02	2002-03	2003-04	2004-05	2005-06	2006	2007	2008	2009	2010	2011	2012	2013
+	eo100101			Meat or fish based curry with sauce	g	5	5	4	4	4	4	4	4	4	4	3	5	5
+	eo100102			Meat or fish based curry without sauce	g	0	0	0	0	1	0	0	0	1	0	0	0	0
+	eo100103			Vegetable or fruit based curry	g	0	0	0	0	0	0	0	1	1	0	1	0	0
+	eo100104			Dhal and dhal dishes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100105			Samosas	g	0	0	0	0	0	0	0	0	1	0	0	0	0
+	eo100106			Other Indian dishes	g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo100107			Indian breads	g	1	1	0	0	1	0	1	0	1	0	0	1	0
+	eo100108			Indian buffet or shared meal or unspecified indian meal	g	0	0	3	1	1	2	1	1	2	1	4	3	5
+	eo100201			Chinese or Thai meat or fish based dishes excluding curry	g	2	4	3	3	4	3	2	2	2	3	1	2	2
+	eo100202			Chop suey and fu yung dishes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100203			Chinese or Thai vegetable based main course dishes excluding curry	g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo100204			Chinese or Thai curry	g	0	0	0	1	1	0	0	0	0	1	0	1	1
+	eo100205			Spring rolls	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100206			Other Chinese or Thai dishes	g	1	1	0	0	1	1	0	0	0	0	0	0	0
+	eo100207			Chinese or Thai buffet or shared meal or unspecified Chinese or Thai meal	g	0	2	3	3	5	5	2	6	4	4	4	2	3
+	eo1003		All other ethnic meals		g	0	0	1	0	0	0	1	0	0	1	1	0	3
+	eo110101			Steak - without sauce e.g. braised, sirloin	g	2	3	2	3	3	3	3	2	2	2	2	2	2
+	eo110102			Roast meat with sauce or gravy	g	5	4	5	6	5	6	5	5	5	6	5	4	4
+	eo110103			Pork chops with sauce or gravy	g	0	0	0	0	1	0	0	0	0	0	0	0	0
+	eo110104			Lamb chops with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110105			Spare ribs	g	0	0	0	1	0	0	0	0	0	0	0	0	0
+	eo110106			Bacon	g	2	2	3	2	2	2	2	2	2	2	2	2	1
+	eo110107			Gammon or ham	g	1	1	2	1	1	1	1	2	2	2	1	2	1
+	eo110108			All offal including liver, kidney, tongue	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110201			Chicken or turkey with sauce or gravy	g	6	5	7	7	8	8	6	8	8	9	8	8	9
+	eo110202			Chicken or turkey in breadcrumbs or batter	g	3	3	3	3	2	3	2	3	3	3	4	4	4
+	eo110203			Duck with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110204			Game with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110301			Small or single burgers	g	6	6	6	5	5	4	4	4	4	5	5	6	5
+	eo110302			Large or double burgers	g	6	8	6	7	6	5	5	6	6	5	5	4	4
+	eo110303			Chicken burger	g	4	3	3	3	2	2	2	2	4	4	3	3	3
+	eo110401			Kebabs - all types including chicken	g	2	4	2	3	3	3	2	1	2	2	2	3	1
+	eo110402			Plain sausages e.g. beef, pork	g	6	6	7	7	7	5	4	4	4	5	4	5	3
+	eo110403			Other sausages	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110404			Hot dogs and sausage sandwiches	g	3	4	4	3	3	3	2	3	3	2	2	2	3
+	eo110501			Meat pies (pastry topped) and pasties	g	9	10	10	9	8	8	7	8	6	7	5	6	6
+	eo110502			Meat pies (potato topped e.g. shepherd's pie)	g	1	1	1	2	2	1	2	1	1	1	1	1	1
+	eo110503			Sausage roll (pastry)	g	2	2	2	2	1	2	2	2	1	2	1	2	2
+	eo110601			Meat and vegetable stews, casseroles or hotpots	g	1	1	2	2	1	1	2	1	1	1	1	1	0
+	eo110602			Chicken or turkey stews, casseroles or hotpots	g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo110603			Meat lasagne, cannelloni, moussaka and other meat-based oven baked dishes	g	3	5	4	3	3	4	4	5	3	4	3	4	2
+	eo1107		Pate		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo1108		Other meat and meat products		g	1	1	1	1	1	1	1	1	1	1	0	1	1
+	eo120101			White fish - grilled, steamed, baked or boiled - without sauce	g	1	1	1	1	1	1	1	1	1	0	1	0	0
+	eo120102			White fish - fried (incl in batter/breadcrumbs) - without sauce	g	8	8	9	7	9	8	7	8	7	8	8	8	7
+	eo120201			Trout, tuna and salmon only - fresh - without sauce or dressing	g	0	0	0	0	0	1	0	0	0	0	0	0	0
+	eo120202			Other fatty fish - without sauce or dressing e.g. herring, mackerel, sardines	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120301		Shellfish - without sauce or dressing e.g. prawns, shrimps, oysters, crab		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120401		Kippers and other smoked fish e.g. smoked salmon		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120501		Other fish products and unspecified 'fish' e.g. squid, sushi, crabsticks		g	0	0	0	0	0	0	0	0	0	0	1	1	1
+	eo120601			Fish, processed, in breadcrumbs (fish fingers, fish cakes, scampi) - without sauce or dressing	g	2	1	1	1	2	2	1	1	1	1	1	1	1
+	eo120602			Fish burgers (in bun)	g	0	0	0	0	1	0	1	0	0	1	0	0	0
+	eo120603			Fish based pie or other dish e.g. paella, kedgeree, tuna pasta bake	g	1	1	1	1	1	1	1	1	1	1	0	0	1
+	eo130101			Cottage cheese including with pineapple	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130102			Soft, continental or processed cheese e.g. brie	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130103			Cheddar, blue or other hard cheese and unspecified 'cheese'	g	0	0	0	0	0	0	0	1	0	0	0	0	0
+	eo130104			Quiche and cheese pies or pasties	g	1	2	1	1	2	1	1	1	1	2	1	1	1
+	eo130105			Other cheese dishes e.g. Welsh rarebit, cheese and biscuits	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130201			Pizza - cheese and tomato, vegetable or unspecified 'pizza'	g	5	4	6	6	4	5	5	5	5	4	6	7	6
+	eo130202			Pizza - meat, fish or poultry	g	1	2	1	2	1	1	1	1	2	3	2	1	2
+	eo130301			Eggs - boiled or poached	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130302			Eggs - scrambled, fried, omelettes or unspecified 'egg'	g	7	7	8	7	8	6	5	7	5	6	5	8	5
+	eo130303			Other egg dishes e.g. egg mayonnaise	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo140101		Chips and french fries - from fast food outlet e.g. McDonalds		g	9	8	8	7	6	6	7	7	6	8	7	8	8
+	eo140102		Chips - served with meal e.g. from restaurant or chip shop		g	44	41	39	36	37	35	29	30	31	31	33	30	31
+	eo140103		Potatoes - boiled or unspecified 'potato'		g	7	5	8	8	6	9	5	5	4	5	4	4	3
+	eo140104		Potatoes - mashed		g	2	2	2	2	3	2	1	2	2	2	2	2	2
+	eo140105		Potatoes - roast		g	7	5	5	6	7	7	6	6	6	7	5	5	5
+	eo140106		Sautéed potatoes, potato croquettes, hash browns etc.		g	1	1	2	1	1	1	1	1	1	1	1	1	1
+	eo140107		Baked or jacket potatoes - without filling		g	4	5	4	6	4	6	6	4	4	3	4	3	3
+	eo140108		Other potato dishes (e.g. wedges, potato salad) including unspecified 'potato dish'		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo150101			Lettuce and cress	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150102			Other green vegetables e.g. spinach, cabbage, sprouts	g	4	4	5	5	4	5	4	3	4	3	2	2	2
+	eo150201			Peppers - raw or cooked	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150202			Courgettes, marrow, aubergine, pumpkin, plantain, cucumbers	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150203			Peas and sweetcorn	g	6	5	5	5	6	5	4	5	4	4	4	3	3
+	eo150204			Baked beans and other beans (not green beans) and pulses	g	5	4	6	5	5	4	3	4	3	4	4	4	4
+	eo150205			Tomato - fresh or raw	g	0	0	0	0	0	1	0	0	1	0	0	0	0
+	eo150206			Tomato - cooked or processed	g	1	1	1	1	1	1	1	1	1	1	1	2	1
+	eo150301			Carrots	g	4	3	2	3	3	3	2	2	2	2	1	1	1
+	eo150302			Onions - raw, cooked or unspecified 'onions'	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150303			Onions - fried	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150304			Other root vegetables or tubers e.g. turnip, parsnip, radish, beetroot	g	1	0	0	0	0	0	1	0	1	0	0	0	0
+	eo1504		Mushrooms		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo150501			Mixed vegetables or unspecified 'vegetable'	g	2	2	3	4	4	4	3	4	3	5	3	3	4
+	eo150502			Other vegetables e.g. artichoke, asparagus	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150503			Vegetables in batter or breadcrumbs and deep fried vegetables e.g. onion rings	g	1	0	0	0	0	0	1	0	0	1	0	1	1
+	eo150504			Onion and other vegetable bhajis and pakora	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150601			Veggie burger, bean burger, veggie sausage, nut roast	g	1	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150602			Vegetable lasagne, vegetable cannelloni, vegetable moussaka and other oven baked vegetable based dishes	g	2	2	1	1	1	2	2	3	1	1	2	2	1
+	eo150603			Stuffed vegetables (e.g. stuffed pepper) and vegetable based starter	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150604			Vegetable based stews and casseroles and vegetable based pies	g	1	2	1	2	1	0	1	1	1	1	1	1	1
+	eo160101			Mixed salad, main course  - without dressing	g	0	0	0	0	1	1	0	0	1	0	1	1	1
+	eo160102			Mixed salad, side dish - without dressing - including unspecified 'salad'	g	4	5	6	7	6	6	7	6	6	6	5	5	6
+	eo160103			Green salad - without dressing	g	1	1	1	0	0	0	0	0	0	0	0	0	0
+	eo160201			Vegetable or fruit and nut salad - with dressing	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160202			Pasta, rice, mixed bean or cereal-based salads - with dressing	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160301			Meat salad e.g. beef, lamb salads	g	1	1	1	2	2	1	0	1	1	1	1	0	1
+	eo160302			Chicken or turkey salad	g	1	1	2	2	1	2	1	1	1	1	1	1	2
+	eo160303			Fish salad e.g. tuna, salmon salads	g	1	1	1	1	1	1	1	2	1	1	1	1	2
+	eo160401			Cheese salad including ploughmans	g	1	1	1	1	1	1	1	0	0	1	0	1	1
+	eo160402			Egg salad	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160501		Other salads e.g. Greek, Florida, Russian		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160601		Salad buffet or buffet meal where items not specified		g	0	1	0	1	0	0	0	0	0	1	1	0	0
+	eo170101		Fried rice and risotto		g	1	2	1	1	1	1	1	1	2	1	0	1	1
+	eo170102		All cooked rice exluding fried rice e.g. boiled, pilau, savoury		g	3	3	3	4	3	3	3	3	3	3	2	3	4
+	eo170103		Pasta - not filled and plain noodles (including pot noodle) - without sauce		g	3	3	3	3	3	3	4	3	3	4	2	2	3
+	eo170104		Pasta - filled e.g. ravioli, tortellini - without sauce		g	0	0	0	0	0	0	0	0	1	0	1	0	0
+	eo170105		Noodles with meat, vegetables etc.		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo180101		Meat & fish soups		g	0	1	1	1	0	1	1	1	0	0	0	0	1
+	eo180102		Vegetable based soups		g	3	3	3	3	3	3	3	3	3	2	2	2	2
+	eo180103		Chinese soups, consommé (meat, fish or veg)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo180104		Other soups including unspecified 'soup'		g	3	4	4	5	4	5	3	4	2	3	3	3	2
+	eo190101		Muesli and oat crunch cereals		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190102		Other high fibre breakfast cereals e.g. Allbran, Weetabix		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190103		Sweetened breakfast cereals e.g. Frosties, Sugar Puffs		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190104		Hot breakfast cereals e.g. porridge, Ready Brek		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190105		Other breakfast cereals and unspecified 'cereal' e.g. Cornflakes, Rice Krispies, Special K		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200101			All citrus fruit, fresh e.g. orange, grapefruit	g	1	0	0	1	0	1	0	0	0	0	1	0	0
+	eo200102			Banana, fresh	g	1	1	1	1	1	1	1	1	0	1	1	1	0
+	eo200103			Apples, fresh	g	1	1	1	1	2	1	1	1	0	1	1	1	1
+	eo200104			Pears, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200105			Stone fruit, fresh e.g. apricot, plum, peach, cherry, avocado	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200106			Grapes, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200107			Soft fruit or berries, fresh e.g. strawberries, blackberries - without cream or ice cream	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200108			Melon, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200109			Pineapple, fresh	g	0	0	1	1	1	0	0	0	0	0	1	0	0
+	eo200110			Fresh fruit salad - without cream or ice cream	g	0	0	1	1	1	1	1	1	1	1	0	0	1
+	eo200111			Other fresh fruit (kiwi, passion) and unspecified 'fruit'	g	0	0	0	0	0	0	0	1	0	0	0	0	0
+	eo200112			Free school fruit	g	1	2	3	3	5	5	4	5	4	5	5	6	6
+	eo200201		Dried fruit e.g. sultanas, raisins		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200301		Tinned, stewed, baked or processed fruit - without cream or ice cream		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo210	Yoghurt and fromage frais			g	1	1	1	1	1	1	1	1	1	1	2	0	1
+	eo220101		White bread, with or without butter or margarine (toasted or untoasted)		g	2	3	2	3	2	2	2	2	1	1	1	0	0
+	eo220102		Brown or wholemeal bread, with or without butter or margarine (toasted or untoasted)		g	0	0	0	1	0	0	0	1	0	1	0	0	0
+	eo220103		White rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	1	2	1	1	1	1	1	1	1	1	1	0	0
+	eo220104		Brown or wholemeal rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo220105		Garlic bread		g	0	0	0	0	0	0	1	0	0	0	0	1	0
+	eo220106		Croissant		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo220107		Continental breads e.g. pitta, ciabatta, focaccio		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo220108		Muffins, crumpets		g	0	0	0	0	0	0	0	0	0	1	0	0	0
+	eo220109		Fried bread, including croutons		g	0	0	0	0	0	0	0	0	0	0	0	1	0
+	eo220110		Other bread, rolls, toast, unspecified 'bread' etc.		g	0	0	0	0	0	0	0	0	0	0	1	2	2
+	eo230101			Meat based sandwich on white bread or roll	g	13	13	13	11	11	11	8	12	8	8	5	4	3
+	eo230102			Meat based sandwich on brown bread or roll	g	2	2	2	2	2	1	4	3	2	3	1	1	0
+	eo230103			Meat based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	5	7	8
+	eo230104			Chicken or turkey based sandwich on white bread or roll	g	5	7	7	6	7	6	5	6	6	5	3	3	2
+	eo230105			Chicken or turkey based sandwich on brown bread or roll	g	1	1	2	1	2	2	2	1	2	2	1	1	1
+	eo230106			Chicken or turkey based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	2	4	6
+	eo230107			Bacon and egg based sandwich on white bread or roll including Bacon and Egg McMuffin	g	2	2	1	1	1	1	1	2	1	1	0	0	0
+	eo230108			Bacon and egg based sandwich on brown bread or roll	g	1	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230109			Bacon and egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	1
+	eo230110			Fish based sandwich on white bread or roll	g	4	5	4	3	5	4	4	2	3	3	2	1	1
+	eo230111			Fish based sandwich on brown bread or roll	g	1	2	1	2	1	1	2	1	1	2	1	1	1
+	eo230112			Fish based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	1	2	2
+	eo230201			Cheese based sandwich on white bread or roll	g	7	9	6	6	6	7	4	5	5	4	3	2	1
+	eo230202			Cheese based sandwich on brown bread or roll	g	2	1	1	1	2	2	1	1	1	2	1	1	0
+	eo230203			Cheese based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	3	3	3
+	eo230204			Egg based sandwich on white bread or roll including Egg McMuffin	g	2	3	3	2	3	2	2	1	1	1	1	0	0
+	eo230205			Egg based sandwich on brown bread or roll	g	0	1	1	1	0	1	1	1	1	0	0	0	0
+	eo230206			Egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	1
+	eo230207			Vegetarian based sandwich on white bread or roll	g	2	3	2	2	2	1	1	1	1	1	0	0	0
+	eo230208			Vegetarian based sandwich on brown bread or roll	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230209			Vegetarian based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	0	1	1
+	eo230210			Sweet-filled sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230211			Unspecified sandwiches or rolls	g	1	4	6	6	6	8	9	7	10	7	8	9	9
+	eo240101			Cheese or cream based sauce e.g. carbonara, cauliflower cheese	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240102			Meat-based sauce e.g. bolognese, chilli con carne	g	1	1	1	2	2	2	2	2	2	3	2	1	1
+	eo240103			Fish or seafood based sauce	g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo240104			Tomato based sauce containing vegetables including ratatouille	g	0	0	0	0	1	1	1	0	0	0	0	0	0
+	eo240105			Other savoury sauce or unspecified 'sauce'	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo240106			Sweet sauce e.g. syrup, treacle, chocolate sauce	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240107			Fruit or vegetable based condiments	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240108			Other condiments or sauces	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240201			Salad dressings and dips	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240202			Mayonnaise	g	0	1	0	0	0	0	1	0	1	0	0	0	0
+	eo240203			Coleslaw	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240301			Fruit filling e.g. peaches for pancakes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240302			Vegetable filling	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240303			Cheese filling including cheddar cheese, cottage cheese	g	0	0	0	1	0	1	1	1	1	1	1	0	0
+	eo240304			Fish based filling e.g. tuna mayonnaise	g	0	0	0	1	0	1	1	0	0	0	0	0	0
+	eo240401			Butter and margarine	g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo240402			Jam, marmalade and honey	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240403			Cream - single, double, sour etc.	g	1	1	0	0	0	1	0	0	0	0	0	0	0
+	eo240404			Custard	g	2	1	2	1	1	1	1	1	1	1	1	1	1
+	eo240405			Sugar (as an addition to tea, coffee etc.)	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240501		Commercial baby food in a jar or can		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo2406		Yorkshire puddings and dumplings		g	1	1	1	1	2	2	1	1	1	1	1	1	1
+	eo240701		Unspecified meal e.g. 'meal', 'school meal' or 'meal at work'		g	151	140	116	120	143	137	126	128	129	142	135	125	112
+	eo250101		Coffee, black including espresso		ml	1	2	1	2	2	4	2	5	3	6	2	3	5
+	eo250102		Coffee, white including cappuccino, latte		ml	34	28	26	24	21	21	22	23	32	27	23	25	30
+	eo250103		Coffee, black or white not specified		ml	34	34	39	43	37	45	36	34	25	35	31	26	30
+	eo250104		Tea, white (including black or white not specified)		ml	42	50	39	35	39	31	28	40	29	29	25	30	27
+	eo250105		Tea, black including Chinese tea, herbal tea, fruit tea		ml	1	1	1	0	1	1	0	1	1	1	1	1	2
+	eo250106		Hot chocolate or cocoa, with milk or water		ml	8	8	8	4	6	6	5	5	4	4	5	5	5
+	eo260201			Mineral water	ml	20	27	24	30	39	50	34	28	27	27	27	26	31
+	eo260202			Soft drink (incl carbonates and still) - low calorie	ml	29	37	33	33	24	29	23	18	19	26	34	20	21
+	eo260203			Soft drink (incl carbonates & still) - not low calorie (including drinks where calorie content unspecified)	ml	183	191	180	156	146	151	132	142	140	117	112	117	118
+	eo260204			Pure fruit juices	ml	12	8	10	11	12	14	11	13	11	10	10	8	12
+	eo260205			Vegetable juices e.g. tomato juice, carrot juice	ml	1	0	0	0	0	0	0	0	0	0	0	0	0
+	eo260206			Soft drink where pure juice or juice drink not specified	ml	0	0	0	0	0	0	0	0	0	0	0	2	8
+	eo260301			Milk as a drink	ml	4	3	4	3	3	3	4	2	2	2	2	1	1
+	eo260302			Milk on cereal	ml	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo260303			Milkshake and flavoured milk	ml	5	5	6	6	7	6	6	6	6	5	6	6	4
+	eo260304			Free school milk	ml	10	15	13	10	4	9	9	7	13	9	11	14	9
+	eo270101			Spirits	ml	1	1	2	1	1	1	2	1	1	1	0	1	1
+	eo270102			Liqueurs	ml	0	0	0	0	0	0	0	0	0	1	0	0	0
+	eo270103			Cocktails	ml	0	0	0	0	1	1	0	0	1	1	1	0	1
+	eo270104			Spirits or liqueurs with mixer e.g. gin & tonic, Bacardi & coke	ml	12	12	13	11	12	9	9	10	9	8	7	4	5
+	eo270201			Wine (not sparkling) including unspecified 'wine'	ml	11	11	11	12	13	14	11	8	15	18	14	12	11
+	eo270202			Sparkling wines (e.g. Champagne) and wine with mixer (e.g. Bucks Fizz)	ml	0	1	1	1	1	1	1	1	0	1	0	0	0
+	eo270203			Fortified wine e.g. sherry, port, vermouth	ml	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo270204			Cider or perry - half pint or bottle	ml	2	1	2	4	2	8	1	1	1	4	2	4	3
+	eo270205			Cider or perry - pint or can or size not specified	ml	5	7	4	18	11	12	13	8	7	11	13	3	14
+	eo270206			Alcoholic soft drinks (alcopops), and ready-mixed bottled drinks	ml	16	23	11	15	9	7	4	2	1	5	3	3	1
+	eo270301			Bitter - half pint or bottle	ml	10	11	12	8	9	10	10	6	5	10	11	7	8
+	eo270302			Bitter - pint or can or size not specified	ml	181	193	163	172	131	114	126	88	92	92	78	112	102
+	eo270303			Lager or other beers including unspecified 'beer' - half pint or bottle	ml	34	37	41	28	25	23	25	19	10	13	9	14	11
+	eo270304			Lager or other beers including unspecified 'beer' - pint or can or size not specified	ml	213	220	211	215	202	192	141	163	113	102	111	95	92
+	eo270401		Round of drinks, alcohol not otherwise specified		ml	5	6	6	8	15	16	15	13	23	15	21	18	17
+	eo280101		Solid, unfilled chocolate bars and sweets and unspecified 'chocolate'		g	5	6	5	4	4	3	3	3	3	2	2	2	2
+	eo280102		Filled chocolate-coated bars and sweets e.g. Mars, Snickers, Minstrels		g	7	9	5	4	3	4	3	3	3	2	2	2	2
+	eo280103		Single chocolate (after dinner)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo280104		Chewing gum and bubble gum		g	1	1	1	0	0	0	0	0	0	0	0	0	0
+	eo280105		Mints e.g. Polo, Extra Strong		g	1	1	1	1	1	0	0	0	0	0	0	0	0
+	eo280106		Boiled sweets, jellies and unspecified 'sweets' e.g. fruit gums		g	4	3	3	2	2	2	2	2	2	2	1	1	2
+	eo280107		Uncoated toffee or fudge, uncoated e.g. Toffos, chocolate eclairs, caramels		g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo280108		Pick 'n' mix, nougat, liquorice and other sweets		g	3	3	2	2	2	1	1	1	1	1	1	0	0
+	eo290101			Ice cream in a cone, cornet or wafer and ice cream desserts	g	5	5	5	3	3	4	3	3	4	4	3	3	3
+	eo290103			Ice cream scoop or tub including ice cream served with dessert	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo290104			Iced lollies and sorbets	g	1	2	1	1	1	1	1	1	1	1	1	0	0
+	eo290201			Doughnut	g	2	2	1	2	2	1	1	2	2	1	1	1	2
+	eo290202			Cream pastries e.g. chocolate eclairs, profiteroles	g	1	1	1	1	1	1	1	1	1	1	1	0	0
+	eo290203			Cream sponge or gateau (not chocolate) e.g. Victoria sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290204			Rich chocolate cake or chocolate gateau e.g. Death by Chocolate	g	0	1	1	1	0	0	0	0	1	1	0	1	0
+	eo290205			Fruit and other pies or pastries	g	3	3	3	4	3	4	2	3	2	2	2	3	3
+	eo290206			Fruit cake	g	1	0	1	1	1	0	1	0	1	0	0	0	0
+	eo290207			Other sponge cakes or desserts (not cream cakes)	g	4	4	4	4	4	4	3	4	4	3	3	3	2
+	eo290208			Custard desserts or sweet soufflé	g	1	1	1	1	1	0	1	0	0	0	0	0	0
+	eo290209			Meringue desserts including pavlova	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290210			Cheesecake	g	0	0	0	1	0	1	0	1	0	0	0	0	0
+	eo290211			Fool, trifle and mousse desserts	g	0	1	1	0	0	1	0	0	0	1	0	0	0
+	eo290212			Jelly	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290213			Milk and rice puddings including tapioca, semolina	g	0	0	0	1	0	0	0	0	0	0	0	0	1
+	eo290214			Other cakes and desserts, unspecified 'cake' or 'dessert'	g	2	1	1	2	2	1	1	2	1	2	3	3	4
+	eo2903		Waffles and pancakes		g	0	0	0	0	0	0	0	0	0	1	0	0	0
+	eo290401		Teacakes, scones, currant buns, iced buns		g	2	3	2	3	2	2	2	3	2	2	2	2	2
+	eo300101		Fully-coated chocolate biscuits or wafers		g	1	1	1	1	1	1	1	1	1	1	1	0	0
+	eo300102		Sweet biscuits including half-coated chocolate biscuits		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo300103		Cereal bars and cereal based cakes		g	0	1	1	1	1	1	0	1	0	0	0	0	0
+	eo300104		Savoury biscuits		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310101			Nuts, nut products and seeds	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310102			Potato crisps or snacks including unspecified 'crisps', prawn crackers	g	9	9	9	5	5	5	5	4	4	3	3	3	4
+	eo310103			Cornsnacks, based on maize	g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo310104			Wheat based savoury snack	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310201		Popcorn		g	1	1	1	1	1	1	0	0	1	1	0	1	0
+	eo310301		Other savoury snacks (including hors d'oeuvres)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+Purchased quantities of eating out food & drink by income quintile Averages per person per week Quintile 3	Code	Description			Units	2001-02	2002-03	2003-04	2004-05	2005-06	2006	2007	2008	2009	2010	2011	2012	2013
+	eo100101			Meat or fish based curry with sauce	g	6	8	11	8	7	7	6	7	5	6	6	6	7
+	eo100102			Meat or fish based curry without sauce	g	1	1	1	0	1	0	1	0	1	1	0	0	0
+	eo100103			Vegetable or fruit based curry	g	1	0	0	0	0	0	1	0	0	1	1	1	1
+	eo100104			Dhal and dhal dishes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100105			Samosas	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100106			Other Indian dishes	g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo100107			Indian breads	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo100108			Indian buffet or shared meal or unspecified indian meal	g	0	2	1	3	1	3	2	3	2	3	2	2	3
+	eo100201			Chinese or Thai meat or fish based dishes excluding curry	g	5	5	4	4	4	4	3	4	4	4	2	4	4
+	eo100202			Chop suey and fu yung dishes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100203			Chinese or Thai vegetable based main course dishes excluding curry	g	1	1	0	0	0	0	0	0	1	0	0	0	0
+	eo100204			Chinese or Thai curry	g	0	1	0	0	1	0	1	1	1	1	0	1	1
+	eo100205			Spring rolls	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100206			Other Chinese or Thai dishes	g	1	0	0	1	1	0	0	0	0	0	0	0	0
+	eo100207			Chinese or Thai buffet or shared meal or unspecified Chinese or Thai meal	g	0	2	5	4	9	5	7	7	3	9	4	4	4
+	eo1003		All other ethnic meals		g	0	0	0	5	1	1	0	1	1	1	1	2	1
+	eo110101			Steak - without sauce e.g. braised, sirloin	g	3	3	4	4	3	3	3	2	3	3	3	3	3
+	eo110102			Roast meat with sauce or gravy	g	4	6	5	5	5	5	4	5	5	5	5	5	5
+	eo110103			Pork chops with sauce or gravy	g	0	0	0	1	0	0	0	0	0	0	0	0	0
+	eo110104			Lamb chops with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110105			Spare ribs	g	0	0	1	1	1	1	0	0	1	0	1	1	1
+	eo110106			Bacon	g	3	3	3	3	3	3	3	3	3	2	3	2	2
+	eo110107			Gammon or ham	g	2	2	1	1	1	1	1	1	2	1	2	2	1
+	eo110108			All offal including liver, kidney, tongue	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110201			Chicken or turkey with sauce or gravy	g	7	10	9	8	9	10	9	8	8	9	11	11	9
+	eo110202			Chicken or turkey in breadcrumbs or batter	g	4	5	6	5	4	4	3	4	4	4	4	5	6
+	eo110203			Duck with sauce or gravy	g	0	0	1	0	1	0	0	0	0	0	0	0	0
+	eo110204			Game with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110301			Small or single burgers	g	9	8	8	8	8	7	6	5	5	4	7	6	5
+	eo110302			Large or double burgers	g	10	9	8	6	9	8	8	7	6	7	7	5	5
+	eo110303			Chicken burger	g	6	5	5	5	4	4	3	2	3	3	4	3	4
+	eo110401			Kebabs - all types including chicken	g	4	3	4	3	4	4	4	3	2	3	4	3	3
+	eo110402			Plain sausages e.g. beef, pork	g	8	8	9	8	8	7	8	7	8	6	6	6	5
+	eo110403			Other sausages	g	1	0	0	1	0	0	0	0	0	0	0	0	0
+	eo110404			Hot dogs and sausage sandwiches	g	6	5	6	6	5	5	4	3	3	3	4	4	3
+	eo110501			Meat pies (pastry topped) and pasties	g	11	12	12	11	11	12	9	8	9	11	6	7	6
+	eo110502			Meat pies (potato topped e.g. shepherd's pie)	g	1	1	1	2	1	1	1	1	1	0	1	1	1
+	eo110503			Sausage roll (pastry)	g	2	3	3	3	3	3	2	2	1	3	2	2	2
+	eo110601			Meat and vegetable stews, casseroles or hotpots	g	1	1	1	2	1	1	1	1	2	1	2	2	1
+	eo110602			Chicken or turkey stews, casseroles or hotpots	g	0	0	0	0	1	0	0	0	0	0	0	0	0
+	eo110603			Meat lasagne, cannelloni, moussaka and other meat-based oven baked dishes	g	4	5	3	5	3	4	4	6	5	5	5	4	4
+	eo1107		Pate		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo1108		Other meat and meat products		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo120101			White fish - grilled, steamed, baked or boiled - without sauce	g	1	1	1	1	1	1	1	1	1	1	1	0	1
+	eo120102			White fish - fried (incl in batter/breadcrumbs) - without sauce	g	7	8	7	8	8	8	6	8	7	8	7	6	6
+	eo120201			Trout, tuna and salmon only - fresh - without sauce or dressing	g	0	1	1	1	1	0	0	0	0	1	0	0	0
+	eo120202			Other fatty fish - without sauce or dressing e.g. herring, mackerel, sardines	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120301		Shellfish - without sauce or dressing e.g. prawns, shrimps, oysters, crab		g	0	1	0	0	0	0	0	0	0	1	0	0	0
+	eo120401		Kippers and other smoked fish e.g. smoked salmon		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120501		Other fish products and unspecified 'fish' e.g. squid, sushi, crabsticks		g	0	0	0	0	0	0	0	0	1	0	0	1	1
+	eo120601			Fish, processed, in breadcrumbs (fish fingers, fish cakes, scampi) - without sauce or dressing	g	2	1	2	2	2	1	1	1	1	1	1	1	1
+	eo120602			Fish burgers (in bun)	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120603			Fish based pie or other dish e.g. paella, kedgeree, tuna pasta bake	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo130101			Cottage cheese including with pineapple	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130102			Soft, continental or processed cheese e.g. brie	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130103			Cheddar, blue or other hard cheese and unspecified 'cheese'	g	0	1	1	1	0	1	1	0	0	1	0	0	0
+	eo130104			Quiche and cheese pies or pasties	g	2	2	2	2	2	2	2	1	1	1	1	1	1
+	eo130105			Other cheese dishes e.g. Welsh rarebit, cheese and biscuits	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130201			Pizza - cheese and tomato, vegetable or unspecified 'pizza'	g	7	9	10	9	8	8	8	7	7	6	8	7	8
+	eo130202			Pizza - meat, fish or poultry	g	3	2	2	1	2	2	2	2	3	3	4	2	3
+	eo130301			Eggs - boiled or poached	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130302			Eggs - scrambled, fried, omelettes or unspecified 'egg'	g	9	9	9	8	9	8	9	8	8	6	8	8	7
+	eo130303			Other egg dishes e.g. egg mayonnaise	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo140101		Chips and french fries - from fast food outlet e.g. McDonalds		g	13	13	11	10	9	9	8	7	7	8	8	9	8
+	eo140102		Chips - served with meal e.g. from restaurant or chip shop		g	49	49	47	47	45	40	37	36	35	32	38	32	30
+	eo140103		Potatoes - boiled or unspecified 'potato'		g	5	7	6	7	6	6	5	4	5	4	5	4	5
+	eo140104		Potatoes - mashed		g	2	3	2	2	2	2	2	1	2	3	2	2	2
+	eo140105		Potatoes - roast		g	5	7	6	6	6	6	6	6	6	6	5	6	6
+	eo140106		Sautéed potatoes, potato croquettes, hash browns etc.		g	2	2	2	2	2	2	2	1	1	2	1	2	2
+	eo140107		Baked or jacket potatoes - without filling		g	5	6	6	5	6	5	6	5	5	4	4	4	4
+	eo140108		Other potato dishes (e.g. wedges, potato salad) including unspecified 'potato dish'		g	1	2	2	2	1	1	1	1	1	1	1	0	1
+	eo150101			Lettuce and cress	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150102			Other green vegetables e.g. spinach, cabbage, sprouts	g	4	5	4	5	3	4	3	3	3	3	3	3	2
+	eo150201			Peppers - raw or cooked	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150202			Courgettes, marrow, aubergine, pumpkin, plantain, cucumbers	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150203			Peas and sweetcorn	g	5	5	5	4	5	5	4	4	4	4	4	3	3
+	eo150204			Baked beans and other beans (not green beans) and pulses	g	7	7	7	7	7	6	6	6	6	6	6	6	5
+	eo150205			Tomato - fresh or raw	g	1	0	1	0	1	0	0	0	1	0	0	1	0
+	eo150206			Tomato - cooked or processed	g	1	2	1	1	1	1	1	1	1	1	1	1	1
+	eo150301			Carrots	g	3	3	2	2	2	2	2	2	2	2	2	1	1
+	eo150302			Onions - raw, cooked or unspecified 'onions'	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150303			Onions - fried	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150304			Other root vegetables or tubers e.g. turnip, parsnip, radish, beetroot	g	0	1	0	1	0	0	0	0	1	0	0	0	1
+	eo1504		Mushrooms		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo150501			Mixed vegetables or unspecified 'vegetable'	g	2	4	4	4	4	4	4	4	4	4	4	4	5
+	eo150502			Other vegetables e.g. artichoke, asparagus	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150503			Vegetables in batter or breadcrumbs and deep fried vegetables e.g. onion rings	g	1	1	1	1	1	1	0	0	1	0	0	1	1
+	eo150504			Onion and other vegetable bhajis and pakora	g	0	0	0	0	0	0	0	0	0	0	0	1	0
+	eo150601			Veggie burger, bean burger, veggie sausage, nut roast	g	0	0	0	1	0	0	1	0	0	0	0	0	0
+	eo150602			Vegetable lasagne, vegetable cannelloni, vegetable moussaka and other oven baked vegetable based dishes	g	2	4	2	2	2	3	3	2	2	2	3	1	2
+	eo150603			Stuffed vegetables (e.g. stuffed pepper) and vegetable based starter	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150604			Vegetable based stews and casseroles and vegetable based pies	g	1	2	1	2	2	1	2	2	1	1	1	1	1
+	eo160101			Mixed salad, main course  - without dressing	g	1	1	1	0	0	1	1	1	1	1	1	0	1
+	eo160102			Mixed salad, side dish - without dressing - including unspecified 'salad'	g	5	7	7	8	8	8	6	7	6	7	7	7	7
+	eo160103			Green salad - without dressing	g	1	1	1	0	0	0	0	0	0	0	0	0	0
+	eo160201			Vegetable or fruit and nut salad - with dressing	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160202			Pasta, rice, mixed bean or cereal-based salads - with dressing	g	1	0	0	1	0	1	1	1	1	0	0	0	0
+	eo160301			Meat salad e.g. beef, lamb salads	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo160302			Chicken or turkey salad	g	1	1	2	2	2	2	1	1	1	2	1	2	3
+	eo160303			Fish salad e.g. tuna, salmon salads	g	1	1	1	1	2	1	2	1	2	2	1	1	1
+	eo160401			Cheese salad including ploughmans	g	1	2	1	1	1	1	1	1	0	1	1	1	1
+	eo160402			Egg salad	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160501		Other salads e.g. Greek, Florida, Russian		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160601		Salad buffet or buffet meal where items not specified		g	0	0	0	0	0	0	0	0	0	1	0	0	1
+	eo170101		Fried rice and risotto		g	2	2	2	2	1	2	1	2	2	1	1	1	2
+	eo170102		All cooked rice exluding fried rice e.g. boiled, pilau, savoury		g	4	6	5	5	5	5	4	5	3	5	4	5	5
+	eo170103		Pasta - not filled and plain noodles (including pot noodle) - without sauce		g	4	4	5	5	4	5	5	3	4	4	5	3	5
+	eo170104		Pasta - filled e.g. ravioli, tortellini - without sauce		g	1	0	0	0	0	0	0	0	1	1	1	1	1
+	eo170105		Noodles with meat, vegetables etc.		g	0	0	0	0	0	1	0	1	0	0	0	1	0
+	eo180101		Meat & fish soups		g	1	1	1	1	1	0	1	1	0	1	0	1	1
+	eo180102		Vegetable based soups		g	4	5	4	4	4	3	4	3	4	3	4	4	3
+	eo180103		Chinese soups, consommé (meat, fish or veg)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo180104		Other soups including unspecified 'soup'		g	3	4	4	5	5	4	4	4	3	3	6	3	4
+	eo190101		Muesli and oat crunch cereals		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190102		Other high fibre breakfast cereals e.g. Allbran, Weetabix		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190103		Sweetened breakfast cereals e.g. Frosties, Sugar Puffs		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190104		Hot breakfast cereals e.g. porridge, Ready Brek		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190105		Other breakfast cereals and unspecified 'cereal' e.g. Cornflakes, Rice Krispies, Special K		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200101			All citrus fruit, fresh e.g. orange, grapefruit	g	0	1	1	1	1	1	1	1	0	1	0	0	1
+	eo200102			Banana, fresh	g	2	2	2	1	1	1	2	1	1	1	0	1	1
+	eo200103			Apples, fresh	g	1	2	2	1	2	1	1	2	1	1	1	1	1
+	eo200104			Pears, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200105			Stone fruit, fresh e.g. apricot, plum, peach, cherry, avocado	g	0	0	0	0	0	1	0	0	0	0	1	0	0
+	eo200106			Grapes, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200107			Soft fruit or berries, fresh e.g. strawberries, blackberries - without cream or ice cream	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200108			Melon, fresh	g	0	1	1	1	1	1	1	0	0	0	0	0	1
+	eo200109			Pineapple, fresh	g	0	0	0	0	0	0	0	1	0	0	0	0	0
+	eo200110			Fresh fruit salad - without cream or ice cream	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo200111			Other fresh fruit (kiwi, passion) and unspecified 'fruit'	g	0	0	0	0	0	0	0	0	1	0	0	0	0
+	eo200112			Free school fruit	g	1	1	3	5	5	5	6	4	5	5	4	6	6
+	eo200201		Dried fruit e.g. sultanas, raisins		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200301		Tinned, stewed, baked or processed fruit - without cream or ice cream		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo210	Yoghurt and fromage frais			g	3	2	2	3	2	3	2	2	2	1	1	2	1
+	eo220101		White bread, with or without butter or margarine (toasted or untoasted)		g	3	4	4	3	3	3	3	2	3	2	1	1	1
+	eo220102		Brown or wholemeal bread, with or without butter or margarine (toasted or untoasted)		g	0	0	0	0	0	0	1	1	0	0	1	0	0
+	eo220103		White rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	2	2	1	2	2	1	2	1	1	1	1	0	0
+	eo220104		Brown or wholemeal rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo220105		Garlic bread		g	0	1	1	1	1	1	1	1	1	1	1	0	1
+	eo220106		Croissant		g	0	0	0	0	1	0	0	0	0	0	0	1	0
+	eo220107		Continental breads e.g. pitta, ciabatta, focaccio		g	0	1	0	0	0	1	0	0	1	0	1	0	0
+	eo220108		Muffins, crumpets		g	1	0	0	0	1	0	0	0	1	0	0	0	0
+	eo220109		Fried bread, including croutons		g	1	0	0	0	1	0	0	0	0	0	0	0	0
+	eo220110		Other bread, rolls, toast, unspecified 'bread' etc.		g	0	0	0	0	0	0	0	0	0	0	2	3	3
+	eo230101			Meat based sandwich on white bread or roll	g	21	22	19	17	19	18	13	14	12	12	8	4	3
+	eo230102			Meat based sandwich on brown bread or roll	g	3	2	3	3	3	3	3	2	5	2	3	1	1
+	eo230103			Meat based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	6	8	10
+	eo230104			Chicken or turkey based sandwich on white bread or roll	g	10	11	10	9	11	12	10	9	8	8	5	4	4
+	eo230105			Chicken or turkey based sandwich on brown bread or roll	g	2	2	2	2	3	3	2	2	3	2	1	1	1
+	eo230106			Chicken or turkey based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	3	6	8
+	eo230107			Bacon and egg based sandwich on white bread or roll including Bacon and Egg McMuffin	g	2	2	3	2	2	3	2	2	2	1	1	1	1
+	eo230108			Bacon and egg based sandwich on brown bread or roll	g	0	0	0	0	0	0	1	0	0	0	0	0	0
+	eo230109			Bacon and egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	2
+	eo230110			Fish based sandwich on white bread or roll	g	6	6	7	6	7	7	5	4	4	4	2	2	1
+	eo230111			Fish based sandwich on brown bread or roll	g	3	2	2	3	2	2	3	2	3	2	1	1	1
+	eo230112			Fish based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	2	3	3
+	eo230201			Cheese based sandwich on white bread or roll	g	10	9	9	9	8	9	6	7	5	6	3	2	1
+	eo230202			Cheese based sandwich on brown bread or roll	g	3	1	2	2	1	2	3	1	2	2	1	1	1
+	eo230203			Cheese based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	3	5	3
+	eo230204			Egg based sandwich on white bread or roll including Egg McMuffin	g	4	3	3	3	3	3	3	2	2	1	2	0	0
+	eo230205			Egg based sandwich on brown bread or roll	g	1	1	1	1	1	1	1	1	1	1	0	0	1
+	eo230206			Egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	1
+	eo230207			Vegetarian based sandwich on white bread or roll	g	2	3	3	2	2	3	1	2	1	1	0	0	0
+	eo230208			Vegetarian based sandwich on brown bread or roll	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230209			Vegetarian based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	1
+	eo230210			Sweet-filled sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230211			Unspecified sandwiches or rolls	g	3	5	6	8	9	10	14	12	11	9	9	11	11
+	eo240101			Cheese or cream based sauce e.g. carbonara, cauliflower cheese	g	0	0	0	0	0	0	0	0	1	0	1	0	1
+	eo240102			Meat-based sauce e.g. bolognese, chilli con carne	g	2	2	2	3	3	3	3	3	2	2	2	2	2
+	eo240103			Fish or seafood based sauce	g	0	1	1	0	0	0	0	0	0	0	0	0	0
+	eo240104			Tomato based sauce containing vegetables including ratatouille	g	0	0	0	1	1	1	1	1	1	1	1	0	0
+	eo240105			Other savoury sauce or unspecified 'sauce'	g	2	2	2	2	1	1	1	1	1	1	1	1	1
+	eo240106			Sweet sauce e.g. syrup, treacle, chocolate sauce	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240107			Fruit or vegetable based condiments	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240108			Other condiments or sauces	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240201			Salad dressings and dips	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240202			Mayonnaise	g	1	1	1	1	1	1	1	0	1	0	0	0	0
+	eo240203			Coleslaw	g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo240301			Fruit filling e.g. peaches for pancakes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240302			Vegetable filling	g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo240303			Cheese filling including cheddar cheese, cottage cheese	g	1	1	1	1	1	1	1	1	1	1	1	0	1
+	eo240304			Fish based filling e.g. tuna mayonnaise	g	1	1	1	1	1	1	1	0	1	0	1	0	0
+	eo240401			Butter and margarine	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240402			Jam, marmalade and honey	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240403			Cream - single, double, sour etc.	g	1	1	0	0	0	0	0	0	0	0	1	0	0
+	eo240404			Custard	g	1	1	1	2	1	1	1	2	1	1	1	1	1
+	eo240405			Sugar (as an addition to tea, coffee etc.)	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240501		Commercial baby food in a jar or can		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo2406		Yorkshire puddings and dumplings		g	1	1	1	1	1	2	1	1	1	1	1	2	2
+	eo240701		Unspecified meal e.g. 'meal', 'school meal' or 'meal at work'		g	122	110	106	113	96	96	125	87	97	114	101	73	78
+	eo250101		Coffee, black including espresso		ml	4	3	8	6	6	4	3	4	4	3	3	3	4
+	eo250102		Coffee, white including cappuccino, latte		ml	51	40	31	34	27	22	29	29	29	29	29	30	39
+	eo250103		Coffee, black or white not specified		ml	51	53	44	54	47	47	56	49	42	43	32	33	39
+	eo250104		Tea, white (including black or white not specified)		ml	48	42	41	37	41	37	43	31	33	31	32	36	27
+	eo250105		Tea, black including Chinese tea, herbal tea, fruit tea		ml	1	1	1	1	2	1	1	1	1	1	1	2	1
+	eo250106		Hot chocolate or cocoa, with milk or water		ml	9	7	9	6	10	8	10	7	7	6	7	8	8
+	eo260201			Mineral water	ml	34	40	43	46	55	63	51	44	31	40	43	35	35
+	eo260202			Soft drink (incl carbonates and still) - low calorie	ml	49	48	64	41	45	44	32	26	31	39	40	33	36
+	eo260203			Soft drink (incl carbonates & still) - not low calorie (including drinks where calorie content unspecified)	ml	228	241	239	208	212	206	188	173	160	147	144	136	127
+	eo260204			Pure fruit juices	ml	13	13	14	14	15	15	16	16	15	14	17	13	11
+	eo260205			Vegetable juices e.g. tomato juice, carrot juice	ml	0	0	0	0	0	0	0	1	0	0	0	0	0
+	eo260206			Soft drink where pure juice or juice drink not specified	ml	0	0	0	0	0	0	0	0	0	0	1	3	14
+	eo260301			Milk as a drink	ml	7	6	6	4	7	6	4	4	5	4	4	2	3
+	eo260302			Milk on cereal	ml	0	1	0	1	0	1	1	0	0	0	0	0	0
+	eo260303			Milkshake and flavoured milk	ml	10	8	9	10	9	8	7	6	5	6	6	8	6
+	eo260304			Free school milk	ml	6	11	10	11	3	5	7	6	7	9	7	10	2
+	eo270101			Spirits	ml	2	2	2	1	1	1	1	1	3	1	1	1	0
+	eo270102			Liqueurs	ml	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo270103			Cocktails	ml	1	0	0	1	1	0	1	1	1	1	0	1	2
+	eo270104			Spirits or liqueurs with mixer e.g. gin & tonic, Bacardi & coke	ml	14	14	16	15	18	15	15	14	12	15	8	7	6
+	eo270201			Wine (not sparkling) including unspecified 'wine'	ml	13	13	14	18	17	15	15	14	18	28	28	15	18
+	eo270202			Sparkling wines (e.g. Champagne) and wine with mixer (e.g. Bucks Fizz)	ml	1	2	2	1	2	2	0	1	1	1	1	1	1
+	eo270203			Fortified wine e.g. sherry, port, vermouth	ml	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo270204			Cider or perry - half pint or bottle	ml	4	5	5	3	3	3	1	5	2	3	3	4	5
+	eo270205			Cider or perry - pint or can or size not specified	ml	16	23	18	12	12	20	23	24	30	26	29	15	17
+	eo270206			Alcoholic soft drinks (alcopops), and ready-mixed bottled drinks	ml	35	34	24	15	14	10	6	7	5	4	2	2	3
+	eo270301			Bitter - half pint or bottle	ml	14	14	9	9	9	9	4	6	7	3	6	5	6
+	eo270302			Bitter - pint or can or size not specified	ml	214	184	148	158	147	140	128	123	138	105	99	88	90
+	eo270303			Lager or other beers including unspecified 'beer' - half pint or bottle	ml	53	50	37	30	34	27	18	20	32	16	15	13	14
+	eo270304			Lager or other beers including unspecified 'beer' - pint or can or size not specified	ml	347	303	349	299	310	267	236	191	206	159	137	141	92
+	eo270401		Round of drinks, alcohol not otherwise specified		ml	13	14	16	18	15	21	31	25	21	21	27	15	20
+	eo280101		Solid, unfilled chocolate bars and sweets and unspecified 'chocolate'		g	5	6	5	5	5	5	4	4	3	3	3	2	2
+	eo280102		Filled chocolate-coated bars and sweets e.g. Mars, Snickers, Minstrels		g	9	8	8	6	7	6	5	4	4	3	3	3	3
+	eo280103		Single chocolate (after dinner)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo280104		Chewing gum and bubble gum		g	1	1	1	1	1	1	0	1	0	0	0	0	0
+	eo280105		Mints e.g. Polo, Extra Strong		g	1	1	1	1	1	0	0	0	0	0	0	0	0
+	eo280106		Boiled sweets, jellies and unspecified 'sweets' e.g. fruit gums		g	4	4	3	4	3	3	3	2	2	2	2	2	2
+	eo280107		Uncoated toffee or fudge, uncoated e.g. Toffos, chocolate eclairs, caramels		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo280108		Pick 'n' mix, nougat, liquorice and other sweets		g	3	4	3	3	2	1	1	1	1	1	1	1	0
+	eo290101			Ice cream in a cone, cornet or wafer and ice cream desserts	g	7	6	6	6	5	4	5	4	5	3	4	3	3
+	eo290103			Ice cream scoop or tub including ice cream served with dessert	g	1	2	1	1	1	1	1	1	1	1	1	1	1
+	eo290104			Iced lollies and sorbets	g	2	1	1	1	1	1	1	1	0	0	0	0	0
+	eo290201			Doughnut	g	2	3	2	2	2	2	1	2	1	1	1	1	1
+	eo290202			Cream pastries e.g. chocolate eclairs, profiteroles	g	2	1	1	2	1	1	1	0	1	1	0	1	0
+	eo290203			Cream sponge or gateau (not chocolate) e.g. Victoria sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290204			Rich chocolate cake or chocolate gateau e.g. Death by Chocolate	g	0	0	1	1	1	1	1	1	1	1	1	1	1
+	eo290205			Fruit and other pies or pastries	g	4	4	4	3	4	4	3	4	4	3	4	3	3
+	eo290206			Fruit cake	g	0	1	1	1	1	1	0	0	0	0	0	0	0
+	eo290207			Other sponge cakes or desserts (not cream cakes)	g	4	5	5	5	5	4	5	4	3	4	3	3	3
+	eo290208			Custard desserts or sweet soufflé	g	1	1	0	1	1	1	0	0	0	1	0	1	1
+	eo290209			Meringue desserts including pavlova	g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo290210			Cheesecake	g	0	1	1	1	1	1	1	0	1	1	1	1	0
+	eo290211			Fool, trifle and mousse desserts	g	0	1	1	1	1	1	1	1	1	1	1	0	0
+	eo290212			Jelly	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290213			Milk and rice puddings including tapioca, semolina	g	1	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290214			Other cakes and desserts, unspecified 'cake' or 'dessert'	g	1	1	2	2	2	2	2	2	2	2	3	4	4
+	eo2903		Waffles and pancakes		g	0	0	1	0	0	0	0	1	0	1	1	1	0
+	eo290401		Teacakes, scones, currant buns, iced buns		g	2	2	2	2	3	2	2	2	2	2	2	2	2
+	eo300101		Fully-coated chocolate biscuits or wafers		g	2	1	2	1	1	1	1	1	1	1	1	1	1
+	eo300102		Sweet biscuits including half-coated chocolate biscuits		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo300103		Cereal bars and cereal based cakes		g	1	1	1	1	1	1	1	1	1	1	1	1	0
+	eo300104		Savoury biscuits		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310101			Nuts, nut products and seeds	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310102			Potato crisps or snacks including unspecified 'crisps', prawn crackers	g	11	10	9	7	8	7	6	6	5	5	5	4	4
+	eo310103			Cornsnacks, based on maize	g	0	1	0	0	0	1	0	0	0	0	0	0	0
+	eo310104			Wheat based savoury snack	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310201		Popcorn		g	1	1	1	1	1	0	1	1	0	1	1	1	1
+	eo310301		Other savoury snacks (including hors d'oeuvres)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+Purchased quantities of eating out food & drink by income quintile Averages per person per week Quintile 4	Code	Description			Units	2001-02	2002-03	2003-04	2004-05	2005-06	2006	2007	2008	2009	2010	2011	2012	2013
+	eo100101			Meat or fish based curry with sauce	g	10	11	9	9	9	10	9	10	10	10	7	10	10
+	eo100102			Meat or fish based curry without sauce	g	1	1	0	1	1	0	1	0	1	1	0	1	1
+	eo100103			Vegetable or fruit based curry	g	1	2	1	1	1	1	1	1	0	1	1	1	2
+	eo100104			Dhal and dhal dishes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100105			Samosas	g	0	0	0	0	0	1	0	0	0	0	0	0	0
+	eo100106			Other Indian dishes	g	0	0	1	1	0	0	0	0	0	2	1	1	0
+	eo100107			Indian breads	g	1	2	1	1	1	1	1	2	1	1	1	2	2
+	eo100108			Indian buffet or shared meal or unspecified indian meal	g	0	2	1	3	2	3	5	3	4	4	4	3	7
+	eo100201			Chinese or Thai meat or fish based dishes excluding curry	g	6	6	7	6	6	5	6	4	5	6	3	3	4
+	eo100202			Chop suey and fu yung dishes	g	0	0	0	0	0	0	0	0	0	1	0	0	0
+	eo100203			Chinese or Thai vegetable based main course dishes excluding curry	g	0	1	1	1	0	0	0	1	0	1	0	0	0
+	eo100204			Chinese or Thai curry	g	1	1	1	1	1	0	1	1	1	2	1	1	1
+	eo100205			Spring rolls	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100206			Other Chinese or Thai dishes	g	2	1	0	1	0	1	0	0	0	1	0	1	1
+	eo100207			Chinese or Thai buffet or shared meal or unspecified Chinese or Thai meal	g	0	5	5	10	5	8	9	7	4	9	9	8	7
+	eo1003		All other ethnic meals		g	0	1	1	1	1	2	2	1	1	1	3	1	1
+	eo110101			Steak - without sauce e.g. braised, sirloin	g	4	4	5	4	4	5	4	3	3	3	3	3	3
+	eo110102			Roast meat with sauce or gravy	g	5	5	4	4	4	5	6	6	5	5	5	4	5
+	eo110103			Pork chops with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110104			Lamb chops with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110105			Spare ribs	g	1	1	1	1	1	0	1	1	0	1	1	0	1
+	eo110106			Bacon	g	3	3	4	3	3	4	4	3	3	3	3	2	3
+	eo110107			Gammon or ham	g	2	2	2	2	2	2	2	2	2	2	2	2	1
+	eo110108			All offal including liver, kidney, tongue	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110201			Chicken or turkey with sauce or gravy	g	11	8	10	9	11	11	9	10	9	12	11	12	11
+	eo110202			Chicken or turkey in breadcrumbs or batter	g	6	6	7	6	4	5	4	4	6	5	5	4	6
+	eo110203			Duck with sauce or gravy	g	1	1	1	1	1	1	0	1	1	1	0	0	0
+	eo110204			Game with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110301			Small or single burgers	g	11	10	10	9	8	7	5	7	6	7	6	6	7
+	eo110302			Large or double burgers	g	12	13	12	10	11	9	10	9	10	9	8	8	7
+	eo110303			Chicken burger	g	7	5	6	5	5	5	4	4	4	3	4	4	4
+	eo110401			Kebabs - all types including chicken	g	4	5	4	4	5	4	4	4	2	4	3	4	4
+	eo110402			Plain sausages e.g. beef, pork	g	10	9	11	9	8	9	9	7	8	6	8	5	6
+	eo110403			Other sausages	g	1	0	1	0	0	0	0	0	1	1	0	0	0
+	eo110404			Hot dogs and sausage sandwiches	g	6	7	6	7	5	5	5	4	5	4	4	3	4
+	eo110501			Meat pies (pastry topped) and pasties	g	14	12	13	11	10	11	11	9	9	10	10	8	7
+	eo110502			Meat pies (potato topped e.g. shepherd's pie)	g	1	1	1	2	1	1	1	1	2	1	0	0	1
+	eo110503			Sausage roll (pastry)	g	3	3	4	3	3	2	3	2	2	2	2	2	2
+	eo110601			Meat and vegetable stews, casseroles or hotpots	g	2	1	2	1	1	2	1	1	1	1	1	1	1
+	eo110602			Chicken or turkey stews, casseroles or hotpots	g	1	1	0	1	0	1	0	0	0	0	0	0	0
+	eo110603			Meat lasagne, cannelloni, moussaka and other meat-based oven baked dishes	g	7	6	6	5	7	6	6	5	4	5	5	5	4
+	eo1107		Pate		g	0	0	0	0	0	0	0	1	0	0	0	0	0
+	eo1108		Other meat and meat products		g	1	1	1	2	1	1	2	2	2	1	1	2	2
+	eo120101			White fish - grilled, steamed, baked or boiled - without sauce	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo120102			White fish - fried (incl in batter/breadcrumbs) - without sauce	g	9	8	7	7	8	8	8	8	6	7	7	6	7
+	eo120201			Trout, tuna and salmon only - fresh - without sauce or dressing	g	1	1	1	0	0	1	1	1	0	1	0	1	0
+	eo120202			Other fatty fish - without sauce or dressing e.g. herring, mackerel, sardines	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120301		Shellfish - without sauce or dressing e.g. prawns, shrimps, oysters, crab		g	1	1	1	0	1	1	1	1	1	1	1	0	1
+	eo120401		Kippers and other smoked fish e.g. smoked salmon		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120501		Other fish products and unspecified 'fish' e.g. squid, sushi, crabsticks		g	0	1	1	1	0	1	1	0	1	1	1	2	2
+	eo120601			Fish, processed, in breadcrumbs (fish fingers, fish cakes, scampi) - without sauce or dressing	g	2	2	2	2	2	2	1	2	2	1	1	2	1
+	eo120602			Fish burgers (in bun)	g	0	0	0	0	0	0	1	0	0	0	0	0	0
+	eo120603			Fish based pie or other dish e.g. paella, kedgeree, tuna pasta bake	g	1	1	1	1	1	1	1	1	1	2	1	1	1
+	eo130101			Cottage cheese including with pineapple	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130102			Soft, continental or processed cheese e.g. brie	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130103			Cheddar, blue or other hard cheese and unspecified 'cheese'	g	1	1	1	1	1	1	1	1	0	1	1	1	1
+	eo130104			Quiche and cheese pies or pasties	g	3	2	2	2	1	2	1	1	1	1	1	1	1
+	eo130105			Other cheese dishes e.g. Welsh rarebit, cheese and biscuits	g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo130201			Pizza - cheese and tomato, vegetable or unspecified 'pizza'	g	11	12	11	12	9	9	9	10	8	9	9	9	9
+	eo130202			Pizza - meat, fish or poultry	g	5	4	2	3	3	3	4	4	4	5	4	3	3
+	eo130301			Eggs - boiled or poached	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130302			Eggs - scrambled, fried, omelettes or unspecified 'egg'	g	9	10	11	10	9	10	10	9	8	8	8	7	7
+	eo130303			Other egg dishes e.g. egg mayonnaise	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo140101		Chips and french fries - from fast food outlet e.g. McDonalds		g	16	14	14	12	12	10	10	10	10	11	10	10	10
+	eo140102		Chips - served with meal e.g. from restaurant or chip shop		g	58	54	52	51	44	46	42	41	38	37	37	37	36
+	eo140103		Potatoes - boiled or unspecified 'potato'		g	7	7	7	7	6	7	6	7	5	5	5	5	4
+	eo140104		Potatoes - mashed		g	3	2	2	2	2	3	3	2	2	2	2	2	2
+	eo140105		Potatoes - roast		g	6	6	5	5	5	6	7	7	7	5	5	5	6
+	eo140106		Sautéed potatoes, potato croquettes, hash browns etc.		g	2	2	2	1	3	2	2	2	2	2	2	2	2
+	eo140107		Baked or jacket potatoes - without filling		g	8	8	9	7	7	7	7	6	5	6	4	4	4
+	eo140108		Other potato dishes (e.g. wedges, potato salad) including unspecified 'potato dish'		g	3	3	2	2	2	2	2	1	1	1	1	1	1
+	eo150101			Lettuce and cress	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150102			Other green vegetables e.g. spinach, cabbage, sprouts	g	5	3	4	3	3	3	4	3	3	2	3	2	2
+	eo150201			Peppers - raw or cooked	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150202			Courgettes, marrow, aubergine, pumpkin, plantain, cucumbers	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150203			Peas and sweetcorn	g	6	5	5	5	5	5	5	5	4	4	4	3	3
+	eo150204			Baked beans and other beans (not green beans) and pulses	g	7	8	8	8	8	8	8	7	7	6	6	5	7
+	eo150205			Tomato - fresh or raw	g	1	0	1	0	1	1	0	0	1	0	1	1	0
+	eo150206			Tomato - cooked or processed	g	2	2	2	1	1	2	1	1	1	1	1	1	1
+	eo150301			Carrots	g	3	2	2	2	2	2	2	2	2	1	2	1	1
+	eo150302			Onions - raw, cooked or unspecified 'onions'	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150303			Onions - fried	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150304			Other root vegetables or tubers e.g. turnip, parsnip, radish, beetroot	g	1	0	1	0	1	0	1	0	0	0	0	0	0
+	eo1504		Mushrooms		g	1	2	1	1	1	1	1	1	1	1	1	1	1
+	eo150501			Mixed vegetables or unspecified 'vegetable'	g	3	4	4	4	4	5	4	5	5	4	4	4	5
+	eo150502			Other vegetables e.g. artichoke, asparagus	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150503			Vegetables in batter or breadcrumbs and deep fried vegetables e.g. onion rings	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo150504			Onion and other vegetable bhajis and pakora	g	0	0	0	1	1	0	0	0	0	1	0	0	1
+	eo150601			Veggie burger, bean burger, veggie sausage, nut roast	g	1	1	1	1	1	0	1	1	0	0	1	0	0
+	eo150602			Vegetable lasagne, vegetable cannelloni, vegetable moussaka and other oven baked vegetable based dishes	g	3	4	3	3	3	3	2	3	3	3	3	2	1
+	eo150603			Stuffed vegetables (e.g. stuffed pepper) and vegetable based starter	g	0	1	0	0	0	1	0	0	0	0	0	0	0
+	eo150604			Vegetable based stews and casseroles and vegetable based pies	g	2	2	1	2	2	2	2	2	2	1	1	2	1
+	eo160101			Mixed salad, main course  - without dressing	g	1	1	1	0	1	1	1	1	1	1	1	1	1
+	eo160102			Mixed salad, side dish - without dressing - including unspecified 'salad'	g	8	8	9	9	10	12	9	11	7	9	8	8	8
+	eo160103			Green salad - without dressing	g	2	1	1	1	0	0	0	0	0	0	0	0	0
+	eo160201			Vegetable or fruit and nut salad - with dressing	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160202			Pasta, rice, mixed bean or cereal-based salads - with dressing	g	1	0	1	1	1	1	1	1	1	1	1	1	1
+	eo160301			Meat salad e.g. beef, lamb salads	g	1	2	1	2	2	2	1	1	1	2	0	1	1
+	eo160302			Chicken or turkey salad	g	2	2	3	3	2	2	2	2	2	2	2	3	4
+	eo160303			Fish salad e.g. tuna, salmon salads	g	2	2	3	2	2	2	2	2	1	2	2	2	2
+	eo160401			Cheese salad including ploughmans	g	2	1	2	1	1	2	1	1	1	2	1	1	1
+	eo160402			Egg salad	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160501		Other salads e.g. Greek, Florida, Russian		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160601		Salad buffet or buffet meal where items not specified		g	0	1	0	1	0	1	0	10	1	1	1	4	0
+	eo170101		Fried rice and risotto		g	2	2	2	3	2	2	2	2	3	3	1	2	1
+	eo170102		All cooked rice exluding fried rice e.g. boiled, pilau, savoury		g	7	7	7	7	7	8	6	7	6	7	5	6	7
+	eo170103		Pasta - not filled and plain noodles (including pot noodle) - without sauce		g	7	5	6	6	6	7	6	5	5	6	6	6	6
+	eo170104		Pasta - filled e.g. ravioli, tortellini - without sauce		g	1	1	1	1	1	1	0	0	1	1	1	1	1
+	eo170105		Noodles with meat, vegetables etc.		g	0	1	0	1	0	1	1	1	0	1	1	1	0
+	eo180101		Meat & fish soups		g	2	2	1	1	1	1	1	1	1	1	1	1	0
+	eo180102		Vegetable based soups		g	4	6	5	3	3	4	4	4	4	4	3	3	3
+	eo180103		Chinese soups, consommé (meat, fish or veg)		g	0	0	0	0	0	0	1	0	0	0	1	0	0
+	eo180104		Other soups including unspecified 'soup'		g	5	5	5	5	5	5	4	5	3	3	4	5	5
+	eo190101		Muesli and oat crunch cereals		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190102		Other high fibre breakfast cereals e.g. Allbran, Weetabix		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190103		Sweetened breakfast cereals e.g. Frosties, Sugar Puffs		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190104		Hot breakfast cereals e.g. porridge, Ready Brek		g	0	0	0	0	0	0	0	1	0	1	0	1	0
+	eo190105		Other breakfast cereals and unspecified 'cereal' e.g. Cornflakes, Rice Krispies, Special K		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200101			All citrus fruit, fresh e.g. orange, grapefruit	g	1	3	1	0	1	1	1	1	0	0	1	0	1
+	eo200102			Banana, fresh	g	3	3	2	2	2	2	2	2	1	2	2	1	2
+	eo200103			Apples, fresh	g	2	2	2	2	1	2	2	1	1	1	1	1	2
+	eo200104			Pears, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200105			Stone fruit, fresh e.g. apricot, plum, peach, cherry, avocado	g	0	1	1	0	1	1	0	0	1	1	1	1	1
+	eo200106			Grapes, fresh	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200107			Soft fruit or berries, fresh e.g. strawberries, blackberries - without cream or ice cream	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200108			Melon, fresh	g	1	0	0	0	0	1	0	2	0	0	0	0	0
+	eo200109			Pineapple, fresh	g	0	0	0	0	0	0	0	1	0	0	0	1	0
+	eo200110			Fresh fruit salad - without cream or ice cream	g	1	1	1	1	2	2	2	1	1	2	1	2	1
+	eo200111			Other fresh fruit (kiwi, passion) and unspecified 'fruit'	g	0	0	0	0	0	0	0	0	0	0	1	0	0
+	eo200112			Free school fruit	g	1	1	4	6	7	6	7	5	5	6	5	5	6
+	eo200201		Dried fruit e.g. sultanas, raisins		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200301		Tinned, stewed, baked or processed fruit - without cream or ice cream		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo210	Yoghurt and fromage frais			g	3	4	3	3	3	3	3	2	2	2	2	2	2
+	eo220101		White bread, with or without butter or margarine (toasted or untoasted)		g	4	4	5	3	3	3	3	3	3	2	1	1	1
+	eo220102		Brown or wholemeal bread, with or without butter or margarine (toasted or untoasted)		g	0	1	1	1	1	1	1	1	1	1	1	0	1
+	eo220103		White rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	3	2	2	2	1	2	2	1	1	1	1	0	0
+	eo220104		Brown or wholemeal rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	0	0	0	0	0	0	0	0	0	1	0	0	0
+	eo220105		Garlic bread		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo220106		Croissant		g	1	1	0	0	1	1	1	0	1	0	0	0	1
+	eo220107		Continental breads e.g. pitta, ciabatta, focaccio		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo220108		Muffins, crumpets		g	1	0	0	1	0	0	0	1	1	1	0	0	0
+	eo220109		Fried bread, including croutons		g	0	1	1	0	0	0	0	0	0	0	0	0	0
+	eo220110		Other bread, rolls, toast, unspecified 'bread' etc.		g	0	0	0	0	0	0	0	0	0	0	2	3	3
+	eo230101			Meat based sandwich on white bread or roll	g	25	25	23	20	20	20	21	20	16	16	10	3	5
+	eo230102			Meat based sandwich on brown bread or roll	g	4	4	3	4	4	4	4	4	4	5	2	1	1
+	eo230103			Meat based sandwich bread not specified	g	0	0	1	0	0	0	0	0	1	2	7	12	14
+	eo230104			Chicken or turkey based sandwich on white bread or roll	g	14	15	15	15	15	13	13	13	11	13	8	5	4
+	eo230105			Chicken or turkey based sandwich on brown bread or roll	g	3	4	5	4	3	4	4	2	2	4	2	1	2
+	eo230106			Chicken or turkey based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	5	7	9
+	eo230107			Bacon and egg based sandwich on white bread or roll including Bacon and Egg McMuffin	g	3	3	3	3	2	2	2	2	2	2	1	1	1
+	eo230108			Bacon and egg based sandwich on brown bread or roll	g	0	1	0	0	0	0	1	0	0	0	0	0	0
+	eo230109			Bacon and egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	1
+	eo230110			Fish based sandwich on white bread or roll	g	9	9	8	8	8	7	6	6	5	4	4	2	1
+	eo230111			Fish based sandwich on brown bread or roll	g	4	4	4	3	4	2	2	3	3	3	2	1	2
+	eo230112			Fish based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	3	3	4
+	eo230201			Cheese based sandwich on white bread or roll	g	16	15	12	11	11	9	10	11	9	6	5	3	1
+	eo230202			Cheese based sandwich on brown bread or roll	g	4	3	3	3	3	2	3	2	2	2	1	1	1
+	eo230203			Cheese based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	1	3	6	5
+	eo230204			Egg based sandwich on white bread or roll including Egg McMuffin	g	5	4	4	3	3	3	3	3	2	2	2	1	1
+	eo230205			Egg based sandwich on brown bread or roll	g	1	1	1	1	1	1	1	1	1	1	1	1	0
+	eo230206			Egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	2	2
+	eo230207			Vegetarian based sandwich on white bread or roll	g	3	3	3	3	2	2	3	2	2	2	2	1	0
+	eo230208			Vegetarian based sandwich on brown bread or roll	g	1	1	1	1	0	0	1	1	0	1	0	0	0
+	eo230209			Vegetarian based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	0	1	1
+	eo230210			Sweet-filled sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230211			Unspecified sandwiches or rolls	g	3	6	10	11	11	14	14	13	13	16	14	16	14
+	eo240101			Cheese or cream based sauce e.g. carbonara, cauliflower cheese	g	0	0	0	0	1	1	1	0	0	0	1	0	1
+	eo240102			Meat-based sauce e.g. bolognese, chilli con carne	g	2	3	3	4	3	4	4	4	3	4	4	3	2
+	eo240103			Fish or seafood based sauce	g	1	1	1	0	0	1	1	0	0	0	0	0	0
+	eo240104			Tomato based sauce containing vegetables including ratatouille	g	1	0	1	1	1	1	1	1	1	0	1	0	1
+	eo240105			Other savoury sauce or unspecified 'sauce'	g	3	2	2	1	2	1	1	1	1	1	1	1	2
+	eo240106			Sweet sauce e.g. syrup, treacle, chocolate sauce	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240107			Fruit or vegetable based condiments	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240108			Other condiments or sauces	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240201			Salad dressings and dips	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240202			Mayonnaise	g	1	1	1	1	1	1	1	1	1	1	0	0	0
+	eo240203			Coleslaw	g	1	1	1	1	0	0	0	0	0	0	0	0	0
+	eo240301			Fruit filling e.g. peaches for pancakes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240302			Vegetable filling	g	1	1	1	0	0	0	1	0	1	1	0	0	0
+	eo240303			Cheese filling including cheddar cheese, cottage cheese	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo240304			Fish based filling e.g. tuna mayonnaise	g	1	1	1	1	1	1	0	1	0	1	0	0	0
+	eo240401			Butter and margarine	g	1	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240402			Jam, marmalade and honey	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240403			Cream - single, double, sour etc.	g	1	0	1	1	0	1	0	0	0	0	0	0	0
+	eo240404			Custard	g	2	2	1	1	1	2	1	2	1	1	1	1	1
+	eo240405			Sugar (as an addition to tea, coffee etc.)	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240501		Commercial baby food in a jar or can		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo2406		Yorkshire puddings and dumplings		g	1	1	1	1	1	1	1	1	1	1	2	1	2
+	eo240701		Unspecified meal e.g. 'meal', 'school meal' or 'meal at work'		g	126	119	106	101	101	114	104	99	93	137	84	74	86
+	eo250101		Coffee, black including espresso		ml	5	9	5	3	6	4	5	5	6	5	5	5	4
+	eo250102		Coffee, white including cappuccino, latte		ml	47	44	44	38	35	36	35	29	30	34	30	38	35
+	eo250103		Coffee, black or white not specified		ml	57	51	57	59	58	62	57	46	48	42	50	45	36
+	eo250104		Tea, white (including black or white not specified)		ml	46	48	47	44	36	39	35	33	28	31	30	34	29
+	eo250105		Tea, black including Chinese tea, herbal tea, fruit tea		ml	1	1	1	1	1	2	1	1	2	1	2	1	1
+	eo250106		Hot chocolate or cocoa, with milk or water		ml	12	10	8	8	9	8	9	9	9	9	6	8	8
+	eo260201			Mineral water	ml	56	56	58	68	64	77	71	55	51	58	43	43	50
+	eo260202			Soft drink (incl carbonates and still) - low calorie	ml	77	65	74	54	54	45	46	54	38	56	52	37	44
+	eo260203			Soft drink (incl carbonates & still) - not low calorie (including drinks where calorie content unspecified)	ml	282	263	281	247	244	221	204	198	202	184	165	156	158
+	eo260204			Pure fruit juices	ml	18	17	16	16	16	21	19	18	17	15	16	15	15
+	eo260205			Vegetable juices e.g. tomato juice, carrot juice	ml	0	0	1	0	0	0	1	0	0	0	0	0	0
+	eo260206			Soft drink where pure juice or juice drink not specified	ml	0	0	0	0	0	0	0	0	0	0	0	2	14
+	eo260301			Milk as a drink	ml	8	8	8	7	7	6	5	5	5	6	4	3	3
+	eo260302			Milk on cereal	ml	1	0	1	0	0	1	1	0	1	0	0	0	0
+	eo260303			Milkshake and flavoured milk	ml	9	9	11	10	11	8	9	8	9	8	7	7	8
+	eo260304			Free school milk	ml	3	9	9	5	8	4	4	2	7	4	3	2	4
+	eo270101			Spirits	ml	2	2	2	1	1	2	2	1	2	1	1	1	1
+	eo270102			Liqueurs	ml	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo270103			Cocktails	ml	2	3	1	1	1	1	1	2	1	3	1	1	2
+	eo270104			Spirits or liqueurs with mixer e.g. gin & tonic, Bacardi & coke	ml	27	18	22	18	19	21	16	13	16	14	12	13	11
+	eo270201			Wine (not sparkling) including unspecified 'wine'	ml	22	20	21	19	18	23	18	19	25	35	29	23	17
+	eo270202			Sparkling wines (e.g. Champagne) and wine with mixer (e.g. Bucks Fizz)	ml	2	1	3	2	2	1	1	2	1	1	1	1	1
+	eo270203			Fortified wine e.g. sherry, port, vermouth	ml	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo270204			Cider or perry - half pint or bottle	ml	6	6	5	3	5	4	4	1	4	2	5	5	4
+	eo270205			Cider or perry - pint or can or size not specified	ml	20	16	25	19	13	22	35	28	30	26	30	34	20
+	eo270206			Alcoholic soft drinks (alcopops), and ready-mixed bottled drinks	ml	39	41	32	26	18	15	12	7	7	5	4	3	3
+	eo270301			Bitter - half pint or bottle	ml	16	9	7	10	8	8	5	9	6	5	9	7	7
+	eo270302			Bitter - pint or can or size not specified	ml	226	217	151	152	140	142	121	130	107	122	126	120	97
+	eo270303			Lager or other beers including unspecified 'beer' - half pint or bottle	ml	73	75	50	44	50	38	31	33	23	23	18	11	18
+	eo270304			Lager or other beers including unspecified 'beer' - pint or can or size not specified	ml	433	368	409	379	359	357	270	233	232	189	176	146	156
+	eo270401		Round of drinks, alcohol not otherwise specified		ml	15	17	33	23	39	33	34	23	32	32	31	31	31
+	eo280101		Solid, unfilled chocolate bars and sweets and unspecified 'chocolate'		g	6	6	6	5	6	5	4	4	4	3	4	3	3
+	eo280102		Filled chocolate-coated bars and sweets e.g. Mars, Snickers, Minstrels		g	10	9	9	7	7	6	6	6	5	4	4	3	3
+	eo280103		Single chocolate (after dinner)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo280104		Chewing gum and bubble gum		g	1	1	1	1	1	1	1	0	0	0	0	0	0
+	eo280105		Mints e.g. Polo, Extra Strong		g	1	1	1	1	1	1	1	0	0	0	0	0	0
+	eo280106		Boiled sweets, jellies and unspecified 'sweets' e.g. fruit gums		g	4	4	4	3	3	3	2	2	2	2	2	2	2
+	eo280107		Uncoated toffee or fudge, uncoated e.g. Toffos, chocolate eclairs, caramels		g	0	0	0	1	0	0	0	0	0	0	0	0	0
+	eo280108		Pick 'n' mix, nougat, liquorice and other sweets		g	3	3	3	3	1	1	1	1	1	1	1	1	1
+	eo290101			Ice cream in a cone, cornet or wafer and ice cream desserts	g	8	6	6	5	5	5	5	5	5	4	4	4	4
+	eo290103			Ice cream scoop or tub including ice cream served with dessert	g	1	2	2	2	1	1	1	1	1	1	1	2	1
+	eo290104			Iced lollies and sorbets	g	2	2	1	1	1	1	1	0	0	0	0	0	1
+	eo290201			Doughnut	g	2	3	3	3	2	2	2	2	3	2	2	2	2
+	eo290202			Cream pastries e.g. chocolate eclairs, profiteroles	g	2	1	2	1	1	1	1	1	1	1	1	0	1
+	eo290203			Cream sponge or gateau (not chocolate) e.g. Victoria sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290204			Rich chocolate cake or chocolate gateau e.g. Death by Chocolate	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo290205			Fruit and other pies or pastries	g	5	5	5	4	5	4	4	4	4	5	4	3	4
+	eo290206			Fruit cake	g	1	1	1	1	1	1	0	1	0	1	0	1	0
+	eo290207			Other sponge cakes or desserts (not cream cakes)	g	4	7	5	5	5	6	6	7	4	4	4	3	4
+	eo290208			Custard desserts or sweet soufflé	g	1	1	1	1	0	1	0	1	0	1	1	0	0
+	eo290209			Meringue desserts including pavlova	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290210			Cheesecake	g	1	1	0	1	1	1	1	1	1	1	1	1	1
+	eo290211			Fool, trifle and mousse desserts	g	1	1	1	1	1	1	0	0	0	1	1	1	0
+	eo290212			Jelly	g	0	0	0	0	0	0	0	0	0	1	0	0	0
+	eo290213			Milk and rice puddings including tapioca, semolina	g	0	1	0	0	0	0	1	0	0	1	0	0	0
+	eo290214			Other cakes and desserts, unspecified 'cake' or 'dessert'	g	2	2	2	2	2	2	2	3	2	2	3	3	4
+	eo2903		Waffles and pancakes		g	0	0	0	1	1	1	1	1	1	1	1	1	1
+	eo290401		Teacakes, scones, currant buns, iced buns		g	3	2	2	2	2	2	2	2	2	2	2	2	2
+	eo300101		Fully-coated chocolate biscuits or wafers		g	2	2	2	1	1	1	1	1	1	1	1	1	1
+	eo300102		Sweet biscuits including half-coated chocolate biscuits		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo300103		Cereal bars and cereal based cakes		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo300104		Savoury biscuits		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310101			Nuts, nut products and seeds	g	0	1	1	0	0	0	0	0	0	0	0	0	0
+	eo310102			Potato crisps or snacks including unspecified 'crisps', prawn crackers	g	12	11	11	9	9	8	7	7	7	7	6	5	6
+	eo310103			Cornsnacks, based on maize	g	1	1	1	0	1	1	0	0	0	0	0	0	0
+	eo310104			Wheat based savoury snack	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310201		Popcorn		g	1	1	1	0	1	1	1	1	1	1	1	1	1
+	eo310301		Other savoury snacks (including hors d'oeuvres)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+Purchased quantities of eating out food & drink by income quintile Averages per person per week Quintile 5	Code	Description			Units	2001-02	2002-03	2003-04	2004-05	2005-06	2006	2007	2008	2009	2010	2011	2012	2013
+	eo100101			Meat or fish based curry with sauce	g	16	15	14	12	14	13	11	14	13	13	14	14	13
+	eo100102			Meat or fish based curry without sauce	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo100103			Vegetable or fruit based curry	g	2	1	1	2	1	1	2	1	1	2	1	1	1
+	eo100104			Dhal and dhal dishes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100105			Samosas	g	0	0	0	1	0	0	1	0	0	1	1	0	1
+	eo100106			Other Indian dishes	g	1	1	1	1	1	1	0	1	0	1	1	1	1
+	eo100107			Indian breads	g	3	2	2	2	2	2	1	2	2	2	2	2	2
+	eo100108			Indian buffet or shared meal or unspecified indian meal	g	0	3	5	7	6	6	18	5	6	5	8	6	5
+	eo100201			Chinese or Thai meat or fish based dishes excluding curry	g	11	11	8	13	12	8	7	10	8	6	6	6	6
+	eo100202			Chop suey and fu yung dishes	g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo100203			Chinese or Thai vegetable based main course dishes excluding curry	g	1	1	1	1	1	1	1	1	1	0	1	1	0
+	eo100204			Chinese or Thai curry	g	1	1	1	2	1	2	1	1	2	1	2	2	2
+	eo100205			Spring rolls	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo100206			Other Chinese or Thai dishes	g	4	3	1	1	1	1	1	1	1	1	1	1	1
+	eo100207			Chinese or Thai buffet or shared meal or unspecified Chinese or Thai meal	g	0	9	11	11	9	11	14	12	11	9	9	7	8
+	eo1003		All other ethnic meals		g	0	1	2	1	3	1	5	4	3	5	3	3	5
+	eo110101			Steak - without sauce e.g. braised, sirloin	g	5	6	5	6	5	5	5	4	4	4	5	5	5
+	eo110102			Roast meat with sauce or gravy	g	5	5	5	5	6	5	5	6	6	5	5	6	5
+	eo110103			Pork chops with sauce or gravy	g	0	1	1	0	0	0	0	0	0	0	0	0	0
+	eo110104			Lamb chops with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo110105			Spare ribs	g	1	1	0	1	1	1	1	1	1	0	1	1	1
+	eo110106			Bacon	g	4	4	4	4	3	3	3	4	3	3	3	3	3
+	eo110107			Gammon or ham	g	2	2	3	2	2	2	2	2	3	2	2	2	2
+	eo110108			All offal including liver, kidney, tongue	g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo110201			Chicken or turkey with sauce or gravy	g	12	14	11	14	12	12	13	11	12	11	12	13	14
+	eo110202			Chicken or turkey in breadcrumbs or batter	g	7	7	6	5	4	4	4	4	5	5	4	4	6
+	eo110203			Duck with sauce or gravy	g	1	1	1	2	2	1	1	1	1	1	1	1	0
+	eo110204			Game with sauce or gravy	g	0	0	0	0	0	0	0	0	0	0	0	1	0
+	eo110301			Small or single burgers	g	10	9	9	7	8	6	5	6	7	6	7	8	7
+	eo110302			Large or double burgers	g	14	15	13	10	10	11	9	11	9	9	7	7	7
+	eo110303			Chicken burger	g	7	7	8	5	5	4	4	4	3	4	4	5	4
+	eo110401			Kebabs - all types including chicken	g	6	5	7	5	6	5	5	4	4	5	3	5	6
+	eo110402			Plain sausages e.g. beef, pork	g	10	10	10	9	8	6	7	8	8	6	6	6	6
+	eo110403			Other sausages	g	1	1	1	0	0	1	1	1	1	1	1	1	1
+	eo110404			Hot dogs and sausage sandwiches	g	6	6	8	7	5	4	4	4	4	4	4	5	5
+	eo110501			Meat pies (pastry topped) and pasties	g	11	13	14	12	11	10	10	10	9	8	8	9	6
+	eo110502			Meat pies (potato topped e.g. shepherd's pie)	g	1	1	1	2	1	1	1	1	1	1	1	1	0
+	eo110503			Sausage roll (pastry)	g	3	3	3	3	2	2	2	2	2	2	2	2	2
+	eo110601			Meat and vegetable stews, casseroles or hotpots	g	2	2	1	2	2	2	1	2	2	2	1	1	1
+	eo110602			Chicken or turkey stews, casseroles or hotpots	g	1	0	1	0	0	0	1	0	1	0	1	1	1
+	eo110603			Meat lasagne, cannelloni, moussaka and other meat-based oven baked dishes	g	9	8	8	8	9	6	6	7	6	5	7	6	5
+	eo1107		Pate		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo1108		Other meat and meat products		g	1	2	2	2	2	2	2	2	2	2	2	3	2
+	eo120101			White fish - grilled, steamed, baked or boiled - without sauce	g	3	2	2	2	2	2	2	2	1	2	2	2	1
+	eo120102			White fish - fried (incl in batter/breadcrumbs) - without sauce	g	7	8	6	7	7	9	6	6	8	8	7	8	8
+	eo120201			Trout, tuna and salmon only - fresh - without sauce or dressing	g	1	1	1	1	1	1	1	1	1	1	1	1	0
+	eo120202			Other fatty fish - without sauce or dressing e.g. herring, mackerel, sardines	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo120301		Shellfish - without sauce or dressing e.g. prawns, shrimps, oysters, crab		g	1	1	1	1	1	1	2	1	1	1	1	1	1
+	eo120401		Kippers and other smoked fish e.g. smoked salmon		g	0	0	0	0	0	1	0	0	0	0	1	1	1
+	eo120501		Other fish products and unspecified 'fish' e.g. squid, sushi, crabsticks		g	1	1	1	1	1	1	1	1	3	2	2	3	4
+	eo120601			Fish, processed, in breadcrumbs (fish fingers, fish cakes, scampi) - without sauce or dressing	g	2	3	2	2	2	2	2	2	2	2	2	2	2
+	eo120602			Fish burgers (in bun)	g	0	1	1	0	0	0	0	1	0	0	0	0	0
+	eo120603			Fish based pie or other dish e.g. paella, kedgeree, tuna pasta bake	g	2	2	2	2	2	2	2	2	2	1	2	2	1
+	eo130101			Cottage cheese including with pineapple	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130102			Soft, continental or processed cheese e.g. brie	g	1	0	1	0	0	0	0	0	1	0	1	0	0
+	eo130103			Cheddar, blue or other hard cheese and unspecified 'cheese'	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo130104			Quiche and cheese pies or pasties	g	3	2	3	2	2	2	2	2	2	1	1	1	2
+	eo130105			Other cheese dishes e.g. Welsh rarebit, cheese and biscuits	g	0	1	0	1	0	0	0	1	0	0	0	1	0
+	eo130201			Pizza - cheese and tomato, vegetable or unspecified 'pizza'	g	14	15	14	15	15	16	13	14	12	14	14	12	12
+	eo130202			Pizza - meat, fish or poultry	g	6	5	5	4	4	5	5	5	4	6	5	6	2
+	eo130301			Eggs - boiled or poached	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo130302			Eggs - scrambled, fried, omelettes or unspecified 'egg'	g	11	11	12	10	9	8	10	10	8	8	8	8	8
+	eo130303			Other egg dishes e.g. egg mayonnaise	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo140101		Chips and french fries - from fast food outlet e.g. McDonalds		g	16	15	13	11	10	10	8	9	9	10	9	9	9
+	eo140102		Chips - served with meal e.g. from restaurant or chip shop		g	56	57	51	48	44	43	41	41	43	37	41	40	46
+	eo140103		Potatoes - boiled or unspecified 'potato'		g	8	9	8	10	9	8	8	6	6	5	6	6	6
+	eo140104		Potatoes - mashed		g	3	2	3	2	3	2	2	3	3	3	3	3	2
+	eo140105		Potatoes - roast		g	6	7	7	5	6	6	6	8	7	6	5	6	6
+	eo140106		Sautéed potatoes, potato croquettes, hash browns etc.		g	2	2	2	2	2	1	1	2	2	1	1	2	2
+	eo140107		Baked or jacket potatoes - without filling		g	11	10	10	9	8	8	8	8	7	6	5	6	4
+	eo140108		Other potato dishes (e.g. wedges, potato salad) including unspecified 'potato dish'		g	3	4	2	2	2	2	2	2	2	2	2	1	1
+	eo150101			Lettuce and cress	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150102			Other green vegetables e.g. spinach, cabbage, sprouts	g	5	5	5	5	4	3	4	3	3	3	3	3	3
+	eo150201			Peppers - raw or cooked	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150202			Courgettes, marrow, aubergine, pumpkin, plantain, cucumbers	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150203			Peas and sweetcorn	g	6	6	5	5	5	5	4	5	4	4	4	4	4
+	eo150204			Baked beans and other beans (not green beans) and pulses	g	9	8	8	7	7	6	6	8	7	6	6	5	7
+	eo150205			Tomato - fresh or raw	g	1	1	1	1	1	1	1	0	1	0	1	1	0
+	eo150206			Tomato - cooked or processed	g	1	2	2	2	1	1	1	1	1	1	1	1	2
+	eo150301			Carrots	g	3	3	3	3	2	2	2	2	2	2	1	1	1
+	eo150302			Onions - raw, cooked or unspecified 'onions'	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150303			Onions - fried	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150304			Other root vegetables or tubers e.g. turnip, parsnip, radish, beetroot	g	1	1	1	1	0	0	0	0	1	0	0	0	0
+	eo1504		Mushrooms		g	1	2	2	2	1	1	1	1	1	1	1	1	2
+	eo150501			Mixed vegetables or unspecified 'vegetable'	g	4	6	5	6	7	7	6	5	6	5	6	7	6
+	eo150502			Other vegetables e.g. artichoke, asparagus	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo150503			Vegetables in batter or breadcrumbs and deep fried vegetables e.g. onion rings	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo150504			Onion and other vegetable bhajis and pakora	g	1	1	1	1	1	1	0	1	1	1	1	1	1
+	eo150601			Veggie burger, bean burger, veggie sausage, nut roast	g	1	0	0	1	1	1	0	1	0	1	1	1	1
+	eo150602			Vegetable lasagne, vegetable cannelloni, vegetable moussaka and other oven baked vegetable based dishes	g	5	6	5	5	5	5	4	5	6	4	5	5	3
+	eo150603			Stuffed vegetables (e.g. stuffed pepper) and vegetable based starter	g	1	1	1	1	1	0	1	1	1	0	1	1	0
+	eo150604			Vegetable based stews and casseroles and vegetable based pies	g	3	3	3	2	3	2	2	2	2	2	1	4	1
+	eo160101			Mixed salad, main course  - without dressing	g	2	2	1	1	1	2	1	2	2	2	2	1	1
+	eo160102			Mixed salad, side dish - without dressing - including unspecified 'salad'	g	12	11	13	15	14	13	12	12	12	11	10	13	14
+	eo160103			Green salad - without dressing	g	3	2	1	1	1	0	1	1	0	0	0	0	0
+	eo160201			Vegetable or fruit and nut salad - with dressing	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160202			Pasta, rice, mixed bean or cereal-based salads - with dressing	g	1	1	1	1	1	1	2	1	2	1	2	1	1
+	eo160301			Meat salad e.g. beef, lamb salads	g	1	2	2	1	2	1	1	1	1	2	1	2	2
+	eo160302			Chicken or turkey salad	g	3	4	4	4	5	4	4	4	3	3	3	5	6
+	eo160303			Fish salad e.g. tuna, salmon salads	g	3	3	4	4	4	4	4	4	4	2	4	4	4
+	eo160401			Cheese salad including ploughmans	g	2	2	3	3	3	2	2	2	2	2	2	2	2
+	eo160402			Egg salad	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160501		Other salads e.g. Greek, Florida, Russian		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo160601		Salad buffet or buffet meal where items not specified		g	0	0	0	2	1	1	1	1	1	1	1	0	1
+	eo170101		Fried rice and risotto		g	5	4	3	4	3	3	3	4	3	2	3	3	2
+	eo170102		All cooked rice exluding fried rice e.g. boiled, pilau, savoury		g	11	11	9	10	11	10	10	11	10	9	10	11	11
+	eo170103		Pasta - not filled and plain noodles (including pot noodle) - without sauce		g	8	9	8	8	8	8	8	7	9	8	10	8	9
+	eo170104		Pasta - filled e.g. ravioli, tortellini - without sauce		g	2	1	1	1	1	1	1	1	1	1	1	1	1
+	eo170105		Noodles with meat, vegetables etc.		g	1	2	1	1	1	1	1	1	1	1	1	2	2
+	eo180101		Meat & fish soups		g	2	1	1	1	1	2	2	1	1	2	1	1	1
+	eo180102		Vegetable based soups		g	8	8	5	6	7	8	7	5	7	7	6	5	6
+	eo180103		Chinese soups, consommé (meat, fish or veg)		g	0	0	0	0	0	0	1	0	0	0	1	1	0
+	eo180104		Other soups including unspecified 'soup'		g	6	6	6	7	8	7	8	8	5	5	9	8	6
+	eo190101		Muesli and oat crunch cereals		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190102		Other high fibre breakfast cereals e.g. Allbran, Weetabix		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190103		Sweetened breakfast cereals e.g. Frosties, Sugar Puffs		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo190104		Hot breakfast cereals e.g. porridge, Ready Brek		g	0	0	0	0	0	0	2	0	1	1	1	1	2
+	eo190105		Other breakfast cereals and unspecified 'cereal' e.g. Cornflakes, Rice Krispies, Special K		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200101			All citrus fruit, fresh e.g. orange, grapefruit	g	1	1	1	2	1	2	1	1	1	1	1	1	1
+	eo200102			Banana, fresh	g	4	3	4	4	4	3	2	3	2	3	2	2	2
+	eo200103			Apples, fresh	g	4	3	3	4	3	4	3	3	2	3	2	2	2
+	eo200104			Pears, fresh	g	1	0	0	0	0	0	1	0	0	0	0	0	0
+	eo200105			Stone fruit, fresh e.g. apricot, plum, peach, cherry, avocado	g	1	0	1	1	1	1	1	1	1	1	1	1	1
+	eo200106			Grapes, fresh	g	0	0	0	0	0	0	1	0	0	0	0	0	1
+	eo200107			Soft fruit or berries, fresh e.g. strawberries, blackberries - without cream or ice cream	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200108			Melon, fresh	g	1	1	0	1	1	1	1	0	1	0	0	1	0
+	eo200109			Pineapple, fresh	g	1	0	0	1	0	1	1	1	1	0	0	0	1
+	eo200110			Fresh fruit salad - without cream or ice cream	g	2	2	2	2	3	3	3	3	3	2	3	2	2
+	eo200111			Other fresh fruit (kiwi, passion) and unspecified 'fruit'	g	0	0	0	0	0	0	0	0	0	0	0	1	0
+	eo200112			Free school fruit	g	0	1	2	4	5	6	6	4	5	5	6	5	5
+	eo200201		Dried fruit e.g. sultanas, raisins		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo200301		Tinned, stewed, baked or processed fruit - without cream or ice cream		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo210	Yoghurt and fromage frais			g	5	6	5	5	4	5	5	4	5	5	4	4	2
+	eo220101		White bread, with or without butter or margarine (toasted or untoasted)		g	4	4	4	4	3	3	3	3	3	2	1	1	0
+	eo220102		Brown or wholemeal bread, with or without butter or margarine (toasted or untoasted)		g	1	1	1	1	1	1	1	1	1	1	1	0	0
+	eo220103		White rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	2	2	2	2	2	2	1	2	2	2	1	1	1
+	eo220104		Brown or wholemeal rolls, baguettes etc. without butter or margerine (or butter or margerine not specified)		g	1	0	0	1	1	0	1	1	1	1	0	0	0
+	eo220105		Garlic bread		g	1	1	1	1	2	1	1	1	1	1	1	1	1
+	eo220106		Croissant		g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo220107		Continental breads e.g. pitta, ciabatta, focaccio		g	1	1	1	1	1	2	1	1	1	1	1	1	2
+	eo220108		Muffins, crumpets		g	1	0	0	1	0	1	0	0	0	0	0	0	0
+	eo220109		Fried bread, including croutons		g	1	1	1	0	0	0	0	0	0	0	0	0	0
+	eo220110		Other bread, rolls, toast, unspecified 'bread' etc.		g	0	0	0	0	0	0	0	0	0	1	2	4	3
+	eo230101			Meat based sandwich on white bread or roll	g	34	31	29	26	24	24	22	22	20	19	11	8	5
+	eo230102			Meat based sandwich on brown bread or roll	g	6	5	6	7	5	7	6	6	6	5	5	3	2
+	eo230103			Meat based sandwich bread not specified	g	0	0	1	1	0	0	0	0	1	2	10	15	19
+	eo230104			Chicken or turkey based sandwich on white bread or roll	g	22	24	23	20	21	18	18	20	14	14	9	8	6
+	eo230105			Chicken or turkey based sandwich on brown bread or roll	g	5	6	6	6	7	7	6	5	4	5	4	2	2
+	eo230106			Chicken or turkey based sandwich bread not specified	g	0	0	1	1	0	0	0	0	1	2	6	10	15
+	eo230107			Bacon and egg based sandwich on white bread or roll including Bacon and Egg McMuffin	g	3	3	4	2	3	2	2	2	2	2	1	1	0
+	eo230108			Bacon and egg based sandwich on brown bread or roll	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230109			Bacon and egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	2
+	eo230110			Fish based sandwich on white bread or roll	g	12	15	12	10	10	9	8	8	7	6	3	2	2
+	eo230111			Fish based sandwich on brown bread or roll	g	6	6	6	6	7	6	5	5	3	4	3	2	2
+	eo230112			Fish based sandwich bread not specified	g	0	0	0	1	0	0	0	0	1	1	4	6	5
+	eo230201			Cheese based sandwich on white bread or roll	g	21	19	16	13	14	14	11	12	10	9	6	3	3
+	eo230202			Cheese based sandwich on brown bread or roll	g	4	5	4	4	4	4	4	3	3	4	3	2	2
+	eo230203			Cheese based sandwich bread not specified	g	0	0	1	1	0	0	0	0	0	1	4	6	7
+	eo230204			Egg based sandwich on white bread or roll including Egg McMuffin	g	7	6	5	4	4	3	3	3	3	2	1	1	1
+	eo230205			Egg based sandwich on brown bread or roll	g	2	2	2	2	2	2	2	1	2	1	1	1	1
+	eo230206			Egg based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	2	2
+	eo230207			Vegetarian based sandwich on white bread or roll	g	3	3	3	3	2	2	2	3	1	1	1	1	0
+	eo230208			Vegetarian based sandwich on brown bread or roll	g	1	1	1	1	1	1	1	1	1	1	0	0	0
+	eo230209			Vegetarian based sandwich bread not specified	g	0	0	0	0	0	0	0	0	0	0	1	1	3
+	eo230210			Sweet-filled sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo230211			Unspecified sandwiches or rolls	g	6	10	12	17	16	20	21	23	20	17	21	18	21
+	eo240101			Cheese or cream based sauce e.g. carbonara, cauliflower cheese	g	1	1	1	1	1	1	1	0	1	1	1	1	1
+	eo240102			Meat-based sauce e.g. bolognese, chilli con carne	g	4	4	4	5	5	6	4	5	4	4	4	3	4
+	eo240103			Fish or seafood based sauce	g	1	1	1	1	1	0	1	0	1	0	0	0	1
+	eo240104			Tomato based sauce containing vegetables including ratatouille	g	1	1	1	2	1	2	1	2	1	1	1	1	1
+	eo240105			Other savoury sauce or unspecified 'sauce'	g	2	2	2	2	2	1	2	2	2	2	2	2	1
+	eo240106			Sweet sauce e.g. syrup, treacle, chocolate sauce	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240107			Fruit or vegetable based condiments	g	1	1	0	1	0	1	0	0	0	0	0	0	0
+	eo240108			Other condiments or sauces	g	0	0	1	0	0	0	0	0	0	0	0	0	0
+	eo240201			Salad dressings and dips	g	0	0	0	0	0	0	0	0	1	0	0	0	1
+	eo240202			Mayonnaise	g	1	1	1	1	1	1	1	1	1	1	1	1	0
+	eo240203			Coleslaw	g	1	1	1	1	1	1	1	1	1	0	0	1	1
+	eo240301			Fruit filling e.g. peaches for pancakes	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240302			Vegetable filling	g	1	1	1	1	0	1	1	1	1	1	1	1	1
+	eo240303			Cheese filling including cheddar cheese, cottage cheese	g	1	1	1	1	1	1	1	1	2	1	2	1	1
+	eo240304			Fish based filling e.g. tuna mayonnaise	g	1	2	1	1	1	1	1	1	1	1	1	1	0
+	eo240401			Butter and margarine	g	0	1	0	0	0	0	0	0	0	0	0	0	0
+	eo240402			Jam, marmalade and honey	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240403			Cream - single, double, sour etc.	g	1	1	0	1	0	1	1	0	1	1	0	0	0
+	eo240404			Custard	g	2	2	1	1	1	1	2	1	1	1	1	1	1
+	eo240405			Sugar (as an addition to tea, coffee etc.)	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo240501		Commercial baby food in a jar or can		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo2406		Yorkshire puddings and dumplings		g	1	1	1	1	1	1	1	2	1	1	2	2	2
+	eo240701		Unspecified meal e.g. 'meal', 'school meal' or 'meal at work'		g	146	128	148	131	126	132	116	104	138	132	112	105	112
+	eo250101		Coffee, black including espresso		ml	8	8	8	10	6	6	7	6	6	5	4	8	7
+	eo250102		Coffee, white including cappuccino, latte		ml	64	52	50	45	39	40	43	40	44	48	43	44	41
+	eo250103		Coffee, black or white not specified		ml	56	62	61	65	61	62	58	60	55	49	57	46	50
+	eo250104		Tea, white (including black or white not specified)		ml	50	44	46	41	46	38	45	39	41	37	39	31	34
+	eo250105		Tea, black including Chinese tea, herbal tea, fruit tea		ml	2	1	2	2	2	1	3	1	3	3	2	3	3
+	eo250106		Hot chocolate or cocoa, with milk or water		ml	9	11	9	10	12	10	11	10	9	10	9	11	9
+	eo260201			Mineral water	ml	79	96	92	105	102	99	99	74	78	72	76	64	72
+	eo260202			Soft drink (incl carbonates and still) - low calorie	ml	81	79	76	57	65	66	48	49	49	68	70	53	60
+	eo260203			Soft drink (incl carbonates & still) - not low calorie (including drinks where calorie content unspecified)	ml	292	304	290	258	233	226	217	209	211	186	164	181	161
+	eo260204			Pure fruit juices	ml	27	27	27	21	22	24	25	22	23	22	24	24	21
+	eo260205			Vegetable juices e.g. tomato juice, carrot juice	ml	0	0	1	0	1	1	0	1	1	0	0	0	1
+	eo260206			Soft drink where pure juice or juice drink not specified	ml	0	0	0	0	0	0	1	0	0	0	1	1	18
+	eo260301			Milk as a drink	ml	8	10	6	9	7	6	4	5	8	7	5	5	4
+	eo260302			Milk on cereal	ml	1	1	0	1	1	0	0	1	1	0	0	1	0
+	eo260303			Milkshake and flavoured milk	ml	10	10	12	11	11	11	8	8	9	8	9	9	10
+	eo260304			Free school milk	ml	4	2	5	2	3	3	4	3	1	1	4	3	4
+	eo270101			Spirits	ml	2	2	2	2	2	2	2	1	2	1	1	2	1
+	eo270102			Liqueurs	ml	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo270103			Cocktails	ml	2	3	2	2	2	3	2	1	3	2	3	2	4
+	eo270104			Spirits or liqueurs with mixer e.g. gin & tonic, Bacardi & coke	ml	25	26	25	26	24	20	18	15	17	16	13	14	10
+	eo270201			Wine (not sparkling) including unspecified 'wine'	ml	28	31	31	33	37	36	31	28	54	57	53	33	30
+	eo270202			Sparkling wines (e.g. Champagne) and wine with mixer (e.g. Bucks Fizz)	ml	3	2	2	4	2	3	1	2	2	3	2	2	2
+	eo270203			Fortified wine e.g. sherry, port, vermouth	ml	1	0	0	0	0	0	0	0	0	0	0	0	0
+	eo270204			Cider or perry - half pint or bottle	ml	5	6	5	3	5	5	3	2	4	3	3	4	6
+	eo270205			Cider or perry - pint or can or size not specified	ml	29	18	15	10	12	27	27	22	33	29	23	33	26
+	eo270206			Alcoholic soft drinks (alcopops), and ready-mixed bottled drinks	ml	49	53	35	24	21	14	11	10	9	7	3	2	3
+	eo270301			Bitter - half pint or bottle	ml	11	11	9	8	11	13	10	7	8	10	7	10	9
+	eo270302			Bitter - pint or can or size not specified	ml	216	203	162	176	155	167	143	131	113	114	106	104	120
+	eo270303			Lager or other beers including unspecified 'beer' - half pint or bottle	ml	73	72	69	44	44	46	38	42	33	27	18	21	17
+	eo270304			Lager or other beers including unspecified 'beer' - pint or can or size not specified	ml	436	469	440	386	416	331	321	273	239	226	222	175	155
+	eo270401		Round of drinks, alcohol not otherwise specified		ml	26	22	30	37	33	34	49	42	37	54	59	49	45
+	eo280101		Solid, unfilled chocolate bars and sweets and unspecified 'chocolate'		g	6	7	7	6	6	5	4	5	4	5	4	4	3
+	eo280102		Filled chocolate-coated bars and sweets e.g. Mars, Snickers, Minstrels		g	10	10	9	8	8	6	5	6	5	4	4	4	4
+	eo280103		Single chocolate (after dinner)		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo280104		Chewing gum and bubble gum		g	1	1	1	1	1	1	1	1	0	0	0	0	0
+	eo280105		Mints e.g. Polo, Extra Strong		g	1	1	1	1	1	1	1	1	0	0	0	0	0
+	eo280106		Boiled sweets, jellies and unspecified 'sweets' e.g. fruit gums		g	4	3	3	3	2	2	3	2	2	2	2	2	2
+	eo280107		Uncoated toffee or fudge, uncoated e.g. Toffos, chocolate eclairs, caramels		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo280108		Pick 'n' mix, nougat, liquorice and other sweets		g	4	2	2	3	2	1	1	1	1	1	1	1	0
+	eo290101			Ice cream in a cone, cornet or wafer and ice cream desserts	g	8	7	6	6	5	6	5	5	6	5	5	4	5
+	eo290103			Ice cream scoop or tub including ice cream served with dessert	g	1	2	2	2	2	2	1	2	1	1	2	2	1
+	eo290104			Iced lollies and sorbets	g	2	1	1	1	1	1	1	1	1	1	1	0	1
+	eo290201			Doughnut	g	3	3	3	3	3	2	2	2	2	2	1	2	1
+	eo290202			Cream pastries e.g. chocolate eclairs, profiteroles	g	2	2	1	2	2	1	1	1	2	0	1	1	1
+	eo290203			Cream sponge or gateau (not chocolate) e.g. Victoria sandwich	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290204			Rich chocolate cake or chocolate gateau e.g. Death by Chocolate	g	1	1	1	1	1	2	1	1	1	2	1	2	2
+	eo290205			Fruit and other pies or pastries	g	6	6	6	6	6	5	6	5	5	5	6	5	7
+	eo290206			Fruit cake	g	1	1	1	1	1	1	0	1	1	1	0	0	0
+	eo290207			Other sponge cakes or desserts (not cream cakes)	g	5	7	6	7	6	6	8	7	7	6	6	5	5
+	eo290208			Custard desserts or sweet soufflé	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo290209			Meringue desserts including pavlova	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo290210			Cheesecake	g	1	1	1	1	1	1	1	1	1	1	1	1	1
+	eo290211			Fool, trifle and mousse desserts	g	1	1	1	1	1	0	1	1	1	1	1	1	0
+	eo290212			Jelly	g	0	0	0	0	0	0	0	0	0	0	0	0	1
+	eo290213			Milk and rice puddings including tapioca, semolina	g	0	0	1	0	1	1	0	0	1	0	0	0	1
+	eo290214			Other cakes and desserts, unspecified 'cake' or 'dessert'	g	3	2	2	2	3	3	3	2	3	2	4	4	5
+	eo2903		Waffles and pancakes		g	1	1	1	1	0	1	1	1	1	1	1	1	1
+	eo290401		Teacakes, scones, currant buns, iced buns		g	3	3	3	2	2	2	2	2	3	2	2	2	3
+	eo300101		Fully-coated chocolate biscuits or wafers		g	2	2	2	2	1	1	1	1	1	1	1	1	1
+	eo300102		Sweet biscuits including half-coated chocolate biscuits		g	1	1	1	1	1	2	1	1	1	1	1	1	2
+	eo300103		Cereal bars and cereal based cakes		g	1	2	1	1	1	2	2	1	1	1	1	1	1
+	eo300104		Savoury biscuits		g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310101			Nuts, nut products and seeds	g	1	1	1	0	1	1	1	0	1	0	0	0	1
+	eo310102			Potato crisps or snacks including unspecified 'crisps', prawn crackers	g	12	12	12	10	10	9	8	8	7	6	7	7	6
+	eo310103			Cornsnacks, based on maize	g	1	1	0	0	1	1	0	0	1	0	0	0	0
+	eo310104			Wheat based savoury snack	g	0	0	0	0	0	0	0	0	0	0	0	0	0
+	eo310201		Popcorn		g	1	1	1	1	1	1	1	1	1	1	1	1	2
+	eo310301		Other savoury snacks (including hors d'oeuvres)		g	0	0	0	0	0	0	0	0	0	0	0	0	0

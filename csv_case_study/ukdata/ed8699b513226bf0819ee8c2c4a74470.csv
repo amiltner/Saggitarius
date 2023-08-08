@@ -1,0 +1,15 @@
+CPS outcomes by principal offence category metropolitan_and_city,Number of Defendants convicted,Convictions Percentage,Number of Defendants Unsuccessful Prosecutions,Unsuccessful Prosecutions Percentage
+A Homicide,10,100.0%,0,0.0%
+B Offences Against The Person,"1,331",65.1%,713,34.9%
+C Sexual Offences,119,67.6%,57,32.4%
+D Burglary,377,80.0%,94,20.0%
+E Robbery,339,74.7%,115,25.3%
+F Theft And Handling,"1,597",88.9%,200,11.1%
+G Fraud And Forgery,292,88.2%,39,11.8%
+H Criminal Damage,417,84.2%,78,15.8%
+I Drugs Offences,"1,213",93.7%,82,6.3%
+J Public Order Offences,885,82.8%,184,17.2%
+K All Other Offences (excluding Motoring),749,81.4%,171,18.6%
+L Motoring Offences,"4,436",91.3%,425,8.7%
+Admin Finalisations,0,0.0%,226,100.0%
+TOTAL,"11,765",83.2%,"2,384",16.8%

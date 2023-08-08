@@ -1,0 +1,75 @@
+Department Family ,Entity, Date,Expense Type,Expense Area,Supplier,Transaction Number, Amount ,Distribution Line Number
+DCMS,ODA,01-Sep-14,Compensation,ODA Sales and Marketing Costs,Triathlon Homes LLP,85440,"500,000.00",1
+DCMS,ODA,02-Sep-14,Taxation Advice,Village Retrofit - Management & Admin,Grant Thornton UK LLP,85349,"32,874.45",1
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Grant Thornton UK LLP,85349,"6,574.89",2
+DCMS,ODA,02-Sep-14,Audit Fees - External,Finance & Corporate Services,National Audit Office,85389,"35,000.00",1
+DCMS,ODA,02-Sep-14,Audit Fees - External,Finance & Corporate Services,National Audit Office,85389,"10,000.00",2
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,National Audit Office,85389,"9,000.00",3
+DCMS,ODA,02-Sep-14,Audit Fees - External,Finance & Corporate Services,National Audit Office,85389,"-35,000.00",4
+DCMS,ODA,02-Sep-14,Audit Fees - External,Finance & Corporate Services,National Audit Office,85389,"-10,000.00",5
+DCMS,ODA,02-Sep-14,Audit Fees - External,Finance & Corporate Services,National Audit Office,85389,"35,000.00",6
+DCMS,ODA,02-Sep-14,Audit Fees - External,Finance & Corporate Services,National Audit Office,85389,"10,000.00",7
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,National Audit Office,85389,"-9,000.00",9
+DCMS,ODA,02-Sep-14,Legal - Other,ODA Sales and Marketing Costs,Berwin Leighton Paisner LLP,85403,"72,527.19",1
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Berwin Leighton Paisner LLP,85403,"14,505.44",2
+DCMS,ODA,02-Sep-14,Legal - Contract Negotiations,Olympic Village,Berwin Leighton Paisner LLP,85404,24,1
+DCMS,ODA,02-Sep-14,Legal - Contract Negotiations,Olympic Village,Berwin Leighton Paisner LLP,85404,"35,075.63",2
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Berwin Leighton Paisner LLP,85404,"7,015.13",4
+DCMS,ODA,02-Sep-14,Legal - Contract Negotiations,Olympic Village,Berwin Leighton Paisner LLP,85407,549,1
+DCMS,ODA,02-Sep-14,Legal - Contract Negotiations,Olympic Village,Berwin Leighton Paisner LLP,85407,"72,713.90",2
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Berwin Leighton Paisner LLP,85407,"14,542.78",4
+DCMS,ODA,02-Sep-14,Council Tax,Facilities Management,London Borough of Tower Hamlets,85408,"241,817.50",1
+DCMS,ODA,02-Sep-14,Council Tax,Facilities Management,London Borough of Tower Hamlets,85409,"247,235.00",1
+DCMS,ODA,02-Sep-14,Council Tax,Facilities Management,London Borough of Tower Hamlets,85410,"58,047.54",1
+DCMS,ODA,02-Sep-14,IT Managed Services,Application Maintenance and Support,Atos IT Services UK Ltd,85415,"24,332.47",1
+DCMS,ODA,02-Sep-14,IT Managed Services,Application Maintenance and Support,Atos IT Services UK Ltd,85415,"74,000.00",2
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos IT Services UK Ltd,85415,"19,666.49",3
+DCMS,ODA,02-Sep-14,IT Managed Services,Application Maintenance and Support,Atos IT Services UK Ltd,85415,"2,791.00",4
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos IT Services UK Ltd,85415,558.2,5
+DCMS,ODA,02-Sep-14,IT Managed Services,Application Maintenance and Support,Atos IT Services UK Ltd,85415,-1.16,6
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos IT Services UK Ltd,85415,-0.23,7
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos IT Services UK Ltd,85415,0.23,8
+DCMS,ODA,02-Sep-14,Consultants,Utilities ODA Costs,Buro Happold Ltd,85422,"36,747.15",1
+DCMS,ODA,02-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Buro Happold Ltd,85422,"7,349.43",2
+DCMS,ODA,04-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,85441,"336,277.20",1
+DCMS,ODA,04-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,85441,"6,862.80",2
+DCMS,ODA,04-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,85441,"1,372.56",4
+DCMS,ODA,05-Sep-14,Light & Heat,PO - Athletes Village FM,Get Living London,85450,"147,512.78",1
+DCMS,ODA,08-Sep-14,Framework consultancy,Finance & Corporate Services,Turner & Townsend Ltd,85448,"57,131.69",1
+DCMS,ODA,08-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Turner & Townsend Ltd,85448,"11,426.34",2
+DCMS,ODA,10-Sep-14,Land Access Rights,Gas Network IP - Construction,Cofely East London Energy Ltd,85457,"70,000.00",1
+DCMS,ODA,17-Sep-14,Consultants,Lot 6 Energy Centre - Construction,Buro Happold Ltd,85453,"28,826.73",1
+DCMS,ODA,17-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Buro Happold Ltd,85453,"5,765.35",2
+DCMS,ODA,17-Sep-14,Consultants,Lot 6 Energy Centre - Construction,Buro Happold Ltd,85454,"28,158.71",1
+DCMS,ODA,17-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Buro Happold Ltd,85454,"5,631.74",2
+DCMS,ODA,17-Sep-14,Data Network Maintenance,Application Maintenance and Support,Atos IT Services UK Ltd,85471,"22,307.50",1
+DCMS,ODA,17-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Atos IT Services UK Ltd,85471,"4,461.50",2
+DCMS,ODA,19-Sep-14,Consultants,Village Retrofit (Post Novation),Lend Lease Europe Ltd,3264,"-78,046.98",1
+DCMS,ODA,19-Sep-14,Consultants,Village Retrofit (Post Novation),Lend Lease Europe Ltd,3264,"-1,592.80",2
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,3264,-318.56,4
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,3265,"-57,214.35",1
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,3265,"-11,442.87",2
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,85482,"56,070.06",1
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,85482,"1,144.29",2
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,85482,228.86,4
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,85483,"22,425.43",1
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,85483,"57,214.35",2
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,85483,"15,927.96",3
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,85523,"2,113,464.59",1
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Retrofit (Post Novation),Lend Lease Europe Ltd,85523,"43,131.93",2
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,85523,"8,626.39",4
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Zones 3-6 Retrofit (Post Novation),Lend Lease Europe Ltd,85524,"99,590.72",1
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Zones 3-6 Retrofit (Post Novation),Lend Lease Europe Ltd,85524,"7,151.74",2
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,85524,"1,430.35",4
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Community Projects Retrofit (Post Novation),Lend Lease Europe Ltd,85525,"40,669.99",1
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,85525,"8,134.00",2
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Vertical Build (Post Novation),Lend Lease Europe Ltd,85526,"51,546.05",1
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Vertical Build (Post Novation),Lend Lease Europe Ltd,85526,"1,051.96",2
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,85526,210.39,4
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Zones 2-7 Infra.  (Post Novation),Lend Lease Europe Ltd,85527,"64,511.23",1
+DCMS,ODA,19-Sep-14,Tier 1 Contractors,Village Zones 2-7 Infra.  (Post Novation),Lend Lease Europe Ltd,85527,"4,632.64",2
+DCMS,ODA,19-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Lend Lease Europe Ltd,85527,926.53,4
+DCMS,ODA,23-Sep-14,Consultants,Village Retrofit (Post Novation),Mace Limited,85530,"73,217.82",1
+DCMS,ODA,23-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Mace Limited,85530,"14,643.56",2
+DCMS,ODA,23-Sep-14,Consultants,Village Retrofit (Post Novation),Mace Limited,85531,"52,545.94",1
+DCMS,ODA,23-Sep-14,VAT - Irrecoverable,Current Liabilities under 1 Year - VAT Control,Mace Limited,85531,"10,509.19",2

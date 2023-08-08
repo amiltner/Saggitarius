@@ -1,0 +1,8 @@
+Departmental Family,Entity,Input Date,Expense Type,Expense Area,Supplier,Transaction No,Amount,Description,Supplier Postcode,Supplier Type,Contract Number,Project Code,Expenditure Type
+Charity Commission,Charity Commission,07/11/2014,Hotels/Trains/Flights,General Expenditure,Redfern Travel LTD,93744,"39,535.28","Oct14 - Hotel, Train & Flight",,SME,,,Administration
+Charity Commission,Charity Commission,10/11/2014,Contract computer services,Business Services,Fujitsu Services Ltd,197504,"106,543.90",Oct14 Support charges,,Large,SC00001487,,Administration
+Charity Commission,Charity Commission,10/11/2014,Rent,Business Services,BNP Paribas Real Estate,T21482,"121,200.00",Quarterly payment for Taunton Premises January15 to March15,,Large,,,Administration
+Charity Commission,Charity Commission,10/11/2014,Accommodation Management Services,Business Services,BNP Paribas Real Estate,T21482,"3,591.09",Quarterly payment for Taunton Premises January15 to March15,,Large,,,Administration
+Charity Commission,Charity Commission,18/11/2014,Hardware Maintenance & Software Support,Business Services,SCC,OP\L925304,"69,036.29",IS Maintenance Service 01/11/14 to 31/10/15,,Large,,STDW0199,Administration
+Charity Commission,Charity Commission,26/11/2014,Rent,Business Services,PEEL PORTS LAND & PROPERTY,378660,"114,223.80",Quarterly payment for Liverpool Premises January15 to March15,,Large,,,Administration
+Charity Commission,Charity Commission,26/11/2014,Accommodation Management Services,Business Services,PEEL PORTS LAND & PROPERTY,378660,"28,699.40",Quarterly payment for Liverpool Premises January15 to March15,,Large,,,Administration

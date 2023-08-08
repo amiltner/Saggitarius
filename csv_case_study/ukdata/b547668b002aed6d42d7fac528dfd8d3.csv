@@ -1,0 +1,49 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction,Amount,Additional Narrative
+HMRC,VOA,27.08.13,Accommodation rent,Corporate,Business Environment,5100002699,"£70,513.20",Accommodation Charges
+HMRC,VOA,27.08.13,Landlord's Service Charge,Corporate,Business Environment,5100002699,"£23,935.32",Accommodation Charges
+HMRC,VOA,13.08.13,Management of Agreement,Corporate,Capgemini UK plc.,5100002554,"£75,646.87",IT support and maintenance
+HMRC,VOA,13.08.13,Business Application,Corporate,Capgemini UK plc.,5100002554,"£158,252.74",IT support and maintenance
+HMRC,VOA,13.08.13,Data Centre Operations,Corporate,Capgemini UK plc.,5100002554,"£258,930.87",IT support and maintenance
+HMRC,VOA,13.08.13,Desktop Services,Corporate,Capgemini UK plc.,5100002554,"£2,089.88",IT support and maintenance
+HMRC,VOA,13.08.13,WAN,Corporate,Capgemini UK plc.,5100002554,"£105,381.89",IT support and maintenance
+HMRC,VOA,13.08.13,Business Continuity & Disaster Recovery,Corporate,Capgemini UK plc.,5100002554,"£42,901.20",IT support and maintenance
+HMRC,VOA,13.08.13,Aspire Other Costs,Corporate,Capgemini UK plc.,5100002554,"£379,500.74",IT support and maintenance
+HMRC,VOA,13.08.13,I.T.-Software & Support,Corporate,Capgemini UK plc.,5100002554,"£49,797.81",IT support and maintenance
+HMRC,VOA,13.08.13,Telephones-Mobile,Corporate,Capgemini UK plc.,5100002554,"£13,182.70",Telephony Charges
+HMRC,VOA,13.08.13,Telephones-Landline,Corporate,Capgemini UK plc.,5100002554,"£12,334.73",Telephony Charges
+HMRC,VOA,13.08.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,5100002554,"£9,711.72",IT support and maintenance
+HMRC,VOA,13.08.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,5100002554,"£196,152.97",In-house software development costs
+HMRC,VOA,13.08.13,Other Accommodation Costs,Corporate,Capgemini UK plc.,5100002554,"£32,585.09",Telephony Charges
+HMRC,VOA,13.08.13,Input VAT (ST),Corporate,Capgemini UK plc.,5100002554,"£240,444.87",VAT
+HMRC,VOA,13.08.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,1700000698,"(£60,375.09)",Refund of In-house software development costs
+HMRC,VOA,13.08.13,Input VAT (ST),Corporate,Capgemini UK plc.,1700000698,"(£12,075.02)",VAT
+HMRC,VOA,01.08.13,Rates,Corporate,City of Westminster,5100002354,"£72,013.00",Business Rates
+HMRC,VOA,15.08.13,Accommodation rent,Corporate,Communities and Local Government,5100002597,"£38,146.00",Accommodation Charges
+HMRC,VOA,15.08.13,Electricity,Corporate,Communities and Local Government,5100002597,"£14,613.80",Accommodation Charges
+HMRC,VOA,15.08.13,Rates,Corporate,Communities and Local Government,5100002597,"£15,108.76",Accommodation Charges
+HMRC,VOA,15.08.13,Car Parking,Corporate,Communities and Local Government,5100002597,"£6,750.00",Accommodation Charges
+HMRC,VOA,13.08.13,Accommodation rent,Corporate,DTZ,5100002545,"£78,152.03",Accommodation Charges
+HMRC,VOA,13.08.13,Electricity,Corporate,DTZ,5100002545,"£3,429.74",Accommodation Charges
+HMRC,VOA,13.08.13,Rates,Corporate,DTZ,5100002545,"£20,268.07",Accommodation Charges
+HMRC,VOA,13.08.13,Accommodation rent,Corporate,DWP,5100002552,"£79,990.53",Accommodation Charges
+HMRC,VOA,01.08.13,Car Hire,Corporate,Enterprise Rent-a-Car,1900011245,"£27,749.07",VAT
+HMRC,VOA,20.08.13,STEPS PFI Unitary Charges - VAT Recoverable,Corporate,HMRC,5100002656,"£734,376.80",Accommodation Charges
+HMRC,VOA,08.08.13,VOA Other Legal Costs,Corporate,HMRC,1900014117,"£337,543.20",Legal Costs
+HMRC,VOA,15.08.13,VAT Indemnity,Corporate,HMRC,5100002595,"£276,682.70",Accommodation Charges
+HMRC,VOA,15.08.13,Electricity,Corporate,HMRC,5100002598,"£50,995.45",Accommodation Charges
+HMRC,VOA,02.08.13,Accommodation rent,Corporate,HMRC,5100002378,"£18,191.76",Accommodation Charges
+HMRC,VOA,02.08.13,Electricity,Corporate,HMRC,5100002378,"£3,380.69",Accommodation Charges
+HMRC,VOA,02.08.13,Rates,Corporate,HMRC,5100002378,"£7,115.63",Accommodation Charges
+HMRC,VOA,07.08.13,Telephones-Landline,Corporate,MAIN-TEL (NE) LTD,5100002459,"£51,249.09",Telephony Charges
+HMRC,VOA,07.08.13,Input VAT (ST),Corporate,MAIN-TEL (NE) LTD,5100002459,£701.33,VAT
+HMRC,VOA,29.08.13,Minor Works VAT Recoverable,Corporate,Mapeley Steps Contractor Ltd,5100002751,"£71,220.72",Accommodation Refurbishment
+HMRC,VOA,29.08.13,Input VAT (ST),Corporate,Mapeley Steps Contractor Ltd,5100002751,£974.64,VAT
+HMRC,VOA,21.08.13,I.T.-Hardware Maintenance,Corporate,OCSL,5100002601,"£23,877.25",Hardware Maintenance
+HMRC,VOA,21.08.13,Input VAT (ST),Corporate,OCSL,5100002601,"£4,775.45",VAT
+HMRC,VOA,08.08.13,Postage,Corporate,ROYAL MAIL,1900014115,"£81,613.78",Postage Charges
+HMRC,VOA,08.08.13,Postage,Corporate,TNT UK LTD,5100002470,"£37,183.67",Postage Charges
+HMRC,VOA,08.08.13,Input VAT (ST),Corporate,TNT UK LTD,5100002470,"£7,436.73",VAT
+HMRC,POLAR,31.08.13,Non-domestic Rates,Diplomatic Properties,Belfast,1900000489,"£26,299.10",Payment of business rates for diplomatic properties
+HMRC,POLAR,31.08.13,Non-domestic Rates,Diplomatic Properties,London Borough Of Camden,1900000502,"£29,614.70",Payment of business rates for diplomatic properties
+HMRC,POLAR,31.08.13,Non-domestic Rates,Diplomatic Properties,Birmingham City Council,1900000499,"£33,676.50",Payment of business rates for diplomatic properties
+HMRC,POLAR,31.08.13,Non-domestic Rates,Diplomatic Properties,Belfast,1900000487,"£37,827.47",Payment of business rates for diplomatic properties

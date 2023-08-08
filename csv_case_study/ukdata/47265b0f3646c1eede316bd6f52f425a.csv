@@ -1,0 +1,64 @@
+Department family,Entity,Date of payment,Expense area,Expense type,Supplier,"Transaction 
+number",Amount in Sterling
+Department of Health,Mersey Care NHS Trust,19/01/2012,Adult Drugs,Fp 10'S,Nhs Business Services Authority,16776,691
+Department of Health,Mersey Care NHS Trust,19/01/2012,Brook Place,Fp 10'S,Nhs Business Services Authority,16776,"39,844"
+Department of Health,Mersey Care NHS Trust,19/01/2012,D.A.R.T,Fp 10'S,Nhs Business Services Authority,16776,"26,261"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Drr Green Lane,Fp 10'S,Nhs Business Services Authority,16776,"5,099"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Kevin White Unit,Fp 10'S,Nhs Business Services Authority,16776,90
+Department of Health,Mersey Care NHS Trust,19/01/2012,Pharmacy (Ns),Fp 10'S,Nhs Business Services Authority,16776,"10,846"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Acute Jnr Medics - Aintree,St1/Ct1-Spec/Core Training Yr1,St Helens & Knowsley Nhs Trust,16794,"44,313"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Acute Jnr Medics - Aintree,St1/Ct1-Spec/Core Training Yr1,St Helens & Knowsley Nhs Trust,16794,"268,531"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Acute Jnr Medics - Aintree,St1/Ct1-Spec/Core Training Yr1,St Helens & Knowsley Nhs Trust,16794,"17,157"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Finance Payroll,Payroll Recharge Liverpool,Liverpool Pct (Commissioning),16807,"88,443"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Finance Payroll,Payroll Recharge Liverpool,Liverpool Pct (Commissioning),16807,336
+Department of Health,Mersey Care NHS Trust,12/01/2012,Crht Home Treatment,Electricity,Royal Liverpool & Broadgreen,16823,"12,711"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Crht Home Treatment,Gas,Royal Liverpool & Broadgreen,16823,"17,904"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Crht Home Treatment,Water - Metered,Royal Liverpool & Broadgreen,16823,"4,114"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Crht Home Treatment,Water - Other Chges,Royal Liverpool & Broadgreen,16823,"2,437"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Brain Injury Support,Rech In Rlh- Radiology,Royal Liverpool & Broadgreen,16824,12
+Department of Health,Mersey Care NHS Trust,12/01/2012,Cheshire & M'Side Npfit,Rech In Rlbuh His,Royal Liverpool & Broadgreen,16824,"2,039"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Cheshire & M'Side Npfit,Rech In Rlbuh His,Royal Liverpool & Broadgreen,16824,"25,222"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Cheshire & M'Side Npfit,Rech In Rlbuh His,Royal Liverpool & Broadgreen,16824,"113,760"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Cmht Central & South Liverpool,Rech In Rlh Speech Therapy,Royal Liverpool & Broadgreen,16824,"2,050"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Ect Broadoak,Consultant,Royal Liverpool & Broadgreen,16824,"3,251"
+Department of Health,Mersey Care NHS Trust,12/01/2012,It - Projects - Edms,Rech In Rlbuh His,Royal Liverpool & Broadgreen,16824,"3,212"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Kevin White Unit,Rech In Rlh- Radiology,Royal Liverpool & Broadgreen,16824,39
+Department of Health,Mersey Care NHS Trust,12/01/2012,L.D. Central Liverpool,Rech In Rlh- Radiology,Royal Liverpool & Broadgreen,16824,174
+Department of Health,Mersey Care NHS Trust,12/01/2012,Liverpool Operational Budget,Rlbuht - Broadoak Security,Royal Liverpool & Broadgreen,16824,"4,609"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Lsu Medics,Rech In Rlh- Radiology,Royal Liverpool & Broadgreen,16824,36
+Department of Health,Mersey Care NHS Trust,12/01/2012,Mh Management Nswl,Rech In Rlh-Nuclear Med,Royal Liverpool & Broadgreen,16824,746
+Department of Health,Mersey Care NHS Trust,12/01/2012,Mh Management Nswl,Rech In Rlh- Radiology,Royal Liverpool & Broadgreen,16824,15
+Department of Health,Mersey Care NHS Trust,12/01/2012,Mossley Hill Admin,Rech In Rlh-Nuclear Med,Royal Liverpool & Broadgreen,16824,"1,222"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Mossley Hill Admin,Rech In Rlh- Radiology,Royal Liverpool & Broadgreen,16824,"1,753"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Primary Care,Infection Control,Royal Liverpool & Broadgreen,16824,267
+Department of Health,Mersey Care NHS Trust,12/01/2012,Primary Care,Lab Maint Contracts,Royal Liverpool & Broadgreen,16824,"2,383"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Primary Care,Rech In Rlh-Nuclear Med,Royal Liverpool & Broadgreen,16824,92
+Department of Health,Mersey Care NHS Trust,12/01/2012,Rathbone Rehab Centre,Rech In Rlh- Radiology,Royal Liverpool & Broadgreen,16824,55
+Department of Health,Mersey Care NHS Trust,12/01/2012,Recharges In,Consultant,Royal Liverpool & Broadgreen,16824,"2,901"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Recharges In,Rech In Rlh-Chem Path.,Royal Liverpool & Broadgreen,16824,"9,356"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Recharges In,Rech In Rlh-Chem Path.,Royal Liverpool & Broadgreen,16824,"1,047"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Recharges In,Rech In Rlh-Chem Path.,Royal Liverpool & Broadgreen,16824,62
+Department of Health,Mersey Care NHS Trust,12/01/2012,Sc - Senior Medical,Rech In Rlh-Nuclear Med,Royal Liverpool & Broadgreen,16824,23
+Department of Health,Mersey Care NHS Trust,12/01/2012,Spiritual & Pastoral Care,Salary Recharges,Royal Liverpool & Broadgreen,16824,227
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Capitalised Pens Non Current,Nhs Pension Scheme,16845,"102,315"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,P I B Provision Non Current,Nhs Pension Scheme,16854,"213,728"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Employment Team 1-Core Team,Redundancy Payments,Nhs Pension Scheme,16859,"49,168"
+Department of Health,Mersey Care NHS Trust,19/01/2012,General Estates,Integral/Mitie Unplanned,Mitie Technical Facilities Management Ltd,444591,"119,704"
+Department of Health,Mersey Care NHS Trust,19/01/2012,General Estates,Integral/Mitie Unplanned,Mitie Technical Facilities Management Ltd,444592,"85,251"
+Department of Health,Mersey Care NHS Trust,19/01/2012,General Estates,Minor Works,Mitie Technical Facilities Management Ltd,444592,"58,367"
+Department of Health,Mersey Care NHS Trust,12/01/2012,Hss - Security Entrance Design,Building Works,Melwood Construction Ltd,446360,"28,704"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Energy,Electricity,Southern Electric Plc,446760,"42,961"
+Department of Health,Mersey Care NHS Trust,02/02/2012,General Estates,Integral/Mitie Unplanned,Mitie Technical Facilities Management Ltd,446963,"146,836"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Salary Sacrifice - Computers,Lets Connect It Solutions Limited,447355,"559,597"
+Department of Health,Mersey Care NHS Trust,20/01/2012,Rates And Rents,General Rates,Liverpool City Council,447682,"43,655"
+Department of Health,Mersey Care NHS Trust,26/01/2012,Energy,Gas,Total Gas & Power,447938,"59,607"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Smp,Hmrc,1061907,"-51,855"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Superannuation (Er),Nhs Pensions,1061907,"1,178,974"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Ni (Er),Hmrc,1061907,"802,859"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Student Loan Deductions,Hmrc,1061907,"19,657"
+Department of Health,Mersey Care NHS Trust,16/01/2012,Mct Legal Services,Clinical Negligence,NHSLA,1062011,"42,659"
+Department of Health,Mersey Care NHS Trust,17/01/2012,Bal Sheet Control,Income Tax,Hmrc,1061907,653
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Income Tax,Hmrc,1061907,"1,542,585"
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Ni (Ee) Lesscont Out,Hmrc,1061907,"692,601"
+Department of Health,Mersey Care NHS Trust,20/01/2012,Bal Sheet Control,Income Tax,Hmrc,1061907,4
+Department of Health,Mersey Care NHS Trust,19/01/2012,Bal Sheet Control,Superannuation (Ee),Nhs Pensions,1061907,"547,698"

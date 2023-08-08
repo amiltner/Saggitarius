@@ -1,0 +1,47 @@
+Department family,Entity,Date,Expense type,Expense area,Supplier,Transaction,Amount,Additional Narrative
+HMRC,VOA,29.04.13,Management of Agreement,Corporate,Capgemini UK plc.,5100000570,"£44,348.19",IT support and maintenance
+HMRC,VOA,29.04.13,Business Application,Corporate,Capgemini UK plc.,5100006170,"£170,277.17",IT support and maintenance
+HMRC,VOA,29.04.13,Input Services,Corporate,Capgemini UK plc.,5100006170,"£4,102.56",IT support and maintenance
+HMRC,VOA,29.04.13,Data Centre Operations,Corporate,Capgemini UK plc.,5100006170,"£278,097.47",IT support and maintenance
+HMRC,VOA,29.04.13,Desktop Services,Corporate,Capgemini UK plc.,5100006170,"£60,734.39",IT support and maintenance
+HMRC,VOA,29.04.13,WAN,Corporate,Capgemini UK plc.,5100006170,"£112,217.16",IT support and maintenance
+HMRC,VOA,29.04.13,Business Continuity & Disaster Recovery,Corporate,Capgemini UK plc.,5100006170,"£39,976.92",IT support and maintenance
+HMRC,VOA,29.04.13,Aspire Other Costs,Corporate,Capgemini UK plc.,5100006170,"£386,422.92",IT support and maintenance
+HMRC,VOA,29.04.13,I.T.-Software & Support,Corporate,Capgemini UK plc.,5100006170,"£126,930.27",IT support and maintenance
+HMRC,VOA,29.04.13,Telephones-Mobile,Corporate,Capgemini UK plc.,5100006170,"£11,278.02",Telephone Charges
+HMRC,VOA,29.04.13,Telephones-Landline,Corporate,Capgemini UK plc.,5100006170,"£25,660.37",Telephone Charges
+HMRC,VOA,29.04.13,Input VAT (ST),Corporate,Capgemini UK plc.,5100006170,"£275,760.37",VAT
+HMRC,VOA,29.04.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,5100006170,"£153,167.31",In-house Software development costs
+HMRC,VOA,29.04.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,1700000144,"(£199,296.14)",Refund of In-house software development costs
+HMRC,VOA,29.04.13,Input VAT (ST),Corporate,Capgemini UK plc.,1700000144,"(£39,859.23)",VAT
+HMRC,VOA,29.04.13,Asset Requisition Clearing Account,Corporate,Capgemini UK plc.,1700000145,"(£28,569.46)",Refund of IT support and maintenance
+HMRC,VOA,29.04.13,Input VAT (ST),Corporate,Capgemini UK plc.,1700000145,"(£5,713.89)",VAT
+HMRC,VOA,04.04.13,Rates,Corporate,City of Westminster,5100000169,"£64,321.00",Accommodation Charges
+HMRC,VOA,16.04.13,I.T.-Equipment,Corporate,Computacentre UK Ltd,5100000369,"£52,894.27",Purchase of IT Equipment
+HMRC,VOA,16.04.13,Input VAT (ST),Corporate,Computacentre UK Ltd,5100000369,£723.84,VAT
+HMRC,VOA,23.04.13,CS Subcontractor Costs,Corporate,David Bulmer Associates,1900002610,"£33,518.40",Professional Services (to be recharged)
+HMRC,VOA,24.04.13,Subscriptions,Corporate,EGi - Reed Business Information Limited,5100000519,"£29,003.10",Estate Gazette Subscription Fees
+HMRC,VOA,24.04.13,Input VAT (ST),Corporate,EGi - Reed Business Information Limited,5100000519,£396.90,VAT
+HMRC,VOA,23.04.13,VOA Other Legal Costs,Corporate,HMRC,1900002621,"£29,171.77",Accommodation Charges
+HMRC,VOA,23.04.13,Accommodation rent,Corporate,HMRC,5100000507,"£39,772.23",Accommodation Charges
+HMRC,VOA,23.04.13,Electricity,Corporate,HMRC,5100000507,"£16,320.88",Accommodation Charges
+HMRC,VOA,23.04.13,Rates,Corporate,HMRC,5100000507,"£11,293.23",Accommodation Charges
+HMRC,VOA,23.04.13,Electricity,Corporate,HMRC,5100000503,"£85,832.78",Accommodation Charges
+HMRC,VOA,18.04.13,Electricity,Corporate,HMRC,5100000391,"£110,691.14",Accommodation Charges
+HMRC,VOA,22.04.13,STEPS PFI Unitary Charges - VAT Recoverable,Corporate,HMRC,5100000423,"£769,156.06",Accommodation Charges
+HMRC,VOA,18.04.13,HMRC Service Charge,Corporate,HMRC,1900002606,"£903,763.25",Service Charges
+HMRC,VOA,04.04.13,Contracted out services,Corporate,Ipsos MORI,5100000123,"£49,009.32",Customer Surveys
+HMRC,VOA,04.04.13,Input VAT (ST),Corporate,Ipsos MORI,5100000123,£670.68,VAT
+HMRC,VOA,22.04.13,Major Works VAT Recoverable,Corporate,Mapeley Steps Contractor Ltd,5100000316,"£143,145.19",Accommodation Refurbishment
+HMRC,VOA,22.04.13,Input VAT (ST),Corporate,Mapeley Steps Contractor Ltd,5100000316,"£1,958.91",VAT
+HMRC,VOA,22.04.13,Postage,Corporate,Royal Mail,1900002607,"£82,263.01",Postage Charges
+HMRC,VOA,22.04.13,I.T.-Software & Support,Corporate,Specialist Computer Centres,5100000426,"£139,916.86",IT support and maintenance
+HMRC,VOA,22.04.13,Input VAT (ST),Corporate,Specialist Computer Centres,5100000426,"£1,914.73",VAT
+HMRC,VOA,23.04.13,Postage,Corporate,TNT UK LTD,5100000513,"£34,517.00",Postage Charges
+HMRC,VOA,23.04.13,Input VAT (ST),Corporate,TNT UK LTD,5100000513,"£6,903.40",VAT
+HMRC,VOA,23.04.13,Postage,Corporate,TNT UK LTD,5100000514,"£34,517.00",Postage Charges
+HMRC,VOA,23.04.13,Input VAT (ST),Corporate,TNT UK LTD,5100000514,"£6,903.40",VAT
+HMRC,VOA,23.04.13,Postage,Corporate,TNT UK LTD,5100000515,"£34,517.00",Postage Charges
+HMRC,VOA,23.04.13,Input VAT (ST),Corporate,TNT UK LTD,5100000515,"£6,903.40",VAT
+HMRC,VOA,04.04.13,I.T.-Miscellaneous Consumables,Corporate,XEROX (UK) LTD,5100000175,"£27,529.60",IT Consumables
+HMRC,VOA,04.04.13,Input VAT (ST),Corporate,XEROX (UK) LTD,5100000175,£376.74,VAT

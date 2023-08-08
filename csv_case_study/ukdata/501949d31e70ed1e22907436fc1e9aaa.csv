@@ -1,0 +1,86 @@
+Parent Department,Organisation,Unit,Reporting SCS post reference,Grade,Payscale minimum,Payscale maximum,Generic job title,Number of such posts in FTE
+Department for Education,Becta,Finance & It,BECTA-BDOD2,Tier 2a,45951,62169,,1
+Department for Education,Becta,Finance & It,BECTA-BDOD2,Tier 2b,37281,50439,,1
+Department for Education,Becta,Finance & It,BECTA-BDOD2,Tier 3a,34364,46492,,4
+Department for Education,Becta,Finance & It,BECTA-BDOD2,Tier 3b,29131,39413,,1.6
+Department for Education,Becta,Finance & It,BECTA-BDOD2,Tier 4,21112,26979,,4.8
+Department for Education,Becta,Finance & It,BECTA-BDOD2,Tier 5a,17901,22874,,3
+Department for Education,Becta,Finance & It,BECTA-BDOD2,Tier 5b,14688,18768,,4.2
+
+Department for Education,Becta,Organisational Change & Performance,BECTA-BDOD3,Tier 2a,45951,62169,,2
+Department for Education,Becta,Organisational Change & Performance,BECTA-BDOD3,Tier 3a,34364,46492,,1
+Department for Education,Becta,Organisational Change & Performance,BECTA-BDOD3,Tier 3b,29131,39413,,7
+Department for Education,Becta,Organisational Change & Performance,BECTA-BDOD3,Tier 4,21112,26979,,4
+Department for Education,Becta,Organisational Change & Performance,BECTA-BDOD3,Tier 5a,17901,22874,,1.79
+Department for Education,Becta,Organisational Change & Performance,BECTA-BDOD3,Tier 5b,14688,18768,,2
+
+Department for Education,Becta,Regional Delivery & Engagement,BECTA-CSLG02 ,Tier 2a,45951,62169,,2
+Department for Education,Becta,Regional Delivery & Engagement,BECTA-CSLG02 ,Tier 3a,34364,46492,,16
+Department for Education,Becta,Regional Delivery & Engagement,BECTA-CSLG02 ,Tier 3b,29131,39413,,1
+Department for Education,Becta,Regional Delivery & Engagement,BECTA-CSLG02 ,Tier 4,21112,26979,,2
+Department for Education,Becta,Regional Delivery & Engagement,BECTA-CSLG02 ,Tier 5a,17901,22874,,1
+Department for Education,Becta,Regional Delivery & Engagement,BECTA-CSLG02 ,Tier 5b,14688,18768,,3
+
+Department for Education,Becta,HT in FE & Skills/Improvement & Leadership,BECTA-FERD02,Tier 2b,37281,50439,,2
+Department for Education,Becta,HT in FE & Skills/Improvement & Leadership,BECTA-FERD02,Tier 3b,29131,39413,,3
+
+Department for Education,Becta,HT in FE & Skills/Efficiency & Business Process,BECTA-FERD03,Tier 2b,37281,50439,,3
+Department for Education,Becta,HT in FE & Skills/Efficiency & Business Process,BECTA-FERD03,Tier 3b,29131,39413,,6
+Department for Education,Becta,HT in FE & Skills/Efficiency & Business Process,BECTA-FERD03,Tier 4,21112,26979,,2
+Department for Education,Becta,HT in FE & Skills/Efficiency & Business Process,BECTA-FERD03,Tier 5a,17901,22874,,2
+Department for Education,Becta,HT in FE & Skills/Efficiency & Business Process,BECTA-FERD03,Tier 5b,14688,18768,,3
+
+Department for Education,Becta,Learning/Teaching & Inclusion,BECTA-IWD02,Tier 2b,37281,50439,,4
+Department for Education,Becta,Learning/Teaching & Inclusion,BECTA-IWD02,Tier 3b,29131,39413,,9
+Department for Education,Becta,Learning/Teaching & Inclusion,BECTA-IWD02,Tier 4,21112,26979,,3
+Department for Education,Becta,Learning/Teaching & Inclusion,BECTA-IWD02,Tier 5a,17901,22874,,1
+
+Department for Education,Becta,Institutions/Leadership & Safeguarding,BECTA-IWD03,Tier 2b,37281,50439,,3
+Department for Education,Becta,Institutions/Leadership & Safeguarding,BECTA-IWD03,Tier 3a,34364,46492,,1
+Department for Education,Becta,Institutions/Leadership & Safeguarding,BECTA-IWD03,Tier 3b,29131,39413,,4
+Department for Education,Becta,Institutions/Leadership & Safeguarding,BECTA-IWD03,Tier 4,21112,26979,,3
+Department for Education,Becta,Institutions/Leadership & Safeguarding,BECTA-IWD03,Tier 5b,14688,18768,,3
+
+Department for Education,Becta,Technical Strategy,BECTA-ST02,Tier 2a,45951,62169,,1
+Department for Education,Becta,Technical Strategy,BECTA-ST02,Tier 2b,37281,50439,,2
+Department for Education,Becta,Technical Strategy,BECTA-ST02,Tier 3a,34364,46492,,5
+Department for Education,Becta,Technical Strategy,BECTA-ST02,Tier 3b,29131,39413,,9
+Department for Education,Becta,Technical Strategy,BECTA-ST02,Tier 5a,17901,22874,,1
+Department for Education,Becta,Technical Strategy,BECTA-ST02,Tier 5b,14688,18768,,0.5
+
+Department for Education,Becta,Procurement Strategy & Supplier Management,BECTA-ST03,Tier 2b,37281,50439,,4
+Department for Education,Becta,Procurement Strategy & Supplier Management,BECTA-ST03,Tier 4,21112,26979,,2
+Department for Education,Becta,Procurement Strategy & Supplier Management,BECTA-ST03,Tier 5a,17901,22874,,1.6
+
+Department for Education,Becta,E-Strategy,BECTA-SP02,Tier 2b,37281,50439,,2
+Department for Education,Becta,E-Strategy,BECTA-SP02,Tier 3a,34364,46492,,1
+Department for Education,Becta,E-Strategy,BECTA-SP02,Tier 3b,29131,39413,,9
+Department for Education,Becta,E-Strategy,BECTA-SP02,Tier 4,21112,26979,,3
+
+Department for Education,Becta,Policy,BECTA-SP03,Tier 2b,37281,50439,,3
+Department for Education,Becta,Policy,BECTA-SP03,Tier 3b,29131,39413,,5
+Department for Education,Becta,Policy,BECTA-SP03,Tier 4,21112,26979,,1
+Department for Education,Becta,Policy,BECTA-SP03,Tier 5a,17901,22874,,3
+Department for Education,Becta,Policy,BECTA-SP03,Tier 5b,14688,18768,,4
+
+Department for Education,Becta,Marketing & Campaigns,BECTA-SP04,Tier 2a,45951,62169,,1
+Department for Education,Becta,Marketing & Campaigns,BECTA-SP04,Tier 2b,37281,50439,,2
+Department for Education,Becta,Marketing & Campaigns,BECTA-SP04,Tier 3b,29131,39413,,4.5
+Department for Education,Becta,Marketing & Campaigns,BECTA-SP04,Tier 4,21112,26979,,6
+Department for Education,Becta,Marketing & Campaigns,BECTA-SP04,Tier 5a,17901,22874,,1
+Department for Education,Becta,Marketing & Campaigns,BECTA-SP04,Tier 5b,14688,18768,,2
+
+Department for Education,Becta,Communication,BECTA-MC56,Tier 2a,45951,62169,,1
+Department for Education,Becta,Communication,BECTA-MC56,Tier 2b,37281,50439,,2
+Department for Education,Becta,Communication,BECTA-MC56,Tier 3b,29131,39413,,4.2
+Department for Education,Becta,Communication,BECTA-MC56,Tier 4,21112,26979,,1
+Department for Education,Becta,Communication,BECTA-MC56,Tier 5a,17901,22874,,0.71
+
+
+Department for Education,Becta,Universal Home Access,BECTA-DUHA,Tier 2a,45951,62169,,2
+Department for Education,Becta,Universal Home Access,BECTA-DUHA,Tier 2b,37281,50439,,5
+Department for Education,Becta,Universal Home Access,BECTA-DUHA,Tier 3a,34364,46492,,2
+Department for Education,Becta,Universal Home Access,BECTA-DUHA,Tier 3b,29131,39413,,17.71
+Department for Education,Becta,Universal Home Access,BECTA-DUHA,Tier 4,21112,26979,,2
+Department for Education,Becta,Universal Home Access,BECTA-DUHA,Tier 5a,17901,22874,,2
+Department for Education,Becta,Universal Home Access,BECTA-DUHA,Tier 5b,14688,18768,,3

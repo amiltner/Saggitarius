@@ -1,0 +1,156 @@
+A3131. Expenditure Over Threshold Report (AP),,,,,,,,,
+,,,,,,,,,
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Transaction Number,AP Amount,VAT Registration Number,Purchase Invoice Number
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Equip Maint Contracts,Wheelchair Serv Adults WS,AJ MOBILITY LTD,18252066,"35,359.91",423146777,B515791
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Services Received - NHSTs,Caravelle Ward WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19033666,179.36,654968483,11951575
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Services Received - NHSTs,Crawley UTC WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19033666,"18,277.00",654968483,11951575
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Services Received - NHSTs,Horizon Unit WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19033666,512.20,654968483,11951575
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Services Received - NHSTs,Horsham Hosp MIU WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19033666,"7,395.19",654968483,11951575
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Services Received - NHSTs,Viking Ward WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19033666,489.16,654968483,11951575
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Limbs,Prosthetics SRCB,OTTO BOCK HEALTHCARE PLC,19069083,"59,065.84",228421281,233000398
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Limbs,Prosthetics SRCB,OTTO BOCK HEALTHCARE PLC,19069086,"59,065.84",228421281,233000397
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Limbs,Prosthetics SRCB,OTTO BOCK HEALTHCARE PLC,19069097,"59,065.84",228421281,233000403
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Patients Appl: Repairs,Mgt & Adm SRCB,OTTO BOCK HEALTHCARE PLC,19069781,"25,417.36",228421281,233000400
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Home Loans,Community Equipment WS,WEST SUSSEX COUNTY COUNCIL,19092603,"613,833.34",193604455,8001156064
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,19092680,"45,208.70",654434729,1017040278
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,19092772,"35,803.05",654434729,1017042990
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Contr Photocopier Rental,Managed Print Service,RIGHT DOCUMENT SOLUTIONS LTD,19092803,"158,253.74",618184140,157620
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Income tax - Current,Balance Sheet,INLAND REVENUE CIS,19140924,"1,134,083.97",,334PM00021540217
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,National Insurance - Curr,Balance Sheet,INLAND REVENUE CIS,19140924,"1,660,174.57",,334PM00021540217
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Stat Adoption Pay - Curr,Balance Sheet,INLAND REVENUE CIS,19140924,-513.64,,334PM00021540217
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Statutory Mat Pay - Curr,Balance Sheet,INLAND REVENUE CIS,19140924,"-51,148.63",,334PM00021540217
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Statutory Pat Pay - Curr,Balance Sheet,INLAND REVENUE CIS,19140924,-770.46,,334PM00021540217
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Continence Products,Bladder and Bowel Home Delivery,PAUL HARTMANN LTD,19150024,"28,324.53",362341768,71392310
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,External Consultancy Fees,Adults East Set Up Costs,BRIGHTON & HOVE INTERGRATED CARE SERVICE,19150041,"32,020.08",,BICS360
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,External Consultancy Fees,Adults East Set Up Costs,BRIGHTON & HOVE INTERGRATED CARE SERVICE,19150043,"32,020.08",,BICS361
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Arun West PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,101.85,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Arundel D Hosp WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"1,610.70",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Bognor PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,494.55,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Bognor WM MIU WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,507.15,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Chanctonbury PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,102.90,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Chronic Pain WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,311.85,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Dental SCD Brighton,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,71.40,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Don Baines Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"2,378.25",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Horizon Unit WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"4,942.35",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Horsham Comm Nurse Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,10.50,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Horsham Hosp MIU WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,-218.40,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,IC Crawley & Horsham WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,-164.85,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,IC South WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,54.60,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,IV Nurses Coastal,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,219.45,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,L'hampton East PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,59.85,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,L'hampton West PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,431.55,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Lancing PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,72.45,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Lane Bray Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"25,833.15",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Leslie Smith Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"2,356.20",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,MSK - PCIS (Crawley) WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,119.70,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,MSK - PCIS (W) WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,921.90,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Macmillan WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,1.05,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Midhurst C Hosp WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,486.15,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Occupational Health WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,934.50,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Overnight Srv - Coastal,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,322.35,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Rural PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,119.70,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,S Comm Child Nursing WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,-2.10,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,S Podiatry WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,486.15,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,SCD Dental L/hampton WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,88.20,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,SCD Dental Lancing WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,21.00,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Salvington Lodge WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"2,905.35",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Specialist Continuing Care,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,264.60,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,W Podiatry WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,3.15,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Zachary Merton Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"3,074.40",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Arundel D Hosp WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,86.01,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Don Baines Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,86.02,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Horizon Unit WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,38.55,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Leslie Smith Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,86.02,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Midhurst C Hosp WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,86.01,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Salvington Lodge WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,38.55,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Zachary Merton Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,38.54,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Other NHS Payables <1Yr,Balance Sheet,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"6,856.00",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Service Charge,Medicines Management,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,510.80,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,Horsham Hosp MIU WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"9,728.00",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,Salvington Lodge WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"4,664.50",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,School Nursing - All Localities WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,112.00,,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,W General Office WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"13,424.00",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,Zachary Merton Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19150060,"4,664.50",,WSH1500019288
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Rent,NHS Prop Co,NHS PROPERTY SERVICES LTD,19161914,"49,599.76",156725100,48400200
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Rent,NHS Prop Co,NHS PROPERTY SERVICES LTD,19164927,"906,281.61",156725100,48409576
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,External Consultancy Fees,Chief Executive,CARE QUALITY COMMISSION,19165040,"136,864.00",,42003107
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Services Received - NHSTs,SCD Hospital GA WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19194449,"41,678.25",,WSH1500019636
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,AUC Additions,Balance Sheet,HP INC UK LTD,19195387,"75,807.60",,5296258
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,NonNHS Trade Pybls Curr,Balance Sheet,NHS SUPPLY CHAIN,19235088,"53,737.02",654434729,1017049122
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Bank Nurse : Qualified,Caravelle Ward WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19259595,"4,525.20",654968483,11952883
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Bank Nurse : Qualified,Stroke Rehab Ward WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19259595,"11,791.75",654968483,11952883
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Bank Nurse : Qualified,Viking Ward WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19259595,"7,466.33",654968483,11952883
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Bank Nurse : Unqualified,Caravelle Ward WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19259595,"13,636.16",654968483,11952883
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Bank Nurse : Unqualified,Stroke Rehab Ward WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19259595,"11,446.92",654968483,11952883
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Bank Nurse : Unqualified,Viking Ward WS,SURREY&SUSSEX HEALTHCARE NHS TRUST,19259595,"14,060.58",654968483,11952883
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Contr Other External,Facilities Director,CAPITA PROPERTY & INFRASTRUCTURE LTD,19291886,"161,906.40",GB618184140,6017053388
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Services Received - PCTs,IT Management,NHS SOUTH EAST COMMISSIONING SUPPORT UNIT,19324870,"100,945.00",,7311609322
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Services Received - PCTs,IT Management,NHS SOUTH EAST COMMISSIONING SUPPORT UNIT,19324882,"100,945.00",,7311609543
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,NonNHS Trade Pybls Curr,Balance Sheet,MEDACS HEALTHCARE SERVICES PLC,19324919,"68,440.72",745731030,604892993
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Commercial Sector,West Sussex Tranforming Care Project,DOCOBO LTD,19327927,"420,000.00",787333200,PSI001393
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Arun West PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,64.05,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Arundel D Hosp WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"1,797.60",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Bognor PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,612.15,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Bognor WM MIU WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,525.00,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Bognor WM Outpatients WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,2.10,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Chanctonbury PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,78.75,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Chronic Pain WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,322.35,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Dental SCD Brighton,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,112.35,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Don Baines Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"2,416.05",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Horizon Unit WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"4,949.70",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Horsham Comm Nurse Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,23.10,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Horsham Hosp MIU WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,560.70,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,IV Nurses Coastal,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,-10.50,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,L'hampton East PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,303.45,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,L'hampton West PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,9.45,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Lancing PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,-8.40,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Lane Bray Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"34,236.30",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Leslie Smith Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"2,236.50",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,MSK - PCIS (Crawley) WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,281.40,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,MSK - PCIS (W) WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,778.05,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Macmillan WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,32.55,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Occupational Health WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,680.40,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Overnight Srv - Coastal,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,320.25,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,RAIT Coastal South,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,-17.85,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Rural PaC Team,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,7.35,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,S Comm Child Nursing WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,-26.25,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,S Comm Neuro Team WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,73.50,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,S Podiatry WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,473.55,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,SCD Dental L/hampton WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,27.30,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,SCD Dental Lancing WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,21.00,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,SCD Hospital GA WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,49.35,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Salvington Lodge WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"4,412.10",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Specialist Continuing Care,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,259.35,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Drugs,Zachary Merton Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"3,562.65",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Arundel D Hosp WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,32.00,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Don Baines Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,32.00,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Horizon Unit WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,103.62,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Leslie Smith Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,32.00,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Salvington Lodge WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,103.62,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Medical Gases,Zachary Merton Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,103.63,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Other NHS Payables <1Yr,Balance Sheet,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"1,869.00",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Service Charge,Medicines Management,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,261.45,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,Horizon Unit WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"7,782.40",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,Horsham Hosp MIU WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"1,945.60",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,Salvington Lodge WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"4,664.50",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,School Nursing - All Localities WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,112.00,,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,W General Office WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"13,424.00",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,SrvcsRecd-FoundationTrust,Zachary Merton Ward WS,WESTERN SUSSEX HOSPITALS NHS FOUNDATION TRUST,19327932,"4,664.50",,WSH1500019707
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Electricity,SCT Electricity,BRITISH GAS BUSINESS,19327952,"28,337.79",GB 684966762,954120471
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Lease Rents,Estates Bicentennial Building,JOHN WILEY & SONS LTD,19328023,"62,998.55",376766987,8829789
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,AUC Additions,Balance Sheet,GREGORY HAVANT LTD,19347366,"21,109.48",,1639
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,AUC Additions,Balance Sheet,TASKER CATCHPOLE LTD,19354318,"71,037.96",,3035
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,NonNHS Trade Pybls Curr,Balance Sheet,SSC DD4715051135 NAT WEST PURG,SSC DD4715051135 NAT WEST PURG,"31,013.10 ",NULL,NULL
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Payroll Ded'ns N/S Curr,Balance Sheet,CHILCARE VOUCHERS,CHILCARE VOUCHERS,"37,979.36 ",NULL,NULL
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,Commercial Sector,Deputy Director of Finance,SSC SBS SLA,SSC SBS SLA,"60,817.87 ",NULL,NULL
+Department of Health,Sussex Community NHS Foundation Trust,6/30/2016,CNST contributions,Governance,SSC DD/NHSLA,SSC DD/NHSLA,"32,683.00 ",NULL,NULL
+,,,,,,,"6,660,863.26",,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,A3131,"6,498,369.93",,
+,,,,,,A3132," 162,493.33 ",,
+,,,,,,,,,
+,,,,,,,"6,660,863.26",,
+,,,,,,,,,

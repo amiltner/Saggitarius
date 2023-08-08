@@ -1,0 +1,522 @@
+Department Family,Entity,Date,Expense Type,Expense Area,Supplier,Supplier Type,Transaction Number,Amount,Description,Expenditure Type
+Land Registry,Land Registry,01/07/2013,Croydon Office,Rates Payable,Croydon Council,Large,471756,27987,Rates Payable,Administration
+Land Registry,Land Registry,01/07/2013,Birkenhead Office,Rates Payable,Wirral Metrpolitan Borough Council,Large,471761,24021,Rates Payable,Administration
+Land Registry,Land Registry,01/07/2013,Nottingham Office,Rates Payable,Nottingham City Council,Large,801273,1595,Rates Payable,Administration
+Land Registry,Land Registry,02/07/2013,Central Facilities Management Team,Transport Hire of Cars and Vans,Enterprise Rent-A-Car (UK) Ltd,Large,955994,26475.38,Transport Hire of Cars and Vans,Administration
+Land Registry,Land Registry,05/07/2013,Finance Director,Employment Agency Staff Costs,Penna Plc,Large,956852,23200,Employment Agency Staff Costs,Administration
+Land Registry,Land Registry,05/07/2013,Weymouth Office,Rates Payable,West Dorset District Council,Large,471966,18487,Rates Payable,Administration
+Land Registry,Land Registry,08/07/2013,Forward Scanning,Maps & Plans Data Migration,TNT (UK) Ltd,Large,957137,202731.53,Maps & Plans Data Migration,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,213.5,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Waste Disposal,Carillion Services Ltd,Large,957387,121.18,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,16.49,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Security Expenses,Carillion Services Ltd,Large,957387,68.39,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,218.27,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Property Maintenance,Carillion Services Ltd,Large,957387,9068.64,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Security Expenses,Carillion Services Ltd,Large,957387,2497.11,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Property Maintenance,Carillion Services Ltd,Large,957387,54854.63,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Waste Disposal,Carillion Services Ltd,Large,957387,194.28,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,1143.44,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Property Maintenance,Carillion Services Ltd,Large,957387,6909.6,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Waste Disposal,Carillion Services Ltd,Large,957387,1344.29,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Security Expenses,Carillion Services Ltd,Large,957387,2467.59,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,146.85,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,57.66,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Property Maintenance,Carillion Services Ltd,Large,957387,8924.74,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Waste Disposal,Carillion Services Ltd,Large,957387,121.18,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Property Maintenance,Carillion Services Ltd,Large,957387,2704.49,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Waste Disposal,Carillion Services Ltd,Large,957387,201.96,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Pest Control,Carillion Services Ltd,Large,957387,409.28,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Security Expenses,Carillion Services Ltd,Large,957387,192.6,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,140.17,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Property Maintenance,Carillion Services Ltd,Large,957387,3086.14,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,951.09,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Property Maintenance,Carillion Services Ltd,Large,957387,14588.68,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,610.5,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Property Maintenance,Carillion Services Ltd,Large,957387,2749.28,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Security Expenses,Carillion Services Ltd,Large,957387,1487.3,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Property Maintenance,Carillion Services Ltd,Large,957387,464,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Security Expenses,Carillion Services Ltd,Large,957387,196.32,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,111.28,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Property Maintenance,Carillion Services Ltd,Large,957387,464,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Security Expenses,Carillion Services Ltd,Large,957387,112.35,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Property Maintenance,Carillion Services Ltd,Large,957387,93642.93,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,94.13,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Property Maintenance,Carillion Services Ltd,Large,957387,1389.56,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Security Expenses,Carillion Services Ltd,Large,957387,631.3,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,1961.84,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,8.21,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Property Maintenance,Carillion Services Ltd,Large,957387,15748.58,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Waste Disposal,Carillion Services Ltd,Large,957387,208.43,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Property Maintenance,Carillion Services Ltd,Large,957387,6363.15,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Security Expenses,Carillion Services Ltd,Large,957387,1461.86,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Property Maintenance,Carillion Services Ltd,Large,957387,7111.55,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,FF&F:Maintenance,Carillion Services Ltd,Large,957387,211.2,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Dir: Finance,Property Management; Other Fees,Carillion Services Ltd,Large,957387,267.5,Property Management; Other Fees,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Security Expenses,Carillion Services Ltd,Large,957387,2606.37,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Gas,Carillion Services Ltd,Large,957387,1261.04,Gas,Administration
+Land Registry,Land Registry,09/07/2013,RFS1 - Telford,Gas,Carillion Services Ltd,Large,957387,321.63,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Gas,Carillion Services Ltd,Large,957387,2394.81,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Electricity,Carillion Services Ltd,Large,957387,5413.8,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Gas,Carillion Services Ltd,Large,957387,1306.1,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,5908.42,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Electricity,Carillion Services Ltd,Large,957387,3710.86,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Gas,Carillion Services Ltd,Large,957387,760.01,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Waste Disposal,Carillion Services Ltd,Large,957387,221.17,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Electricity,Carillion Services Ltd,Large,957387,4996.61,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Security Expenses,Carillion Services Ltd,Large,957387,9371.34,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Electricity,Carillion Services Ltd,Large,957387,6588.83,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Electricity,Carillion Services Ltd,Large,957387,4119.33,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Electricity,Carillion Services Ltd,Large,957387,4295.7,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Security Expenses,Carillion Services Ltd,Large,957387,3251.88,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Gas,Carillion Services Ltd,Large,957387,759.55,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Electricity,Carillion Services Ltd,Large,957387,6025.09,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Pest Control,Carillion Services Ltd,Large,957387,53.17,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Gas,Carillion Services Ltd,Large,957387,1357.64,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Property Maintenance,Carillion Services Ltd,Large,957387,2655.24,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Pest Control,Carillion Services Ltd,Large,957387,39.44,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Water,Carillion Services Ltd,Large,957387,330.93,Water,Administration
+Land Registry,Land Registry,09/07/2013,RFS1 - Telford,Electricity,Carillion Services Ltd,Large,957387,42.13,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Gas,Carillion Services Ltd,Large,957387,2538.17,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Electricity,Carillion Services Ltd,Large,957387,3218.42,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Security Expenses,Carillion Services Ltd,Large,957387,2906.31,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Gas,Carillion Services Ltd,Large,957387,753.35,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Gas,Carillion Services Ltd,Large,957387,2026.52,Gas,Administration
+Land Registry,Land Registry,09/07/2013,RFS5 - Durham Belmont,Gas,Carillion Services Ltd,Large,957387,424.68,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Gas,Carillion Services Ltd,Large,957387,1567.51,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Property Maintenance,Carillion Services Ltd,Large,957387,4899,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Security Expenses,Carillion Services Ltd,Large,957387,3465.83,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Waste Disposal,Carillion Services Ltd,Large,957387,348.33,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Electricity,Carillion Services Ltd,Large,957387,3525.51,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Water,Carillion Services Ltd,Large,957387,3523.99,Water,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,5307.13,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Electricity,Carillion Services Ltd,Large,957387,4779.41,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Waste Disposal,Carillion Services Ltd,Large,957387,519.08,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Property Maintenance,Carillion Services Ltd,Large,957387,7176.27,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Electricity,Carillion Services Ltd,Large,957387,6150.89,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Gas,Carillion Services Ltd,Large,957387,2046.69,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,189.13,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Waste Disposal,Carillion Services Ltd,Large,957387,242.92,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,6016.23,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Waste Disposal,Carillion Services Ltd,Large,957387,232.75,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Security Expenses,Carillion Services Ltd,Large,957387,10518.32,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,273.48,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,6172.4,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Pest Control,Carillion Services Ltd,Large,957387,48.8,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Property Maintenance,Carillion Services Ltd,Large,957387,3244.03,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Waste Disposal,Carillion Services Ltd,Large,957387,629.75,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,161.35,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,664.91,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Property Maintenance,Carillion Services Ltd,Large,957387,5736.2,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Water,Carillion Services Ltd,Large,957387,3482.9,Water,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,8726.76,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Waste Disposal,Carillion Services Ltd,Large,957387,365.5,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,4117.29,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Pest Control,Carillion Services Ltd,Large,957387,66.89,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Security Expenses,Carillion Services Ltd,Large,957387,3129.65,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,273.48,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Property Maintenance,Carillion Services Ltd,Large,957387,2225.32,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,9933,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Pest Control,Carillion Services Ltd,Large,957387,57.54,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Waste Disposal,Carillion Services Ltd,Large,957387,242.92,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Security Expenses,Carillion Services Ltd,Large,957387,3248.91,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Property Maintenance,Carillion Services Ltd,Large,957387,5659.25,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Pest Control,Carillion Services Ltd,Large,957387,44.77,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Waste Disposal,Carillion Services Ltd,Large,957387,278.25,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Security Expenses,Carillion Services Ltd,Large,957387,2847.69,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Property Maintenance,Carillion Services Ltd,Large,957387,10787.56,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,7700.55,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,222.09,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Security Expenses,Carillion Services Ltd,Large,957387,7931.49,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Property Maintenance,Carillion Services Ltd,Large,957387,5863.87,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,5297.63,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Pest Control,Carillion Services Ltd,Large,957387,49.84,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,215.2,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Waste Disposal,Carillion Services Ltd,Large,957387,139.08,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Security Expenses,Carillion Services Ltd,Large,957387,3234.32,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Property Maintenance,Carillion Services Ltd,Large,957387,8324.54,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,3918.99,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,157.74,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Waste Disposal,Carillion Services Ltd,Large,957387,331.58,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Security Expenses,Carillion Services Ltd,Large,957387,2741.88,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Property Maintenance,Carillion Services Ltd,Large,957387,4901.77,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,4931.9,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Pest Control,Carillion Services Ltd,Large,957387,59.11,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,364.64,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Property Maintenance,Carillion Services Ltd,Large,957387,22081.97,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Electricity,Carillion Services Ltd,Large,957387,8971.37,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Gas,Carillion Services Ltd,Large,957387,574.95,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,11638.49,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Pest Control,Carillion Services Ltd,Large,957387,314.48,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Waste Disposal,Carillion Services Ltd,Large,957387,904.83,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Security Expenses,Carillion Services Ltd,Large,957387,42287.46,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,385.44,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Pest Control,Carillion Services Ltd,Large,957387,41.71,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Property Maintenance,Carillion Services Ltd,Large,957387,3688.68,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,5382.73,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,218.76,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Waste Disposal,Carillion Services Ltd,Large,957387,110.83,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,RFS5 - Durham Belmont,Property Maintenance,Carillion Services Ltd,Large,957387,5187.41,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,RFS5 - Durham Belmont,Water,Carillion Services Ltd,Large,957387,103.17,Water,Administration
+Land Registry,Land Registry,09/07/2013,RFS4 - Coventry,Property Maintenance,Carillion Services Ltd,Large,957387,55.24,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,RFS4 - Coventry,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,247.47,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,RFS1 - Telford,Property Maintenance,Carillion Services Ltd,Large,957387,1696.89,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,RFS1 - Telford,Water,Carillion Services Ltd,Large,957387,62.16,Water,Administration
+Land Registry,Land Registry,09/07/2013,RFS8 - Birkenhead,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,7.51,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,120.1,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,1374.54,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Pest Control,Carillion Services Ltd,Large,957387,55.62,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Pest Control,Carillion Services Ltd,Large,957387,40.05,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,1241.32,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,720.17,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,236.56,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,671.75,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,952.36,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Pest Control,Carillion Services Ltd,Large,957387,46.52,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Electricity,Carillion Services Ltd,Large,957387,27217.15,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Security Expenses,Carillion Services Ltd,Large,957387,8269.97,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,10.63,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,5803.66,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Gas,Carillion Services Ltd,Large,957387,64,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Waste Disposal,Carillion Services Ltd,Large,957387,92.67,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Property Maintenance,Carillion Services Ltd,Large,957387,6819.98,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,Electricity,Carillion Services Ltd,Large,957387,2206.42,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,Gas,Carillion Services Ltd,Large,957387,991.41,Gas,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,Water,Carillion Services Ltd,Large,957387,22.96,Water,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,519.28,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,787.63,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,729.73,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,182.05,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,530.47,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Pest Control,Carillion Services Ltd,Large,957387,28.51,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,FF&F:Maintenance,Carillion Services Ltd,Large,957387,91.16,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,Waste Disposal,Carillion Services Ltd,Large,957387,19.92,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,Property Maintenance,Carillion Services Ltd,Large,957387,3354.8,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,Pest Control,Carillion Services Ltd,Large,957387,540.84,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,226.96,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,FF&F:Maintenance,Carillion Services Ltd,Large,957387,182.32,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Water,Carillion Services Ltd,Large,957387,1580.69,Water,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,80.86,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,Grounds Maintenance,Carillion Services Ltd,Large,957387,157.07,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Grounds Maintenance,Carillion Services Ltd,Large,957387,157.07,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,Grounds Maintenance,Carillion Services Ltd,Large,957387,295.91,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,176.93,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,FM Managed Services,Carillion Services Ltd,Large,957387,11114.05,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,1253.51,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,FM Managed Services,Carillion Services Ltd,Large,957387,668.43,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,RFS15 - Plymouth Drakes Hill Court,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,117.9,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,FM Managed Services,Carillion Services Ltd,Large,957387,3947.53,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,303.73,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,FM Managed Services,Carillion Services Ltd,Large,957387,8081.41,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,473.24,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,FM Managed Services,Carillion Services Ltd,Large,957387,7566.03,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,373.63,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,FM Managed Services,Carillion Services Ltd,Large,957387,7875.53,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,797.74,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,FM Managed Services,Carillion Services Ltd,Large,957387,4179.51,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,494.21,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,FM Managed Services,Carillion Services Ltd,Large,957387,1859.04,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Computer Centre,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,458.47,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,FM Managed Services,Carillion Services Ltd,Large,957387,3728.36,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,431.64,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,FM Managed Services,Carillion Services Ltd,Large,957387,9922.54,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,1409.74,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,FM Managed Services,Carillion Services Ltd,Large,957387,4092.01,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,465.62,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,FM Managed Services,Carillion Services Ltd,Large,957387,3680.07,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,417.21,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,RFS1 - Telford,FM Managed Services,Carillion Services Ltd,Large,957387,347.6,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,RFS1 - Telford,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,103.92,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,FM Managed Services,Carillion Services Ltd,Large,957387,4806.84,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,393.15,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,FM Managed Services,Carillion Services Ltd,Large,957387,7669.41,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,493.43,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,FM Managed Services,Carillion Services Ltd,Large,957387,6919.51,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Fylde Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,343.15,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,FM Managed Services,Carillion Services Ltd,Large,957387,4208.83,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,385.63,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,RFS4 - Coventry,FM Managed Services,Carillion Services Ltd,Large,957387,13.61,Facilities Managed Service,Administration
+Land Registry,Land Registry,09/07/2013,RFS4 - Coventry,FM Ext Helpdesk,Carillion Services Ltd,Large,957387,7.09,Facilities External Help Desk,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Electricity,Carillion Services Ltd,Large,957387,42457.06,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Gas,Carillion Services Ltd,Large,957387,1758.99,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Water,Carillion Services Ltd,Large,957387,6891.67,Water,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Pest Control,Carillion Services Ltd,Large,957387,522.57,Pest Control,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Office Cleaning Expenses,Carillion Services Ltd,Large,957387,9275.7,Office Cleaning Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Security Expenses,Carillion Services Ltd,Large,957387,22575.17,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Property Maintenance,Carillion Services Ltd,Large,957387,15413.84,Property Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Grounds Maintenance,Carillion Services Ltd,Large,957387,1931.72,Grounds Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,FF&F:Maintenance,Carillion Services Ltd,Large,957387,546.96,FF&F:Maintenance,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Electricity,Carillion Services Ltd,Large,957387,24226.31,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Gas,Carillion Services Ltd,Large,957387,2565.3,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Dir: HR,Gas,Carillion Services Ltd,Large,957387,818.4,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Dir: Finance,Gas,Carillion Services Ltd,Large,957387,198.22,Gas,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Waste Disposal,Carillion Services Ltd,Large,957387,2096,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Birkenhead Office,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,737.23,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,RFS8 - Birkenhead,Vending Machine Consumables & Repairs,Carillion Services Ltd,Large,957387,54.62,Vending Machine Consumables & Repairs,Administration
+Land Registry,Land Registry,09/07/2013,Dir: HR,Electricity,Carillion Services Ltd,Large,957387,1314.91,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Dir: HR,Waste Disposal,Carillion Services Ltd,Large,957387,60.42,Waste Disposal,Administration
+Land Registry,Land Registry,09/07/2013,Dir: HR,Security Expenses,Carillion Services Ltd,Large,957387,935.41,Security Expenses,Administration
+Land Registry,Land Registry,09/07/2013,Dir: HR,Property Management; Other Fees,Carillion Services Ltd,Large,957387,1527.96,Property Management; Other Fees,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Water,Carillion Services Ltd,Large,957387,2037.91,Water,Administration
+Land Registry,Land Registry,09/07/2013,Dir: Finance,"Property Management; Advice, Surveys & Inspections",Carillion Services Ltd,Large,957387,760,"Property Management; Advice, Surveys & Inspections",Administration
+Land Registry,Land Registry,09/07/2013,Dir: Finance,Electricity,Carillion Services Ltd,Large,957387,921.89,Electricity,Administration
+Land Registry,Land Registry,09/07/2013,Business Continuity,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,487.4,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Director of Information Systems,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1369.04,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Weymouth Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,146.53,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Peterborough Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,530.77,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Employee & Management Support Manager,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1309.22,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Croydon Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,339.08,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Central Facilities Management Team,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,4983.95,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Wales Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,350.8,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Plymouth Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,404.24,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Director of Operations,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,556.04,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Gloucester Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,625.85,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,IS Service Delivery,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,4461.97,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Survey & Mapping Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,436.69,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Telford Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,338.6,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Hull Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1726.17,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Leicester Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,39.76,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Property Asset Management Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,3305.6,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Coventry Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,41.23,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Durham Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,800.52,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Nottingham Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,-29.4,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,LR Sports Council,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,106.71,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Finance Director,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,218.6,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Director of Legal Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,-177.13,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Independent Complaints Reviewer,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,246.96,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,National Lawyer Training,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,290.25,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Corporate Legal Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1682.09,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Guarantee & Litigation,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,427.76,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Technical Assurance Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,387.87,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Registration Legal Services Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,163.88,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Learning and Development,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,508.94,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Governance & Policy,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1499.48,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Finance Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,940.5,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Business Development,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,7279.7,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Capability,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,672.96,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Internal Solutions Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,3513.53,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,External Solutions Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,-43.76,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Business Planning Assurance and Risk Management,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,295.32,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Internal Audit,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1214.9,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Customer Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1513.75,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,International Unit,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,577.54,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Projects and Programme Centre,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,746.94,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Corp Procurement,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,3161.91,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Commercial Director,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1517.77,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Product Development & Management,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,3972.09,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Marketing Services Team,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,691.96,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,HR,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,11745.55,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Research & Data Mining,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1681.16,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Stakeholder Management,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,74.94,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Commercial & Customer Strategy & Performance,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1542.2,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Central Operations Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,3041.71,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Chief Executives Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,3238.16,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Dir: (Add Value) Commercial & Customer,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,65.53,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Dir: HR,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,5608.37,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Dir: Operations,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,2695.4,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Dir: Legal Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,1359.62,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Dir: (Statutory) Commercial & Customer,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,19695.3,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Dir: Finance,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,2471.85,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,Strategy Team,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,262.23,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,LR Board & Board Chair,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,957402,35.45,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,09/07/2013,IS Service Delivery,Telephone Costs,Vodafone Corporate Ltd,Large,957403,-6106.64,Telephone Costs,Administration
+Land Registry,Land Registry,09/07/2013,IS Service Delivery,Data Network Lines,Vodafone Corporate Ltd,Large,957403,57823.8,Data Network Lines,Administration
+Land Registry,Land Registry,10/07/2013,Hull Office,Rates Payable,Kingston Upon Hull City Council,Large,472104,13424,Rates Payable,Administration
+Land Registry,Land Registry,11/07/2013,Finance Director,Auditors Remuneration,National Audit Office,Large,957856,47500,Auditors Remuneration,Administration
+Land Registry,Land Registry,12/07/2013,Professional Library,Online Law Updated,Thomson Reuters,Large,958101,39000,Online Law Updated,Administration
+Land Registry,Land Registry,15/07/2013,Nottingham Office,Rates Payable,Nottingham City Council,Large,801276,968.6,Rates Payable,Administration
+Land Registry,Land Registry,16/07/2013,IS Service Delivery,Computer Equipment Maintenance,IBM United Kingdom Ltd,Large,958683,-2656471,Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,16/07/2013,IS Service Delivery,Computer Equipment Maintenance,IBM United Kingdom Ltd,Large,958683,2523650,Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,16/07/2013,Wales Office,Letter Post,Royal Mail,Large,958753,7916.01,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Durham Office,Letter Post,Royal Mail,Large,958753,7672.17,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Peterborough Office,Letter Post,Royal Mail,Large,958753,2901.75,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Fylde Office,Letter Post,Royal Mail,Large,958753,5034.85,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Croydon Office,Letter Post,Royal Mail,Large,958753,2875.93,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Gloucester Office,Letter Post,Royal Mail,Large,958753,4115.56,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Leicester Office,Letter Post,Royal Mail,Large,958753,2647.98,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Nottingham Office,Letter Post,Royal Mail,Large,958753,5039.29,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Plymouth Office,Letter Post,Royal Mail,Large,958753,4062.56,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Weymouth Office,Letter Post,Royal Mail,Large,958753,3227.97,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Telford Office,Letter Post,Royal Mail,Large,958753,3380.62,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Coventry Office,Letter Post,Royal Mail,Large,958753,9066.99,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Hull Office,Letter Post,Royal Mail,Large,958753,2553.8,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Croydon Sub-Office,Letter Post,Royal Mail,Large,958753,1058.33,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Birkenhead Office,Letter Post,Royal Mail,Large,958753,3989.23,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Land Charges,Letter Post,Royal Mail,Large,958753,1354.18,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,Central Facilities Management Team,Letter Post,Royal Mail,Large,958753,4.47,Letter Post,Administration
+Land Registry,Land Registry,16/07/2013,IS Service Delivery,Letter Post,Royal Mail,Large,958753,15384.54,Letter Post,Administration
+Land Registry,Land Registry,17/07/2013,Property Asset Management Group,Service Charges,Capita Property and Infrastructure Limited,Large,959009,28641.32,Service Charges,Administration
+Land Registry,Land Registry,17/07/2013,Dir: (Statutory) Commercial & Customer,Professional Services,Specialist Computer Centres Plc - SCC,Large,959014,23042.41,Professional Services,Administration
+Land Registry,Land Registry,17/07/2013,Dir: (Statutory) Commercial & Customer,Professional Services,Specialist Computer Centres Plc - SCC,Large,959014,29725.39,Professional Services,Administration
+Land Registry,Land Registry,17/07/2013,Central RFS,RFS Outsourced Services,TNT (UK) Ltd,Large,959015,102974.79,File Store Outsourced Services,Administration
+Land Registry,Land Registry,17/07/2013,Central RFS,RFS Outsourced Services,TNT (UK) Ltd,Large,959015,177203.81,File Store Outsourced Services,Administration
+Land Registry,Land Registry,17/07/2013,Property Asset Management Group,Rent Payable,Jones Lang LaSalle Ltd,Large,472320,1125,Rent Payable,Administration
+Land Registry,Land Registry,17/07/2013,Property Asset Management Group,Rent Payable,Jones Lang LaSalle Ltd,Large,472320,375,Rent Payable,Administration
+Land Registry,Land Registry,17/07/2013,Property Asset Management Group,Rent Payable,Jones Lang LaSalle Ltd,Large,472320,1500,Rent Payable,Administration
+Land Registry,Land Registry,17/07/2013,Nottingham Office,Rates Payable,Nottingham City Council,Large,219620,-4914.33,Rates Payable,Administration
+Land Registry,Land Registry,18/07/2013,Dir: Operations,Property Maintenance,Carillion Services Ltd,Large,959244,57314.48,Property Maintenance,Administration
+Land Registry,Land Registry,18/07/2013,Dir: Operations,FF&F:Removals,Carillion Services Ltd,Large,959244,58750.64,FF&F:Removals,Administration
+Land Registry,Land Registry,18/07/2013,Commercial & Customer Strategy & Performance,Market Research,Market & Opinion Research International Ltd,SME,959250,21676,Market Research,Administration
+Land Registry,Land Registry,22/07/2013,IS Service Delivery,Computer Equipment Maintenance,MicroStrategy Ltd,SME,959795,144086.36,Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,22/07/2013,Business Continuity,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,123.49,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Director of Information Systems,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,71.48,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Weymouth Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,177.05,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Employee & Management Support Manager,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,189.53,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Croydon Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,51.56,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Central Facilities Management Team,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,2244.89,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Wales Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,201.46,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Fylde Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,70.98,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Director of Operations,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,213.47,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Gloucester Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,-74.55,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,IS Service Delivery,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,996.88,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Telford Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,-3.76,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Hull Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,-73.03,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Property Asset Management Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,1145.43,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Coventry Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,116.4,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Durham Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,82.21,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Director of Legal Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,546.78,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Independent Complaints Reviewer,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,119.48,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Corporate Legal Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,132.8,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Guarantee & Litigation,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,273.04,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Registration Legal Services Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,102.49,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Learning and Development,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,320.4,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Governance & Policy,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,154.46,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Finance Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,585.65,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Business Development,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,731.09,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Capability,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,118.27,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Internal Solutions Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,1552.36,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Internal Audit,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,60.44,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Customer Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,291.74,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,International Unit,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,265.41,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Projects and Programme Centre,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,101.44,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Corp Procurement,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,536.35,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Commercial Director,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,399.51,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Product Development & Management,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,522.61,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Marketing Services Team,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,50.12,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,HR,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,3038.68,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Research & Data Mining,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,-132.68,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Commercial & Customer Strategy & Performance,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,60.95,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Central Operations Group,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,917.99,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Chief Executives Office,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,5889.49,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Dir: HR,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,1547.89,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Dir: Operations,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,458.32,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Dir: Legal Services,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,485.51,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Dir: (Statutory) Commercial & Customer,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,5491.07,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Dir: Finance,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,10.11,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Strategy Team,Travel & Subsistence General Duty,Redfern Travel Ltd,Large,959799,474.46,Travel & Subsistence General Duty,Administration
+Land Registry,Land Registry,22/07/2013,Guarantee & Litigation,Ind Legal Costs,Treasury Solicitors,Large,959800,24980.59,Indemnity Legal Costs,Administration
+Land Registry,Land Registry,23/07/2013,Governance & Policy,Rent Payable,GBR Phoenix Beard Property Consultants,SME,472492,6141.95,Rent Payable,Administration
+Land Registry,Land Registry,24/07/2013,Leicester Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,1345.69,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Durham Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,2960.73,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Fylde Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,2446.64,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Croydon Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,1812.69,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Gloucester Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,3270.78,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Nottingham Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,3601.82,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Central Facilities Management Team,Stationery National Contracts,Banner Business Services Ltd,Large,960083,69.27,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Birkenhead Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,4153.21,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Plymouth Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,2643.61,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Weymouth Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,1889.36,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Peterborough Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,2016.03,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Telford Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,1838.8,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Coventry Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,5153.45,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Hull Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,2223.14,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Wales Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,2337.11,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Land Charges,Stationery National Contracts,Banner Business Services Ltd,Large,960083,570.89,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Central Facilities Management Team,Waste Disposal,Banner Business Services Ltd,Large,960083,12274.65,Waste Disposal,Administration
+Land Registry,Land Registry,24/07/2013,IS Service Delivery,Stationery National Contracts,Banner Business Services Ltd,Large,960083,2679.22,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Governance & Policy,Stationery National Contracts,Banner Business Services Ltd,Large,960083,117.07,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Finance Group,Stationery National Contracts,Banner Business Services Ltd,Large,960083,172.68,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Projects and Programme Centre,Stationery National Contracts,Banner Business Services Ltd,Large,960083,68.7,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Marketing Services Team,Stationery National Contracts,Banner Business Services Ltd,Large,960083,132.77,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Business Development,Stationery National Contracts,Banner Business Services Ltd,Large,960083,13.08,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,HR,Stationery National Contracts,Banner Business Services Ltd,Large,960083,95.14,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Strategy Team,Stationery National Contracts,Banner Business Services Ltd,Large,960083,60.98,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Chief Executives Office,Stationery National Contracts,Banner Business Services Ltd,Large,960083,81.92,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Capability,Stationery National Contracts,Banner Business Services Ltd,Large,960083,122.85,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Internal Solutions Group,Stationery National Contracts,Banner Business Services Ltd,Large,960083,116.15,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Central RFS,Stationery National Contracts,Banner Business Services Ltd,Large,960083,828.52,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,Research & Data Mining,Stationery National Contracts,Banner Business Services Ltd,Large,960083,13.6,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,External Solutions Group,Stationery National Contracts,Banner Business Services Ltd,Large,960083,43.88,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,International Unit,Stationery National Contracts,Banner Business Services Ltd,Large,960083,44.45,Stationery National Contracts,Administration
+Land Registry,Land Registry,24/07/2013,IS Service Delivery,Computer Equipment Maintenance,CGI IT UK Limited,Large,960324,86872,Computer Equipment Maintenance,Administration
+Land Registry,Land Registry,24/07/2013,Plymouth Office,Reprographic Copy Costs,Steria Limited,Large,960336,362.11,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Telford Office,Reprographic Copy Costs,Steria Limited,Large,960336,107.98,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Wales Office,Reprographic Copy Costs,Steria Limited,Large,960336,359.15,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Durham Office,Reprographic Copy Costs,Steria Limited,Large,960336,195.05,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,IS Service Delivery,"Computer Equipment Purchases <£1,000",Steria Limited,Large,960336,1010.09,"Computer Equipment Purchases <£1,000",Administration
+Land Registry,Land Registry,24/07/2013,Fylde Office,Reprographic Copy Costs,Steria Limited,Large,960336,246.43,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Peterborough Office,Reprographic Copy Costs,Steria Limited,Large,960336,85.04,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Croydon Office,Reprographic Copy Costs,Steria Limited,Large,960336,748.38,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Gloucester Office,Reprographic Copy Costs,Steria Limited,Large,960336,384.14,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Leicester Office,Reprographic Copy Costs,Steria Limited,Large,960336,158.22,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Weymouth Office,Reprographic Copy Costs,Steria Limited,Large,960336,234.52,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Hull Office,Reprographic Copy Costs,Steria Limited,Large,960336,259.06,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Nottingham Office,Reprographic Copy Costs,Steria Limited,Large,960336,415.61,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,Birkenhead Office,Reprographic Copy Costs,Steria Limited,Large,960336,263.63,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,24/07/2013,IS Service Delivery,FF&F:Removals,Steria Limited,Large,960336,2456.06,FF&F:Removals,Administration
+Land Registry,Land Registry,24/07/2013,IS Service Delivery,DITI Printer Managed Service,Steria Limited,Large,960336,72790.95,IT Printer Managed Service,Administration
+Land Registry,Land Registry,24/07/2013,Governance & Policy,Reprographic Copy Costs,Steria Limited,Large,960336,8.41,Reprographic Copy Costs,Administration
+Land Registry,Land Registry,25/07/2013,Nottingham Office,Rent Payable,Dtz Debenham Tie Leung Ltd,SME,472545,8591.96,Rent Payable,Administration
+Land Registry,Land Registry,26/07/2013,Nottingham Office,Rent Payable,Dtz Debenham Tie Leung Ltd,SME,212898,120708.49,Rent Payable,Administration
+Land Registry,Land Registry,29/07/2013,IS Service Delivery,Data Network Lines,British Telecommunications Plc,Large,960859,1983.46,Data Network Lines,Administration
+Land Registry,Land Registry,29/07/2013,Central Facilities Management Team,Telephone Costs,British Telecommunications Plc,Large,960859,5284.86,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,RFS4 - Coventry,Telephone Costs,British Telecommunications Plc,Large,960859,37.87,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Independent Complaints Reviewer,Telephone Costs,British Telecommunications Plc,Large,960859,718.25,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Governance & Policy,Telephone Costs,British Telecommunications Plc,Large,960859,7030.37,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Birkenhead Office,Telephone Costs,British Telecommunications Plc,Large,960859,2665.39,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Coventry Office,Telephone Costs,British Telecommunications Plc,Large,960859,1881.97,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Croydon Office,Telephone Costs,British Telecommunications Plc,Large,960859,4725.81,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Durham Office,Telephone Costs,British Telecommunications Plc,Large,960859,4188.98,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Gloucester Office,Telephone Costs,British Telecommunications Plc,Large,960859,4984.42,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Hull Office,Telephone Costs,British Telecommunications Plc,Large,960859,113.61,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Fylde Office,Telephone Costs,British Telecommunications Plc,Large,960859,5810.64,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Leicester Office,Telephone Costs,British Telecommunications Plc,Large,960859,1991.03,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Nottingham Office,Telephone Costs,British Telecommunications Plc,Large,960859,5622.98,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Peterborough Office,Telephone Costs,British Telecommunications Plc,Large,960859,2262.6,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Plymouth Office,Telephone Costs,British Telecommunications Plc,Large,960859,3164.13,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Telford Office,Telephone Costs,British Telecommunications Plc,Large,960859,2202.71,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Wales Office,Telephone Costs,British Telecommunications Plc,Large,960859,5314.59,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Weymouth Office,Telephone Costs,British Telecommunications Plc,Large,960859,3371.55,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,IS Service Delivery,Telephone Costs,British Telecommunications Plc,Large,960859,12935.96,Telephone Costs,Administration
+Land Registry,Land Registry,29/07/2013,Croydon Office,Data Network Lines,British Telecommunications Plc,Large,960859,57,Data Network Lines,Administration
+Land Registry,Land Registry,29/07/2013,Gloucester Office,Data Network Lines,British Telecommunications Plc,Large,960859,84,Data Network Lines,Administration
+Land Registry,Land Registry,29/07/2013,Coventry Office,Data Network Lines,British Telecommunications Plc,Large,960859,175.14,Data Network Lines,Administration
+Land Registry,Land Registry,29/07/2013,Fylde Office,Data Network Lines,British Telecommunications Plc,Large,960859,195,Data Network Lines,Administration
+Land Registry,Land Registry,29/07/2013,Nottingham Office,Data Network Lines,British Telecommunications Plc,Large,960859,635.37,Data Network Lines,Administration
+Land Registry,Land Registry,29/07/2013,Wales Office,Data Network Lines,British Telecommunications Plc,Large,960859,195,Data Network Lines,Administration
+Land Registry,Land Registry,29/07/2013,Central Operations Group,Data Network Lines,British Telecommunications Plc,Large,960859,83.25,Data Network Lines,Administration
+Land Registry,Land Registry,29/07/2013,Professional Library,Online Law Updated,Treasury Solicitors,Large,961122,86592,Online Law Updated,Administration
+Land Registry,Land Registry,29/07/2013,Property Asset Management Group,Rates Payable,Stevenage Borough Council,Large,472636,3956,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Property Asset Management Group,Rates Payable,Stevenage Borough Council,Large,472636,26376,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Gloucester Office,Rates Payable,Gloucester City Council,Large,472628,23432,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Governance & Policy,Rates Payable,City of Plymouth,Large,472622,35325,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Durham Office,Rates Payable,Durham County Council,Large,472626,1225,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Durham Office,Rates Payable,Durham County Council,Large,472626,22878,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Property Asset Management Group,Rates Payable,City of York Council,Large,472623,20724,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Coventry Office,Rates Payable,Coventry City Council,Large,472624,43568,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Peterborough Office,Rates Payable,Peterborough City Council,Large,472634,2661,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Peterborough Office,Rates Payable,Peterborough City Council,Large,472634,2496,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Peterborough Office,Rates Payable,Peterborough City Council,Large,472634,2732,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Leicester Office,Rates Payable,Leicester City Council,Large,472630,17663,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Fylde Office,Rates Payable,Fylde Borough Council,Large,472627,17545,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Nottingham Office,Rates Payable,Nottingham City Council,Large,472633,6076,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Governance & Policy,Rates Payable,South Hams District Council,Large,472635,4616,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Nottingham Office,Rates Payable,Nottingham City Council,Large,472633,1943,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Nottingham Office,Rates Payable,Nottingham City Council,Large,472633,13188,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Nottingham Office,Rates Payable,Nottingham City Council,Large,472633,3344,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Wales Office,Rates Payable,City & County of Swansea,Large,472621,2100,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Wales Office,Rates Payable,City & County of Swansea,Large,472621,16936,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Gloucester Computer Centre,Rates Payable,Tewkesbury Borough Council,Large,472638,11257,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Telford Office,Rates Payable,Telford & Wrekin Council,Large,472637,22654,Rates Payable,Administration
+Land Registry,Land Registry,29/07/2013,Peterborough Office,Rates Payable,Peterborough City Council,Large,472634,2591,Rates Payable,Administration
+Land Registry,Land Registry,31/07/2013,Croydon Office,Rates Payable,Croydon Council,Large,472719,27987,Rates Payable,Administration
+Land Registry,Land Registry,31/07/2013,Nottingham Office,Rates Payable,Nottingham City Council,Large,801275,968.6,Rates Payable,Administration

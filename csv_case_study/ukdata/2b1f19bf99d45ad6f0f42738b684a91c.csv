@@ -1,0 +1,406 @@
+Document Date,Purchase Order No,Line Item No,Supplier ID,Supplier Name,Pro Class,Pro Class Description,"Description of Goods 
+(Purpose of expenditure look up)","Service/Department 
+(SAP Hierarchy Position)","Expense Area 
+(cost centre desc)","Net Order Value Over £5000.00 
+(line item value shown here)",GL Code,Cost Centre/WBS
+04/04/2016,ZAV253066,1,4512,Redstor Limited,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"19,200.00",400110,11417
+01/06/2016,ZAV256067,1,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"1,200.00",400110,11417
+01/06/2016,ZAV256067,2,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"1,200.00",400110,11417
+01/06/2016,ZAV256067,3,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,782.42,400110,11417
+01/06/2016,ZAV256067,4,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,685.93,400110,11417
+01/06/2016,ZAV256067,5,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,348.75,400110,11417
+01/06/2016,ZAV256067,6,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"2,256.92",400110,11417
+01/06/2016,ZAV256067,7,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,442.50,400110,11417
+01/06/2016,ZAV256067,8,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"2,652.00",400110,11417
+01/06/2016,ZAV256067,9,3655,Exertis Micro-P,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"5,517.00",400110,11417
+01/06/2016,ZAV256081,1,1162,RM Education plc,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"8,246.40",400110,11417
+01/06/2016,ZAV256081,2,1162,RM Education plc,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"7,000.08",400110,11417
+01/06/2016,ZAV256081,3,1162,RM Education plc,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,840.00,400110,11417
+01/06/2016,ZAV256081,4,1162,RM Education plc,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,120.00,400110,11417
+02/06/2016,ZAV256130,1,1162,RM Education plc,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"8,175.00",400110,11417
+20/06/2016,ZAV256963,1,2927,XMA Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"13,583.00",400110,11417
+20/06/2016,ZAV256963,2,2927,XMA Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"13,649.25",400110,11417
+26/04/2016,ZES254248,1,1586,Kana Software Ireland Limited,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Systems,"33,500.00",402001,12503
+16/05/2016,ZES255317,1,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Utilities,"8,625.00",402001,11321
+16/05/2016,ZES255317,2,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Utilities,39.00,402001,11321
+01/06/2016,ZES256087,1,8185,Exactive,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Infrastructure,"6,000.00",402002,11324
+13/06/2016,ZES256585,1,4105,QA Ltd,261500,Human Resources Training & Conferences ,Fees and Charges,Corporate and Support Services,POD Training & Qual.,"6,000.00",401024,11888
+23/06/2016,ZES257191,1,4105,QA Ltd,260000,Human Resources  ,Staff Training,Corporate and Support Services,ICT- General,"6,689.00",102020,11073
+15/06/2016,ZEU256786,1,2479,JR Foy and Son Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to People,Vernon Park Prim.Add'l Classroom,"62,770.77",200301,C.10385.185
+12/04/2016,ZFC253460,1,10561,dv SPEC Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,SPB Operational Estate,"11,716.80",200156,11662
+21/04/2016,ZFC253940,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,SPB Operational Estate,"7,800.00",200101,11662
+21/04/2016,ZFC253967,1,3529,Solutions SK Ltd,192200,Facilities & Management Services Security ,Security,Corporate and Support Services,SPB Operational Estate,"22,002.24",201204,11662
+21/04/2016,ZFC253968,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,SPB Operational Estate,"20,643.42",200159,11662
+21/04/2016,ZFC253969,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,SPB Operational Estate,"35,034.38",200106,11662
+21/04/2016,ZFC253970,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Corporate and Support Services,SPB Operational Estate,"33,873.84",202002,11662
+21/04/2016,ZFC253971,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,SPB Operational Estate,"21,977.73",200159,11662
+21/04/2016,ZFC253972,1,3529,Solutions SK Ltd,192200,Facilities & Management Services Security ,Security,Corporate and Support Services,SPB Operational Estate,"35,570.46",201206,11662
+21/04/2016,ZFC253973,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Corporate and Support Services,SPB - Investment Estate,"42,442.80",202030,10062
+21/04/2016,ZFC254011,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,SPB Operational Estate,"5,624.28",200160,11662
+22/04/2016,ZFC254051,1,3529,Solutions SK Ltd,182000,Environmental Services Waste Management ,Waste Management,Corporate and Support Services,SPB Operational Estate,"74,577.32",201804,11662
+22/04/2016,ZFC254052,1,3529,Solutions SK Ltd,130000,Cleaning & Janitorial  ,Cleaning,Corporate and Support Services,SPB Operational Estate,"642,852.38",201602,11662
+27/04/2016,ZFC254343,1,3670,Alliance Disposables,130000,Cleaning & Janitorial  ,Cleaning,Corporate and Support Services,SPB Operational Estate,"9,266.04",201607,11662
+27/04/2016,ZFC254343,2,3670,Alliance Disposables,130000,Cleaning & Janitorial  ,Cleaning,Corporate and Support Services,SPB Operational Estate,346.32,201607,11662
+29/04/2016,ZFC254483,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to People,Great Moor Inf Universal Free School Meals,"308,958.00",200311,C.10323.230
+03/05/2016,ZFC254640,1,2430,GTM Electrical Services Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Corporate and Support Services,Libraries - install fire alarms,"22,490.00",200311,C.11501.019
+03/05/2016,ZFC254641,1,2430,GTM Electrical Services Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Corporate and Support Services,Libraries - install fire alarms,"23,727.00",200311,C.11501.019
+03/05/2016,ZFC254642,1,2426,GR Bayley Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Corporate and Support Services,Libraries - install fire alarms,"22,909.91",200311,C.11501.019
+10/05/2016,ZFC255063,1,9049,ISG Construction Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Leisure Emergency PECOS Code,"227,799.73",200311,C.00401
+10/05/2016,ZFC255064,1,4685,McGoff and Byrne Co Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Woodbank Athletics Stadium Clubhouse,"520,750.00",200311,C.10893
+13/05/2016,ZFC255225,1,6281,SUDLOWS,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,SPB Operational Estate,"13,972.33",200123,11662
+09/06/2016,ZFC256507,1,588,H Jenkinson & Co Ltd,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Corporate and Support Services,BSD Emergency PECOS Code,"8,033.20",400100,C.00405
+15/06/2016,ZFC256803,1,588,H Jenkinson & Co Ltd,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Services to People,C & YP Emergency PECOS Code,"38,000.00",400100,C.00400
+26/04/2016,ZHT254224,1,8760,Holloway Cook Associates Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to People,Gen-Prim.Essential H&S Works,"5,299.00",200127,C.10523.193
+20/06/2016,ZHT257004,1,1799,Stockport Homes,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Non-General Fund Items,Council House Insurance -Fire Claims,"12,955.00",200102,12065
+20/06/2016,ZPP256967,1,2458,Northern Insulation Contractor,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to People,Gen-Prim.Essential H&S Works,"36,460.00",200120,C.10523.193
+10/04/2016,ZSA253367,1,4947,TAMESIDE METROPOLITAN BOROUGH,999999,Fees and Charges,Fees and Charges,Services to People,PH-Programme Management,"50,000.00",401035,12732
+21/04/2016,ZSA254036,1,1339,Stockport NHS Foundation Trust,310000,Healthcare  ,Third party payments - Public Sector,Services to People,PH-Programme Management,"3,541,949.00",500402,12732
+22/04/2016,ZSA254056,1,4369,Pennine Care NHS Trust,310000,Healthcare  ,Third party payments - Public Sector,Services to People,PH-Drug and Alcohol,"1,125,000.00",500402,12731
+28/04/2016,ZSA254453,1,1640,George House Trust,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,HIV Services,"14,229.00",561704,12746
+29/04/2016,ZSA254519,1,8962,DRS ARMSTRONG & BEARDSELL,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"1,672.00",530348,12735
+29/04/2016,ZSA254519,2,8962,DRS ARMSTRONG & BEARDSELL,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,534.00",530348,12737
+29/04/2016,ZSA254519,3,8962,DRS ARMSTRONG & BEARDSELL,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"1,982.00",530348,12748
+29/04/2016,ZSA254520,1,8922,Dr Dean and Partners,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,061.00",530348,12735
+29/04/2016,ZSA254520,2,8922,Dr Dean and Partners,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,978.00,530348,12737
+29/04/2016,ZSA254520,3,8922,Dr Dean and Partners,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,832.00,561704,12748
+29/04/2016,ZSA254520,4,8922,Dr Dean and Partners,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"2,672.00",530348,12748
+29/04/2016,ZSA254521,1,8928,Bracondale Medical Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"1,746.00",530348,12735
+29/04/2016,ZSA254521,2,8928,Bracondale Medical Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,280.00",530348,12737
+29/04/2016,ZSA254521,3,8928,Bracondale Medical Centre,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"1,526.00",561704,12748
+29/04/2016,ZSA254521,4,8928,Bracondale Medical Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,991.00,530348,12748
+29/04/2016,ZSA254522,1,8953,EASTHOLME SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"1,710.00",530348,12735
+29/04/2016,ZSA254522,2,8953,EASTHOLME SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,230.00",530348,12737
+29/04/2016,ZSA254522,3,8953,EASTHOLME SURGERY,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"2,219.00",561704,12748
+29/04/2016,ZSA254522,4,8953,EASTHOLME SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,905.00,530348,12748
+29/04/2016,ZSA254523,1,8914,Heaton Moor Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"10,171.00",530348,12735
+29/04/2016,ZSA254523,2,8914,Heaton Moor Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"6,702.00",530348,12737
+29/04/2016,ZSA254523,3,8914,Heaton Moor Medical Group,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"7,489.00",561704,12748
+29/04/2016,ZSA254523,4,8914,Heaton Moor Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"7,326.00",530348,12748
+29/04/2016,ZSA254524,1,8921,Hulme Hall Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"4,027.00",530348,12735
+29/04/2016,ZSA254524,2,8921,Hulme Hall Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"2,142.00",530348,12737
+29/04/2016,ZSA254524,3,8921,Hulme Hall Medical Group,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"1,526.00",561704,12748
+29/04/2016,ZSA254524,4,8921,Hulme Hall Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"1,767.00",530348,12748
+29/04/2016,ZSA254525,1,8929,Gatley Group Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"3,216.00",530348,12735
+29/04/2016,ZSA254525,2,8929,Gatley Group Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,576.00",530348,12737
+29/04/2016,ZSA254525,3,8929,Gatley Group Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"2,198.00",530348,12748
+29/04/2016,ZSA254526,1,8960,DR A WRIGHT,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,267.00",530348,12735
+29/04/2016,ZSA254526,2,8960,DR A WRIGHT,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"2,370.00",530348,12748
+29/04/2016,ZSA254526,3,8960,DR A WRIGHT,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,322.00",530348,12737
+29/04/2016,ZSA254526,4,8960,DR A WRIGHT,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,69.00,561704,12748
+29/04/2016,ZSA254527,1,8964,MARPLE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,752.00",530348,12735
+29/04/2016,ZSA254527,2,8964,MARPLE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,574.00",530348,12737
+29/04/2016,ZSA254527,3,8964,MARPLE MEDICAL PRACTICE,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,624.00,561704,12748
+29/04/2016,ZSA254527,4,8964,MARPLE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,991.00,530348,12748
+29/04/2016,ZSA254528,1,8948,CHEADLE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"4,239.00",530348,12735
+29/04/2016,ZSA254528,2,8948,CHEADLE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"2,532.00",530348,12737
+29/04/2016,ZSA254528,3,8948,CHEADLE MEDICAL PRACTICE,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,624.00,561704,12748
+29/04/2016,ZSA254528,4,8948,CHEADLE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"6,033.00",530348,12748
+29/04/2016,ZSA254529,1,8945,Park View Group Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,841.00",530348,12735
+29/04/2016,ZSA254529,2,8945,Park View Group Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"2,850.00",530348,12737
+29/04/2016,ZSA254529,3,8945,Park View Group Practice,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"4,507.00",561704,12748
+29/04/2016,ZSA254529,4,8945,Park View Group Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"4,740.00",530348,12748
+29/04/2016,ZSA254530,1,8944,Chadsfield Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,593.00",530348,12735
+29/04/2016,ZSA254530,2,8944,Chadsfield Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,518.00",530348,12737
+29/04/2016,ZSA254530,3,8944,Chadsfield Medical Practice,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"1,179.00",561704,12748
+29/04/2016,ZSA254530,4,8944,Chadsfield Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"2,672.00",530348,12748
+29/04/2016,ZSA254531,1,8952,DR ROONEY & PARTNERS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"4,910.00",530348,12735
+29/04/2016,ZSA254531,2,8952,DR ROONEY & PARTNERS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"3,842.00",530348,12737
+29/04/2016,ZSA254531,3,8952,DR ROONEY & PARTNERS,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"3,120.00",561704,12748
+29/04/2016,ZSA254531,4,8952,DR ROONEY & PARTNERS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"3,577.00",530348,12748
+29/04/2016,ZSA254532,1,8949,BRAMHALL HEALTH CENTRE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"4,749.00",530348,12735
+29/04/2016,ZSA254532,2,8949,BRAMHALL HEALTH CENTRE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,972.00",530348,12737
+29/04/2016,ZSA254532,3,8949,BRAMHALL HEALTH CENTRE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,948.00,530348,12748
+29/04/2016,ZSA254533,1,8947,CARITAS GP PARTNERSHIP,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"4,819.00",530348,12735
+29/04/2016,ZSA254533,2,8947,CARITAS GP PARTNERSHIP,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"3,746.00",530348,12737
+29/04/2016,ZSA254533,3,8947,CARITAS GP PARTNERSHIP,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"6,518.00",561704,12748
+29/04/2016,ZSA254533,4,8947,CARITAS GP PARTNERSHIP,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"3,318.00",530348,12748
+29/04/2016,ZSA254534,1,8950,BEECH HOUSE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"3,069.00",530348,12735
+29/04/2016,ZSA254534,2,8950,BEECH HOUSE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,890.00",530348,12737
+29/04/2016,ZSA254534,3,8950,BEECH HOUSE MEDICAL PRACTICE,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"2,496.00",561704,12748
+29/04/2016,ZSA254534,4,8950,BEECH HOUSE MEDICAL PRACTICE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"1,896.00",530348,12748
+29/04/2016,ZSA254535,1,8963,DR C MARSHALL & PARTNERS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,314.00",530348,12735
+29/04/2016,ZSA254535,2,8963,DR C MARSHALL & PARTNERS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"2,834.00",530348,12737
+29/04/2016,ZSA254535,3,8963,DR C MARSHALL & PARTNERS,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"2,150.00",561704,12748
+29/04/2016,ZSA254535,4,8963,DR C MARSHALL & PARTNERS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"2,241.00",530348,12748
+29/04/2016,ZSA254536,1,8942,Heaton Mersey Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,392.00",530348,12737
+29/04/2016,ZSA254536,2,8942,Heaton Mersey Medical Practice,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,624.00,561704,12748
+29/04/2016,ZSA254536,3,8942,Heaton Mersey Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,824.00",530348,12735
+29/04/2016,ZSA254536,4,8942,Heaton Mersey Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"1,853.00",530348,12748
+29/04/2016,ZSA254537,1,8933,Dr RJ Seabrook & Partners,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"4,593.00",530348,12735
+29/04/2016,ZSA254537,2,8933,Dr RJ Seabrook & Partners,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"2,930.00",530348,12748
+29/04/2016,ZSA254537,3,8933,Dr RJ Seabrook & Partners,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,856.00",530348,12737
+29/04/2016,ZSA254537,4,8933,Dr RJ Seabrook & Partners,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"2,219.00",561704,12748
+29/04/2016,ZSA254538,1,8939,MARPLE COTTAGE SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,584.00",530348,12735
+29/04/2016,ZSA254538,2,8939,MARPLE COTTAGE SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,724.00",530348,12737
+29/04/2016,ZSA254538,3,8939,MARPLE COTTAGE SURGERY,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,416.00,561704,12748
+29/04/2016,ZSA254538,4,8939,MARPLE COTTAGE SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,819.00,530348,12748
+29/04/2016,ZSA254539,1,8956,The Family Surgery,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,939.00",530348,12735
+29/04/2016,ZSA254539,2,8956,The Family Surgery,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"2,998.00",530348,12737
+29/04/2016,ZSA254540,1,8926,Manor Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"3,248.00",530348,12735
+29/04/2016,ZSA254540,2,8926,Manor Medical Practice,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"1,456.00",561704,12748
+29/04/2016,ZSA254540,3,8926,Manor Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"3,092.00",530348,12737
+29/04/2016,ZSA254540,4,8926,Manor Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"2,499.00",530348,12748
+29/04/2016,ZSA254541,1,8959,MARPLE BRIDGE SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,514.00",530348,12735
+29/04/2016,ZSA254541,2,8959,MARPLE BRIDGE SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"1,465.00",530348,12748
+29/04/2016,ZSA254541,3,8959,MARPLE BRIDGE SURGERY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,010.00",530348,12737
+29/04/2016,ZSA254541,4,8959,MARPLE BRIDGE SURGERY,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"1,456.00",561704,12748
+03/05/2016,ZSA254633,1,8965,DR J JEFFS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"1,267.00",530348,12735
+03/05/2016,ZSA254633,2,8965,DR J JEFFS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"2,084.00",530348,12737
+03/05/2016,ZSA254633,3,8965,DR J JEFFS,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"1,508.00",530348,12748
+03/05/2016,ZSA254633,4,8965,DR J JEFFS,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"2,774.00",561704,12748
+03/05/2016,ZSA254634,1,8913,The Guywood Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"1,066.00",530348,12735
+03/05/2016,ZSA254634,2,8913,The Guywood Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,648.00,530348,12737
+03/05/2016,ZSA254634,3,8913,The Guywood Practice,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,347.00,561704,12748
+03/05/2016,ZSA254634,4,8913,The Guywood Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"4,439.00",530348,12748
+03/05/2016,ZSA254635,1,8986,DRS GILMAN & BILBEY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,513.00",530348,12735
+03/05/2016,ZSA254635,2,8986,DRS GILMAN & BILBEY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"4,988.00",530348,12737
+03/05/2016,ZSA254635,3,8986,DRS GILMAN & BILBEY,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"3,814.00",561704,12748
+03/05/2016,ZSA254635,4,8986,DRS GILMAN & BILBEY,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"2,370.00",530348,12748
+03/05/2016,ZSA254646,1,8957,Stockport Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"3,974.00",530348,12735
+03/05/2016,ZSA254646,2,8957,Stockport Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"4,588.00",530348,12737
+03/05/2016,ZSA254646,3,8957,Stockport Medical Group,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"9,014.00",561704,12748
+03/05/2016,ZSA254646,4,8957,Stockport Medical Group,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"5,861.00",530348,12748
+03/05/2016,ZSA254647,1,8930,Archwood Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,184.00",530348,12735
+03/05/2016,ZSA254647,2,8930,Archwood Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Lifestyles,"1,732.00",530348,12737
+03/05/2016,ZSA254647,3,8930,Archwood Medical Practice,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,416.00,561704,12748
+03/05/2016,ZSA254647,4,8930,Archwood Medical Practice,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Sexual Health LES,"3,792.00",530348,12748
+03/05/2016,ZSA254648,1,9126,Dr Mathewson,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,105.00",530348,12735
+03/05/2016,ZSA254648,2,9126,Dr Mathewson,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,952.00,530348,12735
+03/05/2016,ZSA254648,3,9126,Dr Mathewson,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Healthcare,"2,370.00",530348,12735
+03/05/2016,ZSA254648,4,9126,Dr Mathewson,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,Sexual Health LES,"1,734.00",561704,12748
+10/05/2016,ZSA255001,1,1799,Stockport Homes,999999,Fees and Charges,Fees and Charges,Services to People,PH-Children and YP,"5,000.00",401035,12733
+10/05/2016,ZSA255030,1,10105,Mastercall Healthcare,390000,Supplies and services,Supplies and services,Services to People,PH-Communities,"50,000.00",401600,12738
+23/05/2016,ZSA255621,1,7797,CHOICE SUPPORT,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Choice Support contract payments,"131,602.67",530332,11041
+23/05/2016,ZSA255622,1,9018,Future Directions CIC,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Calderstones 4 Properties,"65,081.58",530328,12392
+23/05/2016,ZSA255622,1,9018,Future Directions CIC,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Calderstones 4 Properties,"65,081.58",530328,12392
+22/06/2016,ZSA255622,1,9018,Future Directions CIC,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Calderstones 4 Properties,"65,081.58",530328,12392
+24/05/2016,ZSA255623,1,657,Independent Options (North Wes,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,LD Residential & Nursing Care purchasing,"10,354.17",530374,11837
+24/05/2016,ZSA255687,1,8275,HC-One Limited,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,CHC Assessment Beds pooled budget,"35,340.00",530327,12838
+24/05/2016,ZSA255687,1,8275,HC-One Limited,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,CHC Assessment Beds pooled budget,"35,340.00",530327,12838
+02/06/2016,ZSA255687,1,8275,HC-One Limited,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,CHC Assessment Beds pooled budget,"35,340.00",530327,12838
+30/06/2016,ZSA255687,1,8275,HC-One Limited,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,CHC Assessment Beds pooled budget,"35,340.00",530327,12838
+23/05/2016,ZSA255692,1,10289,STOCKPORT SAMARITANS,390000,Supplies and services,Supplies and services,Services to People,PH-Mental Wellbeing,"10,000.00",401600,12734
+24/05/2016,ZSA255717,1,657,Independent Options (North Wes,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,Learning Disability Hunters Close,"15,959.02",530328,11833
+01/06/2016,ZSA256102,1,628,Life Leisure,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,PH-Lifestyles,"64,080.00",561704,12737
+07/06/2016,ZSA256381,1,1644,Tameside MBC,999999,Fees and Charges,Fees and Charges,Services to People,Assistant Director - Strategy & Performa,"5,000.00",401035,11883
+16/06/2016,ZSA256868,1,6342,GREATER MANCHESTER POLICE AUTH,999999,Fees and Charges,Fees and Charges,Services to People,Assistant Director - Strategy & Performa,"5,922.80",401035,11883
+24/06/2016,ZSA257280,1,1572,DV Theraposture Ltd,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Services to People,CADLs Equipment Service,"8,525.00",400105,12619
+29/06/2016,ZSA257483,1,7076,LGBT Foundation,390000,Supplies and services,Supplies and services,Services to People,HIV Services,"19,367.00",401600,12746
+22/04/2016,ZSB254070,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to People,Highfields Inclusion Partnership,"5,164.83",202030,10329
+22/04/2016,ZSB254070,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to People,Highfields Inclusion Partnership,"6,420.69",200160,10329
+06/06/2016,ZSB256289,1,3529,Solutions SK Ltd,130000,Cleaning & Janitorial  ,Cleaning,Services to People,Highfields Inclusion Partnership,"5,544.00",201601,10329
+01/04/2016,ZTR253031,1,757,Transport for Greater Manchest,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Car Parks Administration,"43,408.19",402041,10005
+24/06/2016,ZZC237482,1,10085,TNS UK,150000,Consultancy   ,Professional Fees,Services to People,SC - Innovation Fund,"50,992.33",401020,10129
+04/04/2016,ZZC252728,1,5278,CHEADLE HULME HIGH SCHOOL,150000,Consultancy   ,Professional Fees,Services to People,Trade Union Posts - Primary,"1,985.60",401020,10471
+03/05/2016,ZZC252728,1,5278,CHEADLE HULME HIGH SCHOOL,150000,Consultancy   ,Professional Fees,Services to People,Trade Union Posts - Primary,"1,985.60",401020,10471
+07/06/2016,ZZC252728,1,5278,CHEADLE HULME HIGH SCHOOL,150000,Consultancy   ,Professional Fees,Services to People,Trade Union Posts - Primary,"1,985.60",401020,10471
+20/04/2016,ZZC253874,1,10572,DV Cranage Hall,261500,Human Resources Training & Conferences ,Expenses and Allowances,Services to People,SI - Advisers,"9,822.00",402201,10727
+25/04/2016,ZZC254168,1,1844,Normans(Burton Upon Trent)Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to People,SI -Music Service,418.25,400110,10417
+25/04/2016,ZZC254168,2,1844,Normans(Burton Upon Trent)Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to People,SI -Music Service,"1,950.00",400110,10417
+25/04/2016,ZZC254168,3,1844,Normans(Burton Upon Trent)Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to People,SI -Music Service,"3,942.00",400110,10417
+26/05/2016,ZZC255904,1,4596,Ranstad Education,290000,Arts & Leisure Services  ,Publicity and Promotion,Services to People,VST - Pupil Premium Grant,"10,000.00",401801,12777
+26/05/2016,ZZC255906,1,1816,Seashell Trust,320000,Social Community Care Supplies & Services  ,Third party payments - Private/Voluntary Sector,Services to People,HNs Top-up Funding Post 16,"204,772.86",402403,12724
+07/06/2016,ZZC256325,1,10630,Carebase,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to People,Perip-Sen Equipment,"4,160.00",400110,10324
+07/06/2016,ZZC256325,2,10630,Carebase,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to People,Perip-Sen Equipment,995.00,400110,10324
+07/06/2016,ZZC256325,3,10630,Carebase,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to People,Perip-Sen Equipment,295.00,400110,10324
+07/06/2016,ZZC256325,4,10630,Carebase,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to People,Perip-Sen Equipment,100.00,400110,10324
+07/06/2016,ZZC256325,5,10630,Carebase,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to People,Perip-Sen Equipment,195.00,400110,10324
+10/06/2016,ZZC256528,1,10647,ASHDOWN EDUCATION LTD,150000,Consultancy   ,Professional Fees,Services to People,SI - Advisers,"9,750.00",401020,10727
+13/06/2016,ZZC256641,1,10650,Forensic Psychological Solutio,150000,Consultancy   ,Professional Fees,Services to People,DASCE,"13,260.00",401020,11450
+22/06/2016,ZZC257100,1,8888,BDO LLP,150000,Consultancy   ,Professional Fees,Services to People,FP – Regional Adoption Agency,"49,600.00",401007,12870
+30/06/2016,ZZC257594,1,6455,Assoc Board of Royal Schools o,171012,Education Examinational Fees ,Fees and Charges,Services to People,SI -Music Service,"5,455.00",401012,10417
+30/06/2016,ZZC257617,1,10674,Ortoo Technologies Ltd,200000,Financial Services  ,Fees and Charges,Services to People,SI - School Govern,"10,610.00",402401,10755
+01/04/2016,ZZP252993,1,2306,GVA Grimley LLP,150000,Consultancy   ,Professional Fees,Services to Place,Bridgefield Development - General Costs,"8,125.00",401007,C.10897
+01/04/2016,ZZP253010,1,757,Transport for Greater Manchest,150000,Consultancy   ,Professional Fees,Services to Place,"STCAP 02 Phase 2 - Project Dev, Mangmt & Mon - Fea","16,000.00",401007,C.01013.201
+01/04/2016,ZZP253029,1,2306,GVA Grimley LLP,150000,Consultancy   ,Professional Fees,Services to Place,Bridgefield Consultancy Budget,"25,000.00",401007,12640
+01/04/2016,ZZP253036,1,6748,GEORGE COX & SONS LTD,150000,Consultancy   ,Professional Fees,Services to Place,STCAPNewbrdgeLn-WarrenSt_StMarysWayOnSi,"110,000.00",401007,C.00963.203
+05/04/2016,ZZP253165,1,865,Bethell Construction Ltd,390000,Supplies and services,Supplies and services,Services to Place,STCAP St Marys Way/New Bridge Lane - On Site,"18,136.02",401600,C.00932.203
+05/04/2016,ZZP253166,1,6748,GEORGE COX & SONS LTD,150000,Consultancy   ,Professional Fees,Services to Place,STCAP 601 Newbridge Lane - On Site,"110,000.00",401007,C.01065.203
+06/04/2016,ZZP253261,1,8817,AECOM Infrastructure & Environ,150000,Consultancy   ,Professional Fees,Services to Place,Main Contractor DD - On Site,"63,306.00",401007,C.00880.203
+07/04/2016,ZZP253319,1,3529,Solutions SK Ltd,150000,Consultancy   ,Professional Fees,Services to Place,STCAP St Marys Way/Portwood Roundabout - On Site,"25,500.00",401007,C.00931.203
+07/04/2016,ZZP253321,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,"STCAP 02 Phase 2 - Project Dev, Mangmt & Mon - Des","19,870.00",401007,C.01013.202
+07/04/2016,ZZP253322,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,"STCAP 02 Phase 2 - Project Dev, Mangmt & Mon - Des","22,464.00",401007,C.01013.202
+08/04/2016,ZZP253328,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,SPECIAL PROJECT 1,"18,430.00",202032,11267
+10/04/2016,ZZP253368,1,6116,Atkins Limited,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Highway Design Team,"10,530.00",401007,11972
+10/04/2016,ZZP253369,1,6116,Atkins Limited,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Highway Design Team,"16,120.00",401007,11972
+11/04/2016,ZZP253373,1,895,Building Design Partnership,150000,Consultancy   ,Professional Fees,Services to Place,Bridgefield Development - General Costs,"58,500.00",401007,C.10897
+11/04/2016,ZZP253376,1,10279,William Anelay Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Bramall Hall Phase 2 – Capital Works,"142,196.00",200123,C.10899.001
+11/04/2016,ZZP253419,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,STCAP 02  Design Mgt 0527-04- Design,"27,504.00",401007,C.01056.202
+15/04/2016,ZZP253663,1,4628,SCC Plc,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Environment Administration Support,"9,800.70",402001,10922
+15/04/2016,ZZP253663,2,4628,SCC Plc,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Environment Administration Support,"1,344.00",402001,10922
+15/04/2016,ZZP253705,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Highway Design Team,"19,296.00",401007,11972
+18/04/2016,ZZP253740,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Highway Design Team,"69,680.00",401007,11972
+18/04/2016,ZZP253741,1,3529,Solutions SK Ltd,230000,Highway Equipment & Materials    ,Highways Maintenance,Services to Place,STCAP Wayfinding & Signage On Site,"5,601.15",202050,C.00966.203
+18/04/2016,ZZP253742,1,865,Bethell Construction Ltd,390000,Supplies and services,Supplies and services,Services to Place,STCAP 402 Knightsbridge and Great Portwood St - Fe,"14,099.55",401600,C.00987.201
+19/04/2016,ZZP253846,1,6218,Lock it Safe Ltd,390000,Supplies and services,Supplies and services,Services to Place,0259 CCAG Kingsway School - On Site,"9,756.00",401600,C.01058.203
+19/04/2016,ZZP253847,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Services to Place,638 Bradshaw Estate Railway Bridge,"30,926.05",401600,C.01085.203
+19/04/2016,ZZP253860,1,5915,Atkins Global,150000,Consultancy   ,Professional Fees,Services to Place,STCAP 05 Phase 2 Project Management,"14,400.00",401007,C.01062
+21/04/2016,ZZP253981,1,8106,Tarmac Building Products Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,STCAP Lancashire Hill Toucan - On Site,"56,354.40",200304,C.00955.203
+21/04/2016,ZZP253982,1,5915,Atkins Global,150000,Consultancy   ,Professional Fees,Services to Place,Highways-Network Management,"23,398.80",401007,11968
+21/04/2016,ZZP253983,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Structures Team,"73,140.00",100290,11960
+21/04/2016,ZZP253984,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Structures Team,"83,740.00",100290,11960
+21/04/2016,ZZP253985,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Structures Team,"83,740.00",100290,11960
+21/04/2016,ZZP253986,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Structures Team,"83,740.00",100290,11960
+21/04/2016,ZZP253987,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Structures Team,"73,140.00",100290,11960
+21/04/2016,ZZP253988,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Structures Team,"91,160.00",100290,11960
+21/04/2016,ZZP253989,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Structures Team,"88,006.50",100290,11960
+21/04/2016,ZZP253990,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"38,160.00",100290,11972
+21/04/2016,ZZP253991,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"83,740.00",100290,11972
+21/04/2016,ZZP253992,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"43,990.00",100290,11972
+21/04/2016,ZZP253993,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"43,990.00",100290,11972
+21/04/2016,ZZP253994,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"43,990.00",100290,11972
+21/04/2016,ZZP253995,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"71,020.00",100290,11972
+21/04/2016,ZZP253996,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"53,000.00",100290,11972
+21/04/2016,ZZP253997,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"71,020.00",100290,11972
+21/04/2016,ZZP253998,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"83,740.00",100290,11972
+21/04/2016,ZZP253999,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"83,740.00",100290,11972
+21/04/2016,ZZP254000,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"91,160.00",100290,11972
+21/04/2016,ZZP254001,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"91,160.00",100290,11972
+21/04/2016,ZZP254002,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"33,120.00",100290,11972
+21/04/2016,ZZP254027,1,865,Bethell Construction Ltd,390000,Supplies and services,Supplies and services,Services to Place,STCAP 502 M60 Junction 1 Improvements - Feasibilit,"20,691.76",401600,C.00988.201
+26/04/2016,ZZP254296,1,683,AECOM Limited,150000,Consultancy   ,Professional Fees,Services to Place,Investing in Growth,"9,704.00",401007,10091
+29/04/2016,ZZP254482,1,4585,Knight Kavanagh & Page Ltd,190000,Facilities & Management Services  ,Publicity and Promotion,Corporate and Support Services,Technical Policy & Planning,"29,650.00",401804,10087
+29/04/2016,ZZP254506,1,10087,Oxford Archaeology North,150000,Consultancy   ,Professional Fees,Services to Place,Bridgefield Development - General Costs,"17,769.55",401007,C.10897
+29/04/2016,ZZP254507,1,5214,WSP GROUP PLC,150000,Consultancy   ,Professional Fees,Services to Place,STCAP 703 Wellington Road South (Greek St to Excha,"54,470.00",401007,C.00994.201
+29/04/2016,ZZP254508,1,8106,Tarmac Building Products Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,STCAPStockportStatn-CentralSectionOnSit,"56,000.00",200304,C.00962.203
+29/04/2016,ZZP254509,1,3529,Solutions SK Ltd,180000,Environmental Services  ,Capital Expenditure - Works,Services to Place,STCAP Newbridge Lane (St Marys Way Vernon Park) -,"7,960.00",200312,C.00954.203
+03/05/2016,ZZP254591,1,9612,Capita Property & Infrastructu,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,HIP Carriageways - On Site,"13,000.00",200304,C.00614.203
+03/05/2016,ZZP254632,1,7847,Gardiner & Theobald LLP,150000,Consultancy   ,Professional Fees,Services to Place,Bridgefield Development - General Costs,"42,312.00",401007,C.10897
+04/05/2016,ZZP254746,1,7831,Transport for Gtr M/CR (HFAS),390000,Supplies and services,Supplies and services,Services to Place,Main Contractor DD - On Site,"322,460.00",401600,C.00880.203
+04/05/2016,ZZP254759,1,7831,Transport for Gtr M/CR (HFAS),150000,Consultancy   ,Professional Fees,Services to Place,STCAP 801 Travis Brow/ A6 Link and George’s Rd - F,"18,600.00",401007,C.00996.201
+05/05/2016,ZZP254804,1,7820,Greater Manchester Combined,150000,Consultancy   ,Professional Fees,Services to Place,STCAP 801 Travis Brow/ A6 Link and George’s Rd - F,"18,600.00",401007,C.00996.201
+06/05/2016,ZZP254854,1,4272,Civica UK Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to Place,Public Libraries General,"23,416.00",400111,11329
+06/05/2016,ZZP254887,1,606,Seta Training,260000,Human Resources  ,Staff Training,Services to Place,Commercial -Health & Safety,"5,975.00",102020,10914
+10/05/2016,ZZP255005,1,8207,dv Lloyd Evans Prichard,150000,Consultancy   ,Professional Fees,Services to Place,Bramhall Hall Ceilings,"19,832.53",401020,C.10776
+11/05/2016,ZZP255080,1,10279,William Anelay Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Bramall Hall Phase 2 – Capital Works,"221,778.00",200123,C.10899.001
+12/05/2016,ZZP255216,1,7831,Transport for Gtr M/CR (HFAS),390000,Supplies and services,Supplies and services,Services to Place,STCAP St Marys Way/Portwood Roundabout - On Site,"8,500.00",401600,C.00931.203
+13/05/2016,ZZP255221,1,10594,Birchwood Gas Services Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Bridgefield Development - General Costs,"7,886.31",401007,C.10897
+13/05/2016,ZZP255276,1,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Black Wheelie Bins,"11,392.50",400401,10864
+13/05/2016,ZZP255276,2,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Blue Wheelie Bins,"6,422.50",400401,10862
+13/05/2016,ZZP255276,3,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Brown Wheelie Bins,"6,422.50",400401,10863
+13/05/2016,ZZP255276,4,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Green Wheelie Bins,"11,490.00",400401,10861
+17/05/2016,ZZP255352,1,4272,Civica UK Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Services to Place,Public Libraries General,"20,500.00",400111,11329
+17/05/2016,ZZP255369,1,7831,Transport for Gtr M/CR (HFAS),150000,Consultancy   ,Professional Fees,Services to Place,STCAPStockportStatn-CentralSectionOnSit,"10,000.00",401007,C.00962.203
+17/05/2016,ZZP255375,1,7831,Transport for Gtr M/CR (HFAS),150000,Consultancy   ,Professional Fees,Services to Place,Grand Central – Phase 2 Preliminaries,"10,000.00",401007,C.10882
+18/05/2016,ZZP255438,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Landscape Dev-Werneth Ward Open Spaces,"5,000.00",202033,11280
+19/05/2016,ZZP255492,1,10609,DV Bendcrete Leisure,240000,Horticultural  ,Grounds Maintenance,Services to Place,SPECIAL PROJECT 1,"40,000.00",202032,11267
+19/05/2016,ZZP255501,1,1273,United Utilities,390000,Supplies and services,Supplies and services,Services to Place,STCAP St Marys Way/Hempshaw Lane - On Site,"147,264.25",401600,C.00934.203
+19/05/2016,ZZP255502,1,3529,Solutions SK Ltd,390000,Supplies and services,Supplies and services,Services to Place,STCAP Booth Street/Mercian Way - On Site,"115,042.69",401600,C.00939.203
+19/05/2016,ZZP255503,1,5292,NPOWER (Electricity),370000,Utilities   ,Utilities,Services to Place,Street Lighting Energy,"1,835,000.00",200514,12031
+19/05/2016,ZZP255504,1,683,AECOM Limited,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Structures Team,"62,116.00",100290,11960
+19/05/2016,ZZP255505,1,683,AECOM Limited,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"99,470.40",100290,11972
+19/05/2016,ZZP255506,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"67,940.00",100290,11972
+19/05/2016,ZZP255507,1,8759,VAISALA  LTD,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Gritting,"12,757.50",200123,12033
+19/05/2016,ZZP255508,1,757,Transport for Greater Manchest,150000,Consultancy   ,Professional Fees,Services to Place,STCAP 05 Phase 2 Project Management,"136,927.91",401007,C.01062
+19/05/2016,ZZP255510,1,5915,Atkins Global,150000,Consultancy   ,Professional Fees,Services to Place,STCAP 303 King St West (Gradwell Street to R. Mers,"8,051.00",401007,C.00983.201
+19/05/2016,ZZP255538,1,1781,Animal Wardens,180010,Environmental Services Animal Services ,Animal Welfare,Services to Place,Dog Warden Service,"3,840.00",401206,10902
+19/05/2016,ZZP255538,2,1781,Animal Wardens,180010,Environmental Services Animal Services ,Animal Welfare,Services to Place,Dog Warden Service,"36,000.00",401206,10902
+20/05/2016,ZZP255549,1,7025,CB Richard Ellis,190000,Facilities & Management Services  ,Publicity and Promotion,Services to Place,Gorsey Bank,"14,510.00",401803,C.10905
+23/05/2016,ZZP255632,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,STCAP 01  Redrock 0527-401B - On Site,"26,775.72",200304,C.01044.203
+23/05/2016,ZZP255685,1,10610,Imperial Antiques,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Services to Place,Leisure Emergency PECOS Code,"5,695.00",400105,C.00401
+23/05/2016,ZZP255690,1,3529,Solutions SK Ltd,130000,Cleaning & Janitorial  ,Cleaning,Services to Place,Skills for Life,"9,828.00",201602,10511
+24/05/2016,ZZP255714,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,CCAG Mersey Valley Links - Manchester Rd - On Site,"52,672.52",200304,C.00871.203
+24/05/2016,ZZP255716,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Services to Place,CCAG Mersey Valley Links - Manchester Rd - On Site,"11,253.54",401600,C.00871.203
+24/05/2016,ZZP255765,1,5384,Pitney Bowes Software Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Pymt to Cont Recycling and Refuse,"82,672.51",402001,10856
+25/05/2016,ZZP255812,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Highways Improvement Prgme-Management Costs-On Sit,"17,760.00",401007,C.00925.203
+25/05/2016,ZZP255814,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Highways Improvement Prgme-Management Costs-On Sit,"24,960.00",401007,C.00925.203
+25/05/2016,ZZP255815,1,5464,ELECTRICITY NORTH WEST LIMITED,230000,Highway Equipment & Materials    ,Highways Maintenance,Services to Place,STCAP 01  Redrock Phase 2 0527-401A - Feasibility,"21,220.55",202055,C.01043.201
+25/05/2016,ZZP255816,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Highways Improvement Prgme-Management Costs-On Sit,"18,240.00",401007,C.00925.203
+25/05/2016,ZZP255817,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Highways Improvement Prgme-Management Costs-On Sit,"29,760.00",401007,C.00925.203
+25/05/2016,ZZP255818,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Highways Improvement Prgme-Management Costs-On Sit,"28,560.00",401007,C.00925.203
+26/05/2016,ZZP255879,1,10205,Stockport Community Interest C,290000,Arts & Leisure Services  ,Publicity and Promotion,Services to Place,Town Centre Management,"41,432.00",401801,10072
+26/05/2016,ZZP255883,1,4272,Civica UK Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Environment Administration Support,"8,000.00",402001,10922
+26/05/2016,ZZP255893,1,8010,GROUNDWORK & LEISURE SERVIC,240000,Horticultural  ,Grounds Maintenance,Services to Place,SPECIAL PROJECT 1,"8,168.00",202032,11267
+26/05/2016,ZZP255898,1,6748,GEORGE COX & SONS LTD,391200,"Works - Construction, Repair & Maintenance Engineering ",Professional Fees,Services to Place,Parks General,"7,586.60",401032,11191
+31/05/2016,ZZP256044,1,10601,PINSENT MASONS LLP CLIENT ACCO,280000,Legal Services  ,Legal Fees,Services to Place,Merseyway Shopping Centre Purchase,"52,868.40",401016,C.10919
+31/05/2016,ZZP256052,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Stockport Town Centre Access Package - On Site,"50,000.00",401007,C.00915.203
+03/06/2016,ZZP256160,1,1273,United Utilities,390000,Supplies and services,Supplies and services,Services to Place,Main Contractor DD - On Site,"736,138.14",401600,C.00880.203
+03/06/2016,ZZP256179,1,3529,Solutions SK Ltd,390000,Supplies and services,Supplies and services,Services to Place,Highway Drainage Investment Programme - Feasibili,"10,275.00",401600,C.00904.201
+03/06/2016,ZZP256181,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Highway Drainage Routine Repair - Feasibility,"9,800.00",200304,C.00917.201
+03/06/2016,ZZP256182,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Highway Drainage Routine Repair - Feasibility,"5,000.00",200304,C.00917.201
+03/06/2016,ZZP256183,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Highway Drainage Routine Repair - Feasibility,"9,028.00",200304,C.00917.201
+03/06/2016,ZZP256184,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Highway Drainage Routine Repair - Feasibility,"5,891.00",200304,C.00917.201
+06/06/2016,ZZP256263,1,6967,Wilde Consultants Ltd,391200,"Works - Construction, Repair & Maintenance Engineering ",Professional Fees,Services to Place,PLANNING,"11,376.00",401032,12150
+07/06/2016,ZZP256382,1,7820,Greater Manchester Combined,230000,Highway Equipment & Materials    ,Highways Maintenance,Services to Place,2035 Bradshaw Hall A34 - Highways - Design,"57,000.00",202054,C.01055.202
+07/06/2016,ZZP256387,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,STCAP St Marys Way/New Bridge Lane - Design,"14,902.64",401007,C.00932.202
+08/06/2016,ZZP256415,1,10279,William Anelay Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Bramall Hall Phase 2 – Capital Works,"200,545.00",200123,C.10899.001
+08/06/2016,ZZP256466,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,CYPD works,"20,884.48",202031,11258
+09/06/2016,ZZP256496,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Highway Drainage Investment Programme - Feasibili,"8,100.00",200304,C.00904.201
+09/06/2016,ZZP256510,1,865,Bethell Construction Ltd,390000,Supplies and services,Supplies and services,Services to Place,STCAP St Marys Way/New Bridge Lane - On Site,"1,264,137.00",401600,C.00932.203
+14/06/2016,ZZP256651,1,10651,dv Hornbeck Ltd T/A Landmark,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Services to Place,Bramall Hall Phase 2 – Capital Works,"8,086.15",400105,C.10899.001
+14/06/2016,ZZP256663,1,9091,The Kindling Trust,370000,Utilities   ,Utilities,Services to Place,Green Regeneration Fund,"30,000.00",200550,12682
+14/06/2016,ZZP256689,1,757,Transport for Greater Manchest,150000,Consultancy   ,Professional Fees,Services to Place,1012 A6MARR CMM - Marple - Design,"5,000.00",401007,C.01018.202
+14/06/2016,ZZP256715,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Suds Approval Body Set Up - Feasibility,"20,520.00",401007,C.00895.201
+14/06/2016,ZZP256716,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Suds Approval Body Set Up - Feasibility,"12,096.00",401007,C.00895.201
+14/06/2016,ZZP256721,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Suds Approval Body Set Up - Feasibility,"32,616.00",401007,C.00895.201
+16/06/2016,ZZP256818,1,10655,West March Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Learning & Emp Admin,"16,100.00",402001,10381
+20/06/2016,ZZP256969,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Structures Team,"68,800.00",401020,11960
+20/06/2016,ZZP256970,1,757,Transport for Greater Manchest,390000,Supplies and services,Supplies and services,Services to Place,STCAP Newbridge Lane (St Marys Way Vernon Park) -,"57,000.00",401600,C.00954.203
+20/06/2016,ZZP256971,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Highway Design Team,"59,340.00",401020,11972
+20/06/2016,ZZP256972,1,6967,Wilde Consultants Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to Place,ECS-Highway Design Team,"33,466.50",100290,11972
+21/06/2016,ZZP257056,1,10611,Wates Construction Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Bridgefield Consultancy Budget,"7,600.72",401007,12640
+21/06/2016,ZZP257068,1,7820,Greater Manchester Combined,390000,Supplies and services,Supplies and services,Services to Place,STCAP Newbridge Lane (St Marys Way Vernon Park) -,"57,000.00",401600,C.00954.203
+21/06/2016,ZZP257073,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,HIP Carriageways – Design,"33,120.00",401007,C.00614.202
+22/06/2016,ZZP257130,1,10670,dv Osborne Richardson,320000,Social Community Care Supplies & Services  ,Third party payments - Private/Voluntary Sector,Services to Place,Food & Safety,"55,000.00",500605,10912
+23/06/2016,ZZP257213,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,STCAP St Marys Way/Hall Street - On Site,"12,000.00",401007,C.00933.203
+23/06/2016,ZZP257215,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Services to Place,ECS-Buildings Team,"6,508.25",401600,11961
+23/06/2016,ZZP257224,1,9383,Lets Go Global,290000,Arts & Leisure Services  ,Publicity and Promotion,Services to Place,Bramall Hall Phase 2 – Activity Costs,"9,720.00",401801,C.10899.003
+27/06/2016,ZZP257317,1,10611,Wates Construction Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Bridgefield Development - General Costs,"1,130,691.00",200304,C.10897
+27/06/2016,ZZP257318,1,10611,Wates Construction Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Bridgefield Development - General Costs,"4,925,210.00",200304,C.10897
+29/06/2016,ZZP257433,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Highway Design Team,"35,880.00",401020,11972
+29/06/2016,ZZP257434,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Services to Place,STCAP Newbridge Lane (St Marys Way Vernon Park) -,"162,819.54",401600,C.00954.203
+29/06/2016,ZZP257502,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,1172 Hulme Hall Rd Zebra Crossing - On Site,"7,500.00",200304,C.01098.203
+29/06/2016,ZZP257503,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,1172 Hulme Hall Rd Zebra Crossing - On Site,"6,600.00",200304,C.01098.203
+29/06/2016,ZZP257522,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Services to Place,Stockport Town Centre Access Package - On Site,"12,000.00",401600,C.00915.203
+29/06/2016,ZZP257524,1,7289,Cyclist Training Ltd,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Highways-Child Pedestrian Training,"50,000.00",401024,11962
+29/06/2016,ZZP257525,1,683,AECOM Limited,150000,Consultancy   ,Professional Fees,Services to Place,1012 A6MARR CMM - Marple - Feasibility,"48,940.00",401007,C.01018.201
+04/04/2016,ZZS253085,1,3529,Solutions SK Ltd,182000,Environmental Services Waste Management ,Waste Management,Services to Place,Pymt to Cont Recycling and Refuse,"7,153,015.79",201804,10856
+04/04/2016,ZZS253085,2,3529,Solutions SK Ltd,181600,Environmental Services Street Cleansing ,Cleaning,Services to Place,Pymt to Contr Street Cleaning,"3,107,935.84",201606,10881
+04/04/2016,ZZS253085,3,3529,Solutions SK Ltd,230000,Highway Equipment & Materials    ,Highways Maintenance,Services to Place,Gritting,"399,390.39",202056,12033
+04/04/2016,ZZS253085,4,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,SSK Contract SLA,"2,048,746.73",202030,11166
+04/04/2016,ZZS253085,5,3529,Solutions SK Ltd,230000,Highway Equipment & Materials    ,Highways Maintenance,Services to Place,SLA Safety Detect Repair Teams,"2,319,662.57",202050,11984
+04/04/2016,ZZS253085,6,3529,Solutions SK Ltd,350000,Street & Traffic Management  ,Fixtures and Fittings,Services to Place,SLA Street Lighting,"1,280,073.70",201202,12026
+04/04/2016,ZZS253085,7,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,SSK Contract SLA,"133,968.49",202030,11166
+04/04/2016,ZZS253085,8,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Arboriculture Contract SSK,"313,364.53",202030,12821
+04/04/2016,ZZS253085,9,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,HIP Footways - On Site,"3,034,916.81",200304,C.00616.203
+04/04/2016,ZZS253085,10,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Services to Place,Street Lighting - On Site,"500,000.00",200304,C.00607.203
+04/04/2016,ZZS253085,11,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Patrol,"290,000.00",200160,12823
+04/04/2016,ZZS253085,12,3529,Solutions SK Ltd,192200,Facilities & Management Services Security ,Security,Services to Place,CCTV/Control,"300,680.00",201204,12822
+04/04/2016,ZZS253085,13,3529,Solutions SK Ltd,202000,Financial Services Rents ,Rents,Services to Place,Operational Support,"69,000.00",200700,10924
+04/04/2016,ZZS253085,14,3529,Solutions SK Ltd,202000,Financial Services Rents ,Rents,Services to Place,Operational Support,"47,448.00",200700,10924
+04/04/2016,ZZS253100,1,7025,CB Richard Ellis,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Head of Property& Procurement,"7,000.00",401020,12328
+04/04/2016,ZZS253102,1,4272,Civica UK Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,U-Coroners Court-General,"51,950.00",402001,10965
+11/04/2016,ZZS253408,1,9365,DSI Billing Services Ltd,300000,Mail Services   ,Office Expenses,Corporate and Support Services,Bentax,"69,101.87",400711,11139
+11/04/2016,ZZS253408,2,9365,DSI Billing Services Ltd,300000,Mail Services   ,Office Expenses,Corporate and Support Services,Bentax,171.60,400711,11139
+18/04/2016,ZZS253745,1,10562,Kinetic Solutions Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Stockport Art Gallery-Access,"4,550.00",402001,11375
+18/04/2016,ZZS253745,2,10562,Kinetic Solutions Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Stockport Art Gallery-Access,"5,950.00",402001,11375
+19/04/2016,ZZS253801,1,2973,CIPFA,150000,Consultancy   ,Professional Fees,Corporate and Support Services,FMS - Finance,"5,400.00",401007,11133
+19/04/2016,ZZS253802,1,2973,CIPFA,171113,Education Library Books ,Library Equipment,Corporate and Support Services,FMS - Finance,"5,720.00",400208,11133
+19/04/2016,ZZS253843,1,3529,Solutions SK Ltd,110000,Catering  ,Expenses and Allowances,Corporate and Support Services,Services to be Recharged (nil balance),"100,000.00",402202,12174
+20/04/2016,ZZS253863,1,9328,Modern Mindset Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Members Services,"11,493.60",400710,11111
+28/04/2016,ZZS254393,1,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Systems,"9,780.00",402001,12503
+28/04/2016,ZZS254393,2,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Systems,20.00,402001,12503
+04/05/2016,ZZS254722,1,3529,Solutions SK Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,Non Standard Elections,"20,000.00",400110,12110
+04/05/2016,ZZS254726,1,10589,CDEC Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,Stockport Art Gallery-Access,"5,160.00",400110,11375
+04/05/2016,ZZS254728,1,9543,Carillion (AMBS) Ltd,150000,Consultancy   ,Professional Fees,Corporate and Support Services,SPB Operational Estate,"8,000.00",401020,11662
+04/05/2016,ZZS254737,1,6189,CACI SoftSmart Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Systems,"9,010.98",402002,12503
+06/05/2016,ZZS254862,1,9567,Frontline Data ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,CSS Management,"14,445.00",402001,12499
+09/05/2016,ZZS254902,1,4272,Civica UK Ltd,390000,Supplies and services,Supplies and services,Corporate and Support Services,Bentax,"25,000.00",401600,11139
+16/05/2016,ZZS255316,1,9543,Carillion (AMBS) Ltd,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Head of Property& Procurement,"134,059.00",401020,12328
+20/05/2016,ZZS255616,1,10505,ThoughtWorks Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,"1,800,000.00",402004,11078
+24/05/2016,ZZS255743,1,4272,Civica UK Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Bentax,"16,925.00",402001,11139
+26/05/2016,ZZS255902,1,3290,Royal Mail,190000,Facilities & Management Services  ,Publicity and Promotion,Corporate and Support Services,Mailroom Service,"400,000.00",401806,11152
+26/05/2016,ZZS255903,1,3290,Royal Mail,190000,Facilities & Management Services  ,Publicity and Promotion,Corporate and Support Services,Mailroom Service,"20,000.00",401806,11152
+31/05/2016,ZZS256019,1,10007,KPMG LLP ADVISORY,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Traded Services,"86,994.00",401020,11735
+02/06/2016,ZZS256132,1,4272,Civica UK Ltd,390000,Supplies and services,Supplies and services,Corporate and Support Services,Bentax,"14,000.00",401600,11139
+06/06/2016,ZZS256276,1,7628,Schools ICT Service Ltd,390000,"Works - Construction, Repair & Maintenance  ",Fees and Charges,Corporate and Support Services,IPT-Sims Trading Account,"8,892.00",401017,10422
+06/06/2016,ZZS256285,1,4272,Civica UK Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Bentax,"13,168.95",402010,11139
+07/06/2016,ZZS256388,1,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,"2,811.45",402001,11078
+07/06/2016,ZZS256388,2,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,182.50,402001,11078
+07/06/2016,ZZS256388,3,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,"2,391.55",402001,11078
+14/06/2016,ZZS256652,1,3738,Open Text UKLtd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Systems,"50,099.54",402002,12503
+15/06/2016,ZZS256732,1,10315,Grant Thornton UK LLP,201100,Financial Services Audit ,Professional Fees,Corporate and Support Services,U-Misc Finance-Corporate Management,"126,128.00",401003,10971
+16/06/2016,ZZS256841,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,Civil Resilience,"10,000.00",200123,11103
+17/06/2016,ZZS256937,1,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,ICT- General,"8,177.00",402001,11073
+21/06/2016,ZZS257060,1,10314,Berwick Partners,150000,Consultancy   ,Professional Fees,Corporate and Support Services,POD Management,"17,950.00",401007,12590
+30/06/2016,ZZS257585,1,543,Konica Minolta Business Soltns,191600,Facilities & Management Services Printing ,Printing and Photocopying,Corporate and Support Services,Legal Services,"6,498.13",400800,11117

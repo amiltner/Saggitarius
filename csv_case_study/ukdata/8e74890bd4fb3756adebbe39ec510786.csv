@@ -1,0 +1,15 @@
+CPS outcomes by principal offence category south_wales,Number of Defendants convicted,Convictions Percentage,Number of Defendants Unsuccessful Prosecutions,Unsuccessful Prosecutions Percentage
+A Homicide,1,0,0,0
+B Offences Against The Person,201,73.3%,86,26.7%
+C Sexual Offences,14,79.5%,9,20.5%
+D Burglary,57,85.3%,9,14.7%
+E Robbery,14,94.7%,6,5.3%
+F Theft And Handling,363,92.6%,21,7.4%
+G Fraud And Forgery,30,82.1%,8,17.9%
+H Criminal Damage,108,81.3%,15,18.8%
+I Drugs Offences,195,93.9%,9,6.1%
+J Public Order Offences,247,80.4%,30,19.6%
+K All Other Offences (excluding Motoring),45,75.5%,12,24.5%
+L Motoring Offences,608,89.0%,75,11.0%
+Admin Finalisations,0,0.0%,23,100.0%
+TOTAL,"1,883",86.1%,303,13.9%
